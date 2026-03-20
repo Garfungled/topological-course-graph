@@ -1,0 +1,1738 @@
+[
+  {
+    "course_id": "ARTS 1020",
+    "prefix": "ARTS",
+    "number": "1020",
+    "title": "Digital Imaging",
+    "description": "This course introduces students to digital photography, Web design, and interactive multimedia in making art. Students broaden their understanding of such topics as composition, effective use of images, color theory, typography, and narrative flow. Inquiry and experimentation are encouraged, leading towards the development of the skill and techniques needed to create visual art with electronic media.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82207"
+  },
+  {
+    "course_id": "ARTS 1030",
+    "prefix": "ARTS",
+    "number": "1030",
+    "title": "Digital Filmmaking",
+    "description": "This is a hands-on introduction to film making. Students study a selection of great films; and learn how to make movies using lightweight field production equipment. Throughout the course students produce a variety of short videos in different genres, and develop their critical capacity for analyzing cinema and other forms of motion picture storytelling. The class ends with a mini film festival where everyone presents their work.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83514"
+  },
+  {
+    "course_id": "ARTS 1040",
+    "prefix": "ARTS",
+    "number": "1040",
+    "title": "Introduction to Game Art",
+    "description": "This course combines an introduction to traditional visual arts and digital media and serves as a foundation for work in game design and interactive art. Using studio projects that incorporate physical media, digital imaging and computer code, students develop their formal vocabulary, observational skills, and their understanding of issues in visual and interactive arts.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Cross Listed: GSAS 1040",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83770"
+  },
+  {
+    "course_id": "ARTS 1050",
+    "prefix": "ARTS",
+    "number": "1050",
+    "title": "Art in Context",
+    "description": "A thematic investigation of art in diverse social, cultural, and historical contexts. This course explores how artists, art collectives, artworks, and institutional structures interact with their respective cultural moment(s) and are received by audiences and artists in the present. This course examines the ways in which artists, artist assistants, audiences, patrons, curators, galleries, public spaces, inventors, artists, and technologies shape artistic practices, and how these artistic practices in turn shape our identities..",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82221"
+  },
+  {
+    "course_id": "ARTS 1200",
+    "prefix": "ARTS",
+    "number": "1200",
+    "title": "Basic Drawing",
+    "description": "An introductory course in drawing designed to develop seeing ability and means of expressing visual ideas through graphic skills. The course consists of exercises in drawing from observation and studies from the history of art.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82208"
+  },
+  {
+    "course_id": "ARTS 1220",
+    "prefix": "ARTS",
+    "number": "1220",
+    "title": "Fundamentals of 2D Design",
+    "description": "Previous Course Number ARTS 2220 An introductory course which will present basic concepts about composition, line, pictorial space, light, and color in the visual arts in order to help students develop the means for expressing visual ideas effectively. Weekly homework design projects will be complemented by in-class slide lectures, videos, and critiques.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82214"
+  },
+  {
+    "course_id": "ARTS 1380",
+    "prefix": "ARTS",
+    "number": "1380",
+    "title": "Fundamentals of Music and Sound",
+    "description": "This course is a hands-on introduction to the primary building blocks of music and musicianship in a 21st Century context. No formal musical background is expected. The course will explore acoustics and psychoacoustics, rhythm, pitch, harmony, melody, timbre, improvisation, composition, and music notation through performance, listening, written exercises, and creative projects.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83814"
+  },
+  {
+    "course_id": "ARTS 2010",
+    "prefix": "ARTS",
+    "number": "2010",
+    "title": "Intermediate Video",
+    "description": "Intermediate Video is a hands-on intensive course that teaches the language, aesthetics, and techniques of video production. Working in groups and individually, students will develop and produce several short video projects. Emphasis will be on the acquisition of creative and technical production skills in visualizing, scripting, aesthetics, shooting, sound design, and editing.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 1030 or permission of instructor",
+    "prerequisites": [
+      "ARTS 1030"
+    ],
+    "prerequisite_logic": "ARTS 1030",
+    "when_offered": "FALL TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82209"
+  },
+  {
+    "course_id": "ARTS 2020",
+    "prefix": "ARTS",
+    "number": "2020",
+    "title": "Music and Technology I",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "for further creative work with Rensselaer’s computer music facilities.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82210"
+  },
+  {
+    "course_id": "ARTS 2030",
+    "prefix": "ARTS",
+    "number": "2030",
+    "title": "The Art of Songwriting",
+    "description": "This course examines the wide variety of elements present in the creation of a successfully written song, while honing a higher sense of critique when analyzing the work of songwriters, both successful and obscure. Song recordings, videos, and lively class discussion frame an examination of multiple creative techniques for this art form, and students are encouraged to experiment on a grand scale, without fear, when writing ten complete songs over the course of the semester.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84202"
+  },
+  {
+    "course_id": "ARTS 2040",
+    "prefix": "ARTS",
+    "number": "2040",
+    "title": "Intermediate Digital Imaging",
+    "description": "Intermediate Digital Imaging is a hands-on studio course exploring the use of computer technologies in making visual art. A study of contemporary issues in digital media and photography facilitates individual innovation and experimentation. Digital imaging and input/output techniques are employed in terms of giving visual form to ideas and personal expression in private and public settings.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 1020 or permission of instructor",
+    "prerequisites": [
+      "ARTS 1020"
+    ],
+    "prerequisite_logic": "ARTS 1020",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82211"
+  },
+  {
+    "course_id": "ARTS 2060",
+    "prefix": "ARTS",
+    "number": "2060",
+    "title": "2D Experimental Animation",
+    "description": "2D Experimental Animation is an introduction to animation as an art form. Most of this course will be traditional assignments designed to encourage spontaneous creativity, explore animation concepts, and learn animation terminology. Assignments will build a solid foundation for entrance into 3D Animation. This course will also be a historical and theoretical investigation with screenings and readings followed with discussion.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 1020 , ARTS 1040 , GSAS 1040 , or ARTS 1200",
+    "prerequisites": [
+      "ARTS 1020",
+      "ARTS 1040",
+      "GSAS 1040",
+      "ARTS 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "ARTS 1020",
+            "ARTS 1040",
+            "GSAS 1040"
+          ]
+        },
+        "ARTS 1200"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82212"
+  },
+  {
+    "course_id": "ARTS 2070",
+    "prefix": "ARTS",
+    "number": "2070",
+    "title": "Graphic Storytelling",
+    "description": "A studio arts course exploring the fundamental concepts, techniques, styles, and mechanics used in the creation of graphic narrative. Contents to be covered include the fundamentals of sequential art, the purposes and formats of storyboards, basic terminology and concepts used in storyboarding, and the applications of storyboard techniques. Key visual storytelling structures are explored for the following industry applications: comics, animated films, graphic novels, commercials, documentaries, live action feature films, and video gaming.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 1020 or ARTS 1200 , or permission of instructor",
+    "prerequisites": [
+      "ARTS 1020",
+      "ARTS 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ARTS 1020",
+        "ARTS 1200"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83434"
+  },
+  {
+    "course_id": "ARTS 2080",
+    "prefix": "ARTS",
+    "number": "2080",
+    "title": "Contemporary Improvisation Ensemble",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83830"
+  },
+  {
+    "course_id": "ARTS 2090",
+    "prefix": "ARTS",
+    "number": "2090",
+    "title": "Radical Graphics/Screenprinting",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83848"
+  },
+  {
+    "course_id": "ARTS 2120",
+    "prefix": "ARTS",
+    "number": "2120",
+    "title": "Concept Art",
+    "description": "Concept Art is a digital painting course oriented towards quickly ideating and visualizing concepts such as characters, creatures, props, environments, and motion for games, film, and TV.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 1040",
+    "prerequisites": [
+      "ARTS 1040"
+    ],
+    "prerequisite_logic": "ARTS 1040",
+    "when_offered": "SUMMER TERM ONLY Cross Listed: GSAS 2120",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90463"
+  },
+  {
+    "course_id": "ARTS 2180",
+    "prefix": "ARTS",
+    "number": "2180",
+    "title": "Deep Listening",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82235"
+  },
+  {
+    "course_id": "ARTS 2200",
+    "prefix": "ARTS",
+    "number": "2200",
+    "title": "Intermediate Drawing",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83748"
+  },
+  {
+    "course_id": "ARTS 2210",
+    "prefix": "ARTS",
+    "number": "2210",
+    "title": "Sculpture I",
+    "description": "A beginning sculpture course combining hands-on studio work sessions with lectures on the history and theory of sculpture practice. The studio component involves explorations of materials and techniques as tools for the enhancing of visual sensitivity and creative expression.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82213"
+  },
+  {
+    "course_id": "ARTS 2220",
+    "prefix": "ARTS",
+    "number": "2220",
+    "title": "Fundamental of 2D Design",
+    "description": "An introductory course which will present basic concepts about composition, line, pictorial space, light, and color in the visual arts in order to help students develop the means for expressing visual ideas effectively. Weekly homework design projects, using both traditional and electronic media, will be complemented by in-class slide lectures, videos, and critiques.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90466"
+  },
+  {
+    "course_id": "ARTS 2230",
+    "prefix": "ARTS",
+    "number": "2230",
+    "title": "3D Digital Modeling",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83696"
+  },
+  {
+    "course_id": "ARTS 2255",
+    "prefix": "ARTS",
+    "number": "2255",
+    "title": "UI Art",
+    "description": "UI Art is a production course that looks at creating user interface art for primarily video games, but has transference into graphic design, web design, and other UI spaces like automobiles, phones, and other digital devices. Health bars, menus, inventory screens, start screens, and logos are all examples that would follow under the purview of a UI UX Artist.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 1040 , ARTS 2220 , COMM 2660 or GSAS 1040",
+    "prerequisites": [
+      "ARTS 1040",
+      "ARTS 2220",
+      "COMM 2660",
+      "GSAS 1040"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "ARTS 1040",
+            "ARTS 2220",
+            "COMM 2660"
+          ]
+        },
+        "GSAS 1040"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: GSAS 2255",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90465"
+  },
+  {
+    "course_id": "ARTS 2300",
+    "prefix": "ARTS",
+    "number": "2300",
+    "title": "Rensselaer Orchestra",
+    "description": "Readings, rehearsals, and performances of works from the standard repertoire for orchestra from the Baroque through the 20th century.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Prerequisite: demonstration of adequate skill in playing an orchestral instrument through audition.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82215"
+  },
+  {
+    "course_id": "ARTS 2310",
+    "prefix": "ARTS",
+    "number": "2310",
+    "title": "Rensselaer Concert Choir",
+    "description": "Readings, rehearsals, and performances of works from the standard choral repertoire, from the Renaissance through the 20th century. Attendance is mandatory and preparation expected.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Audition with instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82216"
+  },
+  {
+    "course_id": "ARTS 2340",
+    "prefix": "ARTS",
+    "number": "2340",
+    "title": "Wind Symphony",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90461"
+  },
+  {
+    "course_id": "ARTS 2350",
+    "prefix": "ARTS",
+    "number": "2350",
+    "title": "Chamber Music Ensemble",
+    "description": "An instrumental class that will be coached and rehearsed and will perform regularly. The larger ensemble will break up into smaller ensembles such as string quartets, woodwind quintets, trios, etc., depending on the make-up of the group, as well as into more unusual combinations that might be required to prepare 20th century repertoire. For intermediate and advanced players, entrance into the course is by authorization form/permission of instructor.",
+    "credit_hours": "",
+    "prerequisites_raw": "Audition with instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82217"
+  },
+  {
+    "course_id": "ARTS 2380",
+    "prefix": "ARTS",
+    "number": "2380",
+    "title": "Music and Sound I",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82218"
+  },
+  {
+    "course_id": "ARTS 2500",
+    "prefix": "ARTS",
+    "number": "2500",
+    "title": "Histories of Western Music",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82219"
+  },
+  {
+    "course_id": "ARTS 2510",
+    "prefix": "ARTS",
+    "number": "2510",
+    "title": "Histories of Jazz and Improvised Music",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83825"
+  },
+  {
+    "course_id": "ARTS 2520",
+    "prefix": "ARTS",
+    "number": "2520",
+    "title": "World Music",
+    "description": "From “raves” to symphony hall, Indian film music to Tibetan chant, monster truck rallies to a mother’s lullaby, musical soundscapes surround us through all aspects of our daily lives. This course focuses on the study of music in or as culture. The exploration of music in human life will be comparative, using case studies from diverse world traditions and examining topics such as: ritual, media and technology, ethnicity/identity, music and dance, and musical transmission.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82220"
+  },
+  {
+    "course_id": "ARTS 2540",
+    "prefix": "ARTS",
+    "number": "2540",
+    "title": "The Multimedia Century",
+    "description": "This course will survey the history and theory of the diverse artistic practices of the twentieth century in relation to the development of the mass media and new technologies. Topics will include the Bauhaus, Surrealism, Pop Art, and Postmodernism and will span a spectrum of media from the more traditional, such as painting and photography, to electronic and new media, such as video and digital arts.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82222"
+  },
+  {
+    "course_id": "ARTS 2550",
+    "prefix": "ARTS",
+    "number": "2550",
+    "title": "Popular Music and Society",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83875"
+  },
+  {
+    "course_id": "ARTS 2560",
+    "prefix": "ARTS",
+    "number": "2560",
+    "title": "Game Sound and Musical Play",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84017"
+  },
+  {
+    "course_id": "ARTS 2570",
+    "prefix": "ARTS",
+    "number": "2570",
+    "title": "Music, Sound, & the Environment",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83874"
+  },
+  {
+    "course_id": "ARTS 2600",
+    "prefix": "ARTS",
+    "number": "2600",
+    "title": "Ensemble Nonlinear",
+    "description": "A technology-based performance ensemble, as well as a practice-based studio course, focused on the composition, design, and programming of new musical works and instruments. Students create and perform electronic music using laptops, microprocessors, digital networks and a range of new interfaces for musical expression. ARTS 4600/6600 combines studio and ensemble. The ensemble only section (ARTS 2600) may be taken multiple times as a 1-credit performance ensemble in partial satisfaction of the Music major or minor ensemble requirements or once as a 4-credit seminar at either the 4000 or 6000 level.",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ARTS 4600 and ARTS 6600",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83809"
+  },
+  {
+    "course_id": "ARTS 2610",
+    "prefix": "ARTS",
+    "number": "2610",
+    "title": "Designing Musical Games",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84007"
+  },
+  {
+    "course_id": "ARTS 2700",
+    "prefix": "ARTS",
+    "number": "2700",
+    "title": "Sound Recording and Production I",
+    "description": "An introductory studio course covering the principles of critical listening, psychoacoustics, the art of music recording, and the basic use of digital equipment for music production and post-production. Hands-on assignments in a professional sound facility will be combined with readings and historical examples drawing on popular and experimental styles.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83852"
+  },
+  {
+    "course_id": "ARTS 2750",
+    "prefix": "ARTS",
+    "number": "2750",
+    "title": "Private Music Lessons",
+    "description": "Private applied music lessons provide weekly instruction in instrumental and vocal performance. The goal of this class is to develop the student’s musical ability relative to capacity and interest. A supplementary lesson fee is charged.",
+    "credit_hours": "",
+    "prerequisites_raw": "Students may begin lessons at any level of ability, but auditions may be required where demand for a particular instrument exceeds class capacity.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83849"
+  },
+  {
+    "course_id": "ARTS 2940",
+    "prefix": "ARTS",
+    "number": "2940",
+    "title": "Arts Independent Study",
+    "description": "Individual and collaborative projects and assignments at the 2000 level adapted to the needs of individual students.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82223"
+  },
+  {
+    "course_id": "ARTS 2960",
+    "prefix": "ARTS",
+    "number": "2960",
+    "title": "Topics in the Arts",
+    "description": "Experimental courses offered for one or two semesters.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82224"
+  },
+  {
+    "course_id": "ARTS 4010",
+    "prefix": "ARTS",
+    "number": "4010",
+    "title": "Interactive Arts Programming",
+    "description": "IAP will examine theoretical concepts of interactive media as well as develop the practical skills needed to implement these concepts using the facilities of the iEAR studios. Topics include high- and low-level computer programming and electronics. Students will build installations and projects, which control live performance interactions with graphics, video, and sound.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 2010 or ARTS 2020 or permission of the instructor",
+    "prerequisites": [
+      "ARTS 2010",
+      "ARTS 2020"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ARTS 2010",
+        "ARTS 2020"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82225"
+  },
+  {
+    "course_id": "ARTS 4020",
+    "prefix": "ARTS",
+    "number": "4020",
+    "title": "Advanced Digital 3D Projects",
+    "description": "This studio/seminar consists of longer projects with attention to concept, process, and finish. The student will either work individually or as a member on a team and be expected to have a vision or concept they are driven to create. Some possible topics covered may include virtual environments, advanced shader networks, MEL, compositing, non photorealistic rendering, 3D graphics programming, game engines, or motion capture.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 4070 or permission of instructor",
+    "prerequisites": [
+      "ARTS 4070"
+    ],
+    "prerequisite_logic": "ARTS 4070",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82226"
+  },
+  {
+    "course_id": "ARTS 4040",
+    "prefix": "ARTS",
+    "number": "4040",
+    "title": "Rethinking Documentary: Video Production",
+    "description": "This is a production course investigating non-traditional approaches to documentary or non-fiction film/video. Taking a broad look at what defines “documentary” media, this course will incorporate criticism with production. Students will produce a range of video works questioning conventional documentary styles, using radical and interventionist techniques. Students will study traditional documentary works including ethnographic films, cinema verité, propaganda films, “home movies,” reality TV, tabloid news, autobiographic and activist videos.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 1030 , INQR 1030 , INQR 1040 , or permission of instructor",
+    "prerequisites": [
+      "ARTS 1030",
+      "INQR 1030",
+      "INQR 1040"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ARTS 1030",
+        "INQR 1030",
+        "INQR 1040"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: ARTS 6040",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82227"
+  },
+  {
+    "course_id": "ARTS 4050",
+    "prefix": "ARTS",
+    "number": "4050",
+    "title": "Advanced Video Media Studio",
+    "description": "The course is designed to help students continue to develop as media-makers/filmmakers. Students will work on short video projects that are shot in the studio and in the field. Studio experimentations, including projection work, multi-camera production, generating ideas, and realizing a well-developed final project. Students write their own scripts, learn new technical skills and direct videos.",
+    "credit_hours": "4",
+    "prerequisites_raw": "INQR 1030 , INQR 1040 , or ARTS 1030",
+    "prerequisites": [
+      "INQR 1030",
+      "INQR 1040",
+      "ARTS 1030"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "INQR 1030",
+            "INQR 1040"
+          ]
+        },
+        "ARTS 1030"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ARTS 6050",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83956"
+  },
+  {
+    "course_id": "ARTS 4060",
+    "prefix": "ARTS",
+    "number": "4060",
+    "title": "3D Visual Effects",
+    "description": "An introduction to the technical techniques and principles of computer animation with a focus on rigging, skinning, character fx, particle simulations, compositioning and rendering. Lectures, discussion, and exposure to contemporary work enable students to develop skills in this rapidly evolving field.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 2230 or permission of instructor",
+    "prerequisites": [
+      "ARTS 2230"
+    ],
+    "prerequisite_logic": "ARTS 2230",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82228"
+  },
+  {
+    "course_id": "ARTS 4070",
+    "prefix": "ARTS",
+    "number": "4070",
+    "title": "3D Animation",
+    "description": "An intermediate hands-on studio course in 3D computer animation, acting, dialog, cinematography, and story building.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 2230 or permission of instructor",
+    "prerequisites": [
+      "ARTS 2230"
+    ],
+    "prerequisite_logic": "ARTS 2230",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82229"
+  },
+  {
+    "course_id": "ARTS 4090",
+    "prefix": "ARTS",
+    "number": "4090",
+    "title": "Art and Code and Interactivity",
+    "description": "This course is primarily concerned with learning how to build any interactive experience or artwork from concept to completion. It will introduce open-source, cross-platform programming libraries and tools used by artists and programmers to create interactive experiences and artworks for museum installations, festivals, VJ-ing, projection mapping, interactive experiences/artworks, and more. It will then start to address the questions: Is code an art form? What is interactive art? Is software art?",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 1020 or permission of instructor",
+    "prerequisites": [
+      "ARTS 1020"
+    ],
+    "prerequisite_logic": "ARTS 1020",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ARTS 6090 ; students cannot obtain credit for both courses",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83587"
+  },
+  {
+    "course_id": "ARTS 4115",
+    "prefix": "ARTS",
+    "number": "4115",
+    "title": "Environment Art",
+    "description": "Environment art teaches students how to build visual, virtual spaces for games, film, and TV. Modelling, texturing, lighting, basic VFX/animation, and environment design principles are addressed.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 2230",
+    "prerequisites": [
+      "ARTS 2230"
+    ],
+    "prerequisite_logic": "ARTS 2230",
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: GSAS 4115",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90475"
+  },
+  {
+    "course_id": "ARTS 4120",
+    "prefix": "ARTS",
+    "number": "4120",
+    "title": "Biopunk: Arts Lab Practice",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83957"
+  },
+  {
+    "course_id": "ARTS 4125",
+    "prefix": "ARTS",
+    "number": "4125",
+    "title": "Character Art",
+    "description": "Character Art focuses on digitally sculpting characters for 3D mediums like games, films, and TV. Students go through the practices of character design, concepting, modelling, texturing, UV’s and retopology, and lighting/rendering.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 2230",
+    "prerequisites": [
+      "ARTS 2230"
+    ],
+    "prerequisite_logic": "ARTS 2230",
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: GSAS 4125",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90468"
+  },
+  {
+    "course_id": "ARTS 4130",
+    "prefix": "ARTS",
+    "number": "4130",
+    "title": "New Media Theory",
+    "description": "This course asks what is really new about New Media, and looks at creative practices, theoretical discourses, and social contexts to find answers. The course concentrates on cutting edge cultural expression using information and communication technologies. The objective to equip students with multiple perspectives - aesthetic, communications, historical - with which to analyze, critique, and develop original concepts about the uses of new media in art and culture.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Junior or Senior standing; or by permission of instructor. Attributes Data Intensive 2",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ARTS 6130 ; students cannot obtain credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84066"
+  },
+  {
+    "course_id": "ARTS 4140",
+    "prefix": "ARTS",
+    "number": "4140",
+    "title": "Queer Ecologies",
+    "description": "Queer Ecologies is an undergraduate and graduate arts course that uses art to think about our eco-futures. We will look at the disruptive nature of Cartesian thinking and binary positioning in relation to sexuality and ecologies. The “queering” is a means to refuse this binary thinking and consider expansive interdisciplinary practices that have evolved from LGBTQ+ and feminist theory, decolonial thinking, extinction and death studies, environmental justice, critiques of science and big pharma, biopolitics, bioethics, biology, science fiction, aesthetics, art and play.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM, ODD YEARS Co-Listed: ARTS 6140 ; cannot receive credit for both",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83978"
+  },
+  {
+    "course_id": "ARTS 4150",
+    "prefix": "ARTS",
+    "number": "4150",
+    "title": "Media Watch",
+    "description": "This seminar is an investigation of the successes and failures of the news media, set within historical and contemporary contexts. The title “media watch” is intended to evoke a watch-dog approach found in independent media sources and organizations like human rights watch. Assignments involve analyzing how issues are portrayed in the media, and students choose their topics according to their interests. The course can therefore enhance capstone, thesis, or dissertation work.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ARTS 6150; Student cannot obtain credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82231"
+  },
+  {
+    "course_id": "ARTS 4160",
+    "prefix": "ARTS",
+    "number": "4160",
+    "title": "Music and Technology II",
+    "description": "This course assumes knowledge and experience in computer music programming, applications, and performance. It is directed to undergraduate students as an upper-level seminar guiding their progress through the composition of a significant musical work or the design and development of a significant research project. The class is divided between a group seminar, focusing on aesthetic, theoretical, and technical issues, and a workshop/lab in musical systems design, performance, computer music applications, and composition.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 2020 or permission of instructor. Attributes Data Intensive 2",
+    "prerequisites": [
+      "ARTS 2020"
+    ],
+    "prerequisite_logic": "ARTS 2020",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ARTS 6160 , students may not earn credit for enrolling in both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84060"
+  },
+  {
+    "course_id": "ARTS 4180",
+    "prefix": "ARTS",
+    "number": "4180",
+    "title": "Topics in Deep Listening",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83700"
+  },
+  {
+    "course_id": "ARTS 4200",
+    "prefix": "ARTS",
+    "number": "4200",
+    "title": "Advanced Drawing",
+    "description": "Advanced Drawing is designed to help students who have mastered basic drawing skills to enhance those skills and utilize them to explore visual ideas. Emphasis is placed on individual development of skills and subject matter to help students express themselves visually. Examples and studies are used from master drawings of the past to learn about the history of art and to stimulate ideas for the students’ own work.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 1200 , or permission of instructor. Prerequisite or Corequisite: ARTS 1200 , or permission of instructor.",
+    "prerequisites": [
+      "ARTS 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ARTS 1200",
+        "ARTS 1200"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ARTS 6200 ; students cannot obtain credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84162"
+  },
+  {
+    "course_id": "ARTS 4210",
+    "prefix": "ARTS",
+    "number": "4210",
+    "title": "Sculpture II",
+    "description": "An advanced studio course in sculpture for students who have taken Sculpture I. Students are encouraged to explore personal areas of interest and are required to develop a familiarity with the history of sculpture as well as mastering fabrication techniques.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 2210",
+    "prerequisites": [
+      "ARTS 2210"
+    ],
+    "prerequisite_logic": "ARTS 2210",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82232"
+  },
+  {
+    "course_id": "ARTS 4220",
+    "prefix": "ARTS",
+    "number": "4220",
+    "title": "Painting",
+    "description": "A painting course in opaque media such as oil or acrylic with emphasis on color interaction, composition, and pictorial design. Using sources from observation and the history of painting, students are taught to see and convey effects of color on/in 2D pictorial space and to develop critical skills in looking at paintings.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 1200",
+    "prerequisites": [
+      "ARTS 1200"
+    ],
+    "prerequisite_logic": "ARTS 1200",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: ARTS 6220 ; students cannot obtain credit for both courses",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82233"
+  },
+  {
+    "course_id": "ARTS 4230",
+    "prefix": "ARTS",
+    "number": "4230",
+    "title": "Inflatable Sculpture",
+    "description": "This class studies, creates, and publicly presents inflatable sculptures. The history of inflatables are examined, with special attention paid to how they have been used in political movements that imagine utopian social futures, and how those applications contrast with commercial uses (such as advertising) that have become commonplace in public spaces today. Throughout the class will explore, design, and build inflated structures that may include video and sound elements.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Junior or senior standing or permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ARTS 6230",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83698"
+  },
+  {
+    "course_id": "ARTS 4240",
+    "prefix": "ARTS",
+    "number": "4240",
+    "title": "Eco Chic: Living Art",
+    "description": "Eco Chic: Living Art is an upper level production and theory class about art, biology, and the study of life covering topics such as environmentalism, land art, food art, sustainable practices with art, body art, bio-art. Part lecture, part hands-on workshop, Eco Chic encourages students to redefine and experimentally express their relationships with the varied aspects of everyday living systems and manipulating life.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 1020 , ARTS 1030 , ARTS 1040 , ARTS 1200 , ARTS 1220 , ARTS 2020 , ARTS 2380 , INQR 1030 , INQR 1040 , INQR 1170 , INQR 1180 , ARTS 4120 , ARTS 4140 , or permission of instructor",
+    "prerequisites": [
+      "ARTS 1020",
+      "ARTS 1030",
+      "ARTS 1040",
+      "ARTS 1200",
+      "ARTS 1220",
+      "ARTS 2020",
+      "ARTS 2380",
+      "INQR 1030",
+      "INQR 1040",
+      "INQR 1170",
+      "INQR 1180",
+      "ARTS 4120",
+      "ARTS 4140"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ARTS 1020",
+        "ARTS 1030",
+        "ARTS 1040",
+        "ARTS 1200",
+        "ARTS 1220",
+        "ARTS 2020",
+        "ARTS 2380",
+        "INQR 1030",
+        "INQR 1040",
+        "INQR 1170",
+        "INQR 1180",
+        "ARTS 4120",
+        "ARTS 4140"
+      ]
+    },
+    "when_offered": "SPRING TERM, EVEN YEARS Co-Listed: ARTS 6240 and may not be taken for credit twice under different numbers",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83662"
+  },
+  {
+    "course_id": "ARTS 4250",
+    "prefix": "ARTS",
+    "number": "4250",
+    "title": "Art, Community, and Technology",
+    "description": "ARTS 1220 Through direct experience in the community, this course explores the complex roles and relationships of art, education, and technology. Students will develop a plan to work with a media arts center, community organization, or school; final teams will produce real-world arts and education projects that ultimately will be realized as significant additions to their professional portfolio. The projects can include a range from traditional arts practice to creative writing, creative IT models, to community art and activism.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 1020 , ARTS 1030 , ARTS 1040 , ARTS 1200 , ARTS 1220 , ARTS 2020 , ARTS 2380 , GSAS 1040 , INQR 1030 , INQR 1040 INQR 1170 , INQR 1180 , or permission of instructor",
+    "prerequisites": [
+      "ARTS 1020",
+      "ARTS 1030",
+      "ARTS 1040",
+      "ARTS 1200",
+      "ARTS 1220",
+      "ARTS 2020",
+      "ARTS 2380",
+      "GSAS 1040",
+      "INQR 1030",
+      "INQR 1040",
+      "INQR 1170",
+      "INQR 1180"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ARTS 1020",
+        "ARTS 1030",
+        "ARTS 1040",
+        "ARTS 1200",
+        "ARTS 1220",
+        "ARTS 2020",
+        "ARTS 2380",
+        "GSAS 1040",
+        "INQR 1030",
+        "INQR 1040",
+        "INQR 1170",
+        "INQR 1180"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ARTS 6250 . Students cannot receive credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82230"
+  },
+  {
+    "course_id": "ARTS 4260",
+    "prefix": "ARTS",
+    "number": "4260",
+    "title": "Life Drawing and Anatomy for Artists",
+    "description": "Life Drawing and Anatomy for Artists is an advanced drawing class that will focus on drawing the human figure. Students will work from live models to refine their drawing skills; clay models from anatomical texts will be made to develop a working knowledge of anatomy for artists. Gesture, proportion, and expression of the human figure will be emphasized; general concepts of design and composition will also be presented.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 1200 or portfolio review by instructor",
+    "prerequisites": [
+      "ARTS 1200"
+    ],
+    "prerequisite_logic": "ARTS 1200",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ARTS 6260 ; students cannot obtain credit for both courses",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83588"
+  },
+  {
+    "course_id": "ARTS 4280",
+    "prefix": "ARTS",
+    "number": "4280",
+    "title": "3D Technical Direction",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83977"
+  },
+  {
+    "course_id": "ARTS 4380",
+    "prefix": "ARTS",
+    "number": "4380",
+    "title": "Music and Sound II",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82234"
+  },
+  {
+    "course_id": "ARTS 4390",
+    "prefix": "ARTS",
+    "number": "4390",
+    "title": "Composition Seminar",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83697"
+  },
+  {
+    "course_id": "ARTS 4440",
+    "prefix": "ARTS",
+    "number": "4440",
+    "title": "Music, Sound & Screen Media",
+    "description": "This course examines how music and sound is heard, experienced, and circulated on screens across diverse media formats in contemporary society. This interdisciplinary course introduces students to a variety of analytical, historical, and theoretical approaches to the understanding of music, sound and interactive and non-interactive narrative screen media, including film, television, music video, video games, apps and mobile media, Internet audiovisual & social media, VR/AR, and other screen formats of sound production, distribution, and consumption. This course is open to sophomores, juniors, and seniors only.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Cross Listed: GSAS 4440",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84031"
+  },
+  {
+    "course_id": "ARTS 4460",
+    "prefix": "ARTS",
+    "number": "4460",
+    "title": "Animation Production",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83747"
+  },
+  {
+    "course_id": "ARTS 4500",
+    "prefix": "ARTS",
+    "number": "4500",
+    "title": "Topics in the History and Analysis of Music",
+    "description": "This course illuminates specific musical works and performances in depth, drawn from a range of periods, cultures, and genres by analyzing them in their historical, cultural, technological, and critical context. The emphasis is on music since 1900 and sample topics might include Remix in Digital Culture, Music in Protest and Social Justice, Gender and Sexuality in Music, Music and the Moving Image, and Sounding Identity, among others",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83854"
+  },
+  {
+    "course_id": "ARTS 4510",
+    "prefix": "ARTS",
+    "number": "4510",
+    "title": "Experimental Game Design",
+    "description": "Experimental Game Design is an upper level studio arts course focusing on the creation of innovative, workable game prototypes using a variety of interactive multimedia. Games are considered as a new genre and are analyzed as cultural artifacts. The aesthetics of game design including character development, level design, game play experience, and delivery systems are covered. Flow, game theory, and game play gestalt are considered. Alternate gaming paradigms and emerging forms are encouraged.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 1020 or permission of instructor",
+    "prerequisites": [
+      "ARTS 1020"
+    ],
+    "prerequisite_logic": "ARTS 1020",
+    "when_offered": "OFFERED YEARLY Cross Listed: GSAS 4510 Co-Listed: ARTS 6400",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83771"
+  },
+  {
+    "course_id": "ARTS 4560",
+    "prefix": "ARTS",
+    "number": "4560",
+    "title": "Hactivism",
+    "description": "This course explores the history, methods, and goals of hackers with special attention paid to their role in social movements. It broadly interprets the term “hacktivism” to include computer hacking, media hacking and “reality hacking” in the service of social change. Students will gain an understanding of how and why hackers have emerged as a major social force.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Junior or senior standing, or permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ARTS 6560",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83704"
+  },
+  {
+    "course_id": "ARTS 4600",
+    "prefix": "ARTS",
+    "number": "4600",
+    "title": "Ensemble Nonlinear",
+    "description": "A technology-based performance ensemble, as well as a practice-based studio course, focused on the composition, design, and programming of new musical works and instruments. Students create and perform electronic music using laptops, microprocessors, digital networks and a range of new interfaces for musical expression. ARTS 4600/6600 combines studio and ensemble. The ensemble only section (ARTS 2600) may be taken multiple times as a 1-credit performance ensemble in partial satisfaction of the Music major or minor ensemble requirements, or once as a 4-credit seminar at either the 4000 or 6000 level.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ARTS 2600 and ARTS 6600",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83810"
+  },
+  {
+    "course_id": "ARTS 4620",
+    "prefix": "ARTS",
+    "number": "4620",
+    "title": "Exploring Movement and Sound",
+    "description": "The exploration of movement often reveals sensitivities concerning the body, identity, gesture, culture, sensory awareness, perception, space, orientation, kinesthesia, time, relationships to people and objects, as well as cultural notions of embodiment and the senses. This course employs practice-based work, creative experimentation, and traditional forms of research (reading, viewing media, writing, discussions) as the primary methods to illuminate the issues concerning enactive (movement) knowledge. This is a Deep Listening-related course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83663"
+  },
+  {
+    "course_id": "ARTS 4630",
+    "prefix": "ARTS",
+    "number": "4630",
+    "title": "Advanced Video - Media Studio",
+    "description": "The course introduces students to the art of writing and directing short studio productions, with an emphasis on generating ideas, and realizing them in a well-developed final project. Major theories and principles are studied through a comparative analysis of scripts, videos and studio exercises. Students learn to work with actors, write their own scripts, and direct videos. Two final projects – a script and a video – will integrate all of the elements covered in class.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 1030 or permission of instructor",
+    "prerequisites": [
+      "ARTS 1030"
+    ],
+    "prerequisite_logic": "ARTS 1030",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82237"
+  },
+  {
+    "course_id": "ARTS 4640",
+    "prefix": "ARTS",
+    "number": "4640",
+    "title": "Science Fictions",
+    "description": "Science Fictions is an advanced narrative video production and theory course. The class looks at thematic areas of science fiction, utopia and dystopia, paranormal, and speculative fiction. ‘Speculative fiction’ is a genre that looks at the real world and extends what is known about it, building on the ‘real.’ The class has two threads: to study narrative structure and create a series of sci-fi videos; to discuss and analyze mainstream and avant-garde science fiction films and themes from the early 1900s to the present.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 1020 , ARTS 1030 , ARTS 1040 , ARTS 1200 , ARTS 1220 , ARTS 2020 , ARTS 2380 , INQR 1030 , INQR 1040 , INQR 1170 , INQR 1180 , ARTS 4120 , ARTS 4140 , or permission of instructor",
+    "prerequisites": [
+      "ARTS 1020",
+      "ARTS 1030",
+      "ARTS 1040",
+      "ARTS 1200",
+      "ARTS 1220",
+      "ARTS 2020",
+      "ARTS 2380",
+      "INQR 1030",
+      "INQR 1040",
+      "INQR 1170",
+      "INQR 1180",
+      "ARTS 4120",
+      "ARTS 4140"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ARTS 1020",
+        "ARTS 1030",
+        "ARTS 1040",
+        "ARTS 1200",
+        "ARTS 1220",
+        "ARTS 2020",
+        "ARTS 2380",
+        "INQR 1030",
+        "INQR 1040",
+        "INQR 1170",
+        "INQR 1180",
+        "ARTS 4120",
+        "ARTS 4140"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ARTS 6640 ; students cannot obtain credit for both courses",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83590"
+  },
+  {
+    "course_id": "ARTS 4700",
+    "prefix": "ARTS",
+    "number": "4700",
+    "title": "Sound Recording and Production II",
+    "description": "This course approaches the modern digital studio as a compositional environment for the development of the student’s original creative projects. Engineering techniques will be explored through musical examples and hands-on projects.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 2700",
+    "prerequisites": [
+      "ARTS 2700"
+    ],
+    "prerequisite_logic": "ARTS 2700",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83853"
+  },
+  {
+    "course_id": "ARTS 4820",
+    "prefix": "ARTS",
+    "number": "4820",
+    "title": "Advanced Studio",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84190"
+  },
+  {
+    "course_id": "ARTS 4840",
+    "prefix": "ARTS",
+    "number": "4840",
+    "title": "Creative Seminar I",
+    "description": "This course is for senior EMAC and EART majors and is the core creative forum for the development and presentation of the senior thesis. The course is the first part of a two-semester study provided in two seminar courses. The focus of the course is to develop a proposal for for a written thesis and a creative project that students will execute in the second seminar and exhibit in an exhibition.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Senior EMAC and EART majors only.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83450"
+  },
+  {
+    "course_id": "ARTS 4850",
+    "prefix": "ARTS",
+    "number": "4850",
+    "title": "Creative Seminar II",
+    "description": "This course is for senior EMAC and EART majors. The goal of the Creative Seminar II is to develop and formulate ideas from Creative Seminar I into a unique project for the artists/communicator that will demonstrate a students independent ideas, research, writing, and design skills. Students will develop a written thesis, creative project (e.g., art, graphic design, interaction design, music, performance), prepare and present their project in a public exhibition, and design the publicity for the show.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 4840 , senior EMAC and EART majors only",
+    "prerequisites": [
+      "ARTS 4840"
+    ],
+    "prerequisite_logic": "ARTS 4840",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83451"
+  },
+  {
+    "course_id": "ARTS 4860",
+    "prefix": "ARTS",
+    "number": "4860",
+    "title": "Advanced Digital Imaging",
+    "description": "This upper level studio and seminar explores individual visual arts projects contributing to thesis or dissertation development. Topics in creative personal expression in imaging, installation, digital/traditional mixed media and emerging genres will be studied drawing from issues raised in class projects. Advanced studies may include high resolution digital photography, montage, archival printing, gesture drawing, painting, assemblage, processing, stencil art, projection, and evolving genres which lead to an independent final project and web portfolio.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ARTS 6860 ; students cannot obtain credit for both courses",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83591"
+  },
+  {
+    "course_id": "ARTS 4880",
+    "prefix": "ARTS",
+    "number": "4880",
+    "title": "Interdisciplinary Research Seminar",
+    "description": "This is a course introducing music majors to advanced research topics of the Rensselaer music faculty. Each semester a member of the music faculty will focus the seminar on a research topic or paradigm related to their own body of artistic and technological research. Sample topics might include Spatial music and sound, New Instrument Design, Network Music, Music Information Retrieval, Ethnomusicology, Sonification Art and Science, Music and Logic, Spectralism and Beyond, Music Herstory (feminist music composition), Experimental music and sound history. Through hands-on creative research, students will explore questions of both musical and technological significance while engaging that same topic through their own hands-on creative practice.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 2380 or ARTS 2020 , or permission of instructor",
+    "prerequisites": [
+      "ARTS 2380",
+      "ARTS 2020"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ARTS 2380",
+        "ARTS 2020"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Co-Listed: ARTS 6880 . Students may not receive credit for both the 4000 level and 6000 level versions of this course. 4000-level option can be taken multiple times for credit.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83808"
+  },
+  {
+    "course_id": "ARTS 4920",
+    "prefix": "ARTS",
+    "number": "4920",
+    "title": "Painting 2",
+    "description": "This course will focus on establishing your skill set as a painter and developing your critical eye as an artist. In this class, we will focus on composition, paint handling, color theory, image construction, and content. Through assignments in which subject matters include both figuration and abstraction, students will work to gain individual expression with acrylic mediums. This course is taught through lectures, discussions, readings, critiques and strong painting practice.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 4220 or ARTS 4260",
+    "prerequisites": [
+      "ARTS 4220",
+      "ARTS 4260"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ARTS 4220",
+        "ARTS 4260"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ARTS 6920",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84203"
+  },
+  {
+    "course_id": "ARTS 4940",
+    "prefix": "ARTS",
+    "number": "4940",
+    "title": "Arts Independent Study",
+    "description": "Individual and collaborative projects and assignments at the 4000-level adapted to the needs of individual students.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82238"
+  },
+  {
+    "course_id": "ARTS 4960",
+    "prefix": "ARTS",
+    "number": "4960",
+    "title": "Topics in the Arts",
+    "description": "Experimental courses offered for one or two semesters.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82239"
+  },
+  {
+    "course_id": "ARTS 4990",
+    "prefix": "ARTS",
+    "number": "4990",
+    "title": "B.S. EARTS Thesis",
+    "description": "The purpose of this course is to demonstrate the student’s capacity for independent work integrating concepts and media from the full range of their studio, history, and theory studies. It is a project-based class, culminating in a written thesis paper and a public presentation of work determined by the student. This course may be taken multiple times, but is a requirement in the student’s final two semesters.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Junior and Senior EART majors only.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82240"
+  },
+  {
+    "course_id": "ARTS 6030",
+    "prefix": "ARTS",
+    "number": "6030",
+    "title": "Multimedia Performance Systems",
+    "description": "Multimedia Performance Systems explores the composition and programming of real-time performance systems. The course will examine the basics of MIDI, sound synthesis, digital signal processing, and image/video manipulation. Final projects will consist of a real-time performance system or interactive installation.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82241"
+  },
+  {
+    "course_id": "ARTS 6040",
+    "prefix": "ARTS",
+    "number": "6040",
+    "title": "Rethinking Documentary: Video Production",
+    "description": "Rethinking Documentary is a graduate level production course in film and video. Taking a broad look at what defines “documentary” media, this course incorporates criticism with production to examine key issues in the discipline, such as truth versus fiction, personal responsibility, community involvement, the efficacy of video intervention and the authority of mass media. Students are required to produce a range of video works questioning conventional documentary styles, using radical and interventionist techniques to tell compelling or poetic stories.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Must be a graduate student.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: ARTS 4040",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83456"
+  },
+  {
+    "course_id": "ARTS 6050",
+    "prefix": "ARTS",
+    "number": "6050",
+    "title": "Advanced Video Media Studio",
+    "description": "The course is designed to help students continue to develop as media-makers/filmmakers. Students will work on short video projects that are shot in the studio and in the field. Studio experimentations, including projection work, multi-camera production, generating ideas, and realizing a well-developed final project. Students write their own scripts, learn new technical skills and direct videos.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ARTS 4050",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84161"
+  },
+  {
+    "course_id": "ARTS 6080",
+    "prefix": "ARTS",
+    "number": "6080",
+    "title": "Graduate Studio Critique",
+    "description": "Development and completion of individual creative projects with a focus on studio production, method, and process. Students are expected to foster an environment in which serious and sophisticated peer critique can take place.",
+    "credit_hours": "",
+    "prerequisites_raw": "Graduate standing.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82242"
+  },
+  {
+    "course_id": "ARTS 6090",
+    "prefix": "ARTS",
+    "number": "6090",
+    "title": "Art and Code and Interactivity",
+    "description": "This course is primarily concerned with learning how to build any interactive experience or artwork from concept to completion. It will introduce open-source, cross-platform programming libraries and tools used by artists and programmers to create interactive experiences and artworks for museum installations, festivals, VJ-ing, projection mapping, interactive experiences/artworks, and more. Then, the course starts to address the questions: Is code an art form? What is interactive art? Is software art?",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ARTS 4090 ; students cannot obtain credit for both courses",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83592"
+  },
+  {
+    "course_id": "ARTS 6110",
+    "prefix": "ARTS",
+    "number": "6110",
+    "title": "Electronic Arts Overview",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82243"
+  },
+  {
+    "course_id": "ARTS 6120",
+    "prefix": "ARTS",
+    "number": "6120",
+    "title": "Biopunk: Arts Lab Practice",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83958"
+  },
+  {
+    "course_id": "ARTS 6130",
+    "prefix": "ARTS",
+    "number": "6130",
+    "title": "New Media Theory",
+    "description": "This course asks what is really new about New Media, and looks at creative practices, theoretical discourses, and social contexts to find answers. The course concentrates on cutting edge cultural expression using information and communication technologies. The objective is to equip students with multiple perspectives — aesthetic, communications, historical — with which to analyze, critique, and develop original concepts about the uses of new media in art and culture.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ARTS 4130 . Students cannot obtain credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82244"
+  },
+  {
+    "course_id": "ARTS 6140",
+    "prefix": "ARTS",
+    "number": "6140",
+    "title": "Queer Ecologies",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83959"
+  },
+  {
+    "course_id": "ARTS 6150",
+    "prefix": "ARTS",
+    "number": "6150",
+    "title": "Media Watch",
+    "description": "This seminar is an investigation of the successes and failures of the news media, set within historical and contemporary contexts. The title “media watch” is intended to evoke a watch-dog approach found in independent media sources and organizations like human rights watch. Assignments involve analyzing how issues are portrayed in the media and students choose their topics according to their interests. The course can therefore enhance capstone, thesis, or dissertation work.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ARTS 4150 ; Student cannot obtain credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82245"
+  },
+  {
+    "course_id": "ARTS 6160",
+    "prefix": "ARTS",
+    "number": "6160",
+    "title": "Advanced Computer Music Composition and Performance",
+    "description": "This course assumes knowledge and experience in computer music applications and performance. It is directed to undergraduate students as an upper-level seminar guiding their progress through the composition of a significant musical work. The class is divided between a group seminar, focusing on aesthetic, theoretical, and technical issues, and a workshop/lab in performance, computer applications, and composition.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ARTS 4160; students may not earn credit for enrolling in both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84061"
+  },
+  {
+    "course_id": "ARTS 6180",
+    "prefix": "ARTS",
+    "number": "6180",
+    "title": "Topics in Deep Listening",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83701"
+  },
+  {
+    "course_id": "ARTS 6200",
+    "prefix": "ARTS",
+    "number": "6200",
+    "title": "Advanced Drawing",
+    "description": "This course focuses on advanced problem solving through a series of challenging observational drawing projects. Emphasis is placed on developing a sophisticated and convincing use of drawing language to approach traditional subject matter. As students gain greater fluency, they also gain a greater critical awareness and understanding of the artistic decision-making process.",
+    "credit_hours": "4",
+    "prerequisites_raw": "By portfolio review.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ARTS 4200",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83593"
+  },
+  {
+    "course_id": "ARTS 6220",
+    "prefix": "ARTS",
+    "number": "6220",
+    "title": "Painting",
+    "description": "A painting course in opaque media such as oil or acrylic with emphasis on color interaction, composition, and pictorial design. Using sources from observation and the history of painting, students are taught to see and convey effects of color on/in 2-D pictorial space and to develop critical skills in looking at paintings.",
+    "credit_hours": "4",
+    "prerequisites_raw": "By portfolio review.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: ARTS 4220 ; students cannot obtain credit for both courses",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83594"
+  },
+  {
+    "course_id": "ARTS 6230",
+    "prefix": "ARTS",
+    "number": "6230",
+    "title": "Inflatable Sculpture",
+    "description": "This class studies, creates, and publicly presents inflatable sculptures. The history of inflatables are examined, with special attention paid to how they have been used in political movements that imagine utopian social futures, and how those applications contrast with commercial uses (such as advertising) that have become commonplace in public spaces today. Throughout, the class will explore, design, and build inflated structures that may include video and sound elements. Graduate students will also be required to write a paper.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ARTS 4230",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83699"
+  },
+  {
+    "course_id": "ARTS 6240",
+    "prefix": "ARTS",
+    "number": "6240",
+    "title": "Eco Chic: Living Art",
+    "description": "Eco Chic: Living Art is an upper level production and theory class about art, biology, and the study of life covering topics such as environmentalism, land art, food art, sustainable practices with art, body art, bio-art. Part lecture, part hands-on workshop, Eco Chic encourages students to redefine and experimentally express their relationships with the varied aspects of everyday living systems and manipulating life.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM, EVEN YEARS Co-Listed: ARTS 4240 and may not be taken for credit twice under different numbers",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83452"
+  },
+  {
+    "course_id": "ARTS 6250",
+    "prefix": "ARTS",
+    "number": "6250",
+    "title": "Art, Community, and Technology",
+    "description": "This course explores the complex roles and relationships of art, education, and technology by giving students direct experience in the community. Students will develop a plan to work with a media arts center, community organization, or school; final teams will produce real-world arts and education projects that can become significant additions to their professional portfolio. The projects can include a range of practices including but not limited to traditional arts, creative writing, creative IT, community art, and activism. Graduate students who take this course will write a mid-term and final paper, plus offer an independent public presentation of their work.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Graduate standing.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ARTS 4250",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83702"
+  },
+  {
+    "course_id": "ARTS 6260",
+    "prefix": "ARTS",
+    "number": "6260",
+    "title": "Life Drawing and Anatomy for Artists",
+    "description": "Life Drawing and Anatomy for Artists is an advanced drawing class that will focus on drawing the human figure. Students will work from live models to refine their drawing skills; clay models from anatomical texts will be made to develop a working knowledge of anatomy for artists. Gesture, proportion, and expression of the human figure will be emphasized; general concepts of design and composition will also be presented.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Portfolio Review",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ARTS 4260 ; students cannot obtain credit for both courses",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83595"
+  },
+  {
+    "course_id": "ARTS 6400",
+    "prefix": "ARTS",
+    "number": "6400",
+    "title": "Experimental Game Design",
+    "description": "Experimental Game Design is an upper level studio arts course focusing on the creation of innovative, workable game prototypes using a variety of interactive media. Games are considered as a new genre and are analyzed as cultural artifacts. The aesthetics of game design including character development, level design, game play experience, and delivery systems are covered. Flow, game theory, and game play gestalt are considered. Alternate gaming paradigms and emerging forms are encouraged.",
+    "credit_hours": "4",
+    "prerequisites_raw": "COGS 4520 or GSAS 4520 or graduate standing or permission of instructor",
+    "prerequisites": [
+      "COGS 4520",
+      "GSAS 4520"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "COGS 4520",
+        "GSAS 4520"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Cross Listed: GSAS 4510 Co-Listed: ARTS 4510",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83455"
+  },
+  {
+    "course_id": "ARTS 6420",
+    "prefix": "ARTS",
+    "number": "6420",
+    "title": "Experimental Telepresence",
+    "description": "Research, plan, create, and execute portfolio projects involving networked improvisation, composition, and performance via Internet and Internet 2. Study and use telematic technology such as Lola, JackTrip, SKYPE, mobile, and other devices in performances with others in distant locations. Participate in multimedia improvisation ensemble (Tintinnabulate) as a resource for implementing projects.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83453"
+  },
+  {
+    "course_id": "ARTS 6560",
+    "prefix": "ARTS",
+    "number": "6560",
+    "title": "Hactivism",
+    "description": "This course explores the history, methods, and goals of hackers with special attention paid to their role in social movements. It broadly interprets the term “hacktivism” to include computer hacking, media hacking, and “reality hacking” in the service of social change. Students will gain an understanding of how and why hackers have emerged as a major social force. Graduate students will produce an ethnographic record and analysis of a publicly recognized hacking event or figure.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ARTS 4560",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83703"
+  },
+  {
+    "course_id": "ARTS 6600",
+    "prefix": "ARTS",
+    "number": "6600",
+    "title": "Ensemble Nonlinear",
+    "description": "A technology-based performance ensemble, as well as a practice-based studio course, focused on the composition, design, and programming of new musical works and instruments. Students create and perform electronic music using laptops, microprocessors, digital networks and a range of new interfaces for musical expression. ARTS 4600/6600 combines studio and ensemble. The ensemble only section (ARTS 2600) may be taken multiple times as a 1-credit performance ensemble in partial satisfaction of the Music major or minor ensemble requirements, or once as a 4-credit seminar at either the 4000 or 6000 level.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ARTS 2600 and ARTS 4600",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83811"
+  },
+  {
+    "course_id": "ARTS 6640",
+    "prefix": "ARTS",
+    "number": "6640",
+    "title": "Science Fictions",
+    "description": "Science Fictions is an advanced narrative video production and theory course. The class looks at thematic areas of science fiction, utopia and dystopia, paranormal, and speculative fiction. ‘Speculative fiction’ is a genre that looks at the real world and extends what we know about it, building on the ‘real.’ The class has two threads: to study narrative structure and create a series of sci-fi videos; to discuss and analyze mainstream and avant-garde science fictions film and themes from the early 1900s to the present.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ARTS 4640 ; students cannot obtain credit for both courses",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83596"
+  },
+  {
+    "course_id": "ARTS 6860",
+    "prefix": "ARTS",
+    "number": "6860",
+    "title": "Advanced Digital Imaging",
+    "description": "This upper level studio and seminar explores individual visual arts projects contributing to thesis or dissertation development. Topics in creative personal expression in imaging, installation, digital/traditional mixed media and emerging genres will be studied drawing from issues raised in class projects. Advanced studies may include high resolution digital photography, montage, archival printing, gesture drawing, painting, assemblage, processing, stencil art, projection, and evolving genres which lead to an independent final project and web portfolio.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ARTS 4860 ; students cannot obtain credit for both courses",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83597"
+  },
+  {
+    "course_id": "ARTS 6880",
+    "prefix": "ARTS",
+    "number": "6880",
+    "title": "Interdisciplinary Research Seminar",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84023"
+  },
+  {
+    "course_id": "ARTS 6900",
+    "prefix": "ARTS",
+    "number": "6900",
+    "title": "Arts Graduate Colloquium",
+    "description": "This course provides a forum for interdisciplinary graduate discourse and community at Rensselaer. Students will curate a series of presentations by guest speakers, faculty, and graduate students. Related readings and writing assignments will be based on colloquium presentations. Arts Ph.D. students are required to take the colloquium each semester until the semester they take their qualifying examination and enroll for dissertation credits.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Graduate standing in any graduate degree program",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83398"
+  },
+  {
+    "course_id": "ARTS 6920",
+    "prefix": "ARTS",
+    "number": "6920",
+    "title": "Painting 2",
+    "description": "This course will focus on establishing your skill set as a painter and developing your critical eye as an artist. In this class, we will focus on composition, paint handling, color theory, image construction, and content. Through assignments in which subject matters include both figuration and abstraction, students will work to gain individual expression with acrylic mediums. This course is taught through lectures, discussions, readings, critiques and strong painting practice.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ARTS 4920",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84204"
+  },
+  {
+    "course_id": "ARTS 6940",
+    "prefix": "ARTS",
+    "number": "6940",
+    "title": "Studies in Electronic Arts",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82246"
+  },
+  {
+    "course_id": "ARTS 6960",
+    "prefix": "ARTS",
+    "number": "6960",
+    "title": "Topics in Electronic Arts",
+    "description": "Experimental courses offered for one to two semesters.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82247"
+  },
+  {
+    "course_id": "ARTS 6990",
+    "prefix": "ARTS",
+    "number": "6990",
+    "title": "Master’s Thesis",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a master’s thesis. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "Must have passed two Qualifying Reviews.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82248"
+  },
+  {
+    "course_id": "ARTS 9990",
+    "prefix": "ARTS",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82249"
+  }
+]

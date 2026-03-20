@@ -1,0 +1,896 @@
+[
+  {
+    "course_id": "STSO 1100",
+    "prefix": "STSO",
+    "number": "1100",
+    "title": "Science, Technology, and Society",
+    "description": "Previous Course Number STSO 1110 This course examines science and technology in their social, cultural, and political context. Readings are drawn from social sciences, fiction, and contemporary journalism. Case studies will include genetic testing, automation, vaccines, engineering education, AIDS activism, mental health, surveillance, and climate change. The class is designed to give students the freedom to develop and express their own ideas.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Cross Listed: INQR 1100",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84124"
+  },
+  {
+    "course_id": "STSO 1960",
+    "prefix": "STSO",
+    "number": "1960",
+    "title": "Topics in Science and Technology Studies",
+    "description": "",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83320"
+  },
+  {
+    "course_id": "STSO 2020",
+    "prefix": "STSO",
+    "number": "2020",
+    "title": "Design and Innovation Studio III",
+    "description": "This design studio introduces students to the first semester-long design project. We introduce students to more formal engineering design methods. This includes problem formulation, structured ideation, rapid prototyping, evaluation, functional modeling, and iteration. Studio III will also continue to draw on social science methods of ethnographic observation, background research, stakeholder analysis, and also a critical deconstruction of engineering design methods in a way that builds agility in ways more appropriate for those in DIS. Development of individual skills in design development, presentation, and portfolio building are also emphasized.",
+    "credit_hours": "4",
+    "prerequisites_raw": "STSO 2610",
+    "prerequisites": [
+      "STSO 2610"
+    ],
+    "prerequisite_logic": "STSO 2610",
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ENGR 2020",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82723"
+  },
+  {
+    "course_id": "STSO 2100",
+    "prefix": "STSO",
+    "number": "2100",
+    "title": "Investigating Society",
+    "description": "In this course students receive practical hands-on experience in conducting ethical and theoretically-informed research in the fields of STS and sustainability studies. Throughout the semester students practice a variety of social science research methods through a series of exercises.",
+    "credit_hours": "4",
+    "prerequisites_raw": "INQR 1110 or INQR 1240 or INQR 1320 or STSO 1100 ; or permission of instructor.",
+    "prerequisites": [
+      "INQR 1110",
+      "INQR 1240",
+      "INQR 1320",
+      "STSO 1100"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "INQR 1110",
+        "INQR 1240",
+        "INQR 1320",
+        "STSO 1100"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83807"
+  },
+  {
+    "course_id": "STSO 2210",
+    "prefix": "STSO",
+    "number": "2210",
+    "title": "Design, Culture, and Society",
+    "description": "This course allows students to develop a critical understanding of the relationships between design, culture, and society. “Design” is defined broadly, touching on product/industrial design, urban design, and so-called alternative design approaches such as ecological and feminist design. The focus is on the role of design in contemporary culture with the goal of training students’ emerging appreciation of design as cultural practice on their professional work as engineers, architects, or business managers. This is a communication-intensive course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83321"
+  },
+  {
+    "course_id": "STSO 2300",
+    "prefix": "STSO",
+    "number": "2300",
+    "title": "Environment and Society",
+    "description": "Society and the natural environment are crucially linked in a number of ways. Environmental problems such as pollution and natural resource depletion are not only problems for society, affecting the way people live their lives; they are also problems of society—the result of patterns of social organization and social practices. In this course, students will explore these society/environment interactions at various levels, from the local to the global, using the concepts and insights of environmental sociology. Environmental sociologists aim to understand the social origins of environmental problems and propose workable solutions to them. By showing how social interaction, institutions, and beliefs shape human behavior, environmental sociology provides a useful complement to the natural sciences in the analysis of the environmental problems faced today.",
+    "credit_hours": "4",
+    "prerequisites_raw": "INQR 1100 , STSO 1100 , INQR 1110 , INQR 1240 , INQR 1250 , INQR 1320 , or permission of instructor",
+    "prerequisites": [
+      "INQR 1100",
+      "STSO 1100",
+      "INQR 1110",
+      "INQR 1240",
+      "INQR 1250",
+      "INQR 1320"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "INQR 1100",
+        "STSO 1100",
+        "INQR 1110",
+        "INQR 1240",
+        "INQR 1250",
+        "INQR 1320"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83322"
+  },
+  {
+    "course_id": "STSO 2500",
+    "prefix": "STSO",
+    "number": "2500",
+    "title": "American History",
+    "description": "This course surveys the history of the United States from the colonial era through the present. The course introduces major themes and tensions in United States politics, society, and culture with a focus on environmental factors. Topics will include encounters between American Indians and colonial peoples, independence, the formation of the American government, slavery, immigration, citizenship, rights, social movements, colonialism, war, and the changing identity of the United States in the world.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83895"
+  },
+  {
+    "course_id": "STSO 2520",
+    "prefix": "STSO",
+    "number": "2520",
+    "title": "Sociology",
+    "description": "A study of the principles and concepts of sociology and their application to the study of society and self. Students are introduced to the scope, materials, and methods of sociology. The issues and problems to be studied come from basic social institutions such as the family, science, and religion. Other topics may include love, crime, political economy, power, population growth, social class, and minority and ethnic relations.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83319"
+  },
+  {
+    "course_id": "STSO 2610",
+    "prefix": "STSO",
+    "number": "2610",
+    "title": "Design and Innovation Studio II",
+    "description": "DIS Studio II introduces students to general principles of user-experience design and industrial design as a set of approaches for attending to matters of aesthetics and form, usability, and meaning-making. It considers industrial designers as a community of practice. Assignments require students to synthesize social, technical, and formal concerns in the design of innovative objects. Students also gain competencies in CAD, real-time rendering, and project presentation.",
+    "credit_hours": "4",
+    "prerequisites_raw": "INQR 1610",
+    "prerequisites": [
+      "INQR 1610"
+    ],
+    "prerequisite_logic": "INQR 1610",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82820"
+  },
+  {
+    "course_id": "STSO 2940",
+    "prefix": "STSO",
+    "number": "2940",
+    "title": "Readings in Science and Technology Studies",
+    "description": "Independent study of selected readings in the field of science and technology studies, supervised by a faculty member.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83311"
+  },
+  {
+    "course_id": "STSO 2960",
+    "prefix": "STSO",
+    "number": "2960",
+    "title": "Topics in Science and Technology Studies",
+    "description": "",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83324"
+  },
+  {
+    "course_id": "STSO 4100",
+    "prefix": "STSO",
+    "number": "4100",
+    "title": "Professional Development –Technical Issues and Solutions",
+    "description": "This course focuses on increasing students’ knowledge concerning the impact of non-technical issues on the viability of technical (engineering) designs and solutions. The non-technical issues to be considered include the cognitive and physical strengths and limitations of people in the chain spanning from product/equipment designers/manufacturers to end users, as well as economic, environmental, cultural, political, ethical, health and safety, and societal influences. During the course, students will read and discuss articles and case studies in which the technical solution pursued did not have the desired effect, or led to disaster. Possible explanations include a failure to take into account the environmental, economic, socio-cultural, and/or political issues associated with the technology’s ultimate usage.",
+    "credit_hours": "2",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83845"
+  },
+  {
+    "course_id": "STSO 4250",
+    "prefix": "STSO",
+    "number": "4250",
+    "title": "Bioethics",
+    "description": "This course involves a philosophical analysis of some of the basic moral issues raised by recent and anticipated developments in the areas of biology and medicine. The general question “What are moral problems, and how does one resolve them?” is examined in the context of concrete cases involving issues such as abortion, euthanasia, organ transplants, experimentation on human patients, cloning, genetic engineering, and behavior control and modification.",
+    "credit_hours": "4",
+    "prerequisites_raw": "STSO 2520 or STSO 2500 or PHIL 1110 or INQR 1150 or INQR 1160 or PHIL 4240 ; or permission of instructor",
+    "prerequisites": [
+      "STSO 2520",
+      "STSO 2500",
+      "PHIL 1110",
+      "INQR 1150",
+      "INQR 1160",
+      "PHIL 4240"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "STSO 2520",
+        "STSO 2500",
+        "PHIL 1110",
+        "INQR 1150",
+        "INQR 1160",
+        "PHIL 4240"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: PHIL 4500 . Students can’t obtain credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83313"
+  },
+  {
+    "course_id": "STSO 4260",
+    "prefix": "STSO",
+    "number": "4260",
+    "title": "Food, Farms, and Famine",
+    "description": "This course provides students with a wide-ranging understanding of the environmental and social context of food, agriculture, and hunger. Drawing primarily on sociological concepts and research, the class will take a “food systems” approach, analyzing food as it travels from farm to table as part of an interconnected process. Students will examine why humans eat the way they do and how individuals’ food choices affect other people and the environment.",
+    "credit_hours": "4",
+    "prerequisites_raw": "STSO 2100 or STSO 2210 or STSO 2300 or STSO 2500 or STSO 2520 ; or permission of instructor.",
+    "prerequisites": [
+      "STSO 2100",
+      "STSO 2210",
+      "STSO 2300",
+      "STSO 2500",
+      "STSO 2520"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "STSO 2100",
+        "STSO 2210",
+        "STSO 2300",
+        "STSO 2500",
+        "STSO 2520"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83400"
+  },
+  {
+    "course_id": "STSO 4280",
+    "prefix": "STSO",
+    "number": "4280",
+    "title": "Sustainability Education",
+    "description": "This course examines needs for and challenges of delivering environmental education in different settings. Students critically review existing environmental education curricula then design and deliver their own to K-12 students. The history of public education in the United States, factors shaping contemporary education, various approaches to environmental education, and the complex challenge of interdisciplinary curriculum design are examined. Students in the course develop and demonstrate their own educational and environmental values.",
+    "credit_hours": "4",
+    "prerequisites_raw": "STSO 2300 ; or permission of instructor",
+    "prerequisites": [
+      "STSO 2300"
+    ],
+    "prerequisite_logic": "STSO 2300",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83605"
+  },
+  {
+    "course_id": "STSO 4300",
+    "prefix": "STSO",
+    "number": "4300",
+    "title": "Sustainability and STS Careers",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83806"
+  },
+  {
+    "course_id": "STSO 4320",
+    "prefix": "STSO",
+    "number": "4320",
+    "title": "Environmental Media & Data",
+    "description": "In this course, students will explore how a very wide variety of data and media relate to our ever-evolving environment. We will build critical media literacy through encounters with media as both consumers and producers, learning along the way about how media literacy relates to other forms of literacy: ecological, political, scientific, historical, epistemological, etc. Simultaneously, we will question what “the environment” means, critique the limits of “sustainability” discourse, examine our assumptions around “the media,” question notions of “data” (big, little, quantitative, qualitative), etc. We will situate all of these terms in broader contexts and examine their histories, connotations, and connections.",
+    "credit_hours": "4",
+    "prerequisites_raw": "STSO 2300 or STSO 2210 ; or permission of the instructor",
+    "prerequisites": [
+      "STSO 2300",
+      "STSO 2210"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "STSO 2300",
+        "STSO 2210"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84024"
+  },
+  {
+    "course_id": "STSO 4330",
+    "prefix": "STSO",
+    "number": "4330",
+    "title": "Environmental Justice",
+    "description": "What is environmental justice? Why are some people exposed to environmental hazards while others are not? In this class, we will explore the intersection of environmental concerns and social justice. We will read the works of activists and scholars working across a range of disciplines, engage in discussion, analysis, research, and mapping. We will learn about global historical processes that structure contemporary inequity and contemporary cases including environmental justice work in our own community.",
+    "credit_hours": "4",
+    "prerequisites_raw": "INQR 1100 or STSO 1100 or INQR 1110 or INQR 1240 or STSO 2100 or STSO 2300 or STSO 2500 or STSO 2520",
+    "prerequisites": [
+      "INQR 1100",
+      "STSO 1100",
+      "INQR 1110",
+      "INQR 1240",
+      "STSO 2100",
+      "STSO 2300",
+      "STSO 2500",
+      "STSO 2520"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "INQR 1100",
+        "STSO 1100",
+        "INQR 1110",
+        "INQR 1240",
+        "STSO 2100",
+        "STSO 2300",
+        "STSO 2500",
+        "STSO 2520"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84011"
+  },
+  {
+    "course_id": "STSO 4340",
+    "prefix": "STSO",
+    "number": "4340",
+    "title": "Environmental Philosophy",
+    "description": "While concepts such as quality of life, environment, nature, global ecology, and the like figure heavily in contemporary discussions, they are seldom integrated into an environmental philosophy. The course tries to achieve this integration by understanding some of the religious, mythic-poetic, and scientific dimensions of the human-nature matrix. Some specific environmental problems are examined to illustrate the system of values implied by various solutions.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Prerequisite: junior or senior standing or permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Cross Listed: PHIL 4300 . Students cannot obtain credit for both.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83314"
+  },
+  {
+    "course_id": "STSO 4350",
+    "prefix": "STSO",
+    "number": "4350",
+    "title": "Politics of Design",
+    "description": "A research seminar exploring the meaning of design in engineering, architecture, political theory, and other fields. How do social ideals and motives inspire design choices? To what extent does the design of human-made things shape the quality of public life? A variety of objects are studied: buildings, machines, artifacts in everyday use, computer programs, political constitutions, etc.",
+    "credit_hours": "4",
+    "prerequisites_raw": "STSO 2100 or STSO 2210 or STSO 2300 or STSO 2520 or STSO 2500 ; or permission of instructor",
+    "prerequisites": [
+      "STSO 2100",
+      "STSO 2210",
+      "STSO 2300",
+      "STSO 2520",
+      "STSO 2500"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "STSO 2100",
+        "STSO 2210",
+        "STSO 2300",
+        "STSO 2520",
+        "STSO 2500"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83325"
+  },
+  {
+    "course_id": "STSO 4360",
+    "prefix": "STSO",
+    "number": "4360",
+    "title": "Community Engagement in a Changing Climate",
+    "description": "Strong community engagement supports climate resilience. This course supports students in working with civic, community, and government organizations in the context of climate change. The course is a project-based experience that connects students to ongoing initiatives in Troy and the Capital region. Students will explore a variety of “theories of change,” connecting these theories to approaches used by a wide variety of organizations, developing their own stances on how to effectively contribute to goals of community resilience, environmental justice, and social cohesion. Students will develop skills in project management, communication, community building, and civic engagement. ​",
+    "credit_hours": "4",
+    "prerequisites_raw": "INQR 1100 or INQR 1110 or INQR 1220 or INQR 1240 or INQR 1250 or INQR 1320 or INQR 1350 or INQR 1570 or INQR 1580 or ITWS 1220 or STSO 1100",
+    "prerequisites": [
+      "INQR 1100",
+      "INQR 1110",
+      "INQR 1220",
+      "INQR 1240",
+      "INQR 1250",
+      "INQR 1320",
+      "INQR 1350",
+      "INQR 1570",
+      "INQR 1580",
+      "ITWS 1220",
+      "STSO 1100"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "INQR 1100",
+        "INQR 1110",
+        "INQR 1220",
+        "INQR 1240",
+        "INQR 1250",
+        "INQR 1320",
+        "INQR 1350",
+        "INQR 1570",
+        "INQR 1580",
+        "ITWS 1220",
+        "STSO 1100"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84191"
+  },
+  {
+    "course_id": "STSO 4400",
+    "prefix": "STSO",
+    "number": "4400",
+    "title": "Medicine, Culture, and Society",
+    "description": "This course is a sociological and anthropological exploration of health and illness. By the end of the course, students will have an overall picture of health fields, problems faced by patients and caregivers, medicine and health in non-Western societies, and the social shaping of disease and therapeutic choices.",
+    "credit_hours": "4",
+    "prerequisites_raw": "STSO 2510, STSO 2520 , STSO 2500 , or permission of instructor",
+    "prerequisites": [
+      "STSO 2510",
+      "STSO 2520",
+      "STSO 2500"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "STSO 2510",
+        "STSO 2520",
+        "STSO 2500"
+      ]
+    },
+    "when_offered": "SPRING TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83323"
+  },
+  {
+    "course_id": "STSO 4420",
+    "prefix": "STSO",
+    "number": "4420",
+    "title": "History of Medicine",
+    "description": "This seminar surveys the history of medicine through discussion and analysis of secondary literature exploring central and key themes from the age of the Enlightenment up through recent history. Topics will include the history of the profession and practice of medicine, public health, disease, historical memory, education, the state, policy, institutions, and race, class, and gender in the history of medicine.",
+    "credit_hours": "4",
+    "prerequisites_raw": "INQR 1100 , STSO 1100 , STSO 2500 or STSO 2520",
+    "prerequisites": [
+      "INQR 1100",
+      "STSO 1100",
+      "STSO 2500",
+      "STSO 2520"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "INQR 1100",
+            "STSO 1100",
+            "STSO 2500"
+          ]
+        },
+        "STSO 2520"
+      ]
+    },
+    "when_offered": "FALL TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83878"
+  },
+  {
+    "course_id": "STSO 4430",
+    "prefix": "STSO",
+    "number": "4430",
+    "title": "Drugs in History",
+    "description": "This course teaches basic historical, anthropological, and sociological concepts that can be used to make sense of a wide variety of contemporary phenomena students encounter in everyday life. The focus is on analyzing how licit and illicit drugs serve as “technologies” within specific social contexts or subcultures; what drug policy reveals about social, political, and economic organization; and the impacts of biomedical knowledge and practice on specific population groups. The course focuses on the representation of drug use and drug users in popular culture, science and medicine, and history and the social sciences.",
+    "credit_hours": "4",
+    "prerequisites_raw": "INQR 1100 , STSO 1100 , INQR 1110 , INQR 1220 , INQR 1240 , INQR 1250 , INQR 1320 , INQR 1350 , INQR 1570 , INQR 1580 , or INQR 1610",
+    "prerequisites": [
+      "INQR 1100",
+      "STSO 1100",
+      "INQR 1110",
+      "INQR 1220",
+      "INQR 1240",
+      "INQR 1250",
+      "INQR 1320",
+      "INQR 1350",
+      "INQR 1570",
+      "INQR 1580",
+      "INQR 1610"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "INQR 1100",
+            "STSO 1100",
+            "INQR 1110",
+            "INQR 1220",
+            "INQR 1240",
+            "INQR 1250",
+            "INQR 1320",
+            "INQR 1350",
+            "INQR 1570",
+            "INQR 1580"
+          ]
+        },
+        "INQR 1610"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83315"
+  },
+  {
+    "course_id": "STSO 4500",
+    "prefix": "STSO",
+    "number": "4500",
+    "title": "Globalization and Development",
+    "description": "Through critical reading, discussion, analysis, and experimental mapping we will engage with emerging global issues, such as sustainable development, mobility and international borders, sovereignty, and gentrification. We will frame these discussions with conceptual tools produced in cultural geography, history, anthropology, sociology, and philosophy.",
+    "credit_hours": "4",
+    "prerequisites_raw": "STSO 2100 , STSO 2300 , STSO 2500 , or STSO 2520",
+    "prerequisites": [
+      "STSO 2100",
+      "STSO 2300",
+      "STSO 2500",
+      "STSO 2520"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "STSO 2100",
+            "STSO 2300",
+            "STSO 2500"
+          ]
+        },
+        "STSO 2520"
+      ]
+    },
+    "when_offered": "SPRING TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83326"
+  },
+  {
+    "course_id": "STSO 4520",
+    "prefix": "STSO",
+    "number": "4520",
+    "title": "Learning Open Source Technologies",
+    "description": "This course takes a hands-on approach to investigate the past, present and future of open source technology. Students will experiment with key open source products and platforms while also reading about and discussing the social, cultural, political and economic context of open source technologies.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84192"
+  },
+  {
+    "course_id": "STSO 4530",
+    "prefix": "STSO",
+    "number": "4530",
+    "title": "History of Science and Technology",
+    "description": "What is science, what is technology, and how have these two fields of inquiry evolved over time? This course examines these questions by studying the history of various scientific fields and technologies. In addition to tracing the historical evolution of the topics studied, the course will consider how social, political, economic and cultural factors helped to shape – and were in turn shaped by – advances in science and technology. The course will also reflect upon the relationship between science and technology on the one hand, and “progress” on the other.",
+    "credit_hours": "4",
+    "prerequisites_raw": "INQR 1100 , STSO 1100 , STSO 2500 , STSO 2520 ; or permission of instructor.",
+    "prerequisites": [
+      "INQR 1100",
+      "STSO 1100",
+      "STSO 2500",
+      "STSO 2520"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "INQR 1100",
+        "STSO 1100",
+        "STSO 2500",
+        "STSO 2520"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83880"
+  },
+  {
+    "course_id": "STSO 4540",
+    "prefix": "STSO",
+    "number": "4540",
+    "title": "Local History: Troy, New York",
+    "description": "This seminar surveys the history of Rensselaer Polytechnic Institute, Troy and the Capital Region. By reading scholarly works, performing original research and visiting relevant sites, we will seek to understand the technological, political, social and cultural history of each of these entities, as well as how their histories converge (or don’t). We will also discuss the meanings and methodologies of local history as a disciplinary field, and we will contextualize our study of local history by exploring the interplay between local, regional and national themes in history.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84195"
+  },
+  {
+    "course_id": "STSO 4560",
+    "prefix": "STSO",
+    "number": "4560",
+    "title": "Gender, Science, and Technology",
+    "description": "In this course, students will engage with a variety of perspectives in science and technology studies, feminist theory, queer and transgender theory, cultural studies, science fiction, and other fields that explore how science and technology reciprocally contribute to and are shaped by cultural norms around gender. Students reflect on their own experiences with gender expectations and formulate their own questions and develop a research project over the course of the semester.",
+    "credit_hours": "4",
+    "prerequisites_raw": "STSO 2100 or STSO 2300 or STSO 2510 or STSO 2520 or STSO 2500 or STSO 2210 ; or permission of instructor",
+    "prerequisites": [
+      "STSO 2100",
+      "STSO 2300",
+      "STSO 2510",
+      "STSO 2520",
+      "STSO 2500",
+      "STSO 2210"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "STSO 2100",
+        "STSO 2300",
+        "STSO 2510",
+        "STSO 2520",
+        "STSO 2500",
+        "STSO 2210"
+      ]
+    },
+    "when_offered": "FALL TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83327"
+  },
+  {
+    "course_id": "STSO 4600",
+    "prefix": "STSO",
+    "number": "4600",
+    "title": "Design and Innovation Studio A",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83847"
+  },
+  {
+    "course_id": "STSO 4605",
+    "prefix": "STSO",
+    "number": "4605",
+    "title": "Design and Innovation Studio B",
+    "description": "Design for the Future: This course introduces students to design for the future by connecting critical readings to applied practices. Students are expected to participate in both individual and group research, including hands-on explorations of design ideas and problem spaces for re-thinking objects of the future. The specific methodologies, concepts, and topics will vary according to the expertise and research specialization of the faculty member teaching the course and may include themes such as the future of cities, climate futures, and designing for peace.",
+    "credit_hours": "4",
+    "prerequisites_raw": "STSO 2020",
+    "prerequisites": [
+      "STSO 2020"
+    ],
+    "prerequisite_logic": "STSO 2020",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83316"
+  },
+  {
+    "course_id": "STSO 4610",
+    "prefix": "STSO",
+    "number": "4610",
+    "title": "Design and Innovation Studio C",
+    "description": "DIS Studio C focuses on the co-production of products, organizations, and problem-solving strategies. Students will explore how to facilitate communication across multiple disciplinary and audience modalities, including stakeholders, designers, and users. Projects and course discussions will train students to translate social scientific and engineering problem-solving judgments and to evaluate how complex problems come to be defined. This course is required for DIS students who are dual-majoring with the School of Engineering.",
+    "credit_hours": "4",
+    "prerequisites_raw": "STSO 2020",
+    "prerequisites": [
+      "STSO 2020"
+    ],
+    "prerequisite_logic": "STSO 2020",
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ENGR 4610 ; students cannot obtain credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83606"
+  },
+  {
+    "course_id": "STSO 4940",
+    "prefix": "STSO",
+    "number": "4940",
+    "title": "Science and Technology Studies Independent Study",
+    "description": "Independent study of selected readings in the field of science and technology studies, supervised by a faculty member.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83317"
+  },
+  {
+    "course_id": "STSO 4960",
+    "prefix": "STSO",
+    "number": "4960",
+    "title": "Topics in Science and Technology Studies",
+    "description": "",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83329"
+  },
+  {
+    "course_id": "STSO 4970",
+    "prefix": "STSO",
+    "number": "4970",
+    "title": "Design and Innovation Senior Project",
+    "description": "Design and Innovation Senior Project serves as a capstone course for DIS majors. Students work individually, supervised by a faculty member, to produce a design project, justified by and described in a written thesis. Class time largely operates as structured research and writing assistance, where students support one another with peer-review as well as receive one-on-one guidance from the instructor.",
+    "credit_hours": "4",
+    "prerequisites_raw": "STSO 2020 Attributes Data Intensive 2",
+    "prerequisites": [
+      "STSO 2020"
+    ],
+    "prerequisite_logic": "STSO 2020",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83924"
+  },
+  {
+    "course_id": "STSO 4980",
+    "prefix": "STSO",
+    "number": "4980",
+    "title": "Research Design",
+    "description": "This is the first part of a two-semester senior project sequence for majors in Sustainability Studies (SUST) and Science, Technology, and Society (STSO). The course focuses on qualitative research design and research proposal development.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83805"
+  },
+  {
+    "course_id": "STSO 4990",
+    "prefix": "STSO",
+    "number": "4990",
+    "title": "STS and Sustainability Senior Project",
+    "description": "Senior Project serves as a capstone course for all STS and Sustainability Studies majors. Students work individually, supervised by a faculty member, to produce a written thesis. Class time largely operates as structured research and writing assistance, where students support one another with peer-review as well as receive one-on-one guidance from the instructor.",
+    "credit_hours": "4",
+    "prerequisites_raw": "STSO 4980 Attributes Data Intensive 2",
+    "prerequisites": [
+      "STSO 4980"
+    ],
+    "prerequisite_logic": "STSO 4980",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83330"
+  },
+  {
+    "course_id": "STSO 6010",
+    "prefix": "STSO",
+    "number": "6010",
+    "title": "Concepts in Science and Technology Studies",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83331"
+  },
+  {
+    "course_id": "STSO 6100",
+    "prefix": "STSO",
+    "number": "6100",
+    "title": "Science and Technology Policy",
+    "description": "This course is an advanced introduction to the policy-relevant side of STS. We will examine three broad topics: 1. How states shape scientific research and the development of technologies and infrastructures. 2. How legislators and regulatory bureaucracies use scientific knowledge and expert opinion in decision-making processes. 3. How publics, particularly social movements, engage in political processes that are dominated by scientific and technological experts.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83333"
+  },
+  {
+    "course_id": "STSO 6110",
+    "prefix": "STSO",
+    "number": "6110",
+    "title": "Research Methods in STS",
+    "description": "This course offers an overview of social science techniques and research design and logistics and approaches widely used in STS.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83334"
+  },
+  {
+    "course_id": "STSO 6120",
+    "prefix": "STSO",
+    "number": "6120",
+    "title": "Advanced Research Methods",
+    "description": "This course provides a foundation for professional-level research in science and technology studies. Through group research exercises, students explore the intersection between research issues (ethics, reliability, validity, quantification) and types of observation.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83335"
+  },
+  {
+    "course_id": "STSO 6200",
+    "prefix": "STSO",
+    "number": "6200",
+    "title": "Science and Technology Studies",
+    "description": "A broad survey of the field of Science and Technology Studies from the vantage point of various disciplinary and interdisciplinary perspectives that have contributed to the development of the field. The texts, theories, and arguments that were important for the historical development of the field are covered, as well as contemporary issues. The seminar provides the resources and develops the skills needed for understanding, criticizing, constructing, and developing research in the field.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90375"
+  },
+  {
+    "course_id": "STSO 6580",
+    "prefix": "STSO",
+    "number": "6580",
+    "title": "History and Ethnography",
+    "description": "History and Ethnography is an introductory/intermediate graduate theory and methods seminar that outfits students to undertake original empirical and interpretive work in the humanities and social sciences. The course combines historical and ethnographic approaches with discourse analysis or other qualitative analytic approaches. Such methodologies may also be mixed with quantitative approaches. There are substantial fieldwork and archival components to the course. Both historical and ethnographic methodologies provide a basis for “capturing” the “data” that provides the evidence base for analysis.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83670"
+  },
+  {
+    "course_id": "STSO 6940",
+    "prefix": "STSO",
+    "number": "6940",
+    "title": "Independent Study in Science and Technology Studies",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83339"
+  },
+  {
+    "course_id": "STSO 6960",
+    "prefix": "STSO",
+    "number": "6960",
+    "title": "Topics in Science and Technology Studies",
+    "description": "Selected topics.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83340"
+  },
+  {
+    "course_id": "STSO 6970",
+    "prefix": "STSO",
+    "number": "6970",
+    "title": "Master’s Internship",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83341"
+  },
+  {
+    "course_id": "STSO 6980",
+    "prefix": "STSO",
+    "number": "6980",
+    "title": "Professional Project",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83318"
+  },
+  {
+    "course_id": "STSO 6990",
+    "prefix": "STSO",
+    "number": "6990",
+    "title": "Master’s Thesis",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a master’s thesis. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83342"
+  },
+  {
+    "course_id": "STSO 9990",
+    "prefix": "STSO",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "1-16",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83343"
+  }
+]

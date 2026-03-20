@@ -1,0 +1,1013 @@
+[
+  {
+    "course_id": "ISYE 1100",
+    "prefix": "ISYE",
+    "number": "1100",
+    "title": "Introduction to Industrial and Systems Engineering",
+    "description": "An introduction to industrial and systems engineering (ISE). Major elements of the ISE disciplines are overviewed in the context of operations engineering problems. Topics include deterministic and stochastic applications of operations research methods, soft computing, applications of probability and statistics, engineering economics, discrete event simulation, and decision analysis.",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83438"
+  },
+  {
+    "course_id": "ISYE 2210",
+    "prefix": "ISYE",
+    "number": "2210",
+    "title": "Production and Operations Management",
+    "description": "Overview of methods used in the design and operation of production and service systems and basic cost accounting. Topics include forecasting, capacity planning, line balancing, production scheduling, staff scheduling, inventory control, just in time, time study, project planning, and discrete item cost accounting. Goal of course is to educate students in basic operations management principles and models and in discrete goods cost accounting.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MATH 1020 or equivalent.",
+    "prerequisites": [
+      "MATH 1020"
+    ],
+    "prerequisite_logic": "MATH 1020",
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ENGR 2700 . Students cannot obtain credit for ISYE 2210 and ENGR 2700.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82830"
+  },
+  {
+    "course_id": "ISYE 2530",
+    "prefix": "ISYE",
+    "number": "2530",
+    "title": "Information and Data Systems",
+    "description": "This course covers the design and implementation of computer-based systems to support the collection, organization and analysis of data and information. Topics include theory and techniques for transforming raw data from various sources into structured and usable information; the role of information and data systems in the engineering enterprise; and approaches to interacting with computer-based information systems to support decision making.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 1100",
+    "prerequisites": [
+      "CSCI 1100"
+    ],
+    "prerequisite_logic": "CSCI 1100",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82842"
+  },
+  {
+    "course_id": "ISYE 2940",
+    "prefix": "ISYE",
+    "number": "2940",
+    "title": "Readings in ISYE",
+    "description": "Independent study of selected readings in the field of industrial and systems engineering, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82831"
+  },
+  {
+    "course_id": "ISYE 2960",
+    "prefix": "ISYE",
+    "number": "2960",
+    "title": "Topics in ISYE",
+    "description": "",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82832"
+  },
+  {
+    "course_id": "ISYE 4140",
+    "prefix": "ISYE",
+    "number": "4140",
+    "title": "Statistical Analysis",
+    "description": "Review of simple and multiple regression, selection procedures, regression diagnostics, residual analysis, stepwise regression, analysis of variance, design of experiments including factorial experiments, analysis of ordinal data and nonparametric inference, basic time series models. Extensive use of statistical software. Emphasis on statistical applications to industrial engineering.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ENGR 2600 or MATP 4600 and knowledge of calculus.",
+    "prerequisites": [
+      "ENGR 2600",
+      "MATP 4600"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ENGR 2600",
+        "MATP 4600"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82833"
+  },
+  {
+    "course_id": "ISYE 4200",
+    "prefix": "ISYE",
+    "number": "4200",
+    "title": "Design and Analysis of Work Systems",
+    "description": "Analysis and design of work and workplace. Topics covered include human-machine systems, ergonomics, work measurement systems, methods and standards, process design, direct time study, standard time data, predetermined time systems, work sampling, work load balancing, and workplace layout. Computer-based analysis of problems in work systems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENGR 2600 or equivalent.",
+    "prerequisites": [
+      "ENGR 2600"
+    ],
+    "prerequisite_logic": "ENGR 2600",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82834"
+  },
+  {
+    "course_id": "ISYE 4210",
+    "prefix": "ISYE",
+    "number": "4210",
+    "title": "Design and Analysis of Supply Chains",
+    "description": "An overview of the principles involved in the management of supply chains with an emphasis on demand forecasting, resource planning, supply chain operations and coordination, inventory management, and network design. The course will emphasize the theoretical aspects of these topics, with the development of quantitative approaches to aid in decision-making and managerial insights.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ISYE 2210 or MGMT 4110 , and ENGR 2600 or MGMT 2100 ; or equivalent.",
+    "prerequisites": [
+      "ISYE 2210",
+      "MGMT 4110",
+      "ENGR 2600",
+      "MGMT 2100"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ISYE 2210",
+        {
+          "type": "AND",
+          "items": [
+            "MGMT 4110",
+            "ENGR 2600"
+          ]
+        },
+        "MGMT 2100"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: ISYE 6600 . Students cannot obtain credit for both ISYE 4210 and ISYE 6600.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82835"
+  },
+  {
+    "course_id": "ISYE 4230",
+    "prefix": "ISYE",
+    "number": "4230",
+    "title": "Quality Control",
+    "description": "The statistical approach to manufacturing quality control is emphasized. Consideration is given to the managerial implications and responsibilities in implementing the statistical approach. Topical coverage includes construction and interpretation of various control charts; special control charts (e.g., CUSUM, EWMA); graphical methods; specifications, tolerance limits, process capability indices; acceptance sampling; discussion of experimental design; and Taguchi methods of quality improvement.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ISYE 4140 or ISYE 4760",
+    "prerequisites": [
+      "ISYE 4140",
+      "ISYE 4760"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ISYE 4140",
+        "ISYE 4760"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82836"
+  },
+  {
+    "course_id": "ISYE 4240",
+    "prefix": "ISYE",
+    "number": "4240",
+    "title": "Engineering Project Management",
+    "description": "Planning, controlling, and evaluating engineering projects. Use of network analysis techniques, PERT/CPM, budget control, time/cost tradeoff, time estimation, resource allocation, and resource leveling. Extensions include probabilistic models, multiple resource models, project organization, risk analysis, technical forecasting, and network theory.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Cross Listed: ENGR 4750 . Students cannot obtain credit for both ISYE 4240 and ENGR 4750.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82837"
+  },
+  {
+    "course_id": "ISYE 4250",
+    "prefix": "ISYE",
+    "number": "4250",
+    "title": "Facilities Design and Industrial Logistics",
+    "description": "An in-depth study of the major design issues in location and physical configuration of production and service facilities. The course emphasizes the use of mathematical models, computer modeling, and quantitative analysis as aids to the design process. Topics include plant layout and location, material handling, material flow analysis, and distribution systems. Major course concepts are developed through case studies and projects.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ISYE 2210 or ENGR 2700 ; or equivalent, and an introductory operations research course.",
+    "prerequisites": [
+      "ISYE 2210",
+      "ENGR 2700"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ISYE 2210",
+        "ENGR 2700"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82838"
+  },
+  {
+    "course_id": "ISYE 4260",
+    "prefix": "ISYE",
+    "number": "4260",
+    "title": "Human Performance Modeling and Support",
+    "description": "This course introduces methods, tools, and technologies for describing human performance via various types of models, and supporting this performance via tools and advanced technologies. The course is hands-on, involving student projects that investigate human performance in challenging domains as well as direct engagement with technologies for decision support.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENGR 2600",
+    "prerequisites": [
+      "ENGR 2600"
+    ],
+    "prerequisite_logic": "ENGR 2600",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: ISYE 6260",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83439"
+  },
+  {
+    "course_id": "ISYE 4270",
+    "prefix": "ISYE",
+    "number": "4270",
+    "title": "Multidisciplinary Capstone Design",
+    "description": "A capstone design experience that engages students from biomedical, computer systems, electrical, industrial, materials, and mechanical engineering on teams in an open-ended engineering design problem in preparation for professional practice. With the guidance of a multidisciplinary team of faculty members and instructional support staff, students apply knowledge and skills from prior coursework. This is a communication-intensive course.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENGR 2050 or MANE 2220 , and senior standing.",
+    "prerequisites": [
+      "ENGR 2050",
+      "MANE 2220"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ENGR 2050",
+        "MANE 2220"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Cross Listed: ECSE 4900 , MANE 4260 and MTLE 4920 . Students can obtain credit for only one of these courses: ECSE 4900, MANE 4260, MTLE 4920 or ISYE 4270.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82839"
+  },
+  {
+    "course_id": "ISYE 4280",
+    "prefix": "ISYE",
+    "number": "4280",
+    "title": "Decision Focused Systems Engineering",
+    "description": "The objective of this course is to introduce students to systems engineering, especially from a decision-focused perspective. System concepts, methodologies, models, and analysis are covered in relation to a system’s design, development, test, evaluation, and operation. Decisions concerning a system’s reliability, maintainability, usability, disposability, and affordability are systematically considered. A range of systems, including service systems, is also considered.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENGR 2600",
+    "prerequisites": [
+      "ENGR 2600"
+    ],
+    "prerequisite_logic": "ENGR 2600",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82840"
+  },
+  {
+    "course_id": "ISYE 4290",
+    "prefix": "ISYE",
+    "number": "4290",
+    "title": "Discrete Event Simulation Modeling and Analysis",
+    "description": "Introduction to discrete-event simulation modeling and analysis techniques including; graphical simulation modeling approaches, animation techniques, modeling large-scale and complex systems, pseudo-random number and random variate generation, stochastic processes, input modeling (data collection, analysis, and fitting distribution), output analysis (initial bias and termination bias, variance reduction techniques), sensitivity analysis, design of experiments, interactive simulation-based decision-support systems.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ISYE 4140 and CSCI 1100 ; or permission of instructor.",
+    "prerequisites": [
+      "ISYE 4140",
+      "CSCI 1100"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ISYE 4140",
+        "CSCI 1100"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ISYE 6620 . Students cannot obtain credit for both ISYE 4290 and ISYE 6620.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82841"
+  },
+  {
+    "course_id": "ISYE 4300",
+    "prefix": "ISYE",
+    "number": "4300",
+    "title": "Complex Systems Models for Industrial and Systems Engineering",
+    "description": "This course introduces simulation-based modeling methods for complex systems frequently encountered and used by industrial and systems engineers. Examples include production systems, queuing networks, communication systems, healthcare systems, supply chains, social networks, transportation systems, and financial markets. This course introduces techniques including discrete-event simulation and agent-based simulation for modeling and analyzing interdependent, interacting, and coupling variables, agents, components, and related subsystems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ISYE 4290",
+    "prerequisites": [
+      "ISYE 4290"
+    ],
+    "prerequisite_logic": "ISYE 4290",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83440"
+  },
+  {
+    "course_id": "ISYE 4310",
+    "prefix": "ISYE",
+    "number": "4310",
+    "title": "Ethics of Modeling for Industrial and System Engineering",
+    "description": "This course introduces students to past, current, and future issues in the ethics of information technology, and encourages students to develop their own standpoint from which to address the diverse range of ethical challenges faced in the information age. During the course, students will learn about a wide range of ethical theories, and then will apply these theories to address ethical dilemmas in creating models for decision support using an educational computer simulation.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ISYE 1100 or permission of instructor.",
+    "prerequisites": [
+      "ISYE 1100"
+    ],
+    "prerequisite_logic": "ISYE 1100",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83441"
+  },
+  {
+    "course_id": "ISYE 4320",
+    "prefix": "ISYE",
+    "number": "4320",
+    "title": "Theory of Production Scheduling",
+    "description": "Problems of scheduling several tasks over time. Topics include measures of performance, single machine sequencing, flowshop scheduling, the job shop problem, and priority dispatching. Integer programming, dynamic programming, and heuristic approaches to various problems are also presented.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ISYE 4600",
+    "prerequisites": [
+      "ISYE 4600"
+    ],
+    "prerequisite_logic": "ISYE 4600",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ISYE 6210 . Students cannot obtain credit for both ISYE 4320 and ISYE 6210.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83531"
+  },
+  {
+    "course_id": "ISYE 4330",
+    "prefix": "ISYE",
+    "number": "4330",
+    "title": "Design of Experiments",
+    "description": "Methods of designing experiments so that statistical analysis of the resulting data will yield the maximum useful information. Testing of hypotheses; analysis of variance and covariance. Various designs, including the factorial and its modifications, incomplete blocks, Latin squares, and response surface designs are covered. Also discussed are optimality properties of design.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ISYE 4140 or MATP 4600 ; or permission of the instructor. Prerequisite or Corequisite: ISYE 4140 or MATP 4600 , or permission of the instructor.",
+    "prerequisites": [
+      "ISYE 4140",
+      "MATP 4600"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        {
+          "type": "OR",
+          "items": [
+            "ISYE 4140",
+            "MATP 4600"
+          ]
+        },
+        {
+          "type": "OR",
+          "items": [
+            "ISYE 4140",
+            "MATP 4600"
+          ]
+        }
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ISYE 6020 . Students cannot obtain credit for both ISYE 4330 and ISYE 6020.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83608"
+  },
+  {
+    "course_id": "ISYE 4340",
+    "prefix": "ISYE",
+    "number": "4340",
+    "title": "Cyber-Physical Systems",
+    "description": "An introduction to Cyber-Physical Systems (CPS) focuses on mechanisms that are controlled or monitored by computer-based algorithms, tightly integrated with the physical environment or a biological system. This course provides a step-by-step approach to one of those systems (e.g., brain-machine interfaces) to emphasize the importance of interdisciplinary work and understanding of the system as a whole.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 1020 and ENGR 2600",
+    "prerequisites": [
+      "MATH 1020",
+      "ENGR 2600"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 1020",
+        "ENGR 2600"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ISYE 6340 . Students cannot obtain credit for both ISYE 4340 and ISYE 6340.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83844"
+  },
+  {
+    "course_id": "ISYE 4350",
+    "prefix": "ISYE",
+    "number": "4350",
+    "title": "Systems Engineering and Social Media",
+    "description": "An introduction to social media analytics. Topics include obtaining and processing social media data, social network analysis, content analysis, descriptive, predictive, and prescriptive analytics using social media, ethical aspects of social media analytics.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ISYE 6350 . Students cannot obtain credit for both ISYE 4350 and ISYE 6350.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83933"
+  },
+  {
+    "course_id": "ISYE 4360",
+    "prefix": "ISYE",
+    "number": "4360",
+    "title": "Applied Data Science",
+    "description": "This engineering course is an introduction to the fundamental concepts of machine learning in a lab-like environment. The course is structured in three main parts that mimic the daily workflow of a data scientist in a real organization: (i) data preparation; (ii) machine learning algorithms; and (iii) data visualization and decision making.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ENGR 2600 or MATP 4600 ; and CSCI 1100",
+    "prerequisites": [
+      "ENGR 2600",
+      "MATP 4600",
+      "CSCI 1100"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ENGR 2600",
+        {
+          "type": "AND",
+          "items": [
+            "MATP 4600",
+            "CSCI 1100"
+          ]
+        }
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ISYE 6360 . Students cannot obtain credit for both ISYE 4360 and ISYE 6360.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83935"
+  },
+  {
+    "course_id": "ISYE 4370",
+    "prefix": "ISYE",
+    "number": "4370",
+    "title": "Engineering Data Analytics",
+    "description": "Transforming data into useful information and actionable insights for decision-making is an important skill that is becoming indispensable for scientists and engineers. The objective of this course is to introduce data analytics tools to engineers through hands-on computational applications. Topics covered include probability and statistics review, data visualization, linear regression, time-series analysis, forecasting, optimization, simulation, and spreadsheet models. Applications will be in Python, MATLAB, and Excel.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ISYE 6370 . Students cannot obtain credit for both ISYE 4370 and ISYE 6370.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84128"
+  },
+  {
+    "course_id": "ISYE 4440",
+    "prefix": "ISYE",
+    "number": "4440",
+    "title": "Management of Engineering and Technology",
+    "description": "The study of the link between engineering, and management. Students will gain an in-depth understanding of the foundations of engineering management. Topics covered include the concept of engineering management, its relationship to engineering, and its historical underpinnings, the traditional roles of management with particular emphasis on leadership skills. The course examines the difference between managerial vs. leadership roles in organizational settings. Furthermore, attention is given to evaluating risk, and other organizational and administrative capabilities. The ethical dimensions of the organization and the engineering community are also explored.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Cross Listed: ENGR 4440 . Students cannot obtain credit for both ISYE 4440 and ENGR 4440.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84027"
+  },
+  {
+    "course_id": "ISYE 4450",
+    "prefix": "ISYE",
+    "number": "4450",
+    "title": "Enhancing Critical Thinking",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90479"
+  },
+  {
+    "course_id": "ISYE 4500",
+    "prefix": "ISYE",
+    "number": "4500",
+    "title": "Stochastic Methods in Operations Research",
+    "description": "This course develops an understanding of stochastic processes that evolve over time, and the ability to model, analyze, and solve optimization problems for systems that involve sequential and interrelated decisions. Course topics include Probability Theory, Markov Chains, Dynamic Programming, and Queueing Theory. The application areas include but are not limited to production and inventory systems, customer service, revenue management, and health care.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MATH 2010 and ENGR 2600",
+    "prerequisites": [
+      "MATH 2010",
+      "ENGR 2600"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 2010",
+        "ENGR 2600"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84188"
+  },
+  {
+    "course_id": "ISYE 4555",
+    "prefix": "ISYE",
+    "number": "4555",
+    "title": "Ethical Engineer, Engineering and Technology",
+    "description": "This course focuses on the morally motivated work of engineers; how they have changed the world for centuries and continue to do so. It examines the past, present and the future of engineering through ethical reflections and knowledge based on various engineering code of ethics with particular attention to NSPE Code of Ethics. Students are invited to analyze contemporary issues in engineering, hear lectures from experts’ experiences with ethical challenges in engineering, and interview engineers in various engineering fields. Particular attention will be paid to topics of corporate social responsibility and social justice. The aim of the course is to encourage engineering student to practice moral - sensibility, - analysis skills, - creativity, - judgment skills, - decision-making skills, and - argumentation skills.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ENGR 4555 . Students cannot obtain credit for both ISYE 4555 and ENGR 4555.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84156"
+  },
+  {
+    "course_id": "ISYE 4600",
+    "prefix": "ISYE",
+    "number": "4600",
+    "title": "Deterministic Methods in Operations Research",
+    "description": "This course is an introduction to deterministic mathematical modeling for common decision problems in industrial and management engineering including supply chain management, production planning, and public policy. Students will learn to formulate and solve linear and integer programs, evaluate robustness of solutions via sensitivity analysis, and apply duality and other fundamental techniques in deterministic optimization.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MATH 2010",
+    "prerequisites": [
+      "MATH 2010"
+    ],
+    "prerequisite_logic": "MATH 2010",
+    "when_offered": "OFFERED YEARLY Co-Listed: ISYE 6610 . Students cannot obtain credit for both ISYE 4600 and ISYE 6610.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82843"
+  },
+  {
+    "course_id": "ISYE 4700",
+    "prefix": "ISYE",
+    "number": "4700",
+    "title": "Game Theory and Applications in Supply Chain",
+    "description": "This course provides an introduction to game theory and common game theory models in supply chains. This course intends to enable students to develop an understanding of the interactions between multiple decision-makers and to provide a formal game-theoretical analysis. Topics include an introduction to game theory, static games of complete information, dynamic games of complete information, supply chain coordination, static games of incomplete information, and principal-agent models.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENGR 2600",
+    "prerequisites": [
+      "ENGR 2600"
+    ],
+    "prerequisite_logic": "ENGR 2600",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: ISYE 6700",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90470"
+  },
+  {
+    "course_id": "ISYE 4760",
+    "prefix": "ISYE",
+    "number": "4760",
+    "title": "Mathematical Statistics",
+    "description": "A course in the theory of statistics which will provide students with a basic foundation for more specialized statistical methodology courses. Topics include sampling and sampling distributions; point estimation including method of moments, maximum likelihood estimation, uniform minimum variance estimation and properties of the associated estimators; confidence intervals; hypothesis testing including uniformly most powerful, likelihood ratio approaches, chi-square tests for goodness-of-fit and independence. The course will conclude with an introduction to linear statistical models.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATP 4600 or equivalent calculus-based course.",
+    "prerequisites": [
+      "MATP 4600"
+    ],
+    "prerequisite_logic": "MATP 4600",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82844"
+  },
+  {
+    "course_id": "ISYE 4810",
+    "prefix": "ISYE",
+    "number": "4810",
+    "title": "Computational Intelligence",
+    "description": "With ever-increasing computer power readily available, new engineering methods based on “soft computing” are emerging at a rapid rate. This course provides students a working knowledge in computational intelligence covering the basics of fuzzy logic, neural networks, genetic algorithms, simulated annealing, wavelet analysis, fractal structures, and chaotic time series analysis. Applications in control, optimization, data mining, fractal image compression, and time series analysis are illustrated with engineering case studies.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82845"
+  },
+  {
+    "course_id": "ISYE 4940",
+    "prefix": "ISYE",
+    "number": "4940",
+    "title": "Industrial and Systems Engineering Independent Study",
+    "description": "Independent study of selected readings in the field of industrial and systems engineering, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82846"
+  },
+  {
+    "course_id": "ISYE 4960",
+    "prefix": "ISYE",
+    "number": "4960",
+    "title": "Topics in ISYE",
+    "description": "",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82847"
+  },
+  {
+    "course_id": "ISYE 6010",
+    "prefix": "ISYE",
+    "number": "6010",
+    "title": "Applied Regression Analysis",
+    "description": "Emphasis is on empirical model building and evaluation for both multiple linear and nonlinear regression models. Topics specifically addressed are simultaneous estimation, diagnostics and remedial measures, selection procedures, locally weighted least squares classification variables, binary response variables, time series data, nonlinear estimation, software packages.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Previous knowledge in ISYE 4140 or MATP 4600 and ISYE 4760",
+    "prerequisites": [
+      "ISYE 4140",
+      "MATP 4600",
+      "ISYE 4760"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ISYE 4140",
+        {
+          "type": "AND",
+          "items": [
+            "MATP 4600",
+            "ISYE 4760"
+          ]
+        }
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82848"
+  },
+  {
+    "course_id": "ISYE 6020",
+    "prefix": "ISYE",
+    "number": "6020",
+    "title": "Design of Experiments",
+    "description": "Methods of designing experiments so that statistical analysis of the resulting data will yield the maximum useful information. Testing of hypotheses; analysis of variance and covariance. Various designs, including the factorial and its modifications, incomplete blocks, Latin squares, and response surface designs are covered. Also discussed are optimality properties of design.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of ISYE 4140 or MATP 4600 required.",
+    "prerequisites": [
+      "ISYE 4140",
+      "MATP 4600"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ISYE 4140",
+        "MATP 4600"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ISYE 4330 . Students cannot obtain credit for both ISYE 4330 and ISYE 6020.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82849"
+  },
+  {
+    "course_id": "ISYE 6100",
+    "prefix": "ISYE",
+    "number": "6100",
+    "title": "Time Series Analysis",
+    "description": "Study of time series data for both description and prediction. Main emphasis on the classical Box-Jenkins approach to model identification, estimation, and diagnosis. Includes an introduction to spectral analysis. Applications to real data series, including forecasting problems and empirical comparison of alternative approaches. Use of computer packages for time series analysis.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Previous knowledge of ISYE 4760 or equivalent.",
+    "prerequisites": [
+      "ISYE 4760"
+    ],
+    "prerequisite_logic": "ISYE 4760",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82850"
+  },
+  {
+    "course_id": "ISYE 6180",
+    "prefix": "ISYE",
+    "number": "6180",
+    "title": "Knowledge Discovery with Data Mining",
+    "description": "Data mining is the computationally intelligent extraction of information from large databases. It is the process of automated presentation of patterns, rules, and functions from large data bases to make crucial business decisions. This course takes a multi-disciplinary approach to data mining and knowledge discovery involving statistics, rule and tree induction, neural networks, genetic algorithms, visualization and fuzzy logic. The course is project driven and puts a special emphasis on the use of computational intelligence for scientific data mining related to drug design and bioinformatics.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Previous knowledge of ENGR 2600 or equivalent introductory course in statistics.",
+    "prerequisites": [
+      "ENGR 2600"
+    ],
+    "prerequisite_logic": "ENGR 2600",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82851"
+  },
+  {
+    "course_id": "ISYE 6190",
+    "prefix": "ISYE",
+    "number": "6190",
+    "title": "Introduction to Big Data Analytics",
+    "description": "Big Data Analytics is the automated process for finding interesting, actionable information from large amounts of data. This course emphasizes the evolution from machine learning to big data analytics. Topics include data-driven science and engineering, basic data mining, machine learning approaches for big data, artificial neural networks, time series analysis and deep learning. There is a special emphasis on the use of scriptable code for Big Data Analytics.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: An introductory statistics course.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83744"
+  },
+  {
+    "course_id": "ISYE 6210",
+    "prefix": "ISYE",
+    "number": "6210",
+    "title": "Theory of Production Scheduling",
+    "description": "Problems of scheduling several tasks over time. Topics include measures of performance, single machine sequencing, flowshop scheduling, the job shop problem, and priority dispatching. Integer programming, dynamic programming, and heuristic approaches to various problems are also presented.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: introductory course in operations research.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82852"
+  },
+  {
+    "course_id": "ISYE 6260",
+    "prefix": "ISYE",
+    "number": "6260",
+    "title": "Human Performance Modeling and Support",
+    "description": "This course introduces methods, tools, and technologies for describing human performance via various types of models, and supporting this performance via tools and advanced technologies. The course is hands-on, involving student projects that investigate human performance in challenging domains as well as direct engagement with technologies for decision support.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: ISYE 4260",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90419"
+  },
+  {
+    "course_id": "ISYE 6340",
+    "prefix": "ISYE",
+    "number": "6340",
+    "title": "Cyber-Physical Systems",
+    "description": "An introduction to Cyber-Physical Systems (CPS) focuses on mechanisms that are controlled or monitored by computer-based algorithms, tightly integrated with the physical environment or a biological system. This course provides a step-by-step approach to one of those systems (e.g., brain-machine interfaces) to emphasize the importance of interdisciplinary work and understanding of the system as a whole.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of MATH 1020 and ENGR 2600 required.",
+    "prerequisites": [
+      "MATH 1020",
+      "ENGR 2600"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 1020",
+        "ENGR 2600"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ISYE 4340 . Students cannot earn credit for both ISYE 4340 and ISYE 6340.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83910"
+  },
+  {
+    "course_id": "ISYE 6350",
+    "prefix": "ISYE",
+    "number": "6350",
+    "title": "Systems Engineering and Social Media",
+    "description": "An introduction to social media analytics. Topics include obtaining and processing social media data, social network analysis, content analysis, descriptive, predictive, and prescriptive analytics using social media, ethical aspects of social media analytics.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ISYE 4350 . Students cannot obtain credit for both ISYE 4350 and ISYE 6350.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83934"
+  },
+  {
+    "course_id": "ISYE 6360",
+    "prefix": "ISYE",
+    "number": "6360",
+    "title": "Applied Data Science",
+    "description": "This course is aimed at upper-level undergraduate and graduate students who wish to master the fundamental concepts of machine learning in a lab-like environment. Students will choose a relevant topic/dataset to explore and devise the best approach to extract knowledge from noisy data along with data visualizations for decision making. Graduate students will also conduct an in-depth overview of existing methods and approaches relevant to their topic.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: ISYE 4360 . Students cannot obtain credit for both ISYE 4360 and ISYE 6360.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83936"
+  },
+  {
+    "course_id": "ISYE 6370",
+    "prefix": "ISYE",
+    "number": "6370",
+    "title": "Engineering Data Analytics",
+    "description": "Transforming data into useful information and actionable insights for decision-making is an important skill that is becoming indispensable for scientists and engineers. The objective of this course is to introduce data analytics tools to engineers through hands-on computational applications. Topics covered include probability and statistics review, data visualization, linear regression, time-series analysis, forecasting, optimization, simulation, and spreadsheet models. Applications will be in Python, MATLAB, and Excel.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ISYE 4370 . Students cannot obtain credit for both ISYE 4370 and ISYE 6370.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84129"
+  },
+  {
+    "course_id": "ISYE 6550",
+    "prefix": "ISYE",
+    "number": "6550",
+    "title": "Network Flows: Theory, Algorithms, and Applications",
+    "description": "Network flow problems form a subclass of linear programming problems with applications to transportation, logistics, manufacturing, computer science, project management, and finance, and many other domains. This subject will survey some of the applications of network optimization and focus on key special cases of network optimization problems including the following: the shortest path problems, the maximum flow problems, traveling salesperson problems, and matching problems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: none.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84153"
+  },
+  {
+    "course_id": "ISYE 6600",
+    "prefix": "ISYE",
+    "number": "6600",
+    "title": "Design of Manufacturing System Supply Chains",
+    "description": "An overview of the principles involved in the management of supply chains with an emphasis on demand forecasting, resource planning, supply chain operations and coordination, inventory management, and network design. The course will emphasize the theoretical aspects of these topics, with the development of quantitative approaches to aid in decision-making and managerial insights.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of ISYE 4140 (or equivalent) required.",
+    "prerequisites": [
+      "ISYE 4140"
+    ],
+    "prerequisite_logic": "ISYE 4140",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: ISYE 4210 . Students cannot obtain credit for both ISYE 4210 and ISYE 6600.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82853"
+  },
+  {
+    "course_id": "ISYE 6610",
+    "prefix": "ISYE",
+    "number": "6610",
+    "title": "Systems Modeling in Decision Sciences",
+    "description": "This course is an introduction to deterministic mathematical modeling for common decision problems in industrial and management engineering including supply chain management, production planning, and public policy. Students will learn to formulate and solve linear and integer programs, evaluate robustness of solutions via sensitivity analysis, and apply duality and other fundamental techniques in deterministic optimization.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: ISYE 4600 . Students cannot obtain credit for both ISYE 4600 and ISYE 6610.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82854"
+  },
+  {
+    "course_id": "ISYE 6620",
+    "prefix": "ISYE",
+    "number": "6620",
+    "title": "Discrete-Event Simulation",
+    "description": "A thorough development of a simulation language is stressed in order to progress through a series of increasingly sophisticated applications of computer simulation. Projects cover a wide range of topics: production systems, inventory, finance, transportation, and public systems. The course includes model development, statistical analysis of simulation input/output data, validation planning, and managing simulation projects.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge in ISYE 4140 or equivalent is required.",
+    "prerequisites": [
+      "ISYE 4140"
+    ],
+    "prerequisite_logic": "ISYE 4140",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ISYE 4290 . Students cannot obtain credit for both ISYE 4290 and ISYE 6620.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82855"
+  },
+  {
+    "course_id": "ISYE 6700",
+    "prefix": "ISYE",
+    "number": "6700",
+    "title": "Game Theory and Applications in Supply Chain",
+    "description": "This course provides an introduction to game theory and common game theory models in supply chains. This course intends to enable students to develop an understanding of the interactions between multiple decision-makers and to provide a formal game-theoretical analysis. Topics include an introduction to game theory, static games of complete information, dynamic games of complete information, supply chain coordination, static games of incomplete information, and principal-agent models.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: ISYE 4700",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90471"
+  },
+  {
+    "course_id": "ISYE 6760",
+    "prefix": "ISYE",
+    "number": "6760",
+    "title": "Integer and Combinatorial Optimization",
+    "description": "Review of exact and heuristic methods for solving discrete problems, including the traveling salesman problem, the knapsack problem, packing and covering problems. Algorithm complexity and NP-completeness, cutting plane methods and polyhedral theory, branch and bound, simulated annealing, tabu search, Lagrangian duality.",
+    "credit_hours": "4",
+    "prerequisites_raw": "None; but knowledge of multivariable calculus, linear algebra, operations research, and optimization at the level of MATH 2010 and MATP 4700 is recommended.",
+    "prerequisites": [
+      "MATH 2010",
+      "MATP 4700"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 2010",
+        "MATP 4700"
+      ]
+    },
+    "when_offered": "SPRING TERM, ODD YEARS Cross Listed: MATP 6620 . Students cannot obtain credit for both ISYE 6760 and MATP 6620.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82856"
+  },
+  {
+    "course_id": "ISYE 6770",
+    "prefix": "ISYE",
+    "number": "6770",
+    "title": "Linear and Conic Optimization",
+    "description": "A unified development of linear systems and linear programming, polyhedral theory, the simplex method, interior point methods, decomposition methods for large scale linear programming problems, the ellipsoid method, column generation algorithms for stochastic programming and other problems.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None, but knowledge of Multi-variable Calculus, Matrix Algebra, and Models of Operations Research at the level of MATH 2010 and MATP 4700 is recommended.",
+    "prerequisites": [
+      "MATH 2010",
+      "MATP 4700"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 2010",
+        "MATP 4700"
+      ]
+    },
+    "when_offered": "SPRING TERM, EVEN YEARS Cross Listed: MATP 6640 . Students cannot obtain credit for both ISYE 6760 and MATP 6640.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82857"
+  },
+  {
+    "course_id": "ISYE 6780",
+    "prefix": "ISYE",
+    "number": "6780",
+    "title": "Introduction to Optimization",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: None, but the knowledge of Multi-variable Calculus, Matrix Algebra, and Mathematical Analysis at the level of MATH 2010 and MATH 4090 is recommended.",
+    "prerequisites": [
+      "MATH 2010",
+      "MATH 4090"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 2010",
+        "MATH 4090"
+      ]
+    },
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82858"
+  },
+  {
+    "course_id": "ISYE 6820",
+    "prefix": "ISYE",
+    "number": "6820",
+    "title": "Queuing Systems and Applications",
+    "description": "A course on fundamentals of stochastic processes and queuing theory emphasizing applications. Poisson processes, renewal processes, Markov chains, general methods in the study of Markovian and non-Markovian systems, tandem queues, networks of queues, priority and bulk queues, computational methods and simulation. Focus of the course is the application of these tools in the performance evaluation and design of computer systems, communication networks, manufacturing systems, and service systems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of ECSE 2500 or MATP 4600 ; or equivalent required.",
+    "prerequisites": [
+      "ECSE 2500",
+      "MATP 4600"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECSE 2500",
+        "MATP 4600"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Cross Listed: ECSE 6820 . S tudents cannot obtain credit for both ISYE 6820 and ECSE 6820.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82859"
+  },
+  {
+    "course_id": "ISYE 6870",
+    "prefix": "ISYE",
+    "number": "6870",
+    "title": "Introduction to Neural Networks",
+    "description": "Neural networks are program and memory at once, useful where traditional techniques fail, i.e., for artificial speech and image recognition. Emphasis on existing and emerging engineering applications. Parallel distributed processing, Hebb’s rule, Hopfield net, back-propagation algorithm, perceptrons, unsupervised learning, Kohenen self-organizing map, genetic algorithms, neocognitron, adaline. Illustrated with computer programs and lectures.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Cross Listed: MANE 6240 . Students cannot obtain credit for both ISYE 6870 and MANE 6240.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82860"
+  },
+  {
+    "course_id": "ISYE 6900",
+    "prefix": "ISYE",
+    "number": "6900",
+    "title": "A Researcher’s Toolkit for Engineers",
+    "description": "This course presents the fundamentals of research in engineering. The objectives of the class are: (i) To introduce the main ideas and tools for doing research in engineering, (ii) To develop and practice critical skills for assessing research projects, producing new research and communicating them,(iii) To show the diverse research career options in academia and industry. Students will identify an advisor, develop a research project under their guidance, and present their work in class.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: Doctoral student or permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82861"
+  },
+  {
+    "course_id": "ISYE 6940",
+    "prefix": "ISYE",
+    "number": "6940",
+    "title": "Readings in Industrial and Systems Engineering",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82862"
+  },
+  {
+    "course_id": "ISYE 6960",
+    "prefix": "ISYE",
+    "number": "6960",
+    "title": "Topics in ISYE",
+    "description": "",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82863"
+  },
+  {
+    "course_id": "ISYE 6970",
+    "prefix": "ISYE",
+    "number": "6970",
+    "title": "Professional Project",
+    "description": "Active participation in a semester-long project, under the supervision of a faculty adviser. A Professional Project often serves as a culminating experience for a Professional Master’s program but, with departmental or school approval, can be used to fulfill other program requirements. With approval, students may register for more than one Professional Project. Professional Projects must result in documentation established by each department or school, but are not submitted to the Office of Graduate Education and are not archived in the library. Grades of A, B, C, or F are assigned by the faculty adviser at the end of the semester. If not completed on time, a formal Incomplete grade may be assigned by the faculty adviser, listing the work remaining to be completed and the time limit for completing this work.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82864"
+  },
+  {
+    "course_id": "ISYE 6980",
+    "prefix": "ISYE",
+    "number": "6980",
+    "title": "Master’s Project",
+    "description": "Active participation in a master’s-level project under the supervision of a faculty adviser, leading to a master’s project report. Grades of IP are assigned until the master’s project has been approved by the faculty adviser. If recommended by the adviser, the master’s project may be accepted by the Office of Graduate Education to be archived in the Library. Grades will then be listed as S.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82865"
+  },
+  {
+    "course_id": "ISYE 6990",
+    "prefix": "ISYE",
+    "number": "6990",
+    "title": "Master’s Thesis",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a master’s thesis. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82866"
+  },
+  {
+    "course_id": "ISYE 9990",
+    "prefix": "ISYE",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "1-16",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82867"
+  }
+]

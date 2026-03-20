@@ -1,0 +1,519 @@
+[
+  {
+    "course_id": "ENVE 2110",
+    "prefix": "ENVE",
+    "number": "2110",
+    "title": "Introduction to Environmental Engineering",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "CHEM 1100 , CHEM 1110 , CHEM 1120 , or CHEM 1200 ; and MATH 2400 and CIVL 2050 ; or permission of the instructor.",
+    "prerequisites": [
+      "CHEM 1100",
+      "CHEM 1110",
+      "CHEM 1120",
+      "CHEM 1200",
+      "MATH 2400",
+      "CIVL 2050"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CHEM 1100",
+            "CHEM 1110",
+            "CHEM 1120"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "CHEM 1200",
+            "MATH 2400",
+            "CIVL 2050"
+          ]
+        }
+      ]
+    },
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82744"
+  },
+  {
+    "course_id": "ENVE 2940",
+    "prefix": "ENVE",
+    "number": "2940",
+    "title": "Readings in Environmental Engineering",
+    "description": "Independent study of selected readings in the field of environmental engineering, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82745"
+  },
+  {
+    "course_id": "ENVE 4180",
+    "prefix": "ENVE",
+    "number": "4180",
+    "title": "Environmental Process Design",
+    "description": "The design of processes and systems to protect public and ecosystem health using scientific, technological, and economic principles. Students formulate problems, develop requirements, and evaluate solutions against specifications, constraints, risks, and trade-offs. Students integrate background from previous courses and resources from the technical literature. The role of ethics and codes in professional practice is discussed. In this communication-intensive course, students write engineering proposals and reports, and present work orally.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENGR 2050 , ENVE 4320 , ENVE 4340 , and senior standing.",
+    "prerequisites": [
+      "ENGR 2050",
+      "ENVE 4320",
+      "ENVE 4340"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ENGR 2050",
+        "ENVE 4320",
+        "ENVE 4340"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82746"
+  },
+  {
+    "course_id": "ENVE 4200",
+    "prefix": "ENVE",
+    "number": "4200",
+    "title": "Solid and Hazardous Waste Engineering",
+    "description": "Classification and characteristics of solid and hazardous wastes; appropriate waste management systems; design of collection and transfer systems; methods of destruction and disposal, including landfills; recycle methods; and salvage and conversion operations for resource recovery.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82747"
+  },
+  {
+    "course_id": "ENVE 4210",
+    "prefix": "ENVE",
+    "number": "4210",
+    "title": "Industrial Waste Treatment and Disposal",
+    "description": "Physical, chemical, and biological characteristics of industrial wastes. Application of unit operations and processes to the treatment of waste streams. Consideration of recovery and/or recycling of useful products.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82748"
+  },
+  {
+    "course_id": "ENVE 4220",
+    "prefix": "ENVE",
+    "number": "4220",
+    "title": "Water Reuse Technologies & Applications",
+    "description": "This course investigates global water reuse/recycle initiatives, legal frameworks, and treatment technologies. Treatment objectives are developed based on chemical and biological contaminants present in wastewater and models for health risk analysis. Includes critical evaluation and design of advanced treatment technologies to meet water quality criteria, including membrane, disinfection, and advanced oxidation processes. Applications of reclaimed water to agricultural irrigation, industrial processes, groundwater recharge and potable supply are examined.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENVE 2110 or instructor approval.",
+    "prerequisites": [
+      "ENVE 2110"
+    ],
+    "prerequisite_logic": "ENVE 2110",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84151"
+  },
+  {
+    "course_id": "ENVE 4240",
+    "prefix": "ENVE",
+    "number": "4240",
+    "title": "Bench Scale Design",
+    "description": "The design and operation of different laboratory experiments to provide experience for the environmental engineer in the practical application of chemical and biological theory. Design parameters are developed via bench scale testing. Topics can include biological treatment, phytoremediation, composting of solid waste and soil columns, and microbial respirometry.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82749"
+  },
+  {
+    "course_id": "ENVE 4320",
+    "prefix": "ENVE",
+    "number": "4320",
+    "title": "Environmental Chemodynamics",
+    "description": "The movement of chemicals in air, water, and soil is presented to demonstrate the relation of physiochemical principles in the behavior of chemicals in the environment. Topics include chemical and thermal equilibrium at environmental interfaces, transport fundamentals, and the fate and transport of chemicals in various environmental compartments. Includes experimental analysis of natural and engineered chemical and thermodynamic processes, emphasizing experimental design, data evaluation, and report writing.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CHEM 1200 and ENVE 2110",
+    "prerequisites": [
+      "CHEM 1200",
+      "ENVE 2110"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CHEM 1200",
+        "ENVE 2110"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82750"
+  },
+  {
+    "course_id": "ENVE 4330",
+    "prefix": "ENVE",
+    "number": "4330",
+    "title": "Introduction to Air Quality",
+    "description": "Quantitative introduction to the engineering methods for the study of air quality. Topics include but are not limited to: estimation procedures for air pollution emissions; indoor air quality problems, impacts and control strategies; sources, impacts and control strategies for greenhouse gases; dispersion modeling for point sources; pollutant acidification of lakes; chemistry of stoichiometric and non-stoichiometric combustion; assessment methods for human exposure to air pollutants.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENVE 2110",
+    "prerequisites": [
+      "ENVE 2110"
+    ],
+    "prerequisite_logic": "ENVE 2110",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82751"
+  },
+  {
+    "course_id": "ENVE 4340",
+    "prefix": "ENVE",
+    "number": "4340",
+    "title": "Physicochemical Processes in Environmental Engineering",
+    "description": "Physical and chemical processes governing water quality in natural and engineered systems with applications to potable water treatment. Topics include reactor dynamics, coagulation and flocculation, sedimentation, filtration, gas transfer, adsorption and ion exchange, and membrane processes. A design project for which students develop a computer model of an environmental process is required. Includes laboratory experiments to measure physicochemical process parameters, emphasizing experimental design, data evaluation, and report writing.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ENVE 2110 and CHEM 1200",
+    "prerequisites": [
+      "ENVE 2110",
+      "CHEM 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ENVE 2110",
+        "CHEM 1200"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82752"
+  },
+  {
+    "course_id": "ENVE 4350",
+    "prefix": "ENVE",
+    "number": "4350",
+    "title": "Biological Processes in Environmental Engineering",
+    "description": "The study of biochemical and biological processes common to environmental engineering. Introductory physiology, biochemistry and ecology of bacteria, yeasts, fungi. Laboratory work in microbial techniques. Development of reaction rate and mass balances on biological processes for pollution control. Includes experimental analysis of natural and engineered biological processes, emphasizing experimental design, data evaluation, and report writing.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ENVE 4320",
+    "prerequisites": [
+      "ENVE 4320"
+    ],
+    "prerequisite_logic": "ENVE 4320",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82753"
+  },
+  {
+    "course_id": "ENVE 4370",
+    "prefix": "ENVE",
+    "number": "4370",
+    "title": "Applied Hydrology and Design",
+    "description": "This course introduces elements of applied hydrology including climate data analysis, hydrologic processes (rainfall, abstraction, evaporation, excess runoff), and catchment modelling. Applications include design of stormwater management infrastructure to promote infiltration, control peak discharge, and control receiving stream flow distribution.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CIVL 2060",
+    "prerequisites": [
+      "CIVL 2060"
+    ],
+    "prerequisite_logic": "CIVL 2060",
+    "when_offered": "SUMMER TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83991"
+  },
+  {
+    "course_id": "ENVE 4560",
+    "prefix": "ENVE",
+    "number": "4560",
+    "title": "Isotope Geochemistry",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83648"
+  },
+  {
+    "course_id": "ENVE 4690",
+    "prefix": "ENVE",
+    "number": "4690",
+    "title": "Aqueous Geochemistry",
+    "description": "Previous Course Number 4110 Fundamentals of aqueous chemistry as applied to the evolution of natural waters. The course covers principles of chemical equilibrium, activity models for solutes, pH as a master variable, concentration and Eh-pH diagrams, mineral solubility, aqueous complexes, ion exchange, and stable isotopes. The carbonate system, weathering reactions, and acid rain are examined in detail. Emphasis is on the chemical reactions that control surface and groundwater evolution in natural and engineered (treatment process) settings. Students learn theory, computation methods, and the use of computer programs for calculation of speciation and mass balance.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CHEM 1100 , CHEM 1110 or CHEM 1120 ; or permission of instructor.",
+    "prerequisites": [
+      "CHEM 1100",
+      "CHEM 1110",
+      "CHEM 1120"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CHEM 1100",
+            "CHEM 1110"
+          ]
+        },
+        "CHEM 1120"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: CHEM 4690 , ERTH 4690 , ERTH 6690 Co-Listed: ENVE 6690",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84163"
+  },
+  {
+    "course_id": "ENVE 4710",
+    "prefix": "ENVE",
+    "number": "4710",
+    "title": "Groundwater Hydrology",
+    "description": "Study of hydrologic and geologic and other factors controlling groundwater flow, occurrence, and development. Groundwater flow theory and aquifer test methods are introduced. Interactions between surface and subsurface hydrologic systems are covered. Applications to design of infiltration, remediation, and dewatering systems.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 1020 or equivalent, or permission of the instructor.",
+    "prerequisites": [
+      "MATH 1020"
+    ],
+    "prerequisite_logic": "MATH 1020",
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ERTH 6710 Co-Listed: ENVE 6710",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83449"
+  },
+  {
+    "course_id": "ENVE 4940",
+    "prefix": "ENVE",
+    "number": "4940",
+    "title": "Environmental Engineering Independent Study",
+    "description": "Independent study of selected readings in the field of environmental engineering, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82754"
+  },
+  {
+    "course_id": "ENVE 4960",
+    "prefix": "ENVE",
+    "number": "4960",
+    "title": "Topics in Environmental Engineering",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82755"
+  },
+  {
+    "course_id": "ENVE 4980",
+    "prefix": "ENVE",
+    "number": "4980",
+    "title": "Senior Project",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82756"
+  },
+  {
+    "course_id": "ENVE 6140",
+    "prefix": "ENVE",
+    "number": "6140",
+    "title": "Stream Pollution Control",
+    "description": "Principles of limnology applied to the ecological conditions of streams and bodies of fresh water relative to capacity to stabilize organic materials. The economic aspects of water pollution; health aspects of bacterial pollution.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82758"
+  },
+  {
+    "course_id": "ENVE 6200",
+    "prefix": "ENVE",
+    "number": "6200",
+    "title": "Hazardous Waste Management I",
+    "description": "This course concentrates on management issues and study of the fate and transport of hazardous materials in the environment. Management topics are broken down into three broad categories: regulatory issues, those necessary for daily operation of an industrial facility (industrial hygiene, storage, and transportation issues), and preliminary environmental site assessments. Fate and transport issues will be dealt with quantitatively.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82761"
+  },
+  {
+    "course_id": "ENVE 6230",
+    "prefix": "ENVE",
+    "number": "6230",
+    "title": "Mathematical Modeling of Environmental Engineering Systems",
+    "description": "Basic modeling approaches and techniques for the simulation of environmental engineering systems. Model development, system conceptualization and analysis, mathematical representation, solution and simulation, as well as model calibration and verification, are discussed. Problems such as simulation of biochemical reactors and behavior of toxic chemicals in groundwater are drawn from the literature. Ongoing research projects are discussed.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82763"
+  },
+  {
+    "course_id": "ENVE 6240",
+    "prefix": "ENVE",
+    "number": "6240",
+    "title": "Air Pollution Control",
+    "description": "The major approaches to air pollution control are discussed from three viewpoints: equipment for particle and gaseous emissions control, control of specific processes and pollutants, control strategies. Emphasis is on control devices for particles, sulfur oxides, and nitrogen oxides; absorption with chemical reaction; wet scrubber technology. Combination with other approaches to develop control strategies.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of ENVE 4330",
+    "prerequisites": [
+      "ENVE 4330"
+    ],
+    "prerequisite_logic": "ENVE 4330",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82764"
+  },
+  {
+    "course_id": "ENVE 6250",
+    "prefix": "ENVE",
+    "number": "6250",
+    "title": "Bench Scale Design",
+    "description": "The design and operation of different laboratory experiments to provide experience for the environmental engineer in the practical application of chemical and biological theory. Design parameters are developed via bench scale testing. Topics include biological treatment, ion exchange, test for total carbon in a solid waste and PARR bomb calorimeter, soil columns, and microbial respirometry.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82765"
+  },
+  {
+    "course_id": "ENVE 6300",
+    "prefix": "ENVE",
+    "number": "6300",
+    "title": "Bioremediation of Hazardous and Toxic Compounds",
+    "description": "Lecture course stresses multidisciplinary approaches to the use of microbial system for biotransformation and biodegradation of toxic and hazardous material. Topics include biodegradability, enzymatic transformations, microbial ecology, and properties of organic and inorganic compounds, in situ and ex situ engineering techniques. Real world design examples and projects are introduced. Permission of instructor is required.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of ENVE 4350 or equivalent.",
+    "prerequisites": [
+      "ENVE 4350"
+    ],
+    "prerequisite_logic": "ENVE 4350",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82766"
+  },
+  {
+    "course_id": "ENVE 6690",
+    "prefix": "ENVE",
+    "number": "6690",
+    "title": "Aqueous Geochemistry",
+    "description": "Fundamentals of aqueous chemistry as applied to the evolution of natural waters. The course covers principles of chemical equilibrium, activity models for solutes, pH as a master variable, concentration and Eh-pH diagrams, mineral solubility, aqueous complexes, ion exchange, and stable isotopes. The carbonate system, weathering reactions, and acid rain are examined in detail. Emphasis is on the chemical reactions that control surface and groundwater evolution in natural and engineered (treatment process) settings. Students learn theory, computation methods, and the use of computer programs for calculation of speciation and mass balance",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: CHEM 4690 , ERTH 4690 , ERTH 6690 Co-Listed: ENVE 4690",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84164"
+  },
+  {
+    "course_id": "ENVE 6710",
+    "prefix": "ENVE",
+    "number": "6710",
+    "title": "Advanced Groundwater Hydrology",
+    "description": "Study of hydrologic and geologic and other factors controlling groundwater flow, occurrence, and development. Groundwater flow theory and aquifer test methods are introduced. Interactions between surface and subsurface hydrologic systems are covered. Applications to design of infiltration, remediation, and dewatering systems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of MATH 1020 or higher.",
+    "prerequisites": [
+      "MATH 1020"
+    ],
+    "prerequisite_logic": "MATH 1020",
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ERTH 4710 Students may not receive credit for this course and those co/cross listed. Co-Listed: ENVE 4710",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84127"
+  },
+  {
+    "course_id": "ENVE 6910",
+    "prefix": "ENVE",
+    "number": "6910",
+    "title": "Colloquium Series",
+    "description": "Seminars by distinguished guest speakers and graduate students on current problems in environmental and energy engineering. A broad range of subjects is covered. All undergraduates and graduates are strongly encouraged to attend as many lectures as possible.",
+    "credit_hours": "0",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82767"
+  },
+  {
+    "course_id": "ENVE 6940",
+    "prefix": "ENVE",
+    "number": "6940",
+    "title": "Studies in Environmental Engineering",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82768"
+  },
+  {
+    "course_id": "ENVE 6960",
+    "prefix": "ENVE",
+    "number": "6960",
+    "title": "Topics in Environmental Engineering",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82769"
+  },
+  {
+    "course_id": "ENVE 6970",
+    "prefix": "ENVE",
+    "number": "6970",
+    "title": "Professional Project",
+    "description": "Active participation in a semester-long project, under the supervision of a faculty adviser. A Professional Project often serves as a culminating experience for a Professional Master’s program but, with departmental or school approval, can be used to fulfill other program requirements. With approval, students may register for more than one Professional Project. Professional Projects must result in documentation established by each department or school, but are not submitted to the Office of Graduate Education and are not archived in the library. Grades of A, B, C, or F are assigned by the faculty adviser at the end of the semester. If not completed on time, a formal Incomplete grade may be assigned by the faculty adviser, listing the work remaining to be completed and the time limit for completing this work.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82770"
+  },
+  {
+    "course_id": "ENVE 6980",
+    "prefix": "ENVE",
+    "number": "6980",
+    "title": "Master’s Project",
+    "description": "Active participation in a master’s-level project, under the supervision of a faculty adviser, leading to a master’s project report. Grades S or U are assigned at the end of the semester. If recommended by the adviser, the master’s project may be accepted by the Office of Graduate Education to be archived in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82771"
+  },
+  {
+    "course_id": "ENVE 6990",
+    "prefix": "ENVE",
+    "number": "6990",
+    "title": "Master’s Thesis",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a master’s thesis. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82772"
+  },
+  {
+    "course_id": "ENVE 9990",
+    "prefix": "ENVE",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "1-16",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82773"
+  }
+]

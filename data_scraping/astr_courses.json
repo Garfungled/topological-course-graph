@@ -1,0 +1,271 @@
+[
+  {
+    "course_id": "ASTR 1520",
+    "prefix": "ASTR",
+    "number": "1520",
+    "title": "Stars, Galaxies, and the Cosmos",
+    "description": "This course serves as an introduction to astronomy, focusing on understanding the physical nature of stars and galaxies, the vastness of the cosmos, and how astronomers have built up a comprehensive picture of the Universe in which we live through meticulous study.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83831"
+  },
+  {
+    "course_id": "ASTR 1540",
+    "prefix": "ASTR",
+    "number": "1540",
+    "title": "Earth and Sky",
+    "description": "Previous Course Number 2120 An introduction to astronomy from an observational perspective. Students will learn the basics of observing the night-time sky, both with the unaided eye and through telescopic observation. Observations of Earth from orbiting satellites will also be discussed. The course is suitable for non-physics and non-science majors as well as those committed to specialization in astronomy. Attributes Data Intensive 1",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82252"
+  },
+  {
+    "course_id": "ASTR 1960",
+    "prefix": "ASTR",
+    "number": "1960",
+    "title": "Topics in Astronomy and Astrophysics",
+    "description": "",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82250"
+  },
+  {
+    "course_id": "ASTR 2050",
+    "prefix": "ASTR",
+    "number": "2050",
+    "title": "Introductory Astronomy and Astrophysics",
+    "description": "Astronomy for students with a background of college mathematics and physics. Topics include: astrophysical concepts, solar system basics, stellar astronomy and the interstellar medium, the Milky Way system, galaxies, quasars, and cosmology.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: PHYS 1200 or PHYS 1250",
+    "prerequisites": [
+      "PHYS 1200",
+      "PHYS 1250"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "PHYS 1200",
+        "PHYS 1250"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82251"
+  },
+  {
+    "course_id": "ASTR 2940",
+    "prefix": "ASTR",
+    "number": "2940",
+    "title": "Undergraduate Research Project in Astronomy",
+    "description": "Study and research in various fields of astronomy to demonstrate interest in and ability for independent work.",
+    "credit_hours": "",
+    "prerequisites_raw": "By permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82253"
+  },
+  {
+    "course_id": "ASTR 4110",
+    "prefix": "ASTR",
+    "number": "4110",
+    "title": "Cosmology",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84252"
+  },
+  {
+    "course_id": "ASTR 4120",
+    "prefix": "ASTR",
+    "number": "4120",
+    "title": "Observational Astronomy",
+    "description": "An introduction to astronomical observing techniques and instrumentation. Optical telescope design. Observatory site selection. Telescopes above the atmosphere. Imaging techniques: photography, charge-coupled devices. Optical photometry, spectroscopy, and polarimetry, and their applications. Infrared techniques and applications. Radio astronomy. Includes evening laboratory sessions.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ASTR 2050 or permission of instructor.",
+    "prerequisites": [
+      "ASTR 2050"
+    ],
+    "prerequisite_logic": "ASTR 2050",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82254"
+  },
+  {
+    "course_id": "ASTR 4150",
+    "prefix": "ASTR",
+    "number": "4150",
+    "title": "Particle Astrophysics",
+    "description": "This is introductory course to Particle Astrophysics at the advanced undergraduate level. It will focus on modern topics at the forefront of the field. An emphasis will be given on the overlap of s=astrophysics questions with theoretical and experimental techniques in particle physics.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHYS 2210 or equivalent or permission of instructor.",
+    "prerequisites": [
+      "PHYS 2210"
+    ],
+    "prerequisite_logic": "PHYS 2210",
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: PHYS 4150",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90387"
+  },
+  {
+    "course_id": "ASTR 4220",
+    "prefix": "ASTR",
+    "number": "4220",
+    "title": "Astrophysics",
+    "description": "A survey course in modern astrophysics with an emphasis on stellar astrophysics and interstellar matter; topics include star formation, the structure and observable properties of normal and degenerate stars; and the composition, dynamics, and stability of the interstellar medium.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHYS 4220 and PHYS 4420 or equivalent.",
+    "prerequisites": [
+      "PHYS 4220",
+      "PHYS 4420"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "PHYS 4220",
+        "PHYS 4420"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82255"
+  },
+  {
+    "course_id": "ASTR 4240",
+    "prefix": "ASTR",
+    "number": "4240",
+    "title": "General Relativity",
+    "description": "Introduction to the physics of gravitation and spacetime. Special relativity, tensor calculus, and relativistic electrodynamics. General relativity with selected applications of Einstein’s field equations (gravitational time dilation; gravitational lensing; frame dragging; gravitational radiation). The physics of nonrotating and rotating black holes. Relativistic models for the large-scale structure of the Universe. Observational constraints on the cosmological parameters. Big Bang nucleosynthesis, the Cosmic Background Radiation. A culminating experience project is required. (Meets with PHYS 4240 .)",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHYS 4330 and MATH 4600 .",
+    "prerequisites": [
+      "PHYS 4330",
+      "MATH 4600"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "PHYS 4330",
+        "MATH 4600"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: PHYS 4240 . Students cannot receive credit for both ASTR 4240 and PHYS 4240 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82256"
+  },
+  {
+    "course_id": "ASTR 4510",
+    "prefix": "ASTR",
+    "number": "4510",
+    "title": "Origin of Life: A Cosmic Perspective",
+    "description": "To understand the origin of life is a fundamental goal of science. Discussions include evidence for important prebiotic molecules in the clouds from which new planetary systems are born, and compare cosmic and terrestrial sources of such molecules on the primitive Earth. The course is multidisciplinary, covering topics in physics, astronomy, chemistry, earth sciences, and biology.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ASTR 2050 or permission of instructor.",
+    "prerequisites": [
+      "ASTR 2050"
+    ],
+    "prerequisite_logic": "ASTR 2050",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82257"
+  },
+  {
+    "course_id": "ASTR 4900",
+    "prefix": "ASTR",
+    "number": "4900",
+    "title": "Astrophysics Undergraduate Seminar",
+    "description": "Discussion of topics in the current astrophysical literature. Each student is required to give one oral presentation based on a paper or group of papers.",
+    "credit_hours": "1",
+    "prerequisites_raw": "Junior standing or higher or permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82258"
+  },
+  {
+    "course_id": "ASTR 4940",
+    "prefix": "ASTR",
+    "number": "4940",
+    "title": "Astronomy Independent Study",
+    "description": "Study and research in various fields of astronomy to demonstrate interest in and ability for independent work.",
+    "credit_hours": "",
+    "prerequisites_raw": "Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82259"
+  },
+  {
+    "course_id": "ASTR 4960",
+    "prefix": "ASTR",
+    "number": "4960",
+    "title": "Topics in Astronomy and Astrophysics",
+    "description": "",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82260"
+  },
+  {
+    "course_id": "ASTR 6250",
+    "prefix": "ASTR",
+    "number": "6250",
+    "title": "Interstellar Medium",
+    "description": "Thermal structure and dynamics of the interstellar medium. Topics include diffuse nebulae, composition of interstellar dust and relation to extinction and polarization, molecules and interstellar chemistry, physics of star-forming regions.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ASTR 4220",
+    "prerequisites": [
+      "ASTR 4220"
+    ],
+    "prerequisite_logic": "ASTR 4220",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82261"
+  },
+  {
+    "course_id": "ASTR 6940",
+    "prefix": "ASTR",
+    "number": "6940",
+    "title": "Independent Study in Astronomy and Astrophysics",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82262"
+  },
+  {
+    "course_id": "ASTR 6960",
+    "prefix": "ASTR",
+    "number": "6960",
+    "title": "Special Topics in Astronomy and Astrophysics",
+    "description": "Supervised reading and study in various fields of astrophysics.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82263"
+  },
+  {
+    "course_id": "ASTR 6970",
+    "prefix": "ASTR",
+    "number": "6970",
+    "title": "Professional Project",
+    "description": "Active participation in a semester-long project, under the supervision of a faculty adviser. A Professional Project often serves as a culminating experience for a Professional Master’s program but, with departmental or school approval, can be used to fulfill other program requirements. With approval, students may register for more than one Professional Project. Professional Projects must result in documentation established by each department or school, but are not submitted to the Office of Graduate Education and are not archived in the library. Grades of A, B, C, or F are assigned by the faculty adviser at the end of the semester. If not completed on time, a formal Incomplete grade may be assigned by the faculty adviser, listing the work remaining to be completed and the time limit for completing this work.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82264"
+  }
+]

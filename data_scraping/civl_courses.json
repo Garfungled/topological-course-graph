@@ -1,0 +1,1191 @@
+[
+  {
+    "course_id": "CIVL 1100",
+    "prefix": "CIVL",
+    "number": "1100",
+    "title": "Introduction to Civil and Environmental Engineering",
+    "description": "This introductory course offers an exploration into the principles and practices of civil and environmental engineering, with a strong emphasis on technical communication. Students will be introduced to the subdisciplines (structural, transportation, geotechnical, water resources, water quality, air quality, and solid waste engineering) and contemporary issues of the field. Students will begin to develop essential skills in effectively communicating engineering concepts, methodologies, and findings to diverse audiences through written, oral, and visual platforms.",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83394"
+  },
+  {
+    "course_id": "CIVL 1200",
+    "prefix": "CIVL",
+    "number": "1200",
+    "title": "Engineering Graphics for Civil and Environmental Engineers",
+    "description": "An introduction to the elements of computer aided design for civil and environmental engineers using AutoCAD Civil 3D. Students will be introduced to basic AutoCAD drafting techniques as well as learn the key features of Civil 3D that aid site development design and analysis. Topics covered will include general AutoCAD techniques, existing conditions development and analysis using field collected survey data and GIS information, pipe network design, grading design, and roadway corridor layout.",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83448"
+  },
+  {
+    "course_id": "CIVL 1300",
+    "prefix": "CIVL",
+    "number": "1300",
+    "title": "Beginning Programming in Civil and Environmental Engineering",
+    "description": "This course teaches elementary programming concepts using the Python environment. Students are expected to have little or no prior programming experience. Topics include Python language syntax, variables, looping, function calls, manipulating arrays, performing statistical calculations, and plotting results.",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83989"
+  },
+  {
+    "course_id": "CIVL 2030",
+    "prefix": "CIVL",
+    "number": "2030",
+    "title": "Introduction to Transportation Engineering",
+    "description": "Introduction to basic concepts in transportation engineering including planning, design, and operations. Introduces the challenges and issues in modeling transportation problems. Studies of various concepts related to the design of highway facilities, level of service, and demand for transportation services. Concepts related to signal optimization. Policy implications. Basics of transportation planning.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82451"
+  },
+  {
+    "course_id": "CIVL 2040",
+    "prefix": "CIVL",
+    "number": "2040",
+    "title": "Professional Practice",
+    "description": "Contract essentials; types of contracts for construction and for engineering services. Bidding procedure, surety bonds, insurance, litigation. Standard contract documents, the compilation of specifications. Engineering ethical principles and codes.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82452"
+  },
+  {
+    "course_id": "CIVL 2050",
+    "prefix": "CIVL",
+    "number": "2050",
+    "title": "Fluid Mechanics for Civil and Environmental Engineering",
+    "description": "Hydrostatics; Pressure Measurement; Fluid Properties; Application of Control Volume Analysis to Conservation of Mass, Energy and Momentum Principles; Bernoulli Equation for Ideal Flow; Dimensional Analysis; Pipe Flow and Pipe Networks; Pump Performance; Pipes in Pipelines. A laboratory component will illustrate the topics studied.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ENGR 1100 and ( PHYS 1100 or PHYS 1110 or PHYS 1150 )",
+    "prerequisites": [
+      "ENGR 1100",
+      "PHYS 1100",
+      "PHYS 1110",
+      "PHYS 1150"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "ENGR 1100",
+            "PHYS 1100"
+          ]
+        },
+        "PHYS 1110",
+        "PHYS 1150"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83975"
+  },
+  {
+    "course_id": "CIVL 2060",
+    "prefix": "CIVL",
+    "number": "2060",
+    "title": "Introduction to Water Resources Engineering",
+    "description": "This course provides a foundational treatment of water resources engineering through theory, analysis and design. Hydrologic cycle, water resources sustainability, and water resources planning. Pipe flow and pipe networks, with application to distribution systems. Hydraulics of open-channel flow and control structures such as culverts, gates, weirs, spillways and stilling basins. Reservoir routing and design of storage. Contemporary issues including green infrastructure, storm surge and climate change. Experimental laboratory sessions reinforce lectures and provide hands‐on learning opportunities.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CIVL 2050 or other fluid mechanics course approved by the instructor.",
+    "prerequisites": [
+      "CIVL 2050"
+    ],
+    "prerequisite_logic": "CIVL 2050",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83990"
+  },
+  {
+    "course_id": "CIVL 2630",
+    "prefix": "CIVL",
+    "number": "2630",
+    "title": "Introduction to Geotechnical Engineering",
+    "description": "The application of the basic laws and phenomena of science to particulate matter, specifically soils. Basic physical and mechanical structural characteristics of soil. Equilibrium and movement of water. Flow through porous media. Effective stress. Stress-strain-time relations. Basic laboratory work as related to practice.",
+    "credit_hours": "",
+    "prerequisites_raw": "ENGR 2530",
+    "prerequisites": [
+      "ENGR 2530"
+    ],
+    "prerequisite_logic": "ENGR 2530",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82453"
+  },
+  {
+    "course_id": "CIVL 2670",
+    "prefix": "CIVL",
+    "number": "2670",
+    "title": "Introduction to Structural Engineering",
+    "description": "Introduction to the elastic behavior of structural components. Analysis of statically determinate systems. Deflection calculations by virtual work and elastic load methods. Analysis of simple statically indeterminate structures. Influence lines. Interaction of structural components. Typical structural engineering loads.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ENGR 2530 or equivalent.",
+    "prerequisites": [
+      "ENGR 2530"
+    ],
+    "prerequisite_logic": "ENGR 2530",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82454"
+  },
+  {
+    "course_id": "CIVL 2940",
+    "prefix": "CIVL",
+    "number": "2940",
+    "title": "Readings in Civil Engineering",
+    "description": "Independent study of selected readings in the field of civil engineering, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82455"
+  },
+  {
+    "course_id": "CIVL 4010",
+    "prefix": "CIVL",
+    "number": "4010",
+    "title": "Foundation Engineering",
+    "description": "Subsurface investigation. The application of the principles of soil mechanics to the design of footings, retaining walls, pile foundations, bulkheads, cofferdams, bridge piers and abutments, and underpinnings.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 2630 or equivalent.",
+    "prerequisites": [
+      "CIVL 2630"
+    ],
+    "prerequisite_logic": "CIVL 2630",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82456"
+  },
+  {
+    "course_id": "CIVL 4020",
+    "prefix": "CIVL",
+    "number": "4020",
+    "title": "Bedford Seminar",
+    "description": "The seminar will be interdisciplinary with students from both architecture and civil engineering departments. The content of the lectures bears direct relation to practical experience and is considered to be supplementary to the other courses in the respective engineering and architecture schools. Specific types of structures will be examined with the help of suitable existing project examples clarifying and critically analyzing the basic engineering principles behind them. Students will be exposed to the collaborative methods inherent within the architect/engineer relationship.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Cross Listed: ARCH 4020 . Students cannot obtain credit for both ARCH 4020 and CIVL 4020.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83425"
+  },
+  {
+    "course_id": "CIVL 4070",
+    "prefix": "CIVL",
+    "number": "4070",
+    "title": "Steel Design",
+    "description": "Analysis and design of metal structures. Structural materials and loads. Design of beams, columns, bolted and welded connections. Composite construction.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 2670",
+    "prerequisites": [
+      "CIVL 2670"
+    ],
+    "prerequisite_logic": "CIVL 2670",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82457"
+  },
+  {
+    "course_id": "CIVL 4080",
+    "prefix": "CIVL",
+    "number": "4080",
+    "title": "Concrete Design",
+    "description": "Analysis and design of reinforced concrete structures using ultimate strength methods. Design of beams, columns, slabs, and footings. Development and anchorage of reinforcing bars. Laboratory testing of hardened concrete mechanical properties.",
+    "credit_hours": "",
+    "prerequisites_raw": "CIVL 2670",
+    "prerequisites": [
+      "CIVL 2670"
+    ],
+    "prerequisite_logic": "CIVL 2670",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82458"
+  },
+  {
+    "course_id": "CIVL 4140",
+    "prefix": "CIVL",
+    "number": "4140",
+    "title": "Geoenvironmental Engineering",
+    "description": "The application of geotechnical engineering to the environmental area. Deals with waste disposal, waste containment systems, waste stabilization, and landfills. Emphasis on design of such facilities. Includes related topics necessary for design, e.g., geosynthetics, groundwater, contaminant transport, and slurry walls. Some field trips are possible. This course meets concurrently with CIVL 6550.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CIVL 6550 . Students cannot obtain credit for both CIVL 4140 and CIVL 6550.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82459"
+  },
+  {
+    "course_id": "CIVL 4150",
+    "prefix": "CIVL",
+    "number": "4150",
+    "title": "Geotechnical Design",
+    "description": "Second course in geotechnical engineering, emphasizing the use of Laboratory obtained soil properties (consolidation, compressibility, and shear strength) in the design of geotechnical systems such as slope stability, soil structure systems, foundation settlement, etc.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CIVL 2630 or equivalent.",
+    "prerequisites": [
+      "CIVL 2630"
+    ],
+    "prerequisite_logic": "CIVL 2630",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82460"
+  },
+  {
+    "course_id": "CIVL 4240",
+    "prefix": "CIVL",
+    "number": "4240",
+    "title": "Finite Element Method",
+    "description": "This course introduces the methods upon which finite element software is built. Methods covered include construction of weak forms, discretization of the weak forms, the local/global linkage, construction of element shape functions, element mapping and numerical integration. The course will also cover the application of finite elements methods employing software tools. This will include open-source tools for the efficient implementation of finite elements and commercial software commonly applied in industry.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MATH 2400 and ( MANE 2110 , MANE 2010 , ENGR 2530 or BMED 2540 )",
+    "prerequisites": [
+      "MATH 2400",
+      "MANE 2110",
+      "MANE 2010",
+      "ENGR 2530",
+      "BMED 2540"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2400",
+            "MANE 2110",
+            "MANE 2010",
+            "ENGR 2530"
+          ]
+        },
+        "BMED 2540"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Cross Listed: MANE 4240 . Students cannot obtain credit for both CIVL 4240 and MANE 4240. Co-Listed: CIVL 6660 . Students cannot obtain credit for both CIVL 4240 and CIVL 6660.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82461"
+  },
+  {
+    "course_id": "CIVL 4270",
+    "prefix": "CIVL",
+    "number": "4270",
+    "title": "Construction Management",
+    "description": "Application of engineering principles to planning construction operations. Network scheduling (CPM, PERT), resource allocation. Cost engineering and control.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Senior standing.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82462"
+  },
+  {
+    "course_id": "CIVL 4280",
+    "prefix": "CIVL",
+    "number": "4280",
+    "title": "Design for Constructability",
+    "description": "Design of systems to consider foundations, structures, and constructability; foundation alternatives; structural design to simplify erection; prefabrication, modulation of structures; material handling on a construction site; crane selection and placement; temporary works.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 4070 or CIVL 4080 ; or permission of instructor.",
+    "prerequisites": [
+      "CIVL 4070",
+      "CIVL 4080"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CIVL 4070",
+        "CIVL 4080"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83636"
+  },
+  {
+    "course_id": "CIVL 4440",
+    "prefix": "CIVL",
+    "number": "4440",
+    "title": "Matrix Structural Analysis",
+    "description": "Principles of displacement-based structural analysis; development of element and structure stiffness matrices; direct stiffness method for matrix structural analysis of trusses, beams, and frames; computer analysis of structures; introduction to finite element method.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 2670",
+    "prerequisites": [
+      "CIVL 2670"
+    ],
+    "prerequisite_logic": "CIVL 2670",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82463"
+  },
+  {
+    "course_id": "CIVL 4450",
+    "prefix": "CIVL",
+    "number": "4450",
+    "title": "Conceptual Structural Systems",
+    "description": "This course covers concepts of structural systems. The course is aimed at understanding behavior of different structural systems and how they respond to various loading conditions. The concept of load transfer, shaping, and form finding is of particular interest. This concept is reinforced through analytical, digital, and physical modeling intended to foster intuitive thinking. The course includes the following: approximate analyses of statically indeterminate beams, rigid frames, and vierendeel frames; cable suspended structures, arch supported structures; masonry structures, space frame, and folded plate structures; spherical, cylindrical, and hyperbolic shells; net and tent structures; air-supported and air-inflated structures, and hybrid structural systems. The course includes guest lectures, project, computer simulation, and testing physical models.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 2670",
+    "prerequisites": [
+      "CIVL 2670"
+    ],
+    "prerequisite_logic": "CIVL 2670",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83426"
+  },
+  {
+    "course_id": "CIVL 4530",
+    "prefix": "CIVL",
+    "number": "4530",
+    "title": "Seepage, Drainage, and Groundwater",
+    "description": "Introduction to groundwater hydrology, permeability, seepage, transient flow, hydro-mechanical analysis, consolidation, and simple analytical solutions.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 2060 and CIVL 2630 ; or equivalent.",
+    "prerequisites": [
+      "CIVL 2060",
+      "CIVL 2630"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CIVL 2060",
+        "CIVL 2630"
+      ]
+    },
+    "when_offered": "SPRING TERM, EVEN YEARS Co-Listed: CIVL 6530 . Students cannot obtain credit for both CIVL 4530 and CIVL 6530.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84134"
+  },
+  {
+    "course_id": "CIVL 4570",
+    "prefix": "CIVL",
+    "number": "4570",
+    "title": "System Modeling for Civil and Environmental Engineering",
+    "description": "This course is an applications-oriented course covering basic analytical tools for modeling and optimization of large-scale civil and environmental engineering systems. Application domains that will be discussed include: scheduling in large systems, construction management, multi-purpose reservoir operation, transportation and logistics planning, as well as other civil and environmental engineering systems. An overview of different optimization techniques, with a particular focus on network flow problems and introductory stochastic analysis will be provided. Software to solve these problems will be used throughout the course.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: none.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82464"
+  },
+  {
+    "course_id": "CIVL 4620",
+    "prefix": "CIVL",
+    "number": "4620",
+    "title": "Mass Transit Systems",
+    "description": "The basic concepts of planning, design, and operation of urban mass transit systems. Topics include travel demand, network configurations, communication and control systems, power systems, vehicle technology, guideway and vehicle support, and guidance technology, routing, and scheduling, operating practice, marketing and financing of transit service, interface design, and implementation. These topics are discussed with relation to bus transit systems, guided transit systems, and several new systems. Several case studies examined.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 2030",
+    "prerequisites": [
+      "CIVL 2030"
+    ],
+    "prerequisite_logic": "CIVL 2030",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82465"
+  },
+  {
+    "course_id": "CIVL 4640",
+    "prefix": "CIVL",
+    "number": "4640",
+    "title": "Transportation System Planning",
+    "description": "Introduction to the analysis and planning of transportation systems. Study of the basic interaction between transportation supply and demand. Role of transportation systems analysis in the social, environmental, and policy making. Trip generation. Trip distribution. Mode split. Traffic Assignment. Computer applications. Meets concurrently with CIVL 6250.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 2030",
+    "prerequisites": [
+      "CIVL 2030"
+    ],
+    "prerequisite_logic": "CIVL 2030",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: CIVL 6250 . Students cannot obtain credit for both CIVL 4640 and CIVL 6250.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82466"
+  },
+  {
+    "course_id": "CIVL 4660",
+    "prefix": "CIVL",
+    "number": "4660",
+    "title": "Traffic Engineering",
+    "description": "Basic characteristics of traffic flow, including driver, vehicle, volume, speed, delay, capacity, and accidents; traffic regulation and control, signs, markings, signals, and signal systems; basic traffic flow theory; study methods and analysis procedures to solve traffic engineering and control problems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 2030",
+    "prerequisites": [
+      "CIVL 2030"
+    ],
+    "prerequisite_logic": "CIVL 2030",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82467"
+  },
+  {
+    "course_id": "CIVL 4670",
+    "prefix": "CIVL",
+    "number": "4670",
+    "title": "Highway Engineering",
+    "description": "Principles of geometric design of highways, intersections, interchanges, and terminals. Practical issues of vertical and horizontal curvature, highway evaluation, driver and vehicle dynamics, and traffic safety are also addressed. Computer-aided design and modeling.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 2030",
+    "prerequisites": [
+      "CIVL 2030"
+    ],
+    "prerequisite_logic": "CIVL 2030",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82468"
+  },
+  {
+    "course_id": "CIVL 4920",
+    "prefix": "CIVL",
+    "number": "4920",
+    "title": "Civil Engineering Capstone Design",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "ENGR 2050 (Core Course)",
+    "prerequisites": [
+      "ENGR 2050"
+    ],
+    "prerequisite_logic": "ENGR 2050",
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82469"
+  },
+  {
+    "course_id": "CIVL 4940",
+    "prefix": "CIVL",
+    "number": "4940",
+    "title": "Civil Engineering Independent Study",
+    "description": "Independent study of selected readings in the field of civil engineering, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82470"
+  },
+  {
+    "course_id": "CIVL 4960",
+    "prefix": "CIVL",
+    "number": "4960",
+    "title": "Topics in Civil Engineering",
+    "description": "",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82471"
+  },
+  {
+    "course_id": "CIVL 6170",
+    "prefix": "CIVL",
+    "number": "6170",
+    "title": "Mechanics of Solids",
+    "description": "This course provides an introduction to the mechanics of solids from a continuum perspective. Topics covered in this course include: vector and tensor analysis, coordinate systems and calculus in curvilinear coordinate systems, kinematics (motion, deformation and strain), stress and momentum balance, energy principles and balance laws, linear isotropic and anisotropic elasticity, thermoelasticity, method of solutions for 2-D and 3-D linear elastic boundary value problems, applications to simple structures.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: MANE 6170 . Students cannot obtain credit for both CIVL 6170 and MANE 6170.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82472"
+  },
+  {
+    "course_id": "CIVL 6180",
+    "prefix": "CIVL",
+    "number": "6180",
+    "title": "Mechanics of Composite Materials",
+    "description": "Micromechanics of elastic heterogeneous solids. Plasticity of composite materials. Thermoelastic and thermoplastic behavior. Mechanics of distributed damage. Mechanical behavior.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: One graduate course in mechanics of solids.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Cross Listed: MANE 6180 . Students cannot obtain credit for both CIVL 6180 and MANE 6180.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82473"
+  },
+  {
+    "course_id": "CIVL 6190",
+    "prefix": "CIVL",
+    "number": "6190",
+    "title": "Advanced Transportation Models",
+    "description": "This graduate level course will introduce two types of advanced models related to travel demand forecasting: the land use models and the activity-based models. This project-based course will allow students to obtain sound knowledge of advanced modeling techniques, and to have some preliminary experience with building, estimating, and applying advanced transportation models.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83472"
+  },
+  {
+    "course_id": "CIVL 6210",
+    "prefix": "CIVL",
+    "number": "6210",
+    "title": "Structural Stability",
+    "description": "Concepts of stability pertaining to structural and mechanical systems. Static and dynamic theories of stability. Configurations include bars, plates, shells, and structural complexes.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82474"
+  },
+  {
+    "course_id": "CIVL 6220",
+    "prefix": "CIVL",
+    "number": "6220",
+    "title": "Critical Issues in Transportation",
+    "description": "To provide the students with a broad understanding of cutting edge methodologies in transportation modeling and economics not thoroughly covered in other courses and emerging issues pertaining to transportation research and practice.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of CIVL 2030 or equivalent.",
+    "prerequisites": [
+      "CIVL 2030"
+    ],
+    "prerequisite_logic": "CIVL 2030",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82475"
+  },
+  {
+    "course_id": "CIVL 6230",
+    "prefix": "CIVL",
+    "number": "6230",
+    "title": "Transportation Economics",
+    "description": "Review of economic concepts and their application to transportation. Economic basis of transportation demand. Estimation of aggregate and disaggregate demand functions. Value of time. Supply functions. Cost functions, production functions. Transportation externalities. Valuation techniques. Cost/benefit analysis and multi-criteria approaches.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of CIVL 2030 or equivalent.",
+    "prerequisites": [
+      "CIVL 2030"
+    ],
+    "prerequisite_logic": "CIVL 2030",
+    "when_offered": "FALL TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82476"
+  },
+  {
+    "course_id": "CIVL 6240",
+    "prefix": "CIVL",
+    "number": "6240",
+    "title": "Intelligent Transportation Systems",
+    "description": "The course discusses Intelligent Transportation Systems (ITS) technologies and their application areas. ITS technologies. ITS Architecture. ITS applications. A number of outside speakers will complement the lectures. The students are expected to give at least two technical presentations and write a final paper on an ITS topic of their choosing.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of CIVL 2030 or equivalent.",
+    "prerequisites": [
+      "CIVL 2030"
+    ],
+    "prerequisite_logic": "CIVL 2030",
+    "when_offered": "FALL TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82477"
+  },
+  {
+    "course_id": "CIVL 6250",
+    "prefix": "CIVL",
+    "number": "6250",
+    "title": "Transportation Systems Planning",
+    "description": "﻿ ﻿The analysis and planning of transportation systems. Study of the basic interaction between transportation supply and demand. Role of transportation systems analysis in social, environmental, and policy making. Trip generation. Trip distribution. Mode split. Traffic assignment. Computer applications.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of CIVL 2030 or equivalent.",
+    "prerequisites": [
+      "CIVL 2030"
+    ],
+    "prerequisite_logic": "CIVL 2030",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: CIVL 4640 . Students cannot obtain credit for both CIVL 4640 and CIVL 6250.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82478"
+  },
+  {
+    "course_id": "CIVL 6260",
+    "prefix": "CIVL",
+    "number": "6260",
+    "title": "Transportation Network Analysis",
+    "description": "Fundamentals of transportation network analysis, including graph representations of transportation networks, shortest path search algorithms, static traffic assignment and user equilibrium, and dynamic traffic assignment. Focus on how basic mathematical analysis tools such as linear and nonlinear programming can be used to analyze transportation network problems. The objective of this course is to introduce students to transportation network analysis fundamentals so that they are equipped with basic skills to analyze related problems in this area.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of CIVL 2030 and MATH 2400 .",
+    "prerequisites": [
+      "CIVL 2030",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CIVL 2030",
+        "MATH 2400"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82479"
+  },
+  {
+    "course_id": "CIVL 6270",
+    "prefix": "CIVL",
+    "number": "6270",
+    "title": "Traffic Control and Simulation",
+    "description": "Topics on traffic control systems such as signals and ramp metering; sensor-aided and data-oriented traffic modeling; fundamentals and applications of microscopic traffic simulation. State of the art signal design and traffic simulation tools will be used throughout the class.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of CIVL 2030 and CIVL 4660 or their equivalents.",
+    "prerequisites": [
+      "CIVL 2030",
+      "CIVL 4660"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CIVL 2030",
+        "CIVL 4660"
+      ]
+    },
+    "when_offered": "FALL TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82480"
+  },
+  {
+    "course_id": "CIVL 6280",
+    "prefix": "CIVL",
+    "number": "6280",
+    "title": "Dynamic Traffic Models",
+    "description": "The fundamentals of dynamic equilibrium with applications to planning and real-time operations in transportation systems. A network optimization approach to dynamic models including time dependent shortest path algorithms, analytical and simulation models for dynamic traffic assignment. Applications of these approaches to network wide real-time control. Emphasis on implementation of algorithms using programming languages.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 6260",
+    "prerequisites": [
+      "CIVL 6260"
+    ],
+    "prerequisite_logic": "CIVL 6260",
+    "when_offered": "FALL TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82481"
+  },
+  {
+    "course_id": "CIVL 6290",
+    "prefix": "CIVL",
+    "number": "6290",
+    "title": "Freight Transportation Management and Planning",
+    "description": "This course covers techniques and procedures needed to effectively manage, design, and plan modern urban freight transportation systems. In addition to management and design, will discuss planning and emphasizes mathematical planning models.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 2030 or CIVL 6250 ; or equivalent.",
+    "prerequisites": [
+      "CIVL 2030",
+      "CIVL 6250"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CIVL 2030",
+        "CIVL 6250"
+      ]
+    },
+    "when_offered": "FALL TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82482"
+  },
+  {
+    "course_id": "CIVL 6300",
+    "prefix": "CIVL",
+    "number": "6300",
+    "title": "Transportation Statistical Modeling",
+    "description": "This graduate level course will introduce a number of econometric models to analyze transportation data, ranging from count of crash occurrence to household trip frequency. Students will learn to specify, estimate, and interpret models to study various transportation issues.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83473"
+  },
+  {
+    "course_id": "CIVL 6310",
+    "prefix": "CIVL",
+    "number": "6310",
+    "title": "Advanced Concrete Structures",
+    "description": "Advanced analysis and design of reinforced concrete structures. Design of deep beams, slender columns, two-way floor systems. Deflection computations. Design for torsion. Prestressed concrete fundamentals.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 4080 or equivalent.",
+    "prerequisites": [
+      "CIVL 4080"
+    ],
+    "prerequisite_logic": "CIVL 4080",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82483"
+  },
+  {
+    "course_id": "CIVL 6320",
+    "prefix": "CIVL",
+    "number": "6320",
+    "title": "Advanced Steel Design",
+    "description": "Advanced analysis and design of complex metal structures. Flexible, semi-rigid, and rigid connections. Plate girders, torsional design. Effects of semi-rigid connections on structural stability.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 4070 or equivalent.",
+    "prerequisites": [
+      "CIVL 4070"
+    ],
+    "prerequisite_logic": "CIVL 4070",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82484"
+  },
+  {
+    "course_id": "CIVL 6340",
+    "prefix": "CIVL",
+    "number": "6340",
+    "title": "Bedford Design Studio",
+    "description": "Open-ended design project in which students work in teams of four (two engineers and two architects) to replicate the Architecture/Structural Engineering integrated design of buildings. Oral presentations and written reports and studio critics cover alternatives considered, design assumptions, and cost estimates. This is a communication-intensive course.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 4020 or ARCH 4020 ; and CIVL 6310 and CIVL 6320 .",
+    "prerequisites": [
+      "CIVL 4020",
+      "ARCH 4020",
+      "CIVL 6310",
+      "CIVL 6320"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CIVL 4020",
+        {
+          "type": "AND",
+          "items": [
+            "ARCH 4020",
+            "CIVL 6310",
+            "CIVL 6320"
+          ]
+        }
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83427"
+  },
+  {
+    "course_id": "CIVL 6350",
+    "prefix": "CIVL",
+    "number": "6350",
+    "title": "Masonry Design",
+    "description": "The goal of this course is to develop a general familiarity with the structural design of masonry elements and structures. This includes exposure to the historical development of design specifications as well as specific design procedures unique to this material.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 4080 or permission of instructor.",
+    "prerequisites": [
+      "CIVL 4080"
+    ],
+    "prerequisite_logic": "CIVL 4080",
+    "when_offered": "FALL TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83638"
+  },
+  {
+    "course_id": "CIVL 6360",
+    "prefix": "CIVL",
+    "number": "6360",
+    "title": "Timber Design",
+    "description": "The goal of this course is to develop a general familiarity with the structural design of wood elements and structures. This includes exposure to the historical development of design specifications as well as specific design procedures unique to this material.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 4070 or CIVL 4080 ; or permission of instructor.",
+    "prerequisites": [
+      "CIVL 4070",
+      "CIVL 4080"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CIVL 4070",
+        "CIVL 4080"
+      ]
+    },
+    "when_offered": "FALL TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83637"
+  },
+  {
+    "course_id": "CIVL 6380",
+    "prefix": "CIVL",
+    "number": "6380",
+    "title": "Advanced Concrete Mechanics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82485"
+  },
+  {
+    "course_id": "CIVL 6390",
+    "prefix": "CIVL",
+    "number": "6390",
+    "title": "Wind Engineering",
+    "description": "This course will develop understanding and integrate skills across the fields of fluid mechanics, meteorology, climatology, bluff-body aerodynamics, structural dynamics, code provisions for design, wind tunnel testing, and damage documentation.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 2060",
+    "prerequisites": [
+      "CIVL 2060"
+    ],
+    "prerequisite_logic": "CIVL 2060",
+    "when_offered": "FALL TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83428"
+  },
+  {
+    "course_id": "CIVL 6440",
+    "prefix": "CIVL",
+    "number": "6440",
+    "title": "Nonlinear Structural Analysis",
+    "description": "Matrix formulation of nonlinear structural analysis problems; analysis of structures with geometric and material nonlinearities; elastic and inelastic buckling; plastic analysis of beams and frames; computer analysis of nonlinear structure.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 4440 or equivalent.",
+    "prerequisites": [
+      "CIVL 4440"
+    ],
+    "prerequisite_logic": "CIVL 4440",
+    "when_offered": "FALL TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82486"
+  },
+  {
+    "course_id": "CIVL 6450",
+    "prefix": "CIVL",
+    "number": "6450",
+    "title": "Structural Dynamics",
+    "description": "Analysis of elastic and inelastic single and multiple degree-of-freedom structural systems under time-dependent loads including harmonic, impulse, earthquake, and other general dynamic loads. Development of equations of motion. Analytical and numerical evaluation of free and forced vibration response. Identification of dynamic system properties. Modal analysis. Vibration isolation and force transmissibility. Dynamic measurement sensors. Shock loading spectrum. Frequency-domain analysis.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 4440",
+    "prerequisites": [
+      "CIVL 4440"
+    ],
+    "prerequisite_logic": "CIVL 4440",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82487"
+  },
+  {
+    "course_id": "CIVL 6460",
+    "prefix": "CIVL",
+    "number": "6460",
+    "title": "Advanced Structural Dynamics",
+    "description": "Stochastic response of lumped parameter and continuous systems to random excitation, wave propagation, power spectral densities, covariance and cross covariance functions, transfer functions, application of procedure to wind and earthquake engineering. Review of current literature.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 6450",
+    "prerequisites": [
+      "CIVL 6450"
+    ],
+    "prerequisite_logic": "CIVL 6450",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82488"
+  },
+  {
+    "course_id": "CIVL 6480",
+    "prefix": "CIVL",
+    "number": "6480",
+    "title": "Designing with Geosynthetics",
+    "description": "Civil Engineering applications of geosynthetics including geotextiles, geogrids, geonets, geomembranes, geosynthetic clay liners, geopipe, and geocomposites. Designing by function, including separation, reinforcement, filtration, drainage, liquid barrier, and combined functions. Applications in the areas of landfills, groundwater drains, geotextile reinforced walls and slopes, roadways, and other civil engineered type structures.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 2630 or equivalent.",
+    "prerequisites": [
+      "CIVL 2630"
+    ],
+    "prerequisite_logic": "CIVL 2630",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82489"
+  },
+  {
+    "course_id": "CIVL 6490",
+    "prefix": "CIVL",
+    "number": "6490",
+    "title": "Earthquake Engineering",
+    "description": "Measurement and characterization of earthquake ground motion and structural response in time and frequency domains. Linear and nonlinear response history and response spectrum analysis of structures subject to earthquake loading. Seismic analysis and design of structural systems using building codes and design specifications.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 6450",
+    "prerequisites": [
+      "CIVL 6450"
+    ],
+    "prerequisite_logic": "CIVL 6450",
+    "when_offered": "SPRING TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82490"
+  },
+  {
+    "course_id": "CIVL 6510",
+    "prefix": "CIVL",
+    "number": "6510",
+    "title": "Advanced Geotechnical Engineering",
+    "description": "An intensive study of the fundamentals of soil mechanics at the graduate level. Transmission of stresses between particles. Soils in which the pore water is either stationary or flowing under steady conditions. Soils in which pore pressures are influenced by applied loads, and hence the pore water is flowing under transient conditions.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 4150",
+    "prerequisites": [
+      "CIVL 4150"
+    ],
+    "prerequisite_logic": "CIVL 4150",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82491"
+  },
+  {
+    "course_id": "CIVL 6520",
+    "prefix": "CIVL",
+    "number": "6520",
+    "title": "Advanced Foundations and Earth Structures",
+    "description": "The applications of the principles of soil mechanics to the design of foundations, at the graduate level. Subsurface investigation. Design of footings, retaining walls, pile foundations, flexible retaining structures, anchor tie-backs, bridge piers, abutments, embankments, and natural slopes. Slope stability analysis and landslide prevention. Earthquake effects. Case studies.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 4010 and CIVL 4150",
+    "prerequisites": [
+      "CIVL 4010",
+      "CIVL 4150"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CIVL 4010",
+        "CIVL 4150"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82492"
+  },
+  {
+    "course_id": "CIVL 6530",
+    "prefix": "CIVL",
+    "number": "6530",
+    "title": "Advanced Seepage, Drainage, and Groundwater",
+    "description": "Introduction to groundwater hydrology, permeability, seepage, transient flow, hdro-mechanical analysis, consolidation, and practical applications, including design of earth structures.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 2060 and CIVL 2630 ; or equivalent.",
+    "prerequisites": [
+      "CIVL 2060",
+      "CIVL 2630"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CIVL 2060",
+        "CIVL 2630"
+      ]
+    },
+    "when_offered": "SPRING TERM, EVEN YEARS Co-Listed: CIVL 4530 . Students cannot obtain credit for both CIVL 4530 and CIVL 6530.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82493"
+  },
+  {
+    "course_id": "CIVL 6540",
+    "prefix": "CIVL",
+    "number": "6540",
+    "title": "Dynamics of Soil and Soil-Foundation Systems",
+    "description": "Basics of dynamic response of soil and soil-foundation systems, including applications to earthquake engineering and machine foundations. Systems studies include shallow and deep foundations, buried structures, earth structures, slopes, and earthquake site response.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82494"
+  },
+  {
+    "course_id": "CIVL 6550",
+    "prefix": "CIVL",
+    "number": "6550",
+    "title": "Advanced Geoenvironmental Engineering",
+    "description": "An intensive study of the application of geotechnical engineering to the environmental area. Deals with waste disposal, waste containment systems, waste stabilization, and landfills. Emphasis on design of such facilities. Includes related topics necessary for design, e.g., geosynthetics, groundwater, contaminant transport, and slurry walls. Some field trips are possible. This course meets concurrently with CIVL 4140. CIVL 6550 students are required to do a term paper and/or project, read additional professional papers and publications, and do additional laboratory experiments.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CIVL 4140 . Students cannot obtain credit for both CIVL 4140 and CIVL 6550 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82495"
+  },
+  {
+    "course_id": "CIVL 6660",
+    "prefix": "CIVL",
+    "number": "6660",
+    "title": "Finite Element Method",
+    "description": "This course introduces the methods upon which finite element software is built. Methods covered include construction of weak forms, discretization of the weak forms, the local/global linkage, construction of element shape functions, element mapping and numerical integration. The course will also cover the application of finite elements methods employing software tools. This will include open-source tools for the efficient implementation of finite elements and commercial software commonly applied in industry.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MATH 2400 and MANE 2110 ; or permission of the instructor.",
+    "prerequisites": [
+      "MATH 2400",
+      "MANE 2110"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 2400",
+        "MANE 2110"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Cross Listed: MANE 6660 . Students cannot obtain credit for both CIVL 6660 and MANE 6660. Co-Listed: CIVL 4240 . Students cannot obtain credit for both CIVL 4240 and CIVL 6660.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82496"
+  },
+  {
+    "course_id": "CIVL 6680",
+    "prefix": "CIVL",
+    "number": "6680",
+    "title": "Finite Element Programming",
+    "description": "Examines the implementation of finite element methods. Consideration is first given to the techniques used in classic finite element programs. Attention then focuses on development of a general geometry-based code which effectively supports higher order adaptive technique. Technical areas covered include: effective construction of element matrices for p-version finite elements, ordering of unknowns, automatic mesh generation, adaptive mesh improvement, program and database structures. Implementation of automated adaptive techniques on parallel computers is also covered.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 6660 , MANE 6660 , CSCI 6860 , or MATH 6860",
+    "prerequisites": [
+      "CIVL 6660",
+      "MANE 6660",
+      "CSCI 6860",
+      "MATH 6860"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CIVL 6660",
+            "MANE 6660",
+            "CSCI 6860"
+          ]
+        },
+        "MATH 6860"
+      ]
+    },
+    "when_offered": "SPRING TERM, ODD YEARS Cross Listed: MANE 6680 . Students cannot obtain credit for both CIVL 6680 and MANE 6680.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82497"
+  },
+  {
+    "course_id": "CIVL 6690",
+    "prefix": "CIVL",
+    "number": "6690",
+    "title": "Advanced Finite Element Formulations",
+    "description": "This course focuses on generalized weighted residual methods and multifield variational principles for constructing approximate solutions to sets of governing differential equations and associated boundary conditions. Topics include hybrid and mixed methods, boundary element formulations, p-version finite elements, global/local procedures, and penalty methods. Problem areas include solid mechanics (nearly incompressible solids, plates, and shells), fluid mechanics including compressible flows, and heat transfer.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 6660 or MANE 6660",
+    "prerequisites": [
+      "CIVL 6660",
+      "MANE 6660"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CIVL 6660",
+        "MANE 6660"
+      ]
+    },
+    "when_offered": "SPRING TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82498"
+  },
+  {
+    "course_id": "CIVL 6700",
+    "prefix": "CIVL",
+    "number": "6700",
+    "title": "Finite Element Methods in Structural Dynamics",
+    "description": "Solutions to the free vibration and transient dynamic responses of two-and three-dimensional structures by the finite element method are considered. The governing finite element matrix equations are derived and numerical aspects of solving these time-dependent equations considered. Topics include the formulation of the eigenvalue problem, algorithms for eigenvalue extraction, time integration methods including stability and accuracy analysis, and finite elements in time. Modal analysis and direct time integration techniques are compared for a variety of two-and three-dimensional problems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 6660 or MANE 6660",
+    "prerequisites": [
+      "CIVL 6660",
+      "MANE 6660"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CIVL 6660",
+        "MANE 6660"
+      ]
+    },
+    "when_offered": "FALL TERM, ODD YEARS Cross Listed: MANE 6700 . Students cannot obtain credit for both CIVL 6700 and MANE 6700.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82499"
+  },
+  {
+    "course_id": "CIVL 6780",
+    "prefix": "CIVL",
+    "number": "6780",
+    "title": "Numerical Modeling of Failure Processes in Materials",
+    "description": "State-of-the-art in computational modeling of failure processes in materials. Topics include numerical modeling of discrete defects, distributed damage, and multiscale computational techniques including multiple scale perturbation techniques, boundary layer techniques, and various global-local approaches.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 6660 or MANE 6660",
+    "prerequisites": [
+      "CIVL 6660",
+      "MANE 6660"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CIVL 6660",
+        "MANE 6660"
+      ]
+    },
+    "when_offered": "SPRING TERM, EVEN YEARS Cross Listed: MANE 6780 . Students cannot obtain credit for both CIVL 6780 and MANE 6780.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82500"
+  },
+  {
+    "course_id": "CIVL 6900",
+    "prefix": "CIVL",
+    "number": "6900",
+    "title": "Civil and Environmental Engineering Graduate Seminar",
+    "description": "Civil and environmental engineering graduate students present seminars about their research to an audience composed of students and faculty, and participate in discussions about the research of others. The course consists of one-hour weekly meetings. The faculty member in charge of the course helps the students develop their presentation and communication skills. M.S. and Ph.D. students are required to take this course once before completion of their terminal degree. This course is not required for M. Eng. students not doing a thesis or project.",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82501"
+  },
+  {
+    "course_id": "CIVL 6910",
+    "prefix": "CIVL",
+    "number": "6910",
+    "title": "Colloquium Series",
+    "description": "Seminars by distinguished guest speakers. All undergraduates and graduates are strongly encouraged to attend as many lectures as possible.",
+    "credit_hours": "0",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82502"
+  },
+  {
+    "course_id": "CIVL 6940",
+    "prefix": "CIVL",
+    "number": "6940",
+    "title": "Readings in Civil Engineering",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82503"
+  },
+  {
+    "course_id": "CIVL 6960",
+    "prefix": "CIVL",
+    "number": "6960",
+    "title": "Topics in Civil Engineering",
+    "description": "",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82504"
+  },
+  {
+    "course_id": "CIVL 6970",
+    "prefix": "CIVL",
+    "number": "6970",
+    "title": "Professional Project",
+    "description": "Active participation in a semester-long project, under the supervision of a faculty adviser. A Professional Project often serves as a culminating experience for a Professional Master’s program but, with departmental or school approval, can be used to fulfill other program requirements. With approval, students may register for more than one Professional Project. Professional Projects must result in documentation established by each department or school, but are not submitted to the Office of Graduate Education and are not archived in the library. Grades of A, B, C, or F are assigned by the faculty adviser at the end of the semester. If not completed on time, a formal Incomplete grade may be assigned by the faculty adviser, listing the work remaining to be completed and the time limit for completing this work.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82505"
+  },
+  {
+    "course_id": "CIVL 6980",
+    "prefix": "CIVL",
+    "number": "6980",
+    "title": "Master’s Project",
+    "description": "Active participation in a master’s-level project, under the supervision of a faculty adviser, leading to a master’s project report. Grades S or U are assigned at the end of the semester. If recommended by the adviser, the master’s project may be accepted by the Office of Graduate Education to be archived in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82506"
+  },
+  {
+    "course_id": "CIVL 6990",
+    "prefix": "CIVL",
+    "number": "6990",
+    "title": "Master’s Thesis",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a master’s thesis. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82507"
+  },
+  {
+    "course_id": "CIVL 9990",
+    "prefix": "CIVL",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82508"
+  }
+]

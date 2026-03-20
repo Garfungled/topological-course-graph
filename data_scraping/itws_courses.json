@@ -1,0 +1,522 @@
+[
+  {
+    "course_id": "ITWS 1100",
+    "prefix": "ITWS",
+    "number": "1100",
+    "title": "Introduction to Information Technology and Web Science",
+    "description": "This course introduces students to the field of information technology and Web science, the types of problems encountered in the field, and the solution approaches used to solve them. Through a series of activities and projects, students are introduced to topics such as Web systems design, emerging Web standards, database systems, security, and computer networking. Guest speakers highlight information technology practices in industry. Students work in groups on a team project and presentation at the end of the course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82868"
+  },
+  {
+    "course_id": "ITWS 1220",
+    "prefix": "ITWS",
+    "number": "1220",
+    "title": "IT and Society",
+    "description": "This course investigates the relationship between Information Technology (IT) and the individuals and groups who use it – which is to say, virtually everyone. The course has two main goals. First, it seeks to define and explain core concepts in the field of IT in a fashion that is not overly technical. Second, it examines the historical, social, cultural, political and economic factors that have helped to shape, and have been shaped by, the dimensions of IT that we will study.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: INQR 1220 . Students cannot obtain credit for both ITWS 1220 and INQR 1220.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82869"
+  },
+  {
+    "course_id": "ITWS 2110",
+    "prefix": "ITWS",
+    "number": "2110",
+    "title": "Web Systems Development",
+    "description": "This course involves a study of the methods used to extract and deliver dynamic information on the World Wide Web. The course uses a hands-on approach in which students actively develop Web-based software systems. Additional topics include installation, configuration, and management of Web servers. Students are required to have access to a PC on which they can install software such as a Web server and various programming environments.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ITWS 1100 Corequisite: CSCI 1200",
+    "prerequisites": [
+      "ITWS 1100",
+      "CSCI 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ITWS 1100",
+        "CSCI 1200"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: CSCI 2110 . Students cannot obtain credit for both ITWS 2110 and CSCI 2110.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82870"
+  },
+  {
+    "course_id": "ITWS 2210",
+    "prefix": "ITWS",
+    "number": "2210",
+    "title": "Introduction to Human Computer Interaction",
+    "description": "An introduction to the current theories, methods, and issues in human-computer interaction. Theory and research along with practical application are discussed within the context of organizational impact. The course provides the knowledge of HCI systems and research used for the implementation of safe, quick, and useable interactive technologies.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82871"
+  },
+  {
+    "course_id": "ITWS 4100",
+    "prefix": "ITWS",
+    "number": "4100",
+    "title": "Information Technology and Web Science Capstone",
+    "description": "Students work on collaborative projects to design innovative ITWS solutions which address a specific problem or area of need in the student’s field. Students work to identify a problem and research viable solutions. They go on to propose, design, and prototype their ITWS solution learning best practices for ITWS project management, communication, and user-center design. This course serves as the culminating experience for the undergraduate ITWS program. Restricted to ITWS majors. This is a communication-intensive course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ITWS 2210 and ITWS 4310",
+    "prerequisites": [
+      "ITWS 2210",
+      "ITWS 4310"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ITWS 2210",
+        "ITWS 4310"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Co-Listed: ITWS 6800 . Students cannot receive credit for both ITWS 4100 and ITWS 6800 during the same semester.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82872"
+  },
+  {
+    "course_id": "ITWS 4250",
+    "prefix": "ITWS",
+    "number": "4250",
+    "title": "Database Applications and Systems (DBAS)",
+    "description": "This advanced course in database applications and database systems provides students with a strong foundation in modern database design, data modeling, data normalization, SQL, NoSQL, query optimization, database security, and how databases fit into larger software architectures. Substantial programming and design projects are required.",
+    "credit_hours": "",
+    "prerequisites_raw": "CSCI 2300 and ITWS 4500 ; (or permission of instructor).",
+    "prerequisites": [
+      "CSCI 2300",
+      "ITWS 4500"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CSCI 2300",
+        "ITWS 4500"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: ITWS 6250 . Students may obtain credit for only one of these courses: ITWS 4250 or ITWS 6250",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83946"
+  },
+  {
+    "course_id": "ITWS 4300",
+    "prefix": "ITWS",
+    "number": "4300",
+    "title": "Business Issues for Engineers and Scientists",
+    "description": "Investigates business-related considerations in successfully commercializing new technology in a new venture or within an existing enterprise: market and customer analysis, beating the competition, planning and managing for profitability, high-tech marketing and sales, and business partnerships and acquisitions. Not a general management course; focuses explicitly on what is relevant for engineers and scientists working in a commercial environment. For junior/senior undergraduate or graduate students.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Cross Listed: ENGR 4100 / ENGR 6100 Co-Listed: ITWS 6300 . Students can obtain credit for only one of these courses: ENGR 4100, ENGR 6100, ITWS 4300 or ITWS 6300.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82873"
+  },
+  {
+    "course_id": "ITWS 4310",
+    "prefix": "ITWS",
+    "number": "4310",
+    "title": "Managing IT Resources",
+    "description": "This course provides an introduction to fundamental concepts of management and applies them to IT. It examines the use of IT in business processes and the management issues of integrating IT into organizational processes to gain competitive advantage. Topics include: management, organizations, and information systems; development life cycle; project management and systems engineering; process reengineering; and organizational learning. This course includes the planning, development, and implementation of an IT project for a real client.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 1200 ; restricted to juniors or seniors. Prerequisite or Corequisite: ITWS 2110",
+    "prerequisites": [
+      "CSCI 1200",
+      "ITWS 2110"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CSCI 1200",
+        "ITWS 2110"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82874"
+  },
+  {
+    "course_id": "ITWS 4320",
+    "prefix": "ITWS",
+    "number": "4320",
+    "title": "Ethical Informatics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90472"
+  },
+  {
+    "course_id": "ITWS 4350",
+    "prefix": "ITWS",
+    "number": "4350",
+    "title": "Data Science",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83489"
+  },
+  {
+    "course_id": "ITWS 4370",
+    "prefix": "ITWS",
+    "number": "4370",
+    "title": "Information System Security",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "CSCI 2500 , CSCI 2800 or ECSE 2660",
+    "prerequisites": [
+      "CSCI 2500",
+      "CSCI 2800",
+      "ECSE 2660"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 2500",
+            "CSCI 2800"
+          ]
+        },
+        "ECSE 2660"
+      ]
+    },
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82875"
+  },
+  {
+    "course_id": "ITWS 4380",
+    "prefix": "ITWS",
+    "number": "4380",
+    "title": "Data and Society",
+    "description": "Data and Society provides a broad overview of how society is leveraging and responding to the social, organizational, policy, and technical opportunities and challenges of a data-driven world. Course themes focus on various aspects of the data ecosystem, data and innovation, and data and the broader community. Assignments build writing, presentation, and critical thinking, and assessment skills, all of which are important for professional success. This is a communication-intensive course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300 or CSCI 2600",
+    "prerequisites": [
+      "CSCI 2300",
+      "CSCI 2600"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CSCI 2300",
+        "CSCI 2600"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: CSCI 4370 / CSCI 6370 Co-Listed: ITWS 6380 . Students can obtain credits for o nly one of these courses: CSCI 4370, CSCI 6370, ITWS 4380 or ITWS 6380.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84143"
+  },
+  {
+    "course_id": "ITWS 4400",
+    "prefix": "ITWS",
+    "number": "4400",
+    "title": "X-Informatics",
+    "description": "Informatics covers a broad range of disciplines addressing challenges in the explosion of data and information resources. X-informatics provides commonality for implementations in specific disciplines, e.g. X=astro, geo. Informatics’ theoretical bases are information and computer science, cognitive science, social science, library science, aggregating these studies and adding the practice of information processing, and the engineering of information systems. This course grounds the material that students will learn in discipline areas by coursework and project assignments.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: CSCI 4400 / CSCI 6400 and ERTH 4400 / ERTH 6400 Co-Listed: ITWS 6400 . Students can obtain credit for only one of these courses: CSCI 4400, CSCI 6400, ERTH 4400, ERTH 6400, ITWS 4400 or ITWS 6400.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83446"
+  },
+  {
+    "course_id": "ITWS 4500",
+    "prefix": "ITWS",
+    "number": "4500",
+    "title": "Web Science Systems Development",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83532"
+  },
+  {
+    "course_id": "ITWS 4600",
+    "prefix": "ITWS",
+    "number": "4600",
+    "title": "Data Analytics",
+    "description": "The world at-large is confronted with increasingly larger and complex sets of structured/unstructured information; from cyber and human sources. Traditional enterprises are moving toward analytics-driven approaches for core business functions. Data and information analytics extends analysis (descriptive models of data) by using data mining and machine learning methods, with optimization and validation, to recommend action or guide and communicate decision-making. Thus, analytics is an entire methodology rather than individual analyses or analysis steps.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Cross Listed: BCBP 4600 , CSCI 4600 , MGMT 4600 / MGMT 6600 Co-Listed: ITWS 6600 . Students can obtain credit for only one of these courses: BCBP 4600, CSCI 4600, ITWS 4600, ITWS 6600, MGMT 4600 or MGMT 6600.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83712"
+  },
+  {
+    "course_id": "ITWS 4700",
+    "prefix": "ITWS",
+    "number": "4700",
+    "title": "Software Development",
+    "description": "This course teaches students about the roles and infrastructure of IT departments in modern organizations, IT software engineering technologies and methodologies for software development life cycle through hands-on experience. The course is for students with software development background to enhance their knowledge of software development and management, the software development industry, open source community, etc.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Familiarity with programming languages (Java, or C#, or C++, and Script, XML, SQL), concepts of OO and design patterns, and basics of IDE.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Co-Listed: ITWS 6700 . Students cannot obtain credit for both ITWS 4700 and ITWS 6700.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83714"
+  },
+  {
+    "course_id": "ITWS 4850",
+    "prefix": "ITWS",
+    "number": "4850",
+    "title": "Modern Binary Exploitation",
+    "description": "Modern Binary Exploitation will focus on teaching practical offensive security skills in binary exploitation and reverse engineering. Through a combination of interactive lectures and hands on labs, the course will offer students an opportunity to explore some of the most technically involved and fascinating subjects in the rapidly evolving field of security. It will cover protections found on modern systems and the techniques used to defeat them.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2500 , CSCI 2800 or ECSE 2660",
+    "prerequisites": [
+      "CSCI 2500",
+      "CSCI 2800",
+      "ECSE 2660"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 2500",
+            "CSCI 2800"
+          ]
+        },
+        "ECSE 2660"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: CSCI 4850 . Students cannot obtain credit for both ITWS 4850 and CSCI 4850.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84140"
+  },
+  {
+    "course_id": "ITWS 4980",
+    "prefix": "ITWS",
+    "number": "4980",
+    "title": "Special Projects",
+    "description": "Active participation in a senior-level project supervised by a faculty member and requiring a presentation and project report. Grades of “in-progress” are assigned until the special project has been approved by the faculty member.",
+    "credit_hours": "1-4",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83397"
+  },
+  {
+    "course_id": "ITWS 4990",
+    "prefix": "ITWS",
+    "number": "4990",
+    "title": "Senior Thesis",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83401"
+  },
+  {
+    "course_id": "ITWS 6250",
+    "prefix": "ITWS",
+    "number": "6250",
+    "title": "Database Applications and Systems (DBAS)",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "Prior knowledge of CSCI 2300 and ITWS 4500",
+    "prerequisites": [
+      "CSCI 2300",
+      "ITWS 4500"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CSCI 2300",
+        "ITWS 4500"
+      ]
+    },
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83947"
+  },
+  {
+    "course_id": "ITWS 6300",
+    "prefix": "ITWS",
+    "number": "6300",
+    "title": "Business Issues for Engineers and Scientists",
+    "description": "Investigates business-related considerations in successfully commercializing new technology in a new venture or within an existing enterprise: market and customer analysis, beating the competition, planning and managing for profitability, high-tech marketing and sales, and business partnerships and acquisitions. Not a general management course; focuses explicitly on what is relevant for engineers and scientists working in a commercial environment. For junior/senior undergraduate or graduate students.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Cross Listed: ENGR 4100 / ENGR 6100 Co-Listed: ITWS 4300 . Students can obtain credit for only one of these courses: ENGR 4100, ENGR 6100, ITWS 4300 or ITWS 6300.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82876"
+  },
+  {
+    "course_id": "ITWS 6350",
+    "prefix": "ITWS",
+    "number": "6350",
+    "title": "Data Science",
+    "description": "Data science is advancing the inductive conduct of science and is driven by the greater volumes, complexity, and heterogeneity of data being made available over the Internet. It combines aspects of data management, library science, computer science, and physical science. It is changing the way all of these disciplines do both their individual and collaborative work. Key methodologies in application areas based on real research experience are taught.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of both CSCI 1200 and CSCI 4380 required.",
+    "prerequisites": [
+      "CSCI 1200",
+      "CSCI 4380"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CSCI 1200",
+        "CSCI 4380"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: CSCI 4350 / CSCI 6350 and ERTH 4350 / ERTH 6350 Co-Listed: ITWS 4350 . Students can obtain credits for only one of these courses: CSCI 4350, CSCI 6350, ERTH 4350, ERTH 6350, ITWS 4350 or ITWS 6350.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83490"
+  },
+  {
+    "course_id": "ITWS 6370",
+    "prefix": "ITWS",
+    "number": "6370",
+    "title": "Information System Security",
+    "description": "This course covers foundational models for information security, policies, authentication, access control, database security, assurance, auditing, and intrusion detection. It also devotes substantial time to secure coding practices. Students will be expected to complete projects that explore an aspect of information security in detail. Cryptography is not covered since it is a focus of other courses.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ITWS 4370 . Students cannot obtain credit for both ITWS 4370 and ITWS 6370.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84142"
+  },
+  {
+    "course_id": "ITWS 6380",
+    "prefix": "ITWS",
+    "number": "6380",
+    "title": "Data and Society",
+    "description": "Data and Society provides a broad overview of how society is leveraging and responding to the social, organizational, policy, and technical opportunities and challenges of a data-driven world. Course themes focus on various aspects of the data ecosystem, data and innovation, and data and the broader community. Assignments build writing, presentation, and critical thinking, and assessment skills, all of which are important for professional success. This is a communication-intensive course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of both CSCI 2300 or CSCI 2600 .",
+    "prerequisites": [
+      "CSCI 2300",
+      "CSCI 2600"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CSCI 2300",
+        "CSCI 2600"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: CSCI 4370 / CSCI 6370 Co-Listed: ITWS 4380 . Students can obtain credit for only one of these courses: CSCI 4370, CSCI 6370, ITWS 4380 or ITWS 6380.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84144"
+  },
+  {
+    "course_id": "ITWS 6400",
+    "prefix": "ITWS",
+    "number": "6400",
+    "title": "X-Informatics",
+    "description": "Informatics covers a broad range of disciplines addressing challenges in the explosion of data and information resources. X-informatics provides commonality for implementations in specific disciplines, e.g. X=astro, geo. Informatics’ theoretical bases are information and computer science, cognitive science, social science, library science, aggregating these studies and adding the practice of information processing and the engineering of information systems. This course grounds the material that students will learn in discipline areas by coursework and project assignments.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: CSCI 4400 / CSCI 6400 and ERTH 4400 / ERTH 6400 Co-Listed: ITWS 4400 . Students can obtain credit for only one of these courses: CSCI 4400, CSCI 6400, ERTH 4400, ERTH 6400, ITWS 4400 or ITWS 6400.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83447"
+  },
+  {
+    "course_id": "ITWS 6440",
+    "prefix": "ITWS",
+    "number": "6440",
+    "title": "Big Data Policy",
+    "description": "Although the term ‘big data’ is relatively new on the scene, the idea of collecting, protecting, and sharing large data sets has been around since before computers were a major player. Similarly, the concept of a ‘policy,’ high-level guidelines providing a general course of action (or inaction) in a given area, is not new. Putting those two concepts together, however, is a recent phenomenon which has created a set of intriguing challenges. What is ‘open data?’ What does it mean to ‘share’ data? Who makes such policies and how are they implemented? Do data policies look the same all over the world? What are the economic, cultural, and technological implications/impacts of/on a given data policy? How would one even go about understanding and evaluating a data policy? This course takes the basics of policy design and analysis, blends in critical thinking skills, ethics, group dynamics, national perspectives, and international perspectives, and applies it all to the world of big data.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83800"
+  },
+  {
+    "course_id": "ITWS 6600",
+    "prefix": "ITWS",
+    "number": "6600",
+    "title": "Data Analytics",
+    "description": "The world at-large is confronted with increasingly larger and complex sets of structured/unstructured information; from cyber and human sources. Traditional enterprises are moving toward analytics-driven approaches for core business functions. Data and information analytics extends analysis (descriptive models of data) by using data mining and machine learning methods, with optimization and validation, to recommend action or guide and communicate decision-making. Thus, analytics is an entire methodology rather then individual analyses or analysis steps.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Cross Listed: BCBP 4600 , CSCI 4600 , MGMT 4600 / MGMT 6600 Co-Listed: ITWS 4600 . Students can obtain credit for only one of these courses: BCBP 4600, CSCI 4600, ITWS 4600, ITWS 6600, MGMT 4600 or MGMT 6600.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83713"
+  },
+  {
+    "course_id": "ITWS 6700",
+    "prefix": "ITWS",
+    "number": "6700",
+    "title": "Software Development",
+    "description": "This course teaches students about the roles and infrastructure of IT departments in modern organizations, IT software engineering technologies and methodologies for software development life cycle through hands-on experience. The course is for students with software development background to enhance their knowledge of software development and management, the software development industry, open source community, etc.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisites: Programming languages (Java, or C#, or C++, and Script, XML, SQL), concepts of OO and design patterns, and basics of IDE.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Co-Listed: ITWS 4700 . Students cannot obtain credit for both ITWS 4700 and ITWS 6700.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83715"
+  },
+  {
+    "course_id": "ITWS 6710",
+    "prefix": "ITWS",
+    "number": "6710",
+    "title": "Platform Business for Engineers and Scientists",
+    "description": "Students will integrate topics of database systems, networking, software design, web science and business strategies, to develop digital solutions for value creating opportunities utilizing the network effects expressed in Platform Business Models. Students will work on project opportunities of their own creation, develop a digital solution prototype and write a short business plan on these innovations. In some cases, the students will be asked to present their solution to members of the investment community for evaluation and possible future funding.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90473"
+  },
+  {
+    "course_id": "ITWS 6800",
+    "prefix": "ITWS",
+    "number": "6800",
+    "title": "Information Technology Master’s Capstone",
+    "description": "Integration of the knowledge and professional practice of the Master’s in IT core and concentration courses. Topics in database systems, networking, software design, human computer interaction, management of technology, and ethics are applied within a framework of global e-business strategy. The course utilizes a Team Project with a real organization to practice major IT concepts. Team members select, develop, and present a significant technology implementation project, incorporating strategy, systems development, and business planning.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Co-Listed: ITWS 4100 . Students cannot receive credit for both ITWS 4100 and ITWS 6800 during the same semester.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82877"
+  },
+  {
+    "course_id": "ITWS 6980",
+    "prefix": "ITWS",
+    "number": "6980",
+    "title": "Master’s Project",
+    "description": "Active participation in a master’s-level project, under the supervision of a faculty adviser, leading to a master’s project report. Grades S or U are assigned at the end of the semester. If recommended by the adviser, the master’s project may be accepted by the Office of Graduate Education to be archived in the library.",
+    "credit_hours": "3-4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82878"
+  },
+  {
+    "course_id": "ITWS 6990",
+    "prefix": "ITWS",
+    "number": "6990",
+    "title": "Master’s Thesis",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a master’s thesis. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "3-6",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82879"
+  }
+]

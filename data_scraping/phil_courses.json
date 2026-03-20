@@ -1,0 +1,302 @@
+[
+  {
+    "course_id": "PHIL 1110",
+    "prefix": "PHIL",
+    "number": "1110",
+    "title": "Introduction to Philosophy",
+    "description": "An introduction to the major areas of philosophy (ethics, theory of knowledge, philosophy of religion, etc.) and to some of the main problems treated within these fields. Selections from contemporary as well as classical authors are studied and discussed. Students are encouraged to develop a disciplined approach to intellectual problems. Emphasis varies with the instructor.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83235"
+  },
+  {
+    "course_id": "PHIL 2100",
+    "prefix": "PHIL",
+    "number": "2100",
+    "title": "Critical Thinking",
+    "description": "This course provides tools for the identification, analysis, and evaluation of the various patterns of reasoning as they occur in the real world. Patterns of reasoning include deductive reasoning, inductive reasoning, scientific reasoning, statistical reasoning, and causal reasoning. The course also covers some basic psychology and sociology of reasoning and belief and concludes with a critical discussion of science and the scientific method.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: PSYC 2100",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83236"
+  },
+  {
+    "course_id": "PHIL 2140",
+    "prefix": "PHIL",
+    "number": "2140",
+    "title": "Introduction to Formal Logic",
+    "description": "Introduction to formal logic as a tool to be used in mathematics, computer science, philosophy, etc., and as procedural knowledge helpful in puzzle-solving environments (e.g., standardized tests). A hands-on laboratory component is included. Among pother logics, covers Propositional Calculus and First-Order logic.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83238"
+  },
+  {
+    "course_id": "PHIL 2400",
+    "prefix": "PHIL",
+    "number": "2400",
+    "title": "Philosophy of Biology",
+    "description": "This course addresses such issues as: Are species real entities in the world or just human constructs? Are biological phenomena reducible to physical processes or do irreducible biological features exist? What is the relationship between microevolution and macroevolution? Does sociobiology have something to contribute to understanding of ethics? To what extent are the structures of the human mind products of evolution?",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83604"
+  },
+  {
+    "course_id": "PHIL 2500",
+    "prefix": "PHIL",
+    "number": "2500",
+    "title": "Ethics of Artificial Intellegence",
+    "description": "This course explores ethical issues posed by the proliferation of artificial intelligence (AI) technologies. There are three major components of the course. The first canvases philosophical ethics and develops a methodology for making ethical judgments (15% of the course). The second reviews arguments about how AI is already impacting our lives and how it potentially may in the future (60% of the course). Lastly, students research (in groups ) and present on some debate in AI ethics of their choosing (with instructor guidance; 25% of the course).",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: There are no prerequisites for this course",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84113"
+  },
+  {
+    "course_id": "PHIL 2830",
+    "prefix": "PHIL",
+    "number": "2830",
+    "title": "Introduction to Philosophy of Religion",
+    "description": "Central to philosophy is a careful examination of human reasons for holding their beliefs. Given the complexity/ineffability of religious experience, philosophy of religion’s examination of reasons is especially difficult. This course will analyze and evaluate Western monotheism both generally and as it relates to the traditional questions of faith and reason, the problem of evil, fate, and free will and the existence of miracles. Time permitting, non-Western as well as Western religions will be considered.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83241"
+  },
+  {
+    "course_id": "PHIL 2940",
+    "prefix": "PHIL",
+    "number": "2940",
+    "title": "Philosophy Studies",
+    "description": "Independent study of selected readings in the field of philosophy, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83242"
+  },
+  {
+    "course_id": "PHIL 2960",
+    "prefix": "PHIL",
+    "number": "2960",
+    "title": "Topics in Philosophy",
+    "description": "Experimental courses on subjects to be announced in advance.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83243"
+  },
+  {
+    "course_id": "PHIL 4130",
+    "prefix": "PHIL",
+    "number": "4130",
+    "title": "Philosophy of Science",
+    "description": "How does science stimulate philosophical thinking and how has philosophy influenced science? This broad range of interaction is studied with special attention given to the concepts of theory, observation, and scientific method. Special attention is given to issues basic to psychology, in particular, reductionism, behaviorism, functionalism, and cognitivism.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83237"
+  },
+  {
+    "course_id": "PHIL 4140",
+    "prefix": "PHIL",
+    "number": "4140",
+    "title": "Intermediate Logic",
+    "description": "This course is a continuation of PHIL 2140 , covering basic metatheory of logic (including formal syntax and semantics, model theory, and soundness and completeness of proof systems), applications of logic (including automated theorem proving, deductive problem solving, and the axiomatization of various branches of mathematics), and alternative systems of logic (including sequent systems, diagrammatic logic, and modal logic).",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHIL 2140",
+    "prerequisites": [
+      "PHIL 2140"
+    ],
+    "prerequisite_logic": "PHIL 2140",
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: MATH 4140",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83244"
+  },
+  {
+    "course_id": "PHIL 4240",
+    "prefix": "PHIL",
+    "number": "4240",
+    "title": "Ethics",
+    "description": "A critical examination of traditional and contemporary works in ethical theory by considering what these theories have to say about how people should live, what rights and obligations they have, what things are intrinsically valuable. Typically, this includes such topics as ethical and cultural relativism, egoism, freedom, and responsibility. Often the focus will be on contemporary issues such as war, abortion, equality, or punishment.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83245"
+  },
+  {
+    "course_id": "PHIL 4260",
+    "prefix": "PHIL",
+    "number": "4260",
+    "title": "Philosophy of Artificial Intelligence",
+    "description": "This course may be roughly divided into two general areas: philosophical problems in AI and philosophical issues that arise because of AI. An example from the first area is the Knower Paradox, a paradox in which an apparently desirable formalism for handling an agent’s knowledge leads to inconsistency; an example from the second area is John Searle’s attack on so-called “Strong” AI by way of their Chinese Room argument, wherein they claim that because a computer at bottom just manipulates symbols it cannot genuinely understand.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHIL 2140",
+    "prerequisites": [
+      "PHIL 2140"
+    ],
+    "prerequisite_logic": "PHIL 2140",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83246"
+  },
+  {
+    "course_id": "PHIL 4300",
+    "prefix": "PHIL",
+    "number": "4300",
+    "title": "Environmental Philosophy",
+    "description": "While concepts such as quality of life, environment, nature, global ecology, and the like figure heavily in contemporary discussions, they are seldom integrated into an environmental philosophy. The course tries to achieve this integration by understanding some of the religious, mythic-poetic, and scientific dimensions of the man-nature matrix. Some specific environmental problems are examined in order to illustrate the system of values implied by various solutions.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Prerequisite: junior or senior standing or permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM, EVEN YEARS Cross Listed: STSO 4340 . Students cannot obtain credit for both this course and STSO 4340.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83247"
+  },
+  {
+    "course_id": "PHIL 4310",
+    "prefix": "PHIL",
+    "number": "4310",
+    "title": "Scientific Revolutions",
+    "description": "What is progress in science? How has the concept of progress been influenced by science? Are there significant differences between scientific and technological revolutions? These questions are explored in order to shed light on the complex dynamics of academic and industrial research.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Prerequisite: PHIL 1110 .",
+    "prerequisites": [
+      "PHIL 1110"
+    ],
+    "prerequisite_logic": "PHIL 1110",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83248"
+  },
+  {
+    "course_id": "PHIL 4420",
+    "prefix": "PHIL",
+    "number": "4420",
+    "title": "Computability and Logic",
+    "description": "A team-based, project-oriented, hands-on introduction to the great concepts and discoveries in logic and computability, including Turing Machines, first-order logic, the limitations of computing machines, Godel’s incompleteness results, and so forth. A hands-on laboratory component is included.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHIL 2140",
+    "prerequisites": [
+      "PHIL 2140"
+    ],
+    "prerequisite_logic": "PHIL 2140",
+    "when_offered": "SPRING TERM, ODD YEARS Cross Listed: CSCI 4420 and MATH 4030 . Students cannot receive credit both this course and MATH or CSCI.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83249"
+  },
+  {
+    "course_id": "PHIL 4440",
+    "prefix": "PHIL",
+    "number": "4440",
+    "title": "Philosophy of Mathematics",
+    "description": "This course reviews the fundamental epistemological, metaphysical, and logical challenges in the foundations of mathematics. Historical discussions of the paradoxes arising during the foundational crisis in mathematics, e.g., the inconsistency of class theory, the discovery of Gödel’s incompleteness theorems, and the collapse of the Hilbert program set the stage for investigation into what mathematical entities are, how we can come to have reliable knowledge of them, and what choices we ought to make in the face of paradoxes or contradictions in our representations of mathematical truth.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: COGS 6440",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90408"
+  },
+  {
+    "course_id": "PHIL 4450",
+    "prefix": "PHIL",
+    "number": "4450",
+    "title": "Non-Classical Logic",
+    "description": "This course provides an introduction to the philosophical and formal aspects of several families of non-classical logics that provide alternatives to classical (Russell-Frege) logic. Emphases will include philosophical objections to particular components of classical logic and how alternative formalizations of reasoning have emerged in order to accommodate these objections. In particular, topics to be covered will include logics of strict implication, intuitionistic logic, relevant logic, and fuzzy logic.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHIL 2140 or permission of instructor.",
+    "prerequisites": [
+      "PHIL 2140"
+    ],
+    "prerequisite_logic": "PHIL 2140",
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: COGS 6450",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90410"
+  },
+  {
+    "course_id": "PHIL 4480",
+    "prefix": "PHIL",
+    "number": "4480",
+    "title": "Metaphysics and Consciousness",
+    "description": "Daydreams about some tropical paradise … the smell of freshly baked bread … the flash of anger experienced when one person cuts another off … the vision of an albino squirrel on the campus green … Humans take all of these to involve activities or states of consciousness. But what is this consciousness with which they claim to be so intimately familiar? What are its metaphysical implications, and can people reconcile those implications with current scientific understanding of the world?",
+    "credit_hours": "4",
+    "prerequisites_raw": "One course in Philosophy.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83250"
+  },
+  {
+    "course_id": "PHIL 4500",
+    "prefix": "PHIL",
+    "number": "4500",
+    "title": "Bioethics",
+    "description": "This course involves a philosophical analysis of some of the basic moral issues raised by recent and anticipated developments in the areas of biology and medicine. The general question “What are moral problems, and how does one resolve them?” is examined in the context of concrete cases involving issues such as abortion, euthanasia, organ transplants, experimentation on human patients, cloning, genetic engineering, and behavior control and modification.",
+    "credit_hours": "4",
+    "prerequisites_raw": "STSO 2520 , STSO 2500 , PHIL 1110 , INQR 1150 , INQR 1160 , PHIL 4240 , or permission of instructor",
+    "prerequisites": [
+      "STSO 2520",
+      "STSO 2500",
+      "PHIL 1110",
+      "INQR 1150",
+      "INQR 1160",
+      "PHIL 4240"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "STSO 2520",
+        "STSO 2500",
+        "PHIL 1110",
+        "INQR 1150",
+        "INQR 1160",
+        "PHIL 4240"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Cross Listed: STSO 4250 . Students cannot obtain credit for both this course and STSO 4250 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83239"
+  },
+  {
+    "course_id": "PHIL 4940",
+    "prefix": "PHIL",
+    "number": "4940",
+    "title": "Philosophy Independent Study",
+    "description": "Independent study of selected readings in the field of philosophy, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83251"
+  },
+  {
+    "course_id": "PHIL 4990",
+    "prefix": "PHIL",
+    "number": "4990",
+    "title": "Capstone Experience in Philosophy",
+    "description": "Students conduct original scholarly projects: original research, theoretical or analytical reviews of the literature, or computer simulations. Working either alone or in groups, students prepare written reports relating to this project, under the supervision of a faculty member.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Permission of a supervising faculty member.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83252"
+  }
+]

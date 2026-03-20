@@ -1,0 +1,357 @@
+[
+  {
+    "course_id": "MATP 4400",
+    "prefix": "MATP",
+    "number": "4400",
+    "title": "Introduction to Data Mathematics",
+    "description": "This course will center on applications of basic data analysis techniques such as data visualization, classification, clustering, and ridge regression. A case study approach will be used to provide immediate immersion into the problem of understanding high-dimensional data. The course will develop the necessary mathematics to understand and execute the techniques. Each student will execute a mini-data analysis project on a real-world data problem such as from engineering, medicine, and business.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 2010 and CSCI 1100",
+    "prerequisites": [
+      "MATH 2010",
+      "CSCI 1100"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 2010",
+        "CSCI 1100"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83724"
+  },
+  {
+    "course_id": "MATP 4450",
+    "prefix": "MATP",
+    "number": "4450",
+    "title": "Data Analytics",
+    "description": "The world at-large is confronted with increasingly larger and complex sets of structured/unstructured information; from cyber and human sources. Traditional enterprises are moving toward analytics-driven approaches for core business functions. Data and information analytics extends analysis (descriptive models of data) by using data mining and machine learning methods, with optimization and validation, to recommend action or guide and communicate decision-making. Thus, analytics in an entire methodology rather than individual analyses or analysis steps.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ITWS 4350 , CSCI 4350 , or ERTH 4350 ; or permission of instructor.",
+    "prerequisites": [
+      "ITWS 4350",
+      "CSCI 4350",
+      "ERTH 4350"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "ITWS 4350",
+            "CSCI 4350"
+          ]
+        },
+        "ERTH 4350"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ITWS 4600 and ITWS 6600 . Students may not receive credit for both MATP 4450 and ITWS 4600 / ITWS 6600 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83725"
+  },
+  {
+    "course_id": "MATP 4600",
+    "prefix": "MATP",
+    "number": "4600",
+    "title": "Probability Theory and Applications",
+    "description": "Axioms of probability, joint and conditional probability, random variables, probability density and distribution functions, expectation, functions of random variables, and limit theorems. Applications of probability to models in operations research, including queuing theory and Markov chains.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 1020 ; or permission of instructor.",
+    "prerequisites": [
+      "MATH 1020"
+    ],
+    "prerequisite_logic": "MATH 1020",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83069"
+  },
+  {
+    "course_id": "MATP 4700",
+    "prefix": "MATP",
+    "number": "4700",
+    "title": "Mathematical Models of Operations Research",
+    "description": "Introduction to deterministic models of operations research including linear programming formulations, the simplex algorithm, degeneracy, geometry of convex polyhedra, duality theory, and sensitivity analysis. Special linear programming models for assignment, transportation, and network problems. Integer programming formulations along with branch and bound solution. Dynamic programming.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 2010",
+    "prerequisites": [
+      "MATH 2010"
+    ],
+    "prerequisite_logic": "MATH 2010",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83071"
+  },
+  {
+    "course_id": "MATP 4820",
+    "prefix": "MATP",
+    "number": "4820",
+    "title": "Computational Optimization",
+    "description": "An introduction to nonlinear programming. Models, methods, algorithms, and computer techniques for nonlinear optimization are studied. Students investigate contemporary optimization methods both by implementing these methods and through experimentation with commercial software. Nonmajors wishing to gain practical optimization skills are welcomed in this course. A course project will allow students to explore optimization methods and practical problems directly related to their interests.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 2010 or ENGR 1100 and CSCI 1100 ; or permission of instructor.",
+    "prerequisites": [
+      "MATH 2010",
+      "ENGR 1100",
+      "CSCI 1100"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MATH 2010",
+        {
+          "type": "AND",
+          "items": [
+            "ENGR 1100",
+            "CSCI 1100"
+          ]
+        }
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MATP 6610",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83072"
+  },
+  {
+    "course_id": "MATP 4910",
+    "prefix": "MATP",
+    "number": "4910",
+    "title": "Data Analytics Research",
+    "description": "This course focuses on applied data analytics research on real-world open problems. Students will conduct a semester long, team based, hands-on data analytics project. A data set will be selected at the start of the semester. Students will also be instructed in the process of project objective setting, planning, execution, and management. Students will be guided via classroom demonstrations and individualized team coaching by the instructors in the employment of visualization, analytics, and modeling methods.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 4100 , CSCI 6100 , ECSE 6610 , ITWS 4600 , ITWS 6600 , ISYE 6180 or BIOL 4200 ; permission of the instructor.",
+    "prerequisites": [
+      "CSCI 4100",
+      "CSCI 6100",
+      "ECSE 6610",
+      "ITWS 4600",
+      "ITWS 6600",
+      "ISYE 6180",
+      "BIOL 4200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 4100",
+            "CSCI 6100",
+            "ECSE 6610",
+            "ITWS 4600",
+            "ITWS 6600",
+            "ISYE 6180"
+          ]
+        },
+        "BIOL 4200"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: MATP 6910 ;Students cannot obtain credit for this course as a co-list.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83858"
+  },
+  {
+    "course_id": "MATP 4940",
+    "prefix": "MATP",
+    "number": "4940",
+    "title": "Mathematical Programming, Probability, and Mathematical Statistics Independent Study",
+    "description": "Independent study of selected readings in the field of mathematical programming, probability, and mathematical statistics, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83073"
+  },
+  {
+    "course_id": "MATP 4960",
+    "prefix": "MATP",
+    "number": "4960",
+    "title": "Topics in Mathematical Programming, Probability, and Mathematical Statistics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83074"
+  },
+  {
+    "course_id": "MATP 4980",
+    "prefix": "MATP",
+    "number": "4980",
+    "title": "Undergraduate Project in Mathematical Programming, Probability, and Mathematical Statistics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83075"
+  },
+  {
+    "course_id": "MATP 6600",
+    "prefix": "MATP",
+    "number": "6600",
+    "title": "Introduction to Optimization",
+    "description": "Coverage of several areas of interest in optimization, with proofs of some major results. Convex sets and functions. Optimality conditions in nonlinear optimization. Lagrangian duality. Linear, quadratic, and conic optimization. Convex relaxations of integer optimization problems. Stochastic optimization.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None, but the knowledge of Multi-variable Calculus, Matrix Algebra, and Mathematical Analysis at the level of MATH 2010 and MATH 4090 is recommended.",
+    "prerequisites": [
+      "MATH 2010",
+      "MATH 4090"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 2010",
+        "MATH 4090"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ISYE 6780 . Students cannot obtain credit for both this course and ISYE 6780 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83076"
+  },
+  {
+    "course_id": "MATP 6610",
+    "prefix": "MATP",
+    "number": "6610",
+    "title": "Computational Optimization",
+    "description": "An introduction to nonlinear programming. Models, methods, algorithms, and computer techniques for nonlinear optimization are studied. Students investigate contemporary optimization methods both by implementing these methods and through experimentation with commercial software. Nonmajors wishing to gain practical optimization skills are welcomed in this course. A course project will allow students to explore optimization methods and practical problems directly related to their interests. A computer implementation and a research presentation will be required.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 2010 or ENGR 1100 ; and CSCI 1100 ; or permission of instructor.",
+    "prerequisites": [
+      "MATH 2010",
+      "ENGR 1100",
+      "CSCI 1100"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MATH 2010",
+        {
+          "type": "AND",
+          "items": [
+            "ENGR 1100",
+            "CSCI 1100"
+          ]
+        }
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MATP 4820 ; Students cannot obtain credit for both this course and MATP 4820 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83077"
+  },
+  {
+    "course_id": "MATP 6620",
+    "prefix": "MATP",
+    "number": "6620",
+    "title": "Integer and Combinatorial Optimization",
+    "description": "Exact and heuristic methods for solving discrete problems, including the traveling salesman problem, the knapsack problem, packing and covering problems. Algorithm complexity and NP-completeness, cutting plane methods and polyhedral theory, branch and bound, Lagrangian duality, liftings, metaheuristics.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None; but knowledge of multivariable calculus, linear algebra, operations research, and optimization at the level of MATH 2010 and MATP 4700 is recommended.",
+    "prerequisites": [
+      "MATH 2010",
+      "MATP 4700"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 2010",
+        "MATP 4700"
+      ]
+    },
+    "when_offered": "SPRING TERM, ODD YEARS Cross Listed: ISYE 6760 . Students cannot obtain credit for both this course and ISYE 6760 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83078"
+  },
+  {
+    "course_id": "MATP 6640",
+    "prefix": "MATP",
+    "number": "6640",
+    "title": "Linear and Conic Optimization",
+    "description": "A unified development of linear systems and linear optimization, polyhedral theory, the simplex method, interior point methods, decomposition methods for large-scale linear optimization problems, the ellipsoid method, column generation algorithms for stochastic optimization, and other problems. Semidefinite optimization, conic optimization.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None, but knowledge of Multi-variable Calculus, Matrix Algebra, and Models of Operations Research at the level of MATH 2010 and MATP 4700 is recommended.",
+    "prerequisites": [
+      "MATH 2010",
+      "MATP 4700"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 2010",
+        "MATP 4700"
+      ]
+    },
+    "when_offered": "SPRING TERM, EVEN YEARS Cross Listed: ISYE 6770 . Students cannot obtain credit for both this course and ISYE 6770 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83079"
+  },
+  {
+    "course_id": "MATP 6910",
+    "prefix": "MATP",
+    "number": "6910",
+    "title": "Data Analytics Research",
+    "description": "This course focuses on applied data analytics research on real-world open problems. Students will conduct a semester long, team based, hands-on data analytics project. A data set will be selected at the start of the semester. Students will also be instructed in the process of project objective setting, planning, execution, and management. Students will be guided via classroom demonstrations and individualized team coaching by the instructors in the employment of visualization, analytics, and modeling methods.",
+    "credit_hours": "4",
+    "prerequisites_raw": "None, prior knowledge of MATP 4400 CSCI 4100 , CSCI 6100 , ITWS 4600 , ITWS 6600 or BIOL 4200 ; or permission of the instructor.",
+    "prerequisites": [
+      "MATP 4400",
+      "CSCI 4100",
+      "CSCI 6100",
+      "ITWS 4600",
+      "ITWS 6600",
+      "BIOL 4200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MATP 4400",
+            "CSCI 4100",
+            "CSCI 6100",
+            "ITWS 4600",
+            "ITWS 6600"
+          ]
+        },
+        "BIOL 4200"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: MATP 4910 ; Students cannot get credit for both this course and MATP 4910 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83859"
+  },
+  {
+    "course_id": "MATP 6940",
+    "prefix": "MATP",
+    "number": "6940",
+    "title": "Readings in Mathematical Programming, Probability, and Mathematical Statistics",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83080"
+  },
+  {
+    "course_id": "MATP 6960",
+    "prefix": "MATP",
+    "number": "6960",
+    "title": "Topics in Optimization",
+    "description": "Advanced methods and/or applications in optimization. Possible topics include stochastic programming, learning theory, cone programming, optimization of medical treatment, and network flows.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Prerequisites: vary with topics and/or instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83081"
+  },
+  {
+    "course_id": "MATP 6980",
+    "prefix": "MATP",
+    "number": "6980",
+    "title": "Master’s Project",
+    "description": "Active participation in a master’s-level project, under the supervision of a faculty adviser, leading to a master’s project report. Grades S or U are assigned at the end of the semester. If recommended by the adviser, the master’s project may be accepted by the Office of Graduate Education to be archived in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83082"
+  }
+]

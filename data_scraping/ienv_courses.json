@@ -1,0 +1,30 @@
+[
+  {
+    "course_id": "IENV 1910",
+    "prefix": "IENV",
+    "number": "1910",
+    "title": "Environmental Seminar",
+    "description": "Topical issues in environmental sciences covered in a seminar and discussion format, with field trips. Seminar includes guest speakers from academics, industry, non-profits, and government who are experts in an array of environment-related fields. Each class includes weekly reading and short writing assignments.",
+    "credit_hours": "2",
+    "prerequisites_raw": "or Corequisite: GEOL or ENVS major or permission of instructor",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82817"
+  },
+  {
+    "course_id": "IENV 4700",
+    "prefix": "IENV",
+    "number": "4700",
+    "title": "One Mile of the Hudson River",
+    "description": "A course that focuses on the Hudson River Basin as an environmental microcosm and a vehicle through which to illustrate the natural science of river systems with particular attention to human influences. This interdisciplinary environmental science course is for environmentally oriented junior, senior, and graduate students.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ERTH 1125 ; and Junior, senior, or graduate student status or permission of instructor. Attributes Data Intensive 2",
+    "prerequisites": [
+      "ERTH 1125"
+    ],
+    "prerequisite_logic": "ERTH 1125",
+    "when_offered": "SPRING TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82819"
+  }
+]

@@ -1,0 +1,978 @@
+[
+  {
+    "course_id": "BMED 2050",
+    "prefix": "BMED",
+    "number": "2050",
+    "title": "Programming for BME",
+    "description": "Introduction of number systems – decimal, binary and hexadecimal –; variable types including Boolean, integer, float, character and string; general overview of computer architecture and software, programming in “C/C++” including input/output, control statements, operators, functions, arrays, strings, classes, objects, inheritance, pointers, references, file processing, exceptions and operator overloading; overview of other programming languages including Matlab, R and Python; design of algorithms for applications that are relevant for biomedical engineering applications.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENGR 1100",
+    "prerequisites": [
+      "ENGR 1100"
+    ],
+    "prerequisite_logic": "ENGR 1100",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83944"
+  },
+  {
+    "course_id": "BMED 2100",
+    "prefix": "BMED",
+    "number": "2100",
+    "title": "Biomaterials Science and Engineering",
+    "description": "Presents structure-property relationships of implant materials including metals, polymers, ceramics, and composites, with an emphasis on mechanical and surface properties in the broader context of implant design. Biological performance of biomaterials, case studies of traditional implants—as well as emerging, tissue-engineered materials— are emphasized.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82323"
+  },
+  {
+    "course_id": "BMED 2300",
+    "prefix": "BMED",
+    "number": "2300",
+    "title": "Bioimaging and Bioinstrumentation",
+    "description": "This course serves as an introduction to biomedical instrumentation and imaging with focus on the acquisition and monitoring of vital signals. Basic principles for the selection and appropriate use of instruments for solving bioengineering and medical problems such as microscopy, magnetic resonance imaging, and ultrasounds, among others are addressed.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHYS 1200 or PHYS 1250",
+    "prerequisites": [
+      "PHYS 1200",
+      "PHYS 1250"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "PHYS 1200",
+        "PHYS 1250"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83501"
+  },
+  {
+    "course_id": "BMED 2540",
+    "prefix": "BMED",
+    "number": "2540",
+    "title": "Biomechanics",
+    "description": "Application of mechanics to the study of normal, diseased, and traumatized musculo-skeletal system. Areas covered include determination of joint and muscle forces, mechanical properties of biological tissues, and structural analysis of bone-implant systems. Case studies are discussed to illustrate the role of biomechanics and biomaterials in the design of implants.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ENGR 1100",
+    "prerequisites": [
+      "ENGR 1100"
+    ],
+    "prerequisite_logic": "ENGR 1100",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82331"
+  },
+  {
+    "course_id": "BMED 2940",
+    "prefix": "BMED",
+    "number": "2940",
+    "title": "Independent Study in Biomedical Engineering",
+    "description": "Independent study of selected readings in the field of biomedical engineering, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82325"
+  },
+  {
+    "course_id": "BMED 2960",
+    "prefix": "BMED",
+    "number": "2960",
+    "title": "Topics in Biomedical Engineering",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82326"
+  },
+  {
+    "course_id": "BMED 4010",
+    "prefix": "BMED",
+    "number": "4010",
+    "title": "Biomedical Engineering Laboratory",
+    "description": "Theory and practice of biomedical measurements. An introduction to instrumentation and procedures for measurement of membrane transport, bioelectrical potentials, cell counting, biomechanical and biomaterial properties using invasive and noninvasive techniques. Transducers studied include strain gauge, differential transformer, spectrophometer, biopotential electrodes, microscope with camera, mechanical testing machine, piezoelectric transducer (or sensor). Also studied are instruments for determination of material properties.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BMED 2100 , BMED 2300 , and BMED 2540",
+    "prerequisites": [
+      "BMED 2100",
+      "BMED 2300",
+      "BMED 2540"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "BMED 2100",
+        "BMED 2300",
+        "BMED 2540"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82327"
+  },
+  {
+    "course_id": "BMED 4110",
+    "prefix": "BMED",
+    "number": "4110",
+    "title": "Investigative Medicine I",
+    "description": "Students will be exposed to real time investigative biomedical research projects that are currently in development, taught the principles of research project development and exposed to clinical experiences at a level typically found in college graduates/post graduates who are entering medical school.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Restricted to 3rd Year RPI students who are in the combined B.S./M.D. Physician Scientist Program with Albany Medical College or 4th Year RPI students who are in the B.S./M.D. Physician Engineer Program with Albany Medical College.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: BIOL 4110 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83768"
+  },
+  {
+    "course_id": "BMED 4120",
+    "prefix": "BMED",
+    "number": "4120",
+    "title": "Investigative Medicine II",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83769"
+  },
+  {
+    "course_id": "BMED 4130",
+    "prefix": "BMED",
+    "number": "4130",
+    "title": "Biomedical Research",
+    "description": "Independent research in health sciences, supervised by a faculty member, for the purpose of developing research skills. Such skills include defining a research project, both as a written and oral exercise for a scientific and general audience, and gathering preliminary research data enabling both a written and oral description of the project in the form of a research proposal and an oral defense. This is a communication-intensive course.",
+    "credit_hours": "6",
+    "prerequisites_raw": "or Corequisite: Restricted to 3rd Year RPI students who are in the combined B.S./M.D. Physician Scientist Program with Albany Medical College. Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: BIOL 4130",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84041"
+  },
+  {
+    "course_id": "BMED 4200",
+    "prefix": "BMED",
+    "number": "4200",
+    "title": "Modeling of Biomedical Systems",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82324"
+  },
+  {
+    "course_id": "BMED 4250",
+    "prefix": "BMED",
+    "number": "4250",
+    "title": "Biomedical Transport Phenomena",
+    "description": "Quantitative analysis of transport phenomena in physiological systems, including fluid mechanics, thermodynamics, and mass transfer. Fluid statics, mass and energy conservation, laminar and turbulent flow, microscale and macroscale analytical methods, mass transport with biochemical reactions, applications to transport in tissue and organs will be introduced.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ENGR 1100 and MATH 2400 ; and ( PHYS 1100 , PHYS 1110 or PHYS 1150 )",
+    "prerequisites": [
+      "ENGR 1100",
+      "MATH 2400",
+      "PHYS 1100",
+      "PHYS 1110",
+      "PHYS 1150"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "ENGR 1100",
+            "MATH 2400",
+            "PHYS 1100",
+            "PHYS 1110"
+          ]
+        },
+        "PHYS 1150"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83945"
+  },
+  {
+    "course_id": "BMED 4260",
+    "prefix": "BMED",
+    "number": "4260",
+    "title": "Biomedical Product Development and Commercialization",
+    "description": "Students are introduced to the major biomedical industries, markets, and stakeholders, with an emphasis on biomedical devices. Market drivers and hurdles are covered including regulatory, intellectual property, and reimbursement. The interactive class format includes case studies and industry experts providing a practical perspective. Students select topic areas for design projects and begin work toward the goal of developing functional design solutions to practical biomedical problems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENGR 2050 and Senior BME status.",
+    "prerequisites": [
+      "ENGR 2050"
+    ],
+    "prerequisite_logic": "ENGR 2050",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83568"
+  },
+  {
+    "course_id": "BMED 4410",
+    "prefix": "BMED",
+    "number": "4410",
+    "title": "BioMEMs",
+    "description": "This course discusses state-of-the-art techniques in patterning biomolecules, biosensors, machining three-dimensional microstructures, and building microfluidic devices (Lab-on-a-Chip). Seminal and current literature will be used to discuss topics in BioMEMs ranging from device fabrication to applications in cell biology and medicine.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Junior/senior standing.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: BMED 6410 ; Students cannot get credit for both BMED 4410 and BMED 6410 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82328"
+  },
+  {
+    "course_id": "BMED 4430",
+    "prefix": "BMED",
+    "number": "4430",
+    "title": "Biomedical Instrumentation",
+    "description": "This course introduces students to concepts related to design, operation, evaluation, and optimization of biomedical instrumentation. Students learn the basic principles of how physical devices interface with biological systems for measuring, characterizing, and manipulating cells, tissues, organs, or an entire organism. These measurements are central to the biomedical field; whether enabling a physician or health care professional to monitor, diagnose, and treat patients, or, by supporting discovery in translational and fundamental biomedical engineering fields.This course introduces students to concepts related to design, operation, evaluation, and optimization of biomedical instrumentation. Students learn the basic principles of how physical devices interface with biological systems for measuring, characterizing, and manipulating cells, tissues, organs, or an entire organism. These measurements are central to the biomedical field; whether enabling a physician or health care professional to monitor, diagnose, and treat patients, or, by supporting discovery in translational and fundamental biomedical engineering fields.",
+    "credit_hours": "3",
+    "prerequisites_raw": "BMED 2300",
+    "prerequisites": [
+      "BMED 2300"
+    ],
+    "prerequisite_logic": "BMED 2300",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84186"
+  },
+  {
+    "course_id": "BMED 4440",
+    "prefix": "BMED",
+    "number": "4440",
+    "title": "Biophotonics",
+    "description": "Biophotonics, or biomedical optics, is a newly developing field, dealing with the application of optical science and technology to biomedical problems, including clinical applications. The course introduces students to the fundamentals in modern and classical optics, light-matter interaction and provides them with a broad overview of current topics and contemporary research in the area of optics and lasers in medicine and biology.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BMED 6440 . Students cannot receive credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82329"
+  },
+  {
+    "course_id": "BMED 4450",
+    "prefix": "BMED",
+    "number": "4450",
+    "title": "Drug and Gene Delivery",
+    "description": "The course presents several aspects of drug and gene delivery including: 1) definitions of what drugs or genes are; 2) pharmacokinetics and pharmacodynamics; 3) biomaterial selection considerations; 4) bioactivity considerations; 5) physiological and biochemical barriers to drug delivery; 6) diffusion controlled, dissolution controlled, and osmotic controlled drug delivery systems; 7) polymeric delivery systems; 8) ligand-based targeting and physical targeting; 9) viral mediated gene delivery; 10) non-viral gene delivery; 11) polymers in gene delivery.",
+    "credit_hours": "3",
+    "prerequisites_raw": "BMED 2100 or equivalent.",
+    "prerequisites": [
+      "BMED 2100"
+    ],
+    "prerequisite_logic": "BMED 2100",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BMED 6450",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83504"
+  },
+  {
+    "course_id": "BMED 4460",
+    "prefix": "BMED",
+    "number": "4460",
+    "title": "Biological Imaging Analysis",
+    "description": "Survey of image analysis applications in biology and biotechnology; introduction to biological microscopy and selected biomedical imaging systems; image reconstruction and pre-processing; grayscale and geometric corrections; image segmentation; blob analysis, cell/colony counting, and cell morphometry; vessel and neuron tracing algorithms with applications to neurobiology and medicine; feature extraction, pattern analysis, cluster analysis and classification; image registration algorithms with applications to mosaicing, spatial referencing, motion estimation, and change detection.",
+    "credit_hours": "3",
+    "prerequisites_raw": "BMED 2300",
+    "prerequisites": [
+      "BMED 2300"
+    ],
+    "prerequisite_logic": "BMED 2300",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83535"
+  },
+  {
+    "course_id": "BMED 4470",
+    "prefix": "BMED",
+    "number": "4470",
+    "title": "Biostatistics for Life Science Applications",
+    "description": "Starting with the introduction of the probability distribution of one or two continuous random variables, basic concepts of mean, variance, covariance and correlation coefficient are covered. Description techniques discussed include stem-and-leaf plots, histograms, box plots, and probability plots. Confidence intervals for a single sample and for two samples are constructed on means and variances. The procedure of hypothesis testing is introduced conceptually followed by solving real-life biomedical problems. The design and performance of engineering experiments involving a single factor are discussed.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENGR 2600 and MATH 2010 ; or ( MATH 2011 and MATH 2012)",
+    "prerequisites": [
+      "ENGR 2600",
+      "MATH 2010",
+      "MATH 2011",
+      "MATH 2012"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "ENGR 2600",
+            "MATH 2010"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2011",
+            "MATH 2012"
+          ]
+        }
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83780"
+  },
+  {
+    "course_id": "BMED 4480",
+    "prefix": "BMED",
+    "number": "4480",
+    "title": "Biomedical Data Science",
+    "description": "Introduction of multivariate statistical methods to model and analyze recorded data from physiological systems in biomedical engineering. Statistical approaches related to applied multivariate statistics, classification and regression. Associated linear methods include principal component analysis, Fisher discriminant analysis, partial least squares, canonical correlation analysis and their nonlinear counterparts. Descriptive tools include scatter diagrams, Hotelling’s T2 statistics and contribution plots. The course has a strong emphasis on biomedical applications.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ENGR 2600 and MATH 2010 ; or ( MATH 2011 and MATH 2012)",
+    "prerequisites": [
+      "ENGR 2600",
+      "MATH 2010",
+      "MATH 2011",
+      "MATH 2012"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "ENGR 2600",
+            "MATH 2010"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2011",
+            "MATH 2012"
+          ]
+        }
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83782"
+  },
+  {
+    "course_id": "BMED 4490",
+    "prefix": "BMED",
+    "number": "4490",
+    "title": "Artificial Intelligence for Biomedical Applications",
+    "description": "Introduction of artificial neural networks, rule/case-based reasoning, Bayesian methods, fuzzy-logic, genetic and evolutionary optimization techniques, and agents. The course presents the evolution of artificial neural networks from its inception to the principles of deep learning, introduces rule/case-based reasoning, fuzzy-logic, genetic algorithms and particle swarm optimization methods. Besides covering the foundation of associated methods, the course emphasizes biomedical applications and presents associated results from studies to autism, discriminating cancer types, burn severity and tissue engineering problems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MATH 2010 and MATH 2400",
+    "prerequisites": [
+      "MATH 2010",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 2010",
+        "MATH 2400"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: BMED 6490",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84170"
+  },
+  {
+    "course_id": "BMED 4500",
+    "prefix": "BMED",
+    "number": "4500",
+    "title": "Advanced Systems Physiology",
+    "description": "Applications of control theory and systems techniques to physiology. Emphasis is on entire systems and their interactions rather than isolated phenomena. Areas covered include cardiac, respiratory, renal, and gastrointestinal systems. Includes laboratory on the application of engineering techniques in the study of physiological systems. This course is taught at Albany Medical Center and enrollment is limited to BME students.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 2120 or equivalent",
+    "prerequisites": [
+      "BIOL 2120"
+    ],
+    "prerequisite_logic": "BIOL 2120",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82330"
+  },
+  {
+    "course_id": "BMED 4510",
+    "prefix": "BMED",
+    "number": "4510",
+    "title": "Mechanobiology",
+    "description": "Mechanical regulation of biological systems. Topics include principles and concepts of mechanobiology; evolution, embryogenesis, and histogenesis of tissues with particular references to skeletal system; mechanical regulation of cellular behavior, tissue growth and organ development; concept and application of strain energy regulation in biology; application of mechanobiology to tissue regeneration; limits of mechanical regulation.",
+    "credit_hours": "3",
+    "prerequisites_raw": "BMED 2540 or permission from instructor; (non-BME students)",
+    "prerequisites": [
+      "BMED 2540"
+    ],
+    "prerequisite_logic": "BMED 2540",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83503"
+  },
+  {
+    "course_id": "BMED 4540",
+    "prefix": "BMED",
+    "number": "4540",
+    "title": "Biomechanics II",
+    "description": "Examines biomechanics of human body movement through developing various models (e.g., lumped mass, planar rigid body, 3D) and exploring current techniques in Forward and Inverse Dynamic approaches. Topics are developed on a classical mechanics foundation, and simulations are constructed using software (e.g., OpenSIM) to describe normal movements, and investigate possible sources of abnormalities due to injury, disease, or dysfunction.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BMED 2540 , junior/senior standing, or instructor permission.",
+    "prerequisites": [
+      "BMED 2540"
+    ],
+    "prerequisite_logic": "BMED 2540",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83502"
+  },
+  {
+    "course_id": "BMED 4550",
+    "prefix": "BMED",
+    "number": "4550",
+    "title": "Cell Biomechanics",
+    "description": "This is an undergraduate/graduate course on the mechanics of biopolymers, cell cytoskeleton, cell membrane, the whole cell, and multicellular structures in the context of the modulation of cell function by mechanical stresses. Topics include state-of-the-art experimental techniques in cell biomechanics, and cutting-edge research in stem cell mechanobiology, cell motility, collective cell behavior, neurite growth, osteocyte sensing, cardiovascular diseases, and immunology.",
+    "credit_hours": "3",
+    "prerequisites_raw": "BMED 2540 or equivalent",
+    "prerequisites": [
+      "BMED 2540"
+    ],
+    "prerequisite_logic": "BMED 2540",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BMED 6550 . Students cannot receive credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83571"
+  },
+  {
+    "course_id": "BMED 4580",
+    "prefix": "BMED",
+    "number": "4580",
+    "title": "Biomedical Fluid Mechanics",
+    "description": "This course covers the dynamics of fluid flow in human physiological system. Engineering principles and fluid dynamic concepts will be taught in the context of cardiovascular system. Topics include: pulsatile flow in arteries, vascular compliance and wave propagation, impedance, cardiac mechanics, dynamic coupling of ventricle and systemic circulation, blood flow in vein, coronary circulation, microcirculation, blood flow at complex geometries, imaging techniques in clinical hemodynamic assessment, fluid mechanics in designing and testing circulatory implants.",
+    "credit_hours": "3",
+    "prerequisites_raw": "BMED 4250 or ENGR 2250 ; and a basic knowledge of human physiology",
+    "prerequisites": [
+      "BMED 4250",
+      "ENGR 2250"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "BMED 4250",
+        "ENGR 2250"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BMED 6580 . Students cannot receive credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83406"
+  },
+  {
+    "course_id": "BMED 4590",
+    "prefix": "BMED",
+    "number": "4590",
+    "title": "Medical Imaging",
+    "description": "This course serves as an in-depth overview to medical imaging modalities. First, individual modalities are introduced, including CT, MRI, PET, SPECT, and US. Then, multimodality systems are described. A balance is made among physical, mathematical, algorithmic and architectural contents. Contemporary research and insights to improve the current systems are introduced throughout the course to inspire students and provide an understanding of newer tools under development.",
+    "credit_hours": "3",
+    "prerequisites_raw": "BMED 2300 or approval of instructor",
+    "prerequisites": [
+      "BMED 2300"
+    ],
+    "prerequisite_logic": "BMED 2300",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BMED 6590 . Students cannot receive credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83572"
+  },
+  {
+    "course_id": "BMED 4600",
+    "prefix": "BMED",
+    "number": "4600",
+    "title": "Biomedical Engineering Design",
+    "description": "A guided approach to development of design skills. Students work individually and in teams to tackle a biomedical design problem using methods drawn as necessary from engineering and from the physical and mathematical sciences. Discussion sessions involve students in presentations of work. This is a communication-intensive course.",
+    "credit_hours": "3",
+    "prerequisites_raw": "BMED 4260 or permission of instructor",
+    "prerequisites": [
+      "BMED 4260"
+    ],
+    "prerequisite_logic": "BMED 4260",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82332"
+  },
+  {
+    "course_id": "BMED 4650",
+    "prefix": "BMED",
+    "number": "4650",
+    "title": "Intro to Cell and Tissue Engineering",
+    "description": "The principles and practice of tissue engineering are taught in this course. The principles underlying strategies for employing selected cells, biomaterial scaffolds, soluble regulators or their genes, and biomechanical loading and culture conditions, for the regeneration of tissues and organs in vitro and in vivo are addressed. Bioreactors, enabling technology and biomimetic approach for fabricating tissue-engineered products and devices for implantation are taught.",
+    "credit_hours": "3",
+    "prerequisites_raw": "BMED 2100 and ( ENGR 2530 or BMED 2540 ),or permission of instructor.",
+    "prerequisites": [
+      "BMED 2100",
+      "ENGR 2530",
+      "BMED 2540"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "BMED 2100",
+            "ENGR 2530"
+          ]
+        },
+        "BMED 2540"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82333"
+  },
+  {
+    "course_id": "BMED 4660",
+    "prefix": "BMED",
+    "number": "4660",
+    "title": "Muscle Mechanics and Modeling",
+    "description": "This graduate/advanced undergraduate hybrid course examines the structural and physiologic properties of muscle, as well as its force production and overall biomechanical function. Muscle structure and function will be explored at the protein, single fiber, and whole tissue levels. Discussions will focus primarily on skeletal muscle, and topics will include muscle morphology, cross-bridge theory, molecular motor and actomyosin interaction, Hill-type and Huxley-type models, electromyography, fatigue, muscle inhibition, history-dependent phenomena, in vitro and in vivo muscle function, and the response to injury. Each topic will be introduced and developed utilizing seminal articles in the literature as well as excerpts from texts and further discussion on current problems and state-of-the-art experimental techniques will draw on the current scientific literature.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Senior standing or permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: BIOL 6660 Co-Listed: BMED 6660",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83402"
+  },
+  {
+    "course_id": "BMED 4670",
+    "prefix": "BMED",
+    "number": "4670",
+    "title": "The Biology of Systems",
+    "description": "This course is designed to be a first course in the study of “systems biology”, to introduce students to the field, the experimental and computational methods that are used within it, and the type of insights that the field can provide to biology. To fully appreciate the complexity of living systems, researchers gather systematic, quantitative measurements of a system’s components using cutting-edge omics techniques. In addition, researchers also leverage computing power to describe, model, and predict dynamic behaviors that could otherwise not be perceived in such large-scale omics data. Along with these topics, students will learn to critically read current scientific literature.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 4620 and ( BIOL 4760 , BCBP 4760 or CHEM 4760 ); or permission of the instructor.",
+    "prerequisites": [
+      "BIOL 4620",
+      "BIOL 4760",
+      "BCBP 4760",
+      "CHEM 4760"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "BIOL 4620",
+            "BIOL 4760",
+            "BCBP 4760"
+          ]
+        },
+        "CHEM 4760"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: BIOL 4660 / BIOL 6650 / BCBP 4660 / BCBP 6650 Co-Listed: BMED 6670 Students can obtain credit for only one of these courses: BIOL 4660, BCBP 4660, BCBP 6650, BIOL 6650, BMED 4670 and BMED 6670.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84258"
+  },
+  {
+    "course_id": "BMED 4810",
+    "prefix": "BMED",
+    "number": "4810",
+    "title": "Biomedical Seminar",
+    "description": "The purpose of this course is to bring in researchers in Biomedical Engineering and related areas to share their latest research, and gain knowledge in specific areas within Biomedical Engineering. Seminars are intended to foster professional skills for biomedical engineers. Through these seminars by nationally and internationally recognized experts in their fields, students will learn about current research areas and key problems being studied.",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Co-Listed: BMED 6810 Students may not receive credit for this course and BMED 6810.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84256"
+  },
+  {
+    "course_id": "BMED 4940",
+    "prefix": "BMED",
+    "number": "4940",
+    "title": "Biomedical Engineering Independent Study",
+    "description": "Independent study of selected readings in the field of biomedical engineering, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82334"
+  },
+  {
+    "course_id": "BMED 4960",
+    "prefix": "BMED",
+    "number": "4960",
+    "title": "Topics in Biomedical Engineering",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82335"
+  },
+  {
+    "course_id": "BMED 6410",
+    "prefix": "BMED",
+    "number": "6410",
+    "title": "BioMEMs",
+    "description": "This course discusses state-of-the-art techniques in patterning biomolecules, biosensors, machining three-dimensional microstructures and building microfluidic devices (Lab-on-a-Chip). Seminal and current literature will be used to discuss topics in BioMEMs ranging from device fabrication to applications in cell biology and medicine.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: BMED 4410 ; Students cannot get credit for both BMED 4410 and BMED 6410.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82336"
+  },
+  {
+    "course_id": "BMED 6420",
+    "prefix": "BMED",
+    "number": "6420",
+    "title": "Engineering Mathematics for Data Science",
+    "description": "The course covers matrix algebra and decompositions, including eigenvalue and generalized eigenvalue problems, solving multivariate constraint and unconstraint optimization problems, gradient-based optimization for solving nonlinear optimization problems, and regression analysis. Concepts that are discussed include solving nonlinear optimization problems, first- and second-order gradient-based methods, estimating parameters for multiple linear regression and mechanistic first-principle models. The course also introduces important data science tasks: data analysis, regression, classification and presents application studies related to biomedical engineering.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ENGR 6420",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84172"
+  },
+  {
+    "course_id": "BMED 6440",
+    "prefix": "BMED",
+    "number": "6440",
+    "title": "Biophotonics",
+    "description": "Biophotonics, or biomedical optics, is a newly developing field, dealing with the application of optical science and technology to biomedical problems, including clinical applications. The course introduces students to the fundamentals in modern and classical optics, light-matter interaction and provides them with a broad overview of current topics and contemporary research in the area of optics and lasers in medicine and biology.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: BMED 4440 . Students cannot receive credit for both.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82337"
+  },
+  {
+    "course_id": "BMED 6450",
+    "prefix": "BMED",
+    "number": "6450",
+    "title": "Drug and Gene Delivery",
+    "description": "The course presents several aspects of drug and genes delivery including: 1) definitions of what drugs or gene are; 2) pharmacokinetics and pharmacodynamics; 3) biomaterial selection considerations; 4) bioactivity considerations; 5) physiological and biochemical barriers to drug delivery; 6) diffusion controlled, dissolution controlled, and osmotic controlled drug delivery systems; 7) polymeric delivery systems; 8) ligand-based targeting and physical targeting; 9) viral mediated gene delivery; 10) non-viral gene delivery; 11) polymers in gene delivery.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of BMED 2100 or equivalent. Prerequisite or Corequisite:",
+    "prerequisites": [
+      "BMED 2100"
+    ],
+    "prerequisite_logic": "BMED 2100",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BMED 4450",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83505"
+  },
+  {
+    "course_id": "BMED 6460",
+    "prefix": "BMED",
+    "number": "6460",
+    "title": "Biological Imaging Analysis",
+    "description": "Survey of image analysis applications in biology and biotechnology; introduction to biological microscopy and selected biomedical imaging systems; image reconstruction and pre-processing; grayscale and geometric corrections; image segmentation; blob analysis, cell/colony counting, and cell morphometry; vessel and neuron tracing algorithms with applications to neurobiology and medicine; feature extraction, pattern analysis, cluster analysis and classification; image registration algorithms with applications to mosaicing, spatial referencing, motion estimation, and change detection.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83536"
+  },
+  {
+    "course_id": "BMED 6470",
+    "prefix": "BMED",
+    "number": "6470",
+    "title": "Biostatistics for Life Science",
+    "description": "Starting with the introduction of the probability distribution of one or two continuous random variables, basic concepts of mean, variance, covariance, and correlation coefficient are covered. Description techniques discussed include stem-and-leaf plots, histograms, box plots, and probability plots. Confidence intervals for a single sample and for two samples are constructed on means and variances. The procedure of hypothesis testing is introduced conceptually followed by solving real-life biomedical problems. The design and performance of engineering experiments involving a single factor are discussed.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83781"
+  },
+  {
+    "course_id": "BMED 6480",
+    "prefix": "BMED",
+    "number": "6480",
+    "title": "Biomedical Data Science",
+    "description": "Introduction of multivariate statistical methods to model and analyze recorded data from physiological systems in biomedical engineering. Statistical approaches related to applied multivariate statistics, classification, and regression. Associated linear methods include principal component analysis, Fisher discriminant analysis, partial least squares, canonical correlation analysis and their nonlinear counterparts. Descriptive tools include scatter diagrams, Hotelling’s T2 statistics and contribution plots. The course has a strong emphasis on biomedical applications.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83783"
+  },
+  {
+    "course_id": "BMED 6490",
+    "prefix": "BMED",
+    "number": "6490",
+    "title": "Artificial Intelligence for Biomedical Applications",
+    "description": "Introduction of artificial neural networks, rule/case-based reasoning, Bayesian methods, fuzzy-logic, genetic and evolutionary optimization techniques, and agents. The course presents the evolution of artificial neural networks from its inception to the principles of deep learning, introduces rule/case-based reasoning, fuzzy-logic, genetic algorithms and particle swarm optimization methods. Besides covering the foundation of associated methods, the course emphasizes biomedical applications and presents associated results from studies to autism, discriminating cancer types, burn severity and tissue engineering problems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of MATH 2010 and MATH 2400",
+    "prerequisites": [
+      "MATH 2010",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 2010",
+        "MATH 2400"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: BMED 4490",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84171"
+  },
+  {
+    "course_id": "BMED 6510",
+    "prefix": "BMED",
+    "number": "6510",
+    "title": "Mechanobiology",
+    "description": "Mechanical regulation of biological systems will be discussed. Topics include principles and concepts of mechanobiology; embryogenesis, and histogenesis of tissues with particular references to skeletal system; physical forces at cellular, tissue, and organ level; mechanical regulation of cellular behavior, tissue growth, and organ development; limits of mechanical regulation; biochemical influences; application of mechanobiology to tissue regeneration.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of BMED 2540 or ENGR 2530",
+    "prerequisites": [
+      "BMED 2540",
+      "ENGR 2530"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "BMED 2540",
+        "ENGR 2530"
+      ]
+    },
+    "when_offered": "SPRING TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82338"
+  },
+  {
+    "course_id": "BMED 6550",
+    "prefix": "BMED",
+    "number": "6550",
+    "title": "Cell Biomechanics",
+    "description": "This is an undergraduate/graduate course on the mechanics of biopolymers, cell cytoskeleton, cell membrane, the whole cell, and multicellular structures in the context of the modulation of cell function by mechanical stresses. Topics include state-of-the-art experimental techniques in cell biomechanics, and cutting-edge research in stem cell mechanobiology, cell motility, collective cell behavior, neurite growth, osteocyte sensing, cardiovascular diseases, and immunology.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of BMED 2540 or equivalent",
+    "prerequisites": [
+      "BMED 2540"
+    ],
+    "prerequisite_logic": "BMED 2540",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BMED 4550 . Students cannot receive credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82339"
+  },
+  {
+    "course_id": "BMED 6580",
+    "prefix": "BMED",
+    "number": "6580",
+    "title": "Biomedical Fluid Mechanics",
+    "description": "This course covers the dynamics of fluid flow in the human physiological system. Engineering principles and fluid dynamic concepts will be taught in the context of cardiovascular system. Topics include: pulsatile flow in arteries, vascular compliance and wave propagation, impedance, cardiac mechanics, dynamic coupling of ventricle and systemic circulation, blood flow in vein, coronary circulation, microcirculation, blood flow at complex geometries, imaging techniques in clinical hemodynamic assessment, fluid mechanics in designing and testing circulatory implants.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of BMED 4250 or ENGR 2250 and a basic knowledge of human physiology",
+    "prerequisites": [
+      "BMED 4250",
+      "ENGR 2250"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "BMED 4250",
+        "ENGR 2250"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BMED 4580 . Students cannot receive credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83407"
+  },
+  {
+    "course_id": "BMED 6590",
+    "prefix": "BMED",
+    "number": "6590",
+    "title": "Medical Imaging",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83573"
+  },
+  {
+    "course_id": "BMED 6650",
+    "prefix": "BMED",
+    "number": "6650",
+    "title": "Introduction to Cell and Tissue Engineering",
+    "description": "The principles and practice of tissue engineering are taught in this course. The principles underlying strategies for employing selected cells, biomaterial scaffolds, soluble regulators or their genes, and biomechanical loading and culture conditions, for the regeneration of tissues and organs in vitro and in vivo are addressed. Bioreactor, enabling technology, and biomimetic approach for fabricating tissue-engineered products and devices for implantation are taught.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge in mechanics ( ENGR 2530 or BMED 2540 ), and a basic course in transport phenomena or fluid dynamics ( ENGR 2250 or equivalent).",
+    "prerequisites": [
+      "ENGR 2530",
+      "BMED 2540",
+      "ENGR 2250"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ENGR 2530",
+        "BMED 2540",
+        "ENGR 2250"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83507"
+  },
+  {
+    "course_id": "BMED 6660",
+    "prefix": "BMED",
+    "number": "6660",
+    "title": "Muscle Mechanics and Modeling",
+    "description": "This graduate/advanced undergraduate hybrid course examines the structural and physiologic properties of muscle, as well as its force production and overall biomechanical function. Muscle structure and function will be explored at the protein, single fiber and whole tissue levels. Discussions will focus primarily on skeletal muscle, and topics will include muscle morphology, cross-bridge theory, molecular motor and actomyosin interaction, Hill-type and Huxley-type models, electromyography, fatigue, muscle inhibition, history-dependent phenomena, in vitro and in vivo muscle function, and the response to injury. Each topic will be introduced and developed utilizing seminal articles in the literature as well as excerpts from texts, and further discussion on current problems and state-of-the-art experimental techniques will draw on the current scientific literature.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Senior standing or permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: BIOL 6660 Co-Listed: BMED 4660",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83403"
+  },
+  {
+    "course_id": "BMED 6670",
+    "prefix": "BMED",
+    "number": "6670",
+    "title": "The Biology of Systems",
+    "description": "This course is designed to be a first course in the study of “systems biology”, to introduce students to the field, the experimental and computational methods that are used within it, and the type of insights that the field can provide to biology. To fully appreciate the complexity of living systems, researchers gather systematic, quantitative measurements of a system’s components using cutting-edge omics techniques. In addition, researchers also leverage computing power to describe, model, and predict dynamic behaviors that could otherwise not be perceived in such large-scale omics data. Along with these topics, students will learn to critically read current scientific literature.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of BIOL 4620 and ( BIOL 4760 or BCBP 4760 or CHEM 4760 )",
+    "prerequisites": [
+      "BIOL 4620",
+      "BIOL 4760",
+      "BCBP 4760",
+      "CHEM 4760"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "BIOL 4620",
+            "BIOL 4760"
+          ]
+        },
+        "BCBP 4760",
+        "CHEM 4760"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: BIOL 4660 / BIOL 6650 / BCBP 4660 / BCBP 6650 Co-Listed: BMED 4670 Students can obtain credit for only one of these courses: BIOL 4660, BCBP 4660, BCBP 6650, BIOL 6650, BMED 4670 and BMED 6670.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84259"
+  },
+  {
+    "course_id": "BMED 6700",
+    "prefix": "BMED",
+    "number": "6700",
+    "title": "Ethical Issues in Biotechnology",
+    "description": "This discussion course reviews the principles of ethical behavior and responsible conduct of research and then discusses specific areas of biotechnology research, medical research, and societal issues in the context of these principles. Representative topics include genetic engineering, stem cell research, assisted reproduction, human subjects, animal research, and nanotechnology. Class performance is dependent on active participation and discussion, student presentations, and the submission of analytical essays.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: BIOL 6550 and BCBP 6550",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83506"
+  },
+  {
+    "course_id": "BMED 6800",
+    "prefix": "BMED",
+    "number": "6800",
+    "title": "Discussions in Graduate Research",
+    "description": "This is a seminar based graduate level course that provides (a) a broad exposure to contemporary topics of research in biomedical engineering by recognized experts in the field and; (b) hands-on exposure on various aspects of professional development to Ph.D. students including conference/thesis presentations, writing scientific manuscripts and pre-doctoral and post-doctoral fellowship grant applications. Students are required to attend and participate in the departmental seminar and present their own research and grant proposals.",
+    "credit_hours": "0",
+    "prerequisites_raw": "or Corequisite: Graduate student status required.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83567"
+  },
+  {
+    "course_id": "BMED 6810",
+    "prefix": "BMED",
+    "number": "6810",
+    "title": "Biomedical Seminar",
+    "description": "The purpose of this course is to bring in researchers in Biomedical Engineering and related areas to share their latest research, and gain knowledge in specific areas within Biomedical Engineering. Seminars are intended to foster professional skills for biomedical engineers. Through these seminars by nationally and internationally recognized experts in their fields, students will learn about current research areas and key problems being studied.",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Co-Listed: BMED 4810 Students may not receive credit for this course and BMED 4810.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84257"
+  },
+  {
+    "course_id": "BMED 6940",
+    "prefix": "BMED",
+    "number": "6940",
+    "title": "Studies in Biomedical Engineering",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82340"
+  },
+  {
+    "course_id": "BMED 6960",
+    "prefix": "BMED",
+    "number": "6960",
+    "title": "Topics in Biomedical Engineering",
+    "description": "New courses or special course offerings are given under this number from time to time. Graduate students in biomedical engineering may pursue special interests under this number when sponsored by a biomedical engineering faculty member and with the permission of the department.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82341"
+  },
+  {
+    "course_id": "BMED 6970",
+    "prefix": "BMED",
+    "number": "6970",
+    "title": "Professional Project",
+    "description": "Active participation in a semester-long project, under the supervision of a faculty adviser. A Professional Project often serves as a culminating experience for a Professional Master’s program but, with departmental or school approval, can be used to fulfill other program requirements. With approval, students may register for more than one Professional Project. Professional Projects must result in documentation established by each department or school, but are not submitted to the Office of Graduate Education and are not archived in the library. Grades of A, B, C, or F are assigned by the faculty adviser at the end of the semester. If not completed on time, a formal Incomplete grade may be assigned by the faculty adviser, listing the work remaining to be completed and the time limit for completing this work.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82342"
+  },
+  {
+    "course_id": "BMED 6980",
+    "prefix": "BMED",
+    "number": "6980",
+    "title": "Master’s Project",
+    "description": "Active participation in a master’s-level project, under the supervision of a faculty adviser, leading to a master’s project report. Grades S or U are assigned at the end of the semester. If recommended by the adviser, the master’s project may be accepted by the Office of Graduate Education to be archived in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82343"
+  },
+  {
+    "course_id": "BMED 6990",
+    "prefix": "BMED",
+    "number": "6990",
+    "title": "Master’s Thesis",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a master’s thesis. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82344"
+  },
+  {
+    "course_id": "BMED 9990",
+    "prefix": "BMED",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82345"
+  }
+]

@@ -1,0 +1,2360 @@
+[
+  {
+    "course_id": "ECSE 1010",
+    "prefix": "ECSE",
+    "number": "1010",
+    "title": "Introduction to Electrical, Computer, and Systems Engineering",
+    "description": "An experiment-centric development of the basic analysis tools of Electrical, Computer, and Systems Engineering, emphasizing the concepts and mathematics of analog and digital circuits and electronics, programming, data generation and analysis, and system model development using paper and pencil analysis, simulation, and experiment. Problems, applications, and projects are chosen to lay a solid foundation for core EE and CSE courses.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83705"
+  },
+  {
+    "course_id": "ECSE 1090",
+    "prefix": "ECSE",
+    "number": "1090",
+    "title": "Introduction to Mechatronics Hardware and Software",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83641"
+  },
+  {
+    "course_id": "ECSE 2010",
+    "prefix": "ECSE",
+    "number": "2010",
+    "title": "Electric Circuits",
+    "description": "Techniques for the analysis and simulation of linear electric circuits and measurements of their properties. Topics include resistive and energy-storage elements, controlled sources and operational amplifiers, systematic analysis methods, AC steady state, power and three-phase systems, magnetic coupling and transformers, transients, s-plane representation and analysis, frequency response, and Laplace transform and computer-aided methods.",
+    "credit_hours": "",
+    "prerequisites_raw": "MATH 2400",
+    "prerequisites": [
+      "MATH 2400"
+    ],
+    "prerequisite_logic": "MATH 2400",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82630"
+  },
+  {
+    "course_id": "ECSE 2050",
+    "prefix": "ECSE",
+    "number": "2050",
+    "title": "Introduction to Electronics",
+    "description": "The physics and operation of semiconductor diodes, bipolar junction transistors, and field-effect transistors in elementary analog circuits. Non-ideal operational amplifier characteristics. Amplifier biasing, small-signal analysis, and frequency response. Elementary bipolar and MOSFET digital circuits.",
+    "credit_hours": "",
+    "prerequisites_raw": "ECSE 2010 and ( PHYS 1200 or PHYS 1250 ).",
+    "prerequisites": [
+      "ECSE 2010",
+      "PHYS 1200",
+      "PHYS 1250"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "ECSE 2010",
+            "PHYS 1200"
+          ]
+        },
+        "PHYS 1250"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82631"
+  },
+  {
+    "course_id": "ECSE 2100",
+    "prefix": "ECSE",
+    "number": "2100",
+    "title": "Fields and Waves I",
+    "description": "Development and application of Maxwell’s equations in free space and within materials. Introduction to vector calculus and computer-aided analysis and design methods in electromagnetics. Applications include calculation of lumped circuit elements from field theory, plane wave propagation in various materials, and reflection from boundaries. Transmission line concepts, Smith charts, and other design tools for distributed circuits.",
+    "credit_hours": "",
+    "prerequisites_raw": "ECSE 2010 and ( MATH 2010 or ( MATH 2011 and MATH 2012 )) and ( PHYS 1200 or PHYS 1250 ).",
+    "prerequisites": [
+      "ECSE 2010",
+      "MATH 2010",
+      "MATH 2011",
+      "MATH 2012",
+      "PHYS 1200",
+      "PHYS 1250"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "ECSE 2010",
+            "MATH 2010"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2011",
+            "MATH 2012",
+            "PHYS 1200"
+          ]
+        },
+        "PHYS 1250"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82632"
+  },
+  {
+    "course_id": "ECSE 2110",
+    "prefix": "ECSE",
+    "number": "2110",
+    "title": "Electrical Energy Systems",
+    "description": "This course introduces basic concepts of power systems. Core topics covered in the course include electromechanical and electromagnetic energy conversion, solid-state power conversion, and AC circuits. This course also provides an overview of power generation from conventional and renewable sources, AC and DC power transmission and distribution, as well as the use of electricity in various forms.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2010 and ( PHYS 1200 or PHYS 1250 ).",
+    "prerequisites": [
+      "ECSE 2010",
+      "PHYS 1200",
+      "PHYS 1250"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "ECSE 2010",
+            "PHYS 1200"
+          ]
+        },
+        "PHYS 1250"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82633"
+  },
+  {
+    "course_id": "ECSE 2210",
+    "prefix": "ECSE",
+    "number": "2210",
+    "title": "Microelectronics Technology",
+    "description": "An introductory survey of microelectronics technology emphasizing physical properties of semiconductors, device and circuit fabrication, semiconductor device operation. Topics include semiconductor crystals; energy bands; electrons and holes; dopant impurities; fabrication and operation of diodes, bipolar junction transistors, and field-effect transistors.",
+    "credit_hours": "",
+    "prerequisites_raw": "ECSE 2010 and ( PHYS 1200 or PHYS 1250 ).",
+    "prerequisites": [
+      "ECSE 2010",
+      "PHYS 1200",
+      "PHYS 1250"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "ECSE 2010",
+            "PHYS 1200"
+          ]
+        },
+        "PHYS 1250"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82634"
+  },
+  {
+    "course_id": "ECSE 2410",
+    "prefix": "ECSE",
+    "number": "2410",
+    "title": "Signals and Systems",
+    "description": "Time and frequency-domain representation of continuous- and discrete-time signals and systems. Response of linear, time-invariant systems. Convolution, Fourier series, Fourier transform, Laplace transform, and z-transform. Applications in communication, feedback control, and filtering.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2010",
+    "prerequisites": [
+      "ECSE 2010"
+    ],
+    "prerequisite_logic": "ECSE 2010",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82635"
+  },
+  {
+    "course_id": "ECSE 2500",
+    "prefix": "ECSE",
+    "number": "2500",
+    "title": "Engineering Probability",
+    "description": "Axioms of probability, joint and conditional probability, random variables, probability density, mass, and distribution functions, functions of one and two random variables, characteristic functions, sequences of independent random variables, central limit theorem, and laws of large numbers. Applications to electrical and computer engineering problems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MATH 1020",
+    "prerequisites": [
+      "MATH 1020"
+    ],
+    "prerequisite_logic": "MATH 1020",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82636"
+  },
+  {
+    "course_id": "ECSE 2610",
+    "prefix": "ECSE",
+    "number": "2610",
+    "title": "Computer Components and Operations",
+    "description": "Design-oriented introduction to computer components and operations. Standard codes, number systems, base conversions, and computer arithmetic. Boolean algebra, minimization and synthesis techniques for combinational and sequential logic. Races, hazards, and asynchronous behavior. Registers, arithmetic logic units, memory structure, buses, and control units. Machine language programming, instruction fetch and execution, input-output devices, interrupts, and microprogram sequencers. Software and hardware tools.",
+    "credit_hours": "",
+    "prerequisites_raw": "CSCI 1100",
+    "prerequisites": [
+      "CSCI 1100"
+    ],
+    "prerequisite_logic": "CSCI 1100",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82637"
+  },
+  {
+    "course_id": "ECSE 2660",
+    "prefix": "ECSE",
+    "number": "2660",
+    "title": "Computer Architecture, Networks, and Operating Systems",
+    "description": "Quantitative basis of modern computer architecture, processor design, memory hierarchy, and input/output methods. Layered operating system structures, process and storage management. Layered network organization, network protocols, switching, local and wide area networks. Examples from Unix and the Internet.",
+    "credit_hours": "",
+    "prerequisites_raw": "ECSE 2610",
+    "prerequisites": [
+      "ECSE 2610"
+    ],
+    "prerequisite_logic": "ECSE 2610",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82638"
+  },
+  {
+    "course_id": "ECSE 2900",
+    "prefix": "ECSE",
+    "number": "2900",
+    "title": "ECSE Enrichment Seminar",
+    "description": "This seminar course addresses a range of issues involving engineering and public policy, innovation systems and economic development, and the National Academy’s Engineering Grand Challenges for the 21st Century.",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82639"
+  },
+  {
+    "course_id": "ECSE 4030",
+    "prefix": "ECSE",
+    "number": "4030",
+    "title": "Analog IC Design",
+    "description": "The modeling, analysis, and design of analog integrated circuits using CMOS technology. Topics include basic integrated circuit components, basic amplifier stages, operational amplifiers, frequency compensation and stability, and bandgap references. Emphasis is placed on the design of the fundamental circuits required for analog signal processing. Students undertake several design projects, including a sizeable project that comprises a significant percentage of the final grade.",
+    "credit_hours": "",
+    "prerequisites_raw": "ECSE 2050",
+    "prerequisites": [
+      "ECSE 2050"
+    ],
+    "prerequisite_logic": "ECSE 2050",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83480"
+  },
+  {
+    "course_id": "ECSE 4040",
+    "prefix": "ECSE",
+    "number": "4040",
+    "title": "Digital Electronics",
+    "description": "Analysis and design of switching-mode circuits: NMOS, CMOS, RTL, DTL, TTL, and ECL digital-logic families. Topics include: basic logic gates (voltage-transfer characteristics, noise margin, fan out, propagation delay, power dissipation), flip flops, Schmitt triggers, oscillators, timers, memories, A/D and D/A converters, and optional advanced topics.",
+    "credit_hours": "",
+    "prerequisites_raw": "ECSE 2050 and ECSE 2610",
+    "prerequisites": [
+      "ECSE 2050",
+      "ECSE 2610"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ECSE 2050",
+        "ECSE 2610"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82640"
+  },
+  {
+    "course_id": "ECSE 4050",
+    "prefix": "ECSE",
+    "number": "4050",
+    "title": "Advanced Electronic Circuits",
+    "description": "Linear and non-linear applications of operational amplifiers, with an emphasis on circuit design. Non-ideal operational amplifier behavior, including both static and dynamic characteristics. Amplifier stability and frequency compensation techniques. Operational amplifier-based oscillators. Circuit noise.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2050",
+    "prerequisites": [
+      "ECSE 2050"
+    ],
+    "prerequisite_logic": "ECSE 2050",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ECSE 6050 . Students cannot receive credit for both this course and ECSE 6050 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82641"
+  },
+  {
+    "course_id": "ECSE 4080",
+    "prefix": "ECSE",
+    "number": "4080",
+    "title": "Semiconductor Power Electronics",
+    "description": "The application of power semiconductor devices to the efficient conversion of electrical energy. Circuit analysis, signal analysis, and energy concepts are integrated to develop steady-state and dynamic models of generic power converters. Specific topics include AC/DC conversion, DC/DC conversion, DC/AC conversion, and AC/AC conversion. These generic converters are applied as controlled rectifiers, switching power supplies, motor drives, HVDC transmission, induction heating, and others. Ancillary circuits needed for the proper operation and control of power semiconductor devices are also discussed.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2050",
+    "prerequisites": [
+      "ECSE 2050"
+    ],
+    "prerequisite_logic": "ECSE 2050",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82642"
+  },
+  {
+    "course_id": "ECSE 4090",
+    "prefix": "ECSE",
+    "number": "4090",
+    "title": "Mechatronics",
+    "description": "The synergistic combination of mechanical engineering, electronics, control engineering, and computer science in the design process. The key areas of mechatronics studied in depth are control sensors and actuators, interfacing sensors and actuators to a microcomputer, discrete controller design, and real-time programming for control using the C programming language. The unifying theme for this heavily laboratory-based course is the integration of the key areas into a successful mechatronic design.",
+    "credit_hours": "",
+    "prerequisites_raw": "MANE 4500 or ECSE 2410",
+    "prerequisites": [
+      "MANE 4500",
+      "ECSE 2410"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MANE 4500",
+        "ECSE 2410"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Cross Listed: MANE 4520 . Students cannot obtain credit for both this course and the cross-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82643"
+  },
+  {
+    "course_id": "ECSE 4110",
+    "prefix": "ECSE",
+    "number": "4110",
+    "title": "Power Engineering Analysis",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83642"
+  },
+  {
+    "course_id": "ECSE 4120",
+    "prefix": "ECSE",
+    "number": "4120",
+    "title": "Electromechanics",
+    "description": "This course studies electromechanical interactions in lumped-parameter systems. These interactions describe the operation of electric machines, electromechanical actuators, and transducers. The fundamental laws of Faraday, Ampere, and Gauss are considered to develop physical models of magnetic circuits, including those which use permanent magnets. These models are then expanded to include equations of motion and the thermodynamics of electromechanical coupling. Applications include transformers, induction machines, synchronous machines, DC machines, and reluctance machines.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2110",
+    "prerequisites": [
+      "ECSE 2110"
+    ],
+    "prerequisite_logic": "ECSE 2110",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82644"
+  },
+  {
+    "course_id": "ECSE 4130",
+    "prefix": "ECSE",
+    "number": "4130",
+    "title": "EPE Laboratory",
+    "description": "A laboratory based examination of static and rotating energy conversion equipment. Topics include the experimental study of the physical phenomena and characteristics of magnetic circuits, transformers, electric machines, rectifiers, DC/DC converters, and inverters. The interaction between static power converters and electric machines is emphasized.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2110 or permission of instructor.",
+    "prerequisites": [
+      "ECSE 2110"
+    ],
+    "prerequisite_logic": "ECSE 2110",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82645"
+  },
+  {
+    "course_id": "ECSE 4141",
+    "prefix": "ECSE",
+    "number": "4141",
+    "title": "Renewable Power Generation",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84028"
+  },
+  {
+    "course_id": "ECSE 4170",
+    "prefix": "ECSE",
+    "number": "4170",
+    "title": "Modeling and Simulation for Cyber-Physical Systems",
+    "description": "Modeling and simulation of cyber-physical systems through object-oriented equation-based computer languages and software tools. Describes formalisms for continuous, discrete, timed-clocked synchronous systems and finite state machines; and applies simulation methods through numerical solution of differential-and-algebraic higher-and-varying index systems of equations with time and state event handling. Composing reusable model architectures, templates, interfaces and data management for model variants. Applies model deployment in heterogeneous environments using model exchange, co-simulation and real-time simulation techniques.",
+    "credit_hours": "3",
+    "prerequisites_raw": "( MATH 2010 or ( MATH 2011 and MATH 2012 )) and MATH 2400 .",
+    "prerequisites": [
+      "MATH 2010",
+      "MATH 2011",
+      "MATH 2012",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MATH 2010",
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2011",
+            "MATH 2012",
+            "MATH 2400"
+          ]
+        }
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: ECSE 4170 and ECSE 6170 . Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83932"
+  },
+  {
+    "course_id": "ECSE 4180",
+    "prefix": "ECSE",
+    "number": "4180",
+    "title": "Industrial Power System Design",
+    "description": "Industrial power system design considerations: planning (safety, reliability, simplicity, maintenance, flexibility, cost), voltages (control, selection, effects of variation), protection (devices, limitations, requirements, coordination, testing), fault calculations, grounding (static and lightning protection, earth connections), power factor control and effects, switching and voltage transformation, instruments and meters, cable construction and installation, busways.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2110",
+    "prerequisites": [
+      "ECSE 2110"
+    ],
+    "prerequisite_logic": "ECSE 2110",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82646"
+  },
+  {
+    "course_id": "ECSE 4210",
+    "prefix": "ECSE",
+    "number": "4210",
+    "title": "Advanced Device Concepts",
+    "description": "An introduction to emerging electronic and optoelectronics technology. Topics cover cutting edge technologies and novel device concepts, such as quantum devices, silicon-on-insulators (SOI), compound semiconductor devices and technologies, thin film transistors (TFTs), wide band gap semiconductor devices and technologies, Si-Ge devices, solar cells, photodetectors, semiconductor lasers, opto-electronic ICs, optical interconnects, and display technologies.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2210",
+    "prerequisites": [
+      "ECSE 2210"
+    ],
+    "prerequisite_logic": "ECSE 2210",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ECSE 6210 Students can not get credit for both this course and ECSE 6210.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84224"
+  },
+  {
+    "course_id": "ECSE 4220",
+    "prefix": "ECSE",
+    "number": "4220",
+    "title": "VLSI Design",
+    "description": "Introduction to VLSI design. The fabrication, device, circuit, and system aspects of VLSI design are covered in an integrated fashion. Emphasis is placed on NMOS and CMOS technology. Laboratory experiments focus on layout analysis, computer-aided layout, and logic and timing simulation. Project on digital design with standard cells.",
+    "credit_hours": "",
+    "prerequisites_raw": "ECSE 2050 and ECSE 2610 ; please note that ECSE 2210 is recommended but not required.",
+    "prerequisites": [
+      "ECSE 2050",
+      "ECSE 2610",
+      "ECSE 2210"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ECSE 2050",
+        "ECSE 2610",
+        "ECSE 2210"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82647"
+  },
+  {
+    "course_id": "ECSE 4250",
+    "prefix": "ECSE",
+    "number": "4250",
+    "title": "Integrated Circuit Processes and Design",
+    "description": "The theoretical and practical aspects of techniques utilized in the fabrication of silicon-based microcircuits. Imperfections in semiconductors, crystal growth, solid solubility, alloying and diffusion, ion implantation, oxide masking, epitaxy, metallization, etching, and photolithography. Fabrication techniques for bipolar and MOS-microcircuits, and the electrical performance of devices based on these techniques. Microcircuit design and layout. Students cannot receive credit for both this course and MTLE 4160 .",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2210",
+    "prerequisites": [
+      "ECSE 2210"
+    ],
+    "prerequisite_logic": "ECSE 2210",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82648"
+  },
+  {
+    "course_id": "ECSE 4310",
+    "prefix": "ECSE",
+    "number": "4310",
+    "title": "Fundamentals of RF/Microwave Engineering",
+    "description": "Study of transmission lines, impedance matching, passive and active microwave systems. Work with S-parameters and experiment with the use of Smith chart. Introduction to microwave CAD tools for 2D electromagnetic (EM) simulations and microwave testing. Emphasis on physical understanding, quantitative performance evaluation using both hand calculations and EM simulations.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2050",
+    "prerequisites": [
+      "ECSE 2050"
+    ],
+    "prerequisite_logic": "ECSE 2050",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ECSE 4310 and ECSE 6310 . Students cannot obtain credit for both the 4000 level and 6000 level versions of this course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84046"
+  },
+  {
+    "course_id": "ECSE 4320",
+    "prefix": "ECSE",
+    "number": "4320",
+    "title": "Advanced Computer Systems",
+    "description": "Key design principles and techniques of modern computer hardware, including instruction-level, data-level, and thread-level parallelism in CPU and GPU, cache and memory hierarchy, DRAM and non-volatile memory technologies and solid-state drive, and heterogeneous and disaggregated computing architecture. Advanced infrastructure software design techniques and algorithms, including indexing data structure, transaction, storage model, and consistency and consensus. Course projects to gain advanced programming skills and deepen the understanding of modern computer hardware and software.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2660 , CSCI 2500 , or CSCI 2800 ; or equivalent.",
+    "prerequisites": [
+      "ECSE 2660",
+      "CSCI 2500",
+      "CSCI 2800"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "ECSE 2660",
+            "CSCI 2500"
+          ]
+        },
+        "CSCI 2800"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: ECSE 4320 and ECSE 6320 . Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82649"
+  },
+  {
+    "course_id": "ECSE 4370",
+    "prefix": "ECSE",
+    "number": "4370",
+    "title": "Fundamentals of Optoelectronics Technology",
+    "description": "The nature of optics, physics, and operation principles of optoelectronic devices and systems for communication, display, lighting, and computing. Topics include optics fundamentals, optical cavity, waveguides and fibers, light emitting diodes, laser diodes, photodetectors, solar cells, liquid crystal, birefringent materials, properties and devices, modulators and optical display. Several complex optoelectronic systems will also be used.",
+    "credit_hours": "",
+    "prerequisites_raw": "ECSE 2210 or ECSE 2050 or PHYS 2620 or equivalent",
+    "prerequisites": [
+      "ECSE 2210",
+      "ECSE 2050",
+      "PHYS 2620"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECSE 2210",
+        "ECSE 2050",
+        "PHYS 2620"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ECSE 6370",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90369"
+  },
+  {
+    "course_id": "ECSE 4380",
+    "prefix": "ECSE",
+    "number": "4380",
+    "title": "Fundamentals of Solid State Lighting Systems",
+    "description": "The design and operation of Solid State Lighting Systems including basic design and fabrication methods of light emitting diode (LED), LED thermal management, optical characterization of lighting, LED drivers, lighting sensors/control systems and selected emerging applications.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: ( PHYS 1200 or PHYS 1250 ) and ( ECSE 2050 or permission of instructor).",
+    "prerequisites": [
+      "PHYS 1200",
+      "PHYS 1250",
+      "ECSE 2050"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "PHYS 1200",
+        {
+          "type": "AND",
+          "items": [
+            "PHYS 1250",
+            "ECSE 2050"
+          ]
+        }
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83784"
+  },
+  {
+    "course_id": "ECSE 4440",
+    "prefix": "ECSE",
+    "number": "4440",
+    "title": "Control Systems Engineering",
+    "description": "Application of linear feedback theory to the design of large-scale, integrated control systems. Derivation of complex mathematical models of physical systems. Synthesis of appropriate control laws to provide stability. Simulation of complex control systems on digital computers.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2410 or MANE 4500 ; knowledge of MATLAB recommended.",
+    "prerequisites": [
+      "ECSE 2410",
+      "MANE 4500"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECSE 2410",
+        "MANE 4500"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: MANE 4530 ; students cannot receive credit for both this course and MANE 4530 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82650"
+  },
+  {
+    "course_id": "ECSE 4470",
+    "prefix": "ECSE",
+    "number": "4470",
+    "title": "Introduction to Robot Programming",
+    "description": "This course provides an introduction to Robot Operating System (ROS), a widely used middleware for robot programming. Students will learn the basic components of ROS, how to utilize and write ROS packages, gain experience utilizing simulation software, and apply the concepts to physical platforms.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CSCI 1100 or MANE 2110 ; or permission of instructor.",
+    "prerequisites": [
+      "CSCI 1100",
+      "MANE 2110"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CSCI 1100",
+        "MANE 2110"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: MANE 4550",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90406"
+  },
+  {
+    "course_id": "ECSE 4480",
+    "prefix": "ECSE",
+    "number": "4480",
+    "title": "Robotics I",
+    "description": "A survey of the fundamental issues necessary for the design, analysis, control, and implementation of robotic systems. The mathematical description of robot manipulators in terms of kinematics and dynamics. Hardware components of a typical robot arm. Path following, control, and sensing. Examples of several currently available manipulators.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MATH 2010 or ( MATH 2011 and MATH 2012); and MATH 2400 and knowledge of MATLAB and Python.",
+    "prerequisites": [
+      "MATH 2010",
+      "MATH 2011",
+      "MATH 2012",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MATH 2010",
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2011",
+            "MATH 2012",
+            "MATH 2400"
+          ]
+        }
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: CSCI 4480 , MANE 4560 , and MANE 6120 . Students cannot receive credit for both this course and CSCI 4480 , MANE 4560 , or MANE 6120 . Co-Listed: ECSE 6470",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82651"
+  },
+  {
+    "course_id": "ECSE 4490",
+    "prefix": "ECSE",
+    "number": "4490",
+    "title": "Robotics II",
+    "description": "This course introduces methods that leverage the basic analysis techniques learned in Robotics I to develop numerical and algorithmic techniques needed to endow robots with the “intelligence” to devise strategies to solve problems they will encounter. Once these abilities are sufficiently well developed, robots will become safe and autonomous, thus paving the way for pervasive personal robots. Topics include: configuration space representation, cell decomposition, roadmap methods, rapidly-exploring random trees, simultaneous localization and mapping, contact modeling, grasping, and dexterous manipulation.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ECSE 6490",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82652"
+  },
+  {
+    "course_id": "ECSE 4500",
+    "prefix": "ECSE",
+    "number": "4500",
+    "title": "Distributed Systems and Sensor Networks",
+    "description": "Recent developments in systems, sensors, communications, and networking technologies enable the development of large-scale distributed systems incorporating many individual nodes. This course takes an algorithmic approach to distributed systems for sensor fusion, localization and tracking, distributed robotics and sensor-based control. It also presents the basic principles of sensor node architectures and wireless sensor networks. Applications include environmental monitoring, biomedical systems, and security-related tracking problems.",
+    "credit_hours": "",
+    "prerequisites_raw": "ECSE 2410",
+    "prerequisites": [
+      "ECSE 2410"
+    ],
+    "prerequisite_logic": "ECSE 2410",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ECSE 6500 . Students cannot receive credit for both this course and ECSE 6500 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83481"
+  },
+  {
+    "course_id": "ECSE 4510",
+    "prefix": "ECSE",
+    "number": "4510",
+    "title": "Digital Control Systems",
+    "description": "Sampling, quantization, and reconstruction of signals. Mathematical tools used in the modeling, analysis, and synthesis of discrete-time control systems. Analysis tools include z-transforms, difference equation solutions, state variables, and transfer function techniques. Design tools digital PID controller, root locus, bilinear transformations, compensation techniques and full-state feedback. Applications to sampled-data control.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2410 or MANE 4500 .",
+    "prerequisites": [
+      "ECSE 2410",
+      "MANE 4500"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECSE 2410",
+        "MANE 4500"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Cross Listed: MANE 4540 ; students cannot receive credit for both this course and MANE 4540 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82653"
+  },
+  {
+    "course_id": "ECSE 4530",
+    "prefix": "ECSE",
+    "number": "4530",
+    "title": "Digital Signal Processing",
+    "description": "This course provides a comprehensive treatment of the theory, design, and implementation of digital signal processing algorithms. The first half of the course emphasizes frequency-domain and Z-transform analysis. The second half of the course investigates advanced topics in signal processing, including FFT algorithms, multi-rate signal processing, filter design, adaptive filtering, and quantizer design. The course provides a strong theoretical foundation for future study in communications, control, or image processing.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2410 and ECSE 2500 ; and ( MATH 2010 or ( MATH 2011 and MATH 2012)) or permission of instructor.",
+    "prerequisites": [
+      "ECSE 2410",
+      "ECSE 2500",
+      "MATH 2010",
+      "MATH 2011",
+      "MATH 2012"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "ECSE 2410",
+            "ECSE 2500",
+            "MATH 2010"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2011",
+            "MATH 2012"
+          ]
+        }
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82654"
+  },
+  {
+    "course_id": "ECSE 4540",
+    "prefix": "ECSE",
+    "number": "4540",
+    "title": "Introduction to Image Processing",
+    "description": "An introduction to the field of image processing, covering both analytical and implementation aspects. Topics include the human visual system, cameras and image formation, image sampling and quantization, spatial- and frequency-domain image enhancement, filter design, image restoration, image coding and compression, morphological image processing, color image processing, image segmentation, and image reconstruction. Real-world examples and assignments drawn from consumer digital imaging, security and surveillance, and medical image processing.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2410 and ( MATH 2010 or ( MATH 2011 and MATH 2012)) or permission of instructor.",
+    "prerequisites": [
+      "ECSE 2410",
+      "MATH 2010",
+      "MATH 2011",
+      "MATH 2012"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "ECSE 2410",
+            "MATH 2010"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2011",
+            "MATH 2012"
+          ]
+        }
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82655"
+  },
+  {
+    "course_id": "ECSE 4560",
+    "prefix": "ECSE",
+    "number": "4560",
+    "title": "Modern Communication Systems",
+    "description": "A broad introduction to modern communication systems, with applications to emerging wireless communication technologies. Fundamental principles of wireless channel modeling; performance limits of communication systems; analog and digital modulation techniques; source and channel coding; multi-antenna communication systems; multi-carrier modulation; multi-user communication systems. Emerging wireless technologies such as MIMO and OFDM, with applications to cellular and wireless LAN communication standards. Complemented with computational exercises.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2410 and ECSE 2500 or equivalent.",
+    "prerequisites": [
+      "ECSE 2410",
+      "ECSE 2500"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ECSE 2410",
+        "ECSE 2500"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ECSE 6560 . Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82656"
+  },
+  {
+    "course_id": "ECSE 4620",
+    "prefix": "ECSE",
+    "number": "4620",
+    "title": "Computer Vision for Visual Effects",
+    "description": "This course describes the computer vision problems that underlie modern visual effects in movies, in which original video footage is transformed or augmented to create fantastic, yet plausible environments. The course provides a critical overview of the important literature for several problem categories, describing “under-the-hood” concepts and algorithms in mathematical detail. In many cases, the relevant academic research is only a few years old and has only recently been applied to movies, TV shows, and commercials.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CSCI 1200 and ( MATH 2010 or ( MATH 2011 and MATH 2012); familiarity with digital image editing tools or techniques is recommended.",
+    "prerequisites": [
+      "CSCI 1200",
+      "MATH 2010",
+      "MATH 2011",
+      "MATH 2012"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 1200",
+            "MATH 2010"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2011",
+            "MATH 2012"
+          ]
+        }
+      ]
+    },
+    "when_offered": "FALL TERM, ODD YEARS Co-Listed: ECSE 6620 . Students cannot receive credit for both this course and ECSE 6620 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83736"
+  },
+  {
+    "course_id": "ECSE 4630",
+    "prefix": "ECSE",
+    "number": "4630",
+    "title": "Lasers and Optical Systems",
+    "description": "Optical physics and applications of lasers. Design of optical systems. Topics include: wave optics and beam propagation, Gaussian beams, resonators, optical properties of atoms and laser gain media, laser amplifiers, pulsed laser systems, applications of lasers, nonlinear optics.",
+    "credit_hours": "3",
+    "prerequisites_raw": "None, however, PHYS 2620 recommended.",
+    "prerequisites": [
+      "PHYS 2620"
+    ],
+    "prerequisite_logic": "PHYS 2620",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Cross Listed: PHYS 4630 . Students cannot receive credit for both this course and PHYS 4630 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82657"
+  },
+  {
+    "course_id": "ECSE 4640",
+    "prefix": "ECSE",
+    "number": "4640",
+    "title": "Optical Communications and Integrated Optics",
+    "description": "Phenomena, materials, and devices for optical communications and computing. Topics include: guided wave and fiber optics, integrated optics, electro-optic and nonlinear optical switching, pulse and soliton propagation, sources, and detectors.",
+    "credit_hours": "",
+    "prerequisites_raw": "PHYS 2620",
+    "prerequisites": [
+      "PHYS 2620"
+    ],
+    "prerequisite_logic": "PHYS 2620",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Cross Listed: PHYS 4640 . Students cannot receive credit for both this course and PHYS 4640 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82658"
+  },
+  {
+    "course_id": "ECSE 4660",
+    "prefix": "ECSE",
+    "number": "4660",
+    "title": "Internetworking of Things",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83931"
+  },
+  {
+    "course_id": "ECSE 4670",
+    "prefix": "ECSE",
+    "number": "4670",
+    "title": "Computer Communication Networks",
+    "description": "Introduction to the basic concepts of computer and communication networks, like flow control, congestion control, end-to-end reliability, routing, framing, error-recovery, multiple access, and statistical multiplexing. In-depth presentation of the different networking layers, with emphasis on the Internet reference model. Protocols and architectures such as TCP, IP, Ethernet, wireless networks, etc. are described in order to illustrate important networking concepts. Introduction to quantitative analysis and modeling of networks.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2610 , CSCI 2500 , or CSCI 2800 ; or equivalent. ECSE 2500 recommended but not required.",
+    "prerequisites": [
+      "ECSE 2610",
+      "CSCI 2500",
+      "CSCI 2800",
+      "ECSE 2500"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "ECSE 2610",
+            "CSCI 2500"
+          ]
+        },
+        "CSCI 2800",
+        "ECSE 2500"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82659"
+  },
+  {
+    "course_id": "ECSE 4720",
+    "prefix": "ECSE",
+    "number": "4720",
+    "title": "Solid-State Physics",
+    "description": "An introduction to theoretical and experimental solid-state physics. Wave mechanics in the perfect crystal. X-rays, electrons, and phonons. Electrical properties of metals and semiconductors. Qualitative treatment of lattice defects.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHYS 4220 or equivalent.",
+    "prerequisites": [
+      "PHYS 4220"
+    ],
+    "prerequisite_logic": "PHYS 4220",
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: PHYS 4720 . Students cannot receive credit for both this course and PHYS 4720 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82660"
+  },
+  {
+    "course_id": "ECSE 4740",
+    "prefix": "ECSE",
+    "number": "4740",
+    "title": "Applied Parallel Computing for Engineers",
+    "description": "Engineering techniques for parallel processing. Knowledge and hands-on experience in developing applications software for processors on inexpensive widely-available computers with massively parallel computing resources. Multi-thread shared memory programming with OpenMP and NVIDIA GPU multicore programming with CUDA and Thrust. The use of NVIDIA gaming and graphics cards on current laptops and desktops for general purpose parallel computing using Linux.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2660 or equivalent, and knowledge of C++.",
+    "prerequisites": [
+      "ECSE 2660"
+    ],
+    "prerequisite_logic": "ECSE 2660",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83707"
+  },
+  {
+    "course_id": "ECSE 4750",
+    "prefix": "ECSE",
+    "number": "4750",
+    "title": "Computer Graphics",
+    "description": "Introduction to Interactive Computer Graphics, with an emphasis on applications programming. Objects and viewers, and the synthetic camera model. Graphics architectures, the graphics pipeline, clipping, rasterization, and programmable shaders. Input and interaction. Geometric objects, homogeneous coordinates, and transformations. Viewing, hidden surface removal, frame and depth buffers, compositing, and anti-aliasing. Shading, light and materials, texture mapping, ray tracing, and radiosity. Intellectual property concerns. Extensive programming with the OpenGL API and C++.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2610 or CSCI 2800 , or CSCI 2500 ( CSCI 2500 is no longer offered); or equivalent.",
+    "prerequisites": [
+      "ECSE 2610",
+      "CSCI 2800",
+      "CSCI 2500"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECSE 2610",
+        "CSCI 2800",
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 2500",
+            "CSCI 2500"
+          ]
+        }
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82661"
+  },
+  {
+    "course_id": "ECSE 4760",
+    "prefix": "ECSE",
+    "number": "4760",
+    "title": "Real-Time Applications in Control and Communications",
+    "description": "Experiments and lectures demonstrate the design and use of microcomputers as both decision tools and on-line real-time system components in control and communications. Topics include the basic operations of microcomputers, data I/O, analog and digital process control, voice processing, digital filter design, digital communication, and optimal LQR control.",
+    "credit_hours": "",
+    "prerequisites_raw": "ECSE 4440 or ECSE 4560",
+    "prerequisites": [
+      "ECSE 4440",
+      "ECSE 4560"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECSE 4440",
+        "ECSE 4560"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82662"
+  },
+  {
+    "course_id": "ECSE 4770",
+    "prefix": "ECSE",
+    "number": "4770",
+    "title": "Computer Hardware Design",
+    "description": "Digital design methodologies including timing chain and counter based “hardwired” microprogram design, modules, and modular design. The course bridges LSI and MSI design treating microprocessors, and I/O interfacing. Bus protocol standards, interrupts, direct memory access, priority arbitration, asynchronous timing, and overlap or double buffering. Specific examples of design include controllers for disks, cassettes, video systems, and stepping motors. Course includes a laboratory with access to FPGAs and microprocessors.",
+    "credit_hours": "",
+    "prerequisites_raw": "ECSE 2610",
+    "prerequisites": [
+      "ECSE 2610"
+    ],
+    "prerequisite_logic": "ECSE 2610",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82663"
+  },
+  {
+    "course_id": "ECSE 4780",
+    "prefix": "ECSE",
+    "number": "4780",
+    "title": "Advanced Computer Hardware Design",
+    "description": "Design methodologies include register transfer modules and firmware microprogrammed design. “Bit-slice” philosophy of design. LSI microprocessors as design elements in larger digital systems such as high-speed channels and special purpose computers. Detailed discussion of the structure of several computers at the chip and board level. Specification of custom IC digital systems. FPGA based design implementation using VHDL.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 4770",
+    "prerequisites": [
+      "ECSE 4770"
+    ],
+    "prerequisite_logic": "ECSE 4770",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ECSE 6700 . Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82664"
+  },
+  {
+    "course_id": "ECSE 4790",
+    "prefix": "ECSE",
+    "number": "4790",
+    "title": "Microprocessor Systems",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "ENGR 2350",
+    "prerequisites": [
+      "ENGR 2350"
+    ],
+    "prerequisite_logic": "ENGR 2350",
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82665"
+  },
+  {
+    "course_id": "ECSE 4810",
+    "prefix": "ECSE",
+    "number": "4810",
+    "title": "Introduction to Probabilistic Graphical Models",
+    "description": "This course covers topics related to learning and inference with different types of Probabilistic Graphical Models (PGMs). It also demonstrates the application of PGMs to different fields. The course covers both directed and undirected graphical models, both parameter and structure learning, and both exact and approximated inference methods.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2500 or ENGR 2600 ; proficiency in computer programming. Prior knowledge in pattern recognition or machine learning is a plus but is not required.",
+    "prerequisites": [
+      "ECSE 2500",
+      "ENGR 2600"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECSE 2500",
+        "ENGR 2600"
+      ]
+    },
+    "when_offered": "FALL TERM, EVEN YEARS Co-Listed: ECSE 6810 . Students cannot receive credit for both this course and ECSE 6810 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83540"
+  },
+  {
+    "course_id": "ECSE 4840",
+    "prefix": "ECSE",
+    "number": "4840",
+    "title": "Introduction to Machine Learning",
+    "description": "A broad introduction to statistical machine learning. Topics include supervised learning: generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines; unsupervised learning: clustering, dimensionality reduction, kernel methods; learning theory: bias/variance tradeoffs, practical advice; online learning and reinforcement learning. Recent applications of machine learning, such as to data mining, robot navigation, speech recognition, image processing, and signal processing.",
+    "credit_hours": "3",
+    "prerequisites_raw": "( MATH 2010 or ( MATH 2011 and MATH 2012)) and ECSE 2500 . Programming skills using MATLAB or Python is preferred.",
+    "prerequisites": [
+      "MATH 2010",
+      "MATH 2011",
+      "MATH 2012",
+      "ECSE 2500"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MATH 2010",
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2011",
+            "MATH 2012",
+            "ECSE 2500"
+          ]
+        }
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84045"
+  },
+  {
+    "course_id": "ECSE 4850",
+    "prefix": "ECSE",
+    "number": "4850",
+    "title": "Introduction to Deep Learning",
+    "description": "Deep learning fundamentals and applications in artificial intelligence. Topics include machine learning foundation, linear regression and classification, deep neural networks, convolutional neural networks, recurrent neural networks, generative adversary neural networks, Bayesian neural networks, deep Boltzmann machine, deep Bayesian networks, and deep reinforcement learning.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CSCI 1200 and ECSE 2500 and ( MATH 2010 or ( MATH 2011 and MATH 2012)),",
+    "prerequisites": [
+      "CSCI 1200",
+      "ECSE 2500",
+      "MATH 2010",
+      "MATH 2011",
+      "MATH 2012"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 1200",
+            "ECSE 2500",
+            "MATH 2010"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2011",
+            "MATH 2012"
+          ]
+        }
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ECSE 6850 . Students cannot obtain credit for both this course and the cross listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83823"
+  },
+  {
+    "course_id": "ECSE 4880",
+    "prefix": "ECSE",
+    "number": "4880",
+    "title": "Distributed Optimization and Learning",
+    "description": "This is a course about theory, algorithms and applications of distributed optimization and learning. The course covers the basics of distributed optimization and learning algorithms and their performance analyses when they are used to solve large-scale distributed problems arising in signal and image processing, communication networks and control systems.",
+    "credit_hours": "",
+    "prerequisites_raw": "MATH 2010 and ( ECSE 2500 or ENGR 2600 )",
+    "prerequisites": [
+      "MATH 2010",
+      "ECSE 2500",
+      "ENGR 2600"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2010",
+            "ECSE 2500"
+          ]
+        },
+        "ENGR 2600"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ECSE 6880",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90371"
+  },
+  {
+    "course_id": "ECSE 4900",
+    "prefix": "ECSE",
+    "number": "4900",
+    "title": "Multidisciplinary Capstone Design",
+    "description": "A capstone design experience that engages students from biomedical, computer and systems, electrical, industrial, materials, and mechanical engineering on teams in an open-ended engineering design problem in preparation for professional practice. With the guidance of a multidisciplinary team of faculty members and instructional support staff, students apply knowledge and skills from prior coursework. This is a communication-intensive course.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENGR 2050 or MANE 2220 ; and senior status.",
+    "prerequisites": [
+      "ENGR 2050",
+      "MANE 2220"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ENGR 2050",
+        "MANE 2220"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Cross Listed: ISYE 4270 , MANE 4920 and MANE 4260 . Students cannot obtain credit for this course and ISYE 4270 , MTLE 4920 , MANE 4260 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82666"
+  },
+  {
+    "course_id": "ECSE 4940",
+    "prefix": "ECSE",
+    "number": "4940",
+    "title": "Electrical, Computer, and Systems Engineering Independent Study",
+    "description": "Independent study of selected readings in the field of electrical, computer, and systems engineering, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "Permission of instructor",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82667"
+  },
+  {
+    "course_id": "ECSE 4960",
+    "prefix": "ECSE",
+    "number": "4960",
+    "title": "Topics in Electrical, Computer, and Systems Engineering",
+    "description": "",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82668"
+  },
+  {
+    "course_id": "ECSE 6050",
+    "prefix": "ECSE",
+    "number": "6050",
+    "title": "Advanced Electronic Circuits",
+    "description": "Linear and non-linear applications of operational amplifiers, with an emphasis on circuit design. Non-ideal operational amplifier behavior, including both static and dynamic characteristics. Amplifier stability and frequency compensation techniques. Operational amplifier-based oscillators. Circuit noise.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of ECSE 2050 .",
+    "prerequisites": [
+      "ECSE 2050"
+    ],
+    "prerequisite_logic": "ECSE 2050",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ECSE 4050 . Students cannot receive credit for both this course and ECSE 4050 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82669"
+  },
+  {
+    "course_id": "ECSE 6090",
+    "prefix": "ECSE",
+    "number": "6090",
+    "title": "Advanced Power Electronics",
+    "description": "Advanced power electronic circuits and systems, as well as their modeling and control. Topics include advanced dc-dc converters, modeling by averaging and sampled-data methods, discontinuous conduction modes, linear and nonlinear current control methods and design, spectral and dynamic characteristics of pulse-width modulation, ac-dc converters with active power factor correction, resonant and soft-switching converters, and EMI filter design, as well as autonomous and distributed power systems. Course assignments include laboratory projects involving simulation, hardware design, and measurement.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of ECSE 4080",
+    "prerequisites": [
+      "ECSE 4080"
+    ],
+    "prerequisite_logic": "ECSE 4080",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82670"
+  },
+  {
+    "course_id": "ECSE 6110",
+    "prefix": "ECSE",
+    "number": "6110",
+    "title": "Power Engineering Analysis",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82671"
+  },
+  {
+    "course_id": "ECSE 6120",
+    "prefix": "ECSE",
+    "number": "6120",
+    "title": "Power Quality",
+    "description": "Power quality examines the causes of and solutions to electric power quality problems. Topics range from utility issues such as voltage sags, swells, and outages to consumer issues, such as harmonic distortion, and bus reliability at the equipment level. Solution methods such as implementing surge suppressors, the UPS, active filtering, and proper grounding techniques will be discussed.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of ECSE 6160 or ECSE 4080",
+    "prerequisites": [
+      "ECSE 6160",
+      "ECSE 4080"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECSE 6160",
+        "ECSE 4080"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82672"
+  },
+  {
+    "course_id": "ECSE 6130",
+    "prefix": "ECSE",
+    "number": "6130",
+    "title": "Protective Relaying",
+    "description": "Basic relaying philosophy. Current and potential transformers. Operating principles of electromagnetic, electronic, and digital relays. Application of relays to protect generators, busses, transformers, and transmission lines. Corequisite: ECSE 6110",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82673"
+  },
+  {
+    "course_id": "ECSE 6140",
+    "prefix": "ECSE",
+    "number": "6140",
+    "title": "Power Generation Operation and Control",
+    "description": "Economics of the operation of power systems. Control of hydro and thermal generating units. Aspects of interconnected operation. Transmission losses and techniques for optimum economic generation. Hydrothermal coordination problems. Modern power markets. State estimation. Corequisite: ECSE 6110",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82674"
+  },
+  {
+    "course_id": "ECSE 6141",
+    "prefix": "ECSE",
+    "number": "6141",
+    "title": "Renewable Power Generation",
+    "description": "Generation of electric power from renewable sources and its integration into the power grid. Topics include fundamentals of photovoltaic and wind energy; power converters and their control for renewable energy conversion and grid integration; solar power plants, solar inverters, and their control; wind turbines based on synchronous generators, wind turbines based on doubly-fed induction generators (DFIG), wind power plants, and offshore wind; operation and control of power systems with renewables.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of ECSE 2110 and ECSE 4080 required.",
+    "prerequisites": [
+      "ECSE 2110",
+      "ECSE 4080"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ECSE 2110",
+        "ECSE 4080"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ECSE 4141 Students cannot obtain credit for both ECSE 4141 and ECSE 6141.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84029"
+  },
+  {
+    "course_id": "ECSE 6150",
+    "prefix": "ECSE",
+    "number": "6150",
+    "title": "Electric and Magnetic Fields in Electric Power Engineering",
+    "description": "Review of electromagnetic theory required to undertake analysis and design of power equipment. Experimental, analog, and digital field estimation techniques. Case studies in electric and magnetic fields such as cable and bushing design, problems of gas bus systems, electrostatic precipitation, magnetic flux penetration, eddy currents, losses, shielding, generation of torque.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of ECSE 4120 or equivalent.",
+    "prerequisites": [
+      "ECSE 4120"
+    ],
+    "prerequisite_logic": "ECSE 4120",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82675"
+  },
+  {
+    "course_id": "ECSE 6160",
+    "prefix": "ECSE",
+    "number": "6160",
+    "title": "Surge Phenomena in Electric Power Engineering",
+    "description": "Analysis and computation of electrical transients in lumpy and distributed power circuits; switching surges, lightning surges, traveling waves. Impact of surges on terminal equipment. Insulation coordination; system protection; design of electric power apparatus and systems to operate reliably and economically in a transient environment. Corequisite: ECSE 6110",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82676"
+  },
+  {
+    "course_id": "ECSE 6170",
+    "prefix": "ECSE",
+    "number": "6170",
+    "title": "Modeling and Simulation for Cyber-Physical Systems",
+    "description": "Modeling and simulation of cyber-physical systems through object-oriented equation-based computer languages and software tools. Describes formalisms for continuous, discrete, timed-clocked synchronous systems and finite state machines; and applies simulation methods through numerical solution of differential-and-algebraic higher-and-varying index systems of equations with time and state event handling. Composing reusable model architectures, templates, interfaces and data management for model variants. Applies model deployment in heterogeneous environments using model exchange, co-simulation and real-time simulation techniques.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of ( MATH 2010 or ( MATH 2011 and MATH 2012 )) and MATH 2400 ) required.",
+    "prerequisites": [
+      "MATH 2010",
+      "MATH 2011",
+      "MATH 2012",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MATH 2010",
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2011",
+            "MATH 2012",
+            "MATH 2400"
+          ]
+        }
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: ECSE 4170 and ECSE 6170. Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82677"
+  },
+  {
+    "course_id": "ECSE 6180",
+    "prefix": "ECSE",
+    "number": "6180",
+    "title": "Advanced Power System Modeling and Control",
+    "description": "Modeling of power system components including HVDC systems, flexible AC transmission systems, and wind turbines. Analysis and control techniques such as reactive power control, coherency, and model reduction. Synchrophasor technology – measurement, communication, and control.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 6190 or equivalent and knowledge of MATLAB or permission of the instructor.",
+    "prerequisites": [
+      "ECSE 6190"
+    ],
+    "prerequisite_logic": "ECSE 6190",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83738"
+  },
+  {
+    "course_id": "ECSE 6190",
+    "prefix": "ECSE",
+    "number": "6190",
+    "title": "Computer Methods in Electric Power Engineering",
+    "description": "Applies the student’s knowledge of power engineering to the solution of large problems by computer methods. Treats matrix techniques, load-flow analysis, network building, short circuit studies, numerical integration, and finite element analysis as it applies to power systems and power apparatus.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 6110 or equivalent or permission of instructor.",
+    "prerequisites": [
+      "ECSE 6110"
+    ],
+    "prerequisite_logic": "ECSE 6110",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82678"
+  },
+  {
+    "course_id": "ECSE 6200",
+    "prefix": "ECSE",
+    "number": "6200",
+    "title": "Semiconductor Device Characterization",
+    "description": "This graduate-level course is designed to give students a hands-on experience in the characterization of basic semiconductor devices (diffused resistors, pn junction diodes, Schottky diodes, MOS capacitors, bipolar junction transistors, MOSFETs) in wafer and/or packaged forms. The final project involves the students in a detailed characterization of devices in a specific application (e.g. high-voltage power electronics, submicron ULSI, microwave and wireless).",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ECSE 6230 .",
+    "prerequisites": [
+      "ECSE 6230"
+    ],
+    "prerequisite_logic": "ECSE 6230",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83483"
+  },
+  {
+    "course_id": "ECSE 6210",
+    "prefix": "ECSE",
+    "number": "6210",
+    "title": "Advanced Device Concepts",
+    "description": "An introduction to emerging electronic and optoelectronics technology. Topics cover cutting edge technologies and novel device concepts, such as quantum devices, silicon-on-insulators (SOI), compound semiconductor devices and technologies, thin film transistors (TFTs), wide band gap semiconductor devices and technologies, Si-Ge devices, solar cells, photodetectors, semiconductor lasers, opto-electronic ICs, optical interconnects, and display technologies.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ECSE 2210 or equivalent.",
+    "prerequisites": [
+      "ECSE 2210"
+    ],
+    "prerequisite_logic": "ECSE 2210",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ECSE 4210 Students cannot get credit for both this course and ECSE 4210.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82679"
+  },
+  {
+    "course_id": "ECSE 6220",
+    "prefix": "ECSE",
+    "number": "6220",
+    "title": "Physical Foundations of Solid-State Devices",
+    "description": "Physical foundations underlying the operation of modern electronic and photonic solid-state devices. Quantum mechanical foundations are emphasized, including the postulates of quantum mechanics, wave-particle duality, uncertainty relation, the Kronig-Penney model, and perturbation theory. In addition, the course covers areas such as semiconductor statistics, doping, heterostructures, transport, and tunneling.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisites: ECSE 2210 or equivalent.",
+    "prerequisites": [
+      "ECSE 2210"
+    ],
+    "prerequisite_logic": "ECSE 2210",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82680"
+  },
+  {
+    "course_id": "ECSE 6230",
+    "prefix": "ECSE",
+    "number": "6230",
+    "title": "Semiconductor Devices and Models I",
+    "description": "The physical operation of basic modern semiconductor devices and the determination of their internal parameters are discussed in detail. A review of semiconductor physics, including incomplete ionization, carrier lifetimes, and carrier transport, and solutions of continuity equation are presented. Devices include pn junction diodes, metal-oxide-semiconductor capacitors and field-effect transistors. Emphasis is placed on the fundamental mechanisms that contribute to device performance. The interrelationship between device parameters and circuit performance is also discussed.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ECSE 2210 or equivalent.",
+    "prerequisites": [
+      "ECSE 2210"
+    ],
+    "prerequisite_logic": "ECSE 2210",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82681"
+  },
+  {
+    "course_id": "ECSE 6240",
+    "prefix": "ECSE",
+    "number": "6240",
+    "title": "VLSI Fabrication Technology",
+    "description": "Fabrication technology for silicon and gallium arsenide integrated circuits with emphasis on sub-micron structures. Topics include epitaxy, diffusion, binary and ternary phase diagrams, grown and deposited oxides and nitrides, polysilicon and silicide technology, single-and multi-metal systems, plasma and chemical etching, ion milling photo, e-beam and X-ray lithography.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ECSE 4250 or equivalent.",
+    "prerequisites": [
+      "ECSE 4250"
+    ],
+    "prerequisite_logic": "ECSE 4250",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82682"
+  },
+  {
+    "course_id": "ECSE 6260",
+    "prefix": "ECSE",
+    "number": "6260",
+    "title": "Semiconductor Power Devices",
+    "description": "Special problems of semiconductor devices operating at high voltage and high current levels. Devices include p-i-n and Schottky diodes, bipolar junction transistors, power MOSFETs and thyristors. Topics include space charge limited current flow, micro plasmas, avalanche breakdown, junction termination, high-level injection, emitter crowding, double injection, second breakdown, triggering mechanisms, plasma propagation, switching and recovery characteristics. Introduction to the Insulated-Gate Bipolar Transistor.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisites: ECSE 6230 and ECSE 6290 or basic knowledge (at the graduate level) of semiconductor devices or permission of the instructor.",
+    "prerequisites": [
+      "ECSE 6230",
+      "ECSE 6290"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ECSE 6230",
+        "ECSE 6290"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82683"
+  },
+  {
+    "course_id": "ECSE 6280",
+    "prefix": "ECSE",
+    "number": "6280",
+    "title": "Light Emitting Diodes",
+    "description": "This course offers a comprehensive explanation of the technology and physics of light-emitting diodes (LEDs) such as infrared, visible-spectrum, ultraviolet, and white LEDs made from III–V semiconductors. The elementary properties of LEDs and material on device structure, packaging, reflectors, phosphor materials, light extraction, and junction temperature are discussed. Applications of the LED focus on illumination, fiber, and free-space communication.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83650"
+  },
+  {
+    "course_id": "ECSE 6290",
+    "prefix": "ECSE",
+    "number": "6290",
+    "title": "Semiconductor Devices and Models II",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82685"
+  },
+  {
+    "course_id": "ECSE 6300",
+    "prefix": "ECSE",
+    "number": "6300",
+    "title": "Integrated Circuit Fabrication Laboratory",
+    "description": "Theory and practice of IC fabrication in a research laboratory environment. Test chips are fabricated and the resulting devices and circuits evaluated. Processes and fabrication equipment studied and used include oxidation/diffusion, CVD reactors, photolithography, plasma etching, vacuum evaporator, ion implantation, etc. Instruments used in process monitoring and final testing include thin film profilometer, ellipsometer, resistivity probe, scanning electron microscope, capacitance-voltage system, etc. The fundamentals of hazardous material handling and clean room procedures are studied.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ECSE 4250 or equivalent.",
+    "prerequisites": [
+      "ECSE 4250"
+    ],
+    "prerequisite_logic": "ECSE 4250",
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: MTLE 6300 . Students cannot receive credit for both this course and MTLE 6300 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82686"
+  },
+  {
+    "course_id": "ECSE 6301",
+    "prefix": "ECSE",
+    "number": "6301",
+    "title": "Semiconductor Materials",
+    "description": "In this survey level course students study the structures of silicon and its properties, including the manufacturing of wafers. Students explore structures and properties of other thin films and metals needed to manufacture devices.",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90396"
+  },
+  {
+    "course_id": "ECSE 6302",
+    "prefix": "ECSE",
+    "number": "6302",
+    "title": "Semiconductor Devices",
+    "description": "In this survey level course students explore the design of silicon devices, including capacitors, diodes, n-type and p-type Metal-Oxide Semiconductor Field-Effect Transistors (MOSFET), and a system of devices combined to perform specific functions.",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90397"
+  },
+  {
+    "course_id": "ECSE 6302",
+    "prefix": "ECSE",
+    "number": "6302",
+    "title": "Semiconductor Devices",
+    "description": "In this survey level course students explore the design of silicon devices, including capacitors, diodes, n-type and p-type Metal-Oxide Semiconductor Field-Effect Transistors (MOSFET), and a system of devices combined to perform specific functions.",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90398"
+  },
+  {
+    "course_id": "ECSE 6303",
+    "prefix": "ECSE",
+    "number": "6303",
+    "title": "Semiconductor Processing",
+    "description": "In this survey level course students explore fabrication of complementary metal-oxide semiconductor field-effect transistor (CMOS) and related unit process steps, including the photolithographic process, metallization, etching, ion implantation, as well as the conditions required for each of the techniques.",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90399"
+  },
+  {
+    "course_id": "ECSE 6304",
+    "prefix": "ECSE",
+    "number": "6304",
+    "title": "Introduction to Semiconductor Manufacturing",
+    "description": "In this survey level course students learn to build sequential process steps to achieve specific results, creating a final production flow. Students analyze process controls and cleanroom requirements to minimize variability and limit defects to achieve the target yield.",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90400"
+  },
+  {
+    "course_id": "ECSE 6305",
+    "prefix": "ECSE",
+    "number": "6305",
+    "title": "Introduction to Integrated Circuit Design",
+    "description": "In this survey level course students develop the knowledge for the design of integrated circuits (IC) compatible with production. Students design an IC and work through the design rule verification, yield and manufacturability checks, making it ready for actual prototyping.",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90401"
+  },
+  {
+    "course_id": "ECSE 6306",
+    "prefix": "ECSE",
+    "number": "6306",
+    "title": "Integrated Circuit Packaging",
+    "description": "In this survey level course students explore packaging as the final element in the IC production processes. Students evaluate packaging types, design, processes, reliability and challenges. Students research different advanced packaging options and future trends for a variety of applications.",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90402"
+  },
+  {
+    "course_id": "ECSE 6307",
+    "prefix": "ECSE",
+    "number": "6307",
+    "title": "Integrated Circuit Metrology and Inspection",
+    "description": "In this survey level course students learn common metrology and inspection techniques for semiconductor manufacturing and yield enhancement. Students evaluate multiple techniques including optical and scanning electronic microscope (SEM) as well as automated techniques, for different stages of manufacturing from wafer processes to chip packaging.",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90403"
+  },
+  {
+    "course_id": "ECSE 6308",
+    "prefix": "ECSE",
+    "number": "6308",
+    "title": "Semiconductor Power Electronics",
+    "description": "In this survey level course students explore the challenges in regulating and managing power in semiconductors and high-power electronics. Students determine how converters impact stress, loss, and efficiency. Students develop use cases for power electronics in complex systems",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90404"
+  },
+  {
+    "course_id": "ECSE 6309",
+    "prefix": "ECSE",
+    "number": "6309",
+    "title": "Photonics",
+    "description": "In this survey level course students explore photonic communication and the photonic device manufacturing processes, including the foundations of light-matter interactions. Students take basic photonic measurements, using simulation techniques to predict and analyze photonic components.",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90405"
+  },
+  {
+    "course_id": "ECSE 6310",
+    "prefix": "ECSE",
+    "number": "6310",
+    "title": "Fundamentals of RF/Microwave Engineering",
+    "description": "Study of transmission lines, impedance matching, passive and active microwave systems. Work with S-parameters and experiment with the use of Smith chart. Introduction to microwave CAD tools for 2D electromagnetic (EM) simulations and microwave testing. Emphasis on physical understanding, quantitative performance evaluation using both hand calculations and EM simulations.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisites ECSE 4030 or permission of instructor.",
+    "prerequisites": [
+      "ECSE 4030"
+    ],
+    "prerequisite_logic": "ECSE 4030",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ECSE 4310 and ECSE 6310. Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84047"
+  },
+  {
+    "course_id": "ECSE 6320",
+    "prefix": "ECSE",
+    "number": "6320",
+    "title": "Advanced Computer Systems",
+    "description": "Key design principles and techniques of modern computer hardware, including instruction-level, data-level, and thread-level parallelism in CPU and GPU, cache and memory hierarchy, DRAM and non-volatile memory technologies and solid-state drive, and heterogeneous and disaggregated computing architecture. Advanced infrastructure software design techniques and algorithms, including indexing data structure, transaction, storage model, and consistency and consensus. Course projects to gain advanced programming skills and deepen the understanding of modern computer hardware and software.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2660 , CSCI 2500 , or CSCI 2800 ; or equivalent.",
+    "prerequisites": [
+      "ECSE 2660",
+      "CSCI 2500",
+      "CSCI 2800"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "ECSE 2660",
+            "CSCI 2500"
+          ]
+        },
+        "CSCI 2800"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: ECSE 4320 and ECSE 6320. Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82687"
+  },
+  {
+    "course_id": "ECSE 6370",
+    "prefix": "ECSE",
+    "number": "6370",
+    "title": "Fundamentals of Optoelectronics Technology",
+    "description": "The nature of optics, physics, and operation principles of optoelectronic devices and systems for communication, display, lighting, and computing. Topics include optics fundamentals, optical cavity, waveguides and fibers, light emitting diodes, laser diodes, photodetectors, solar cells, liquid crystal, birefringent materials, properties and devices, modulators and optical display. Several complex optoelectronic systems will also be used.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ECSE 4370",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90370"
+  },
+  {
+    "course_id": "ECSE 6400",
+    "prefix": "ECSE",
+    "number": "6400",
+    "title": "Systems Analysis Techniques",
+    "description": "Methods of analysis for continuous and discrete-time linear systems. Convolution, classical solution of dynamic equations, transforms, and matrices are reviewed. Emphasis is on the concept of state space. Linear spaces, concept of state, modes, controllability, observability, state transition matrix. State variable feedback, compensation, decoupling.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ECSE 2410 or equivalent.",
+    "prerequisites": [
+      "ECSE 2410"
+    ],
+    "prerequisite_logic": "ECSE 2410",
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: MANE 6600 . Students cannot receive credit for both this course and MANE 6600 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82688"
+  },
+  {
+    "course_id": "ECSE 6420",
+    "prefix": "ECSE",
+    "number": "6420",
+    "title": "Nonlinear Control Systems",
+    "description": "Phenomena peculiar to nonlinear systems. Linearization, iteration, and perturbation procedures. Describing function stability analysis. Phase plane methods. Relaxation oscillations and limit cycles. Stability analysis by Lyapunov’s method. Popov’s theorem. Adaptive control systems. Sensitivity analysis.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ECSE 6400 or MANE 6600 or permission of instructor.",
+    "prerequisites": [
+      "ECSE 6400",
+      "MANE 6600"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECSE 6400",
+        "MANE 6600"
+      ]
+    },
+    "when_offered": "SPRING TERM, ODD YEARS Cross Listed: MANE 6610 ; students cannot receive credit for both this course and MANE 6610 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82689"
+  },
+  {
+    "course_id": "ECSE 6430",
+    "prefix": "ECSE",
+    "number": "6430",
+    "title": "Optimization Methods",
+    "description": "Linear programming, nonlinear programming, iterative methods, and dynamic programming are presented, especially as they relate to optimal control problems. Discrete and continuous optimal regulators are derived from dynamic programming approach, which also leads to the Hamilton-Jacobi-Bellman Equation and the Minimum Principle. Linear quadratic regulators, linear tracking problems, and output regulators are treated. Linear observer and the separation theorem are developed for feedback controller implementation.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ECSE 2410 . Corequisite: ECSE 6400 .",
+    "prerequisites": [
+      "ECSE 2410",
+      "ECSE 6400"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ECSE 2410",
+        "ECSE 6400"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82690"
+  },
+  {
+    "course_id": "ECSE 6440",
+    "prefix": "ECSE",
+    "number": "6440",
+    "title": "Optimal Control Theory",
+    "description": "The concepts, techniques, and tools related to optimal control for dynamical systems. Major topics include calculus of variation, minimum principle, dynamic programming, optimal estimation, and differential games. Both discrete time systems and continuous times are addressed. Particular consideration is given to linear time invariant systems in terms of linear quadratic regulator and Kalman filter.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ECSE 6400 or ECSE 6600 .",
+    "prerequisites": [
+      "ECSE 6400",
+      "ECSE 6600"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECSE 6400",
+        "ECSE 6600"
+      ]
+    },
+    "when_offered": "FALL TERM, ODD YEARS Cross Listed: MANE 6620 ; students cannot receive credit for both this course and MANE 6620 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82691"
+  },
+  {
+    "course_id": "ECSE 6460",
+    "prefix": "ECSE",
+    "number": "6460",
+    "title": "Multivariable Control Systems",
+    "description": "Tools and methods for the analysis and design of linear multivariable feedback systems. Topics include the connection between frequency domain and state space models and methods, model identification, model reduction, model uncertainty and closed loop performance, convex analysis and design methods, optimal controller synthesis using H2, H-infinity, and structured singular value criteria.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ECSE 6400 .",
+    "prerequisites": [
+      "ECSE 6400"
+    ],
+    "prerequisite_logic": "ECSE 6400",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82692"
+  },
+  {
+    "course_id": "ECSE 6470",
+    "prefix": "ECSE",
+    "number": "6470",
+    "title": "Robotics I",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83643"
+  },
+  {
+    "course_id": "ECSE 6480",
+    "prefix": "ECSE",
+    "number": "6480",
+    "title": "Adaptive Systems and Reinforcement Learning",
+    "description": "This course contains the fundamental theory required to design adaptive systems. Topics include parameter identification, ARMA modeling, model reference systems, self-tuning systems, adaptive filtering, and reinforcement learning. Applications to engineered systems are introduced.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ( ECSE 2500 and ECSE 6400 ) or equivalent.",
+    "prerequisites": [
+      "ECSE 2500",
+      "ECSE 6400"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ECSE 2500",
+        "ECSE 6400"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82693"
+  },
+  {
+    "course_id": "ECSE 6490",
+    "prefix": "ECSE",
+    "number": "6490",
+    "title": "Robotics II",
+    "description": "This course introduces methods to develop numerical and algorithmic techniques needed to endow robots with the “intelligence” to devise strategies to solve problems they will encounter. Once these abilities are sufficiently well developed, robots will become safe and autonomous, thus paving the way for pervasive personal robots. Topics include: configuration space representation, cell decomposition, roadmap methods, rapidly-exploring random trees, simultaneous localization and mapping, contact modeling, grasping, and dexterous manipulation.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ECSE 4490 . Students cannot receive credit for both this course and ECSE 4490 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84050"
+  },
+  {
+    "course_id": "ECSE 6500",
+    "prefix": "ECSE",
+    "number": "6500",
+    "title": "Distributed Systems and Sensor Networks",
+    "description": "Recent developments in systems, sensors, communications, and networking technologies enable the development of large-scale distributed systems incorporating many individual nodes. This course takes an algorithmic approach to distributed systems for sensor fusion, localization and tracking, distributed robotics and sensor-based control. It also presents the basic principles of sensor node architectures and wireless sensor networks. Applications include environmental monitoring, biomedical systems, and security-related tracking problems.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ECSE 2410 or equivalent.",
+    "prerequisites": [
+      "ECSE 2410"
+    ],
+    "prerequisite_logic": "ECSE 2410",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ECSE 4500 . Students cannot receive credit for both this course and ECSE 4500 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83482"
+  },
+  {
+    "course_id": "ECSE 6510",
+    "prefix": "ECSE",
+    "number": "6510",
+    "title": "Introduction to Stochastic Signals and Systems",
+    "description": "Deterministic signal representations and analysis, introduction to random processes and spectral analysis, correlation function and power spectral density of stationary processes, noise mechanisms, the Gaussian and Poisson processes. Markov processes, the analysis of linear and nonlinear systems with random inputs, stochastic signal representations, orthogonal expansions, the Karhunen-Loeve series, channel characterization, introduction to signal detection, linear mean-square filtering, the orthogonality principle, optimum Wiener and Kalman filtering, modulation theory, and systems analysis.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisites: ECSE 2410 and ECSE 2500 or equivalent.",
+    "prerequisites": [
+      "ECSE 2410",
+      "ECSE 2500"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ECSE 2410",
+        "ECSE 2500"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82694"
+  },
+  {
+    "course_id": "ECSE 6520",
+    "prefix": "ECSE",
+    "number": "6520",
+    "title": "Detection and Estimation Theory",
+    "description": "Classical statistical decision theory, decision criteria, binary and composite hypothesis tests. Statistical models of signals and noise. Detection of known signals in Gaussian noise. Receiver operating characteristics and error probability. Applications to radar and communications. Detection of signals with unknown or random parameters, detection of stochastic signals, nonparametric detection techniques. Statistical estimation theory, performance measures. Cramer-Rao bounds, estimation of unknown signal parameters, optimum demodulation, signal design.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisites: probability theory and ECSE 6510 .",
+    "prerequisites": [
+      "ECSE 6510"
+    ],
+    "prerequisite_logic": "ECSE 6510",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82695"
+  },
+  {
+    "course_id": "ECSE 6530",
+    "prefix": "ECSE",
+    "number": "6530",
+    "title": "Information Theory and Coding",
+    "description": "Information measures, characterization of information sources, coding for discrete sources, the noiseless coding theorems, construction of Huffman codes. Discrete channel characterization, channel capacity, noisy-channel coding theorems, reliability exponents. Various error-control coding and decoding techniques, including block and convolutional codes. Introduction to waveform channels and rate distortion theory.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: probability theory. Corequisite: ECSE 6510 .",
+    "prerequisites": [
+      "ECSE 6510"
+    ],
+    "prerequisite_logic": "ECSE 6510",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82696"
+  },
+  {
+    "course_id": "ECSE 6550",
+    "prefix": "ECSE",
+    "number": "6550",
+    "title": "Stochastic Processes in Communication and Control",
+    "description": "Review of measure and integration theory, elements of probability, random variables, conditional probability, and expectations. Stochastic processes, stationarity, and ergodicity. Gaussian processes and Brownian motion, the Poisson process. Markov processes, wide-sense stationary processes, spectral representations, linear prediction and filtering. Stochastic integrals and differential equations, white noise and the stochastic calculus, the Fokker-Planck equation, diffusion processes, recursive filtering and estimation, evaluation of likelihood ratios. Applications in communication, information processing, and control.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ECSE 6510 .",
+    "prerequisites": [
+      "ECSE 6510"
+    ],
+    "prerequisite_logic": "ECSE 6510",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82697"
+  },
+  {
+    "course_id": "ECSE 6560",
+    "prefix": "ECSE",
+    "number": "6560",
+    "title": "Modern Communication Systems",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82698"
+  },
+  {
+    "course_id": "ECSE 6600",
+    "prefix": "ECSE",
+    "number": "6600",
+    "title": "Internet Protocols",
+    "description": "This course will cover concepts and protocols which enable heterogeneous computer networks to work with each other, including transport (TCP, UDP), network (IP, IPng), routing (RIP, OSPF), network management (SNMP, SNMPv2, RMON), and other important protocols like ARP, ICMP, DNS, BOOTP, DHCP, and HTTP. Advanced topics like Mobile IP, Real-time and reservation protocols (RTP, RSVP), IP multicast (IGMP, MBONE) and network security will also be examined. Emphasis will be on breadth of coverage, as well as hands-on programming experiences.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ECSE 4670 .",
+    "prerequisites": [
+      "ECSE 4670"
+    ],
+    "prerequisite_logic": "ECSE 4670",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82699"
+  },
+  {
+    "course_id": "ECSE 6610",
+    "prefix": "ECSE",
+    "number": "6610",
+    "title": "Pattern Recognition",
+    "description": "Structure of pattern classification problems. Mathematics of statistical decision theory: random vectors, multivariate probability functions, discriminants, parametric and nonparametric techniques, Bayesian and maximum likelihood estimation, feature selection, dimensionality reduction, whitening transformations. Adaptive methods and clustering. Five programming assignments and a term paper.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ECSE 2500 or equivalent.",
+    "prerequisites": [
+      "ECSE 2500"
+    ],
+    "prerequisite_logic": "ECSE 2500",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82700"
+  },
+  {
+    "course_id": "ECSE 6620",
+    "prefix": "ECSE",
+    "number": "6620",
+    "title": "Computer Vision for Visual Effects",
+    "description": "This course describes the computer vision problems that underlie modern visual effects in movies, in which original video footage is transformed or augmented to create fantastic, yet plausible environments. The course provides a critical overview of the important literature for several problem categories, describing “under-the-hood” concepts and algorithms in mathematical detail. In many cases, the relevant academic research is only a few years old and has only recently been applied to movies, TV shows, and commercials.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisites: ( MATH 2010 or ( MATH 2011 and MATH 2012)), CSCI 1200 , and some familiarity with digital image editing tools or techniques.",
+    "prerequisites": [
+      "MATH 2010",
+      "MATH 2011",
+      "MATH 2012",
+      "CSCI 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MATH 2010",
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2011",
+            "MATH 2012",
+            "CSCI 1200"
+          ]
+        }
+      ]
+    },
+    "when_offered": "FALL TERM, ODD YEARS Co-Listed: ECSE 4620 . Students cannot receive credit for both this course and ECSE 4620 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83737"
+  },
+  {
+    "course_id": "ECSE 6650",
+    "prefix": "ECSE",
+    "number": "6650",
+    "title": "Computer Vision",
+    "description": "Image formation and visual perception. Images, line structures, and line drawings. Preprocessing, boundary detection, texture, and region growing. Image representation in terms of boundaries, regions, and shape. Three-dimensional structures and their projections. Analysis, manipulation, and classification of image data. Knowledge-based approaches to image understanding. Applications from fields of robot vision, biomedical-image analysis, and satellite and aerial image interpretation.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82701"
+  },
+  {
+    "course_id": "ECSE 6660",
+    "prefix": "ECSE",
+    "number": "6660",
+    "title": "Internetworking of Things",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82702"
+  },
+  {
+    "course_id": "ECSE 6670",
+    "prefix": "ECSE",
+    "number": "6670",
+    "title": "Broadband and Optical Networking",
+    "description": "Review of fundamental concepts and protocols of broadband and optical networking. Convergence of telephone, Internet, and cable networks lead to new architectural and protocol concepts. Concepts and architectures covered in this course include: high-speed switching and router-design, traffic engineering, fiber optical communications, optical networking concepts, protection/restoration/survivability, optical link layers, quality of service, and broadband last-mile technologies.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ECSE 4670 .",
+    "prerequisites": [
+      "ECSE 4670"
+    ],
+    "prerequisite_logic": "ECSE 4670",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82703"
+  },
+  {
+    "course_id": "ECSE 6680",
+    "prefix": "ECSE",
+    "number": "6680",
+    "title": "Advanced VLSI Design",
+    "description": "Introduction to VLSI architecture design approaches and methodologies for digital signal processing systems, digital memory circuits and architectures, and computer VLSI arithmetic. Topics include: pipelining, parallel processing, timing and clocking, systolic architectures, digital filter architectures, Viterbi decoder architectures, SRAM, DRAM, flash memory, high-speed adder and multiplier architectures. Laboratory experiments involve the use of commercial EDA tools with hardware description language (HDL).",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ECSE 4220 .",
+    "prerequisites": [
+      "ECSE 4220"
+    ],
+    "prerequisite_logic": "ECSE 4220",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82704"
+  },
+  {
+    "course_id": "ECSE 6700",
+    "prefix": "ECSE",
+    "number": "6700",
+    "title": "Computer Architecture Prototyping with FPGA’s",
+    "description": "An advanced design and laboratory course. Design methodologies include register transfer modules and firmware microprogrammed design. Advanced microprocessor topics. “Bit-slice” philosophy of design. LSI microprocessors as design elements in larger digital systems such as high-speed channels and special purpose computers. Detailed discussion of the structure of several computers at the chip and board level. Emphasis on high-speed ECL and Schottky circuits. Specification of custom IC digital systems. FPGA based design implementation using VHDL.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ECSE 4770 .",
+    "prerequisites": [
+      "ECSE 4770"
+    ],
+    "prerequisite_logic": "ECSE 4770",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ECSE 4780 . Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82705"
+  },
+  {
+    "course_id": "ECSE 6800",
+    "prefix": "ECSE",
+    "number": "6800",
+    "title": "Advanced 3D Computer Graphics and Visualization",
+    "description": "This course will cover 3D graphical application programmer interfaces (APIs) and advanced rendering techniques, visulation pipelines, creating simulations, and visualization packages. Also covered will be algorithms for extracting visual information from data sets, such as determining iso-surfaces, contours, and cut planes. A programming emphasis will be on object-oriented design and systems. Term project required.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisites: ECSE 4750 , CSCI 2300 or equivalent, some familiarity with Java/C++.",
+    "prerequisites": [
+      "ECSE 4750",
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ECSE 4750",
+        "CSCI 2300"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82706"
+  },
+  {
+    "course_id": "ECSE 6810",
+    "prefix": "ECSE",
+    "number": "6810",
+    "title": "Introduction to Probabilistic Graphical Models",
+    "description": "This course covers topics related to learning and inference with different types of Probabilistic Graphical Models (PGMs). It also demonstrates the application of PGMs to different fields. The course covers both directed and undirected graphical models, both parameter and structure learning, and both exact and approximated inference methods.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisites: ECSE 2500 or equivalent and proficiency in computer programming. Prior knowledge in pattern recognition or machine learning is a plus but is not required.",
+    "prerequisites": [
+      "ECSE 2500"
+    ],
+    "prerequisite_logic": "ECSE 2500",
+    "when_offered": "FALL TERM, EVEN YEARS Co-Listed: ECSE 4810 ; Students cannot receive credit for both this course and ECSE 4810 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83541"
+  },
+  {
+    "course_id": "ECSE 6820",
+    "prefix": "ECSE",
+    "number": "6820",
+    "title": "Queuing Systems and Applications",
+    "description": "A course on fundamentals of stochastic processes and queuing theory emphasizing applications. Poisson processes, renewal processes, Markov chains, general methods in the study of Markovian and non-Markovian systems, tandem queues, networks of queues, priority and bulk queues, computational methods, and simulation. Focus of the course is the application of these tools in the performance evaluation and design of computer systems, communication networks, manufacturing systems, and service systems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ECSE 2500 or MATP 4600 .",
+    "prerequisites": [
+      "ECSE 2500",
+      "MATP 4600"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECSE 2500",
+        "MATP 4600"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Cross Listed: ISYE 6820 . Students cannot receive credit for both this course and ISYE 6820 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82707"
+  },
+  {
+    "course_id": "ECSE 6850",
+    "prefix": "ECSE",
+    "number": "6850",
+    "title": "Introduction to Deep Learning",
+    "description": "Deep learning fundamentals and applications in artificial intelligence. Topics include machine learning foundation, linear regression and classification, deep neural networks, convolutional neural networks, recurrent neural networks, generative adversary neural networks, Bayesian neural networks, deep Boltzmann machine, deep Bayesian networks, and deep reinforcement learning.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisites: ECSE 2500 , ( MATH 2010 or ( MATH 2011 and MATH 2012)), and CSCI 1200 .",
+    "prerequisites": [
+      "ECSE 2500",
+      "MATH 2010",
+      "MATH 2011",
+      "MATH 2012",
+      "CSCI 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "ECSE 2500",
+            "MATH 2010"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2011",
+            "MATH 2012",
+            "CSCI 1200"
+          ]
+        }
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ECSE 4850 . Students cannot obtain credit for both this course and the cross listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83824"
+  },
+  {
+    "course_id": "ECSE 6860",
+    "prefix": "ECSE",
+    "number": "6860",
+    "title": "Evaluation Methods for Decision Making",
+    "description": "Evaluation provides structured information for policy-relevant decision making based on a purposeful analysis of the identified measures. Topics include test hypotheses, randomization/control schemes, measures framework, measurement methods, and pertinent analytic techniques. Emphasis is on the application of evaluation methods (including systems engineering and operations research techniques) to issues arising in criminal justice, education, health, housing, transportation, welfare, automated information systems, and military programs.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ECSE 2500 or MATP 4600 or equivalent.",
+    "prerequisites": [
+      "ECSE 2500",
+      "MATP 4600"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECSE 2500",
+        "MATP 4600"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82708"
+  },
+  {
+    "course_id": "ECSE 6880",
+    "prefix": "ECSE",
+    "number": "6880",
+    "title": "Distributed Optimization and Learning",
+    "description": "This is a course about theory, algorithms and applications of distributed optimization and learning. The course covers the basics of distributed optimization and learning algorithms and their performance analyses when they are used to solve large-scale distributed problems arising in signal and image processing, communication networks and control systems.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ECSE 4880",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90372"
+  },
+  {
+    "course_id": "ECSE 6900",
+    "prefix": "ECSE",
+    "number": "6900",
+    "title": "Seminar in Electrical, Computer, and Systems Engineering",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82709"
+  },
+  {
+    "course_id": "ECSE 6940",
+    "prefix": "ECSE",
+    "number": "6940",
+    "title": "Readings in Electrical, Computer, and Systems Engineering",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82710"
+  },
+  {
+    "course_id": "ECSE 6960",
+    "prefix": "ECSE",
+    "number": "6960",
+    "title": "Topics in Electrical, Computer, and Systems Engineering",
+    "description": "New or special courses are presented under this listing from time to time.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82711"
+  },
+  {
+    "course_id": "ECSE 6970",
+    "prefix": "ECSE",
+    "number": "6970",
+    "title": "Professional Project",
+    "description": "Active participation in a semester-long project, under the supervision of a faculty adviser. A Professional Project often serves as a culminating experience for a Professional Master’s program but, with departmental or school approval, can be used to fulfill other program requirements. With approval, students may register for more than one Professional Project. Professional Projects must result in documentation established by each department or school, but are not submitted to the Office of Graduate Education and are not archived in the library. Grades of A, B, C, or F are assigned by the faculty adviser at the end of the semester. If not completed on time, a formal Incomplete grade may be assigned by the faculty adviser, listing the work remaining to be completed and the time limit for completing this work.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82712"
+  },
+  {
+    "course_id": "ECSE 6980",
+    "prefix": "ECSE",
+    "number": "6980",
+    "title": "Master’s Project",
+    "description": "Active participation in a master’s-level project, under the supervision of a faculty adviser, leading to a master’s project report. Grades S or U are assigned at the end of the semester. If recommended by the adviser, the master’s project may be accepted by the Office of Graduate Education to be archived in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82713"
+  },
+  {
+    "course_id": "ECSE 6990",
+    "prefix": "ECSE",
+    "number": "6990",
+    "title": "Master’s Thesis",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a master’s thesis. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82714"
+  },
+  {
+    "course_id": "ECSE 7010",
+    "prefix": "ECSE",
+    "number": "7010",
+    "title": "Optical Fiber Communications",
+    "description": "Review of the state of the art in optical fibers, light sources, and photodetectors. Topics include: propagation, coupling, dispersion, loss and cut-off characteristics of guided wave models in optical fibers, structural and operating parameters of various types of heterostructure lasers and light-emitting diodes and quantum efficiency, response time and noise characteristics of silicon PAD and PIN diodes. Also includes applications of optical fibers in optical communications, in data processing, and in control systems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82715"
+  },
+  {
+    "course_id": "ECSE 7020",
+    "prefix": "ECSE",
+    "number": "7020",
+    "title": "Digital Control and Estimation",
+    "description": "Computer control and estimation algorithms including deterministic and stochastic models. Markov sequence and Bayes decision rules, linear Kalman filtering, predicting, and smoothing. Parameter identification, combined state and parameter estimation. Adaptive filters and on-line rapid estimation schemes, extended and nonlinear filters. Optimal digital control of deterministic and stochastic systems. Separation theorems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ECSE 6400 .",
+    "prerequisites": [
+      "ECSE 6400"
+    ],
+    "prerequisite_logic": "ECSE 6400",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82716"
+  },
+  {
+    "course_id": "ECSE 9990",
+    "prefix": "ECSE",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "1-16",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82717"
+  }
+]

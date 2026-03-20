@@ -1,0 +1,922 @@
+[
+  {
+    "course_id": "PHYS 1010",
+    "prefix": "PHYS",
+    "number": "1010",
+    "title": "A Passion for Physics",
+    "description": "A weekly one-hour seminar by physics department faculty members, in which they describe their scientific and research interests, at a level suitable for first-year college students. This course is graded satisfactory/unsatisfactory.",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83253"
+  },
+  {
+    "course_id": "PHYS 1050",
+    "prefix": "PHYS",
+    "number": "1050",
+    "title": "General Physics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83254"
+  },
+  {
+    "course_id": "PHYS 1100",
+    "prefix": "PHYS",
+    "number": "1100",
+    "title": "Physics I (M)",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83255"
+  },
+  {
+    "course_id": "PHYS 1101",
+    "prefix": "PHYS",
+    "number": "1101",
+    "title": "Physics Mentoring for First-Semester Students",
+    "description": "A corequisite to PHYS 1100 to support first semester students. Students will learn best practices for success in STEM courses with an emphasis on collaborative problem solving in mechanics. Fall first-semester students taking PHYS-1100 are required to co-register for PHYS-1101. Corequisite: PHYS 1100",
+    "credit_hours": "0",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84194"
+  },
+  {
+    "course_id": "PHYS 1110",
+    "prefix": "PHYS",
+    "number": "1110",
+    "title": "Physics I (S)",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84193"
+  },
+  {
+    "course_id": "PHYS 1140",
+    "prefix": "PHYS",
+    "number": "1140",
+    "title": "Introductory Modern Physics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84025"
+  },
+  {
+    "course_id": "PHYS 1141",
+    "prefix": "PHYS",
+    "number": "1141",
+    "title": "Physics Mentoring for Modern Physics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90386"
+  },
+  {
+    "course_id": "PHYS 1150",
+    "prefix": "PHYS",
+    "number": "1150",
+    "title": "Introductory Classical Dynamics",
+    "description": "Introductory physics for students seeking a more intensive experience. Newton’s laws are introduced using differential calculus, with solutions based on integral calculus. Material on fluids and thermodynamics is included. Laboratory exercises are carried out emphasizing measurement uncertainty and clear, concise reporting. Recommended for students intending to major in physics.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 1010",
+    "prerequisites": [
+      "MATH 1010"
+    ],
+    "prerequisite_logic": "MATH 1010",
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: Additional credit cannot be obtained by taking PHYS 1050 , PHYS 1100 or PHYS 1110 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83256"
+  },
+  {
+    "course_id": "PHYS 1200",
+    "prefix": "PHYS",
+    "number": "1200",
+    "title": "Physics II",
+    "description": "The second semester of the two-semester sequence of calculus-based Physics courses. Topics include electric and magnetic forces and fields, Gauss’s Law, dc and ac circuits, Ampere’s Law and Faraday’s Law, electromagnetic radiation, physical optics, and quantum physics. This course includes a lab component that is intended to provide students with hands-on as well as data analysis experience.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHYS 1100 , PHYS 1110 , PHYS 1150 ; or equivalent or permission of instructor. Prerequisite or Corequisite: MATH 1020",
+    "prerequisites": [
+      "PHYS 1100",
+      "PHYS 1110",
+      "PHYS 1150",
+      "MATH 1020"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "PHYS 1100",
+            "PHYS 1110",
+            "PHYS 1150"
+          ]
+        },
+        "MATH 1020"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Co-Listed: Additional credit cannot be obtained by taking PHYS 1250",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83257"
+  },
+  {
+    "course_id": "PHYS 1250",
+    "prefix": "PHYS",
+    "number": "1250",
+    "title": "Introductory Electromagnetic Theory",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "PHYS 1100 , PHYS 1150 , or PHYS 1110 ; or equivalent, or permission of instructor. Prerequisite or Corequisite: MATH 1020",
+    "prerequisites": [
+      "PHYS 1100",
+      "PHYS 1150",
+      "PHYS 1110",
+      "MATH 1020"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        {
+          "type": "OR",
+          "items": [
+            {
+              "type": "AND",
+              "items": [
+                "PHYS 1100",
+                "PHYS 1150"
+              ]
+            },
+            "PHYS 1110"
+          ]
+        },
+        "MATH 1020"
+      ]
+    },
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83258"
+  },
+  {
+    "course_id": "PHYS 1600",
+    "prefix": "PHYS",
+    "number": "1600",
+    "title": "Materials Science",
+    "description": "Introduction to the scientific principles that dictate the structure and properties of engineering materials, including metals, ceramics, semiconductors, and polymers. Physical properties of materials (mechanical, electrical, thermal, optical) are discussed in terms of the underlying structure, spanning multiple length scales from atomic packing to micron scale defects in practical engineering materials. Throughout the course, the material behaviors are understood from the viewpoint of thermodynamics and kinetics.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Cross Listed: ENGR 1600 , CHEM 1600 , and ISCI 1600 . Students cannot receive credit for both this course and ENGR 1600 , CHEM 1600 , or ISCI 1600 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83671"
+  },
+  {
+    "course_id": "PHYS 1960",
+    "prefix": "PHYS",
+    "number": "1960",
+    "title": "Topics in Physics",
+    "description": "",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83259"
+  },
+  {
+    "course_id": "PHYS 2160",
+    "prefix": "PHYS",
+    "number": "2160",
+    "title": "Mentoring First Year Physics Students",
+    "description": "Practicum in mentoring new students in Physics with focus on developing Mentor technical leadership skills. Note that this course cannot be applied toward the satisfaction of the Institute Math/Science Core requirement.",
+    "credit_hours": "2",
+    "prerequisites_raw": "or Corequisite: By permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84246"
+  },
+  {
+    "course_id": "PHYS 2170",
+    "prefix": "PHYS",
+    "number": "2170",
+    "title": "Physics Teaching Practicum I",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84249"
+  },
+  {
+    "course_id": "PHYS 2210",
+    "prefix": "PHYS",
+    "number": "2210",
+    "title": "Quantum Physics I",
+    "description": "Introduction to the formalism of Schrodinger wave mechanics. Solutions to Schrodinger’s Equation in one, two, and three dimensions. One-electron atoms and quantum mechanical magnetic dipole moments.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHYS 1200 or PHYS 1250 ; and MATH 2400",
+    "prerequisites": [
+      "PHYS 1200",
+      "PHYS 1250",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "PHYS 1200",
+        {
+          "type": "AND",
+          "items": [
+            "PHYS 1250",
+            "MATH 2400"
+          ]
+        }
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83408"
+  },
+  {
+    "course_id": "PHYS 2250",
+    "prefix": "PHYS",
+    "number": "2250",
+    "title": "Computing for Physicists",
+    "description": "This course provides a practical introduction to the various computational tools and environments that physicists use on a daily basis in the course of their research. Students should develop techniques necessary to investigate physical problems both analytically and numerically. Further, they will develop fundamental tools for performing research in physics, e.g., data visualization, producing publication quality figures, and familiarity with scientific paper text editors (LateX)",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 1100 or equivalent.",
+    "prerequisites": [
+      "CSCI 1100"
+    ],
+    "prerequisite_logic": "CSCI 1100",
+    "when_offered": "SUMMER TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84255"
+  },
+  {
+    "course_id": "PHYS 2350",
+    "prefix": "PHYS",
+    "number": "2350",
+    "title": "Experimental Physics",
+    "description": "Experiments in mechanics, optics, electricity and electromagnetics, oscillations and waves, atomic, nuclear, and solid-state physics. Experimental methods, quantitative observations, and interpretation of data. This is a communication-intensive course.",
+    "credit_hours": "",
+    "prerequisites_raw": "PHYS 2210 Attributes Data Intensive 2",
+    "prerequisites": [
+      "PHYS 2210"
+    ],
+    "prerequisite_logic": "PHYS 2210",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83261"
+  },
+  {
+    "course_id": "PHYS 2620",
+    "prefix": "PHYS",
+    "number": "2620",
+    "title": "Optics",
+    "description": "An introduction to the properties of light and its interactions with matter. Topics include wave, particle, and ray treatments of light; geometrical optics and imaging systems; interference and diffraction; polarization; and Fourier methods for imaging and pulses. A laboratory is included.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHYS 1200 or PHYS 1250 , and MATH 2400",
+    "prerequisites": [
+      "PHYS 1200",
+      "PHYS 1250",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "PHYS 1200",
+        {
+          "type": "AND",
+          "items": [
+            "PHYS 1250",
+            "MATH 2400"
+          ]
+        }
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83262"
+  },
+  {
+    "course_id": "PHYS 2900",
+    "prefix": "PHYS",
+    "number": "2900",
+    "title": "Professional Development for Physics Students",
+    "description": "This course helps students to plan an academic and professional path and provides workshop-based experience in group collaboration and discussion, seeking internships and research experiences, ethics, and professional behavior.",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: None. Sophomore standing as a Physics major is recommended.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84253"
+  },
+  {
+    "course_id": "PHYS 2940",
+    "prefix": "PHYS",
+    "number": "2940",
+    "title": "Readings in Physics",
+    "description": "Independent study of selected readings in the field of physics, supervised by a faculty member.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83263"
+  },
+  {
+    "course_id": "PHYS 2960",
+    "prefix": "PHYS",
+    "number": "2960",
+    "title": "Topics in Physics",
+    "description": "",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83264"
+  },
+  {
+    "course_id": "PHYS 2990",
+    "prefix": "PHYS",
+    "number": "2990",
+    "title": "Thesis",
+    "description": "An independent investigation.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83265"
+  },
+  {
+    "course_id": "PHYS 4100",
+    "prefix": "PHYS",
+    "number": "4100",
+    "title": "Introductory Quantum Mechanics",
+    "description": "Quantum mechanics beyond Schrodinger wave mechanics. The postulates of quantum mechanics. Second quantization, Dirac notation, Hilbert spaces, perturbation theory, and applications to simple systems.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHYS 2210",
+    "prerequisites": [
+      "PHYS 2210"
+    ],
+    "prerequisite_logic": "PHYS 2210",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83266"
+  },
+  {
+    "course_id": "PHYS 4110",
+    "prefix": "PHYS",
+    "number": "4110",
+    "title": "Cosmology",
+    "description": "Cosmology is the study of origin and development of the Universe as a whole. In this course we will address the theoretical foundations of our understanding of the Universe, addressing questions including: What are the contents of the Universe? How has the history of the Universe looked until now and how will it evolve? Why one location or direction in the Universe is not more special than another?",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHYS 4420 or permission of instructor.",
+    "prerequisites": [
+      "PHYS 4420"
+    ],
+    "prerequisite_logic": "PHYS 4420",
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ASTR 4110",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84251"
+  },
+  {
+    "course_id": "PHYS 4150",
+    "prefix": "PHYS",
+    "number": "4150",
+    "title": "Particle Astrophysics",
+    "description": "This is introductory course to Particle Astrophysics at the advanced undergraduate level. It will focus on modern topics at the forefront of the field. An emphasis will be given on the overlap of s=astrophysics questions with theoretical and experimental techniques in particle physics.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHYS 2210",
+    "prerequisites": [
+      "PHYS 2210"
+    ],
+    "prerequisite_logic": "PHYS 2210",
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ASTR 4150",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90388"
+  },
+  {
+    "course_id": "PHYS 4160",
+    "prefix": "PHYS",
+    "number": "4160",
+    "title": "Leadership in Physics Mentoring I",
+    "description": "Practicum in mentoring new students in Physics for returning and experienced mentors. Returning and experienced mentors are expected both lead their own mentoring groups for first semester students and to provide leadership for new mentors. Note that this course cannot be applied toward the satisfaction of the Institute Math/Science Core requirement.",
+    "credit_hours": "2",
+    "prerequisites_raw": "or Corequisite: By permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84247"
+  },
+  {
+    "course_id": "PHYS 4161",
+    "prefix": "PHYS",
+    "number": "4161",
+    "title": "Leadership in Physics Mentoring II",
+    "description": "Practicum in mentoring new students in Physics for Senior Mentors. Senior Mentors are selected from experienced mentors to both lead their own mentoring groups of first semester students and to lead groups of mentors. Senior Mentors also participate in the organization of the mentoring program. Note that this course cannot be applied toward the satisfaction of the Institute Math/Science Core requirement.",
+    "credit_hours": "2",
+    "prerequisites_raw": "or Corequisite: By permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84248"
+  },
+  {
+    "course_id": "PHYS 4170",
+    "prefix": "PHYS",
+    "number": "4170",
+    "title": "Physics Teaching Practicum II",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84250"
+  },
+  {
+    "course_id": "PHYS 4210",
+    "prefix": "PHYS",
+    "number": "4210",
+    "title": "Electromagnetic Theory",
+    "description": "Field theory of electricity and magnetism with emphasis on solving boundary value problems. Dielectric and magnetic materials. Maxwell’s equations and wave propagation with applications to optics. Relativistic electrodynamics.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHYS 2210",
+    "prerequisites": [
+      "PHYS 2210"
+    ],
+    "prerequisite_logic": "PHYS 2210",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83267"
+  },
+  {
+    "course_id": "PHYS 4220",
+    "prefix": "PHYS",
+    "number": "4220",
+    "title": "Applications of Quantum Physics: From Particles to Stars",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83409"
+  },
+  {
+    "course_id": "PHYS 4240",
+    "prefix": "PHYS",
+    "number": "4240",
+    "title": "General Relativity",
+    "description": "Introduction to the physics of gravitation and spacetime. Special relativity, tensor calculus, and relativistic electrodynamics. General relativity with selected applications of Einstein’s field equations (gravitational time dilation; gravitational lensing; frame dragging; gravitational radiation). The physics of nonrotating and rotating black holes. Relativistic models for the large-scale structure of the Universe. Observational constraints on the cosmological parameters. Big Bang nucleosynthesis, the Cosmic Background Radiation. A culminating experience project is required. (Meets with ASTR 4240 ).",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHYS 4330 and MATH 4600",
+    "prerequisites": [
+      "PHYS 4330",
+      "MATH 4600"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "PHYS 4330",
+        "MATH 4600"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ASTR 4240 . Students cannot receive credit for both PHYS 4240 and ASTR 4240 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83268"
+  },
+  {
+    "course_id": "PHYS 4330",
+    "prefix": "PHYS",
+    "number": "4330",
+    "title": "Theoretical Mechanics",
+    "description": "Particle and rigid body dynamics using Newtonian, Lagrangian, and Hamiltonian methods. Motion of particle systems. Central force motion. Rotating coordinate systems. Rigid body motion using the inertia tensor and Euler angles. Coupled systems and normal coordinates. Introduction to continuum mechanics and the mechanics of deformable media. Introduction to Hamiltonian Mechanics, including proof and applications of Liouville’s Theorem. Formalism of Special Relativity. Introduction to nonlinear dynamics and chaotic behavior.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHYS 1250 or PHYS 1200 , and MATH 2400 Prerequisite or Corequisite: MATH 2010",
+    "prerequisites": [
+      "PHYS 1250",
+      "PHYS 1200",
+      "MATH 2400",
+      "MATH 2010"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        {
+          "type": "OR",
+          "items": [
+            "PHYS 1250",
+            {
+              "type": "AND",
+              "items": [
+                "PHYS 1200",
+                "MATH 2400"
+              ]
+            }
+          ]
+        },
+        "MATH 2010"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83392"
+  },
+  {
+    "course_id": "PHYS 4420",
+    "prefix": "PHYS",
+    "number": "4420",
+    "title": "Thermodynamics and Statistical Mechanics",
+    "description": "The principles and physical applications of classical thermodynamics are developed. Basic concepts in classical and quantum statistical mechanics are introduced and their relations to thermodynamics are developed.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHYS 2210 and MATH 2010 and MATH 2400",
+    "prerequisites": [
+      "PHYS 2210",
+      "MATH 2010",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "PHYS 2210",
+        "MATH 2010",
+        "MATH 2400"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83269"
+  },
+  {
+    "course_id": "PHYS 4450",
+    "prefix": "PHYS",
+    "number": "4450",
+    "title": "Group Theory for Physicists",
+    "description": "This course will introduce students to group theory and its application fundamental Physics of matter and space-time. Topics will include symmetries of space-time, crystalline structures, the quantum mechanics of spin, particle physics, the Standard Model, and Grand Unifying Theories.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHYS 2210",
+    "prerequisites": [
+      "PHYS 2210"
+    ],
+    "prerequisite_logic": "PHYS 2210",
+    "when_offered": "SUMMER TERM ONLY ON SUFFICIENT DEMAND.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90417"
+  },
+  {
+    "course_id": "PHYS 4620",
+    "prefix": "PHYS",
+    "number": "4620",
+    "title": "Elementary Particle Physics",
+    "description": "Survey of the elementary particles and their interactions. Historical introduction and discussion of experimental apparatus and particle accelerators. Relativistic kinematics and incorporation into quantum field theory, including Feynman diagrams. Bound states and the quark model. Symmetries and their manifestation. Neutrino oscillations and gauge theories. Quantum electrodynamics, the electroweak interaction, quantum chromodynamics, and prospects for grand unification. A culminating experience project is required.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHYS 4100",
+    "prerequisites": [
+      "PHYS 4100"
+    ],
+    "prerequisite_logic": "PHYS 4100",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83270"
+  },
+  {
+    "course_id": "PHYS 4630",
+    "prefix": "PHYS",
+    "number": "4630",
+    "title": "Lasers and Optical Systems",
+    "description": "Optical physics and applications of lasers. Design of optical systems. Topics include: wave optics and beam propagation, Gaussian beams, resonators, optical properties of atoms and laser gain media, laser amplifiers, pulsed laser systems, applications of lasers, nonlinear optics.",
+    "credit_hours": "",
+    "prerequisites_raw": "None. However, PHYS 2620 is highly recommended.",
+    "prerequisites": [
+      "PHYS 2620"
+    ],
+    "prerequisite_logic": "PHYS 2620",
+    "when_offered": "FALL TERM, ODD YEARS Cross Listed: ECSE 4630 . Students cannot obtain credit for both this course and ECSE 4630 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83271"
+  },
+  {
+    "course_id": "PHYS 4640",
+    "prefix": "PHYS",
+    "number": "4640",
+    "title": "Optical Communications and Integrated Optics",
+    "description": "Phenomena, materials, and devices for optical communications and computing. Topics include: guided wave and fiber optics, integrated optics, electro-optic and nonlinear optical switching, pulse and soliton propagation, sources and detectors.",
+    "credit_hours": "",
+    "prerequisites_raw": "PHYS 2620",
+    "prerequisites": [
+      "PHYS 2620"
+    ],
+    "prerequisite_logic": "PHYS 2620",
+    "when_offered": "FALL TERM, EVEN YEARS Cross Listed: ECSE 4640 . Students cannot receive credit for both this course and ECSE 4640 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83272"
+  },
+  {
+    "course_id": "PHYS 4665",
+    "prefix": "PHYS",
+    "number": "4665",
+    "title": "Quantum Computing and Information",
+    "description": "This course is intended to provide an introductory overview of the field of quantum information science. It will cover the basic concepts of quantum computation and information, including entanglement and quantum communication, quantum circuit models, quantum algorithms/simulation, as well as gain an understanding of physical implementations of qubits and practical concerns (e.g, decoherence and error-correction).",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 4100 or equivalent",
+    "prerequisites": [
+      "MATH 4100"
+    ],
+    "prerequisite_logic": "MATH 4100",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90416"
+  },
+  {
+    "course_id": "PHYS 4720",
+    "prefix": "PHYS",
+    "number": "4720",
+    "title": "Solid-State Physics",
+    "description": "An introduction to theoretical and experimental solid-state physics. Wave mechanics in the perfect crystal. X-rays, electrons, and phonons. Electrical properties of metals and semiconductors. Qualitative treatment of lattice defects.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHYS 4220 ; or equivalent.",
+    "prerequisites": [
+      "PHYS 4220"
+    ],
+    "prerequisite_logic": "PHYS 4220",
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ECSE 4720 ; students cannot receive credit for both this course and ECSE 4720 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83273"
+  },
+  {
+    "course_id": "PHYS 4810",
+    "prefix": "PHYS",
+    "number": "4810",
+    "title": "Computational Physics",
+    "description": "Computational physics studies the implementation of numerical algorithms to solve problems of physics which do not have analytical solutions. Upon completion of this course, students will be able to solve physics problems from a variety of fields under realistic conditions, using modern architectures such as graphical processing units and supercomputers. This course makes extensive use of computers but remains a physics course where students enrich their understanding of physical phenomena. A culminating experience project is required.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 1100 and ( PHYS 1200 or PHYS 1250 ); or permission of instructor.",
+    "prerequisites": [
+      "CSCI 1100",
+      "PHYS 1200",
+      "PHYS 1250"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 1100",
+            "PHYS 1200"
+          ]
+        },
+        "PHYS 1250"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83274"
+  },
+  {
+    "course_id": "PHYS 4910",
+    "prefix": "PHYS",
+    "number": "4910",
+    "title": "Culminating Experience Project",
+    "description": "Independent study to accompany designated capstone courses in Physics and Astronomy. Designated courses are: ASTR 4220 ; ASTR 4240 ; ASTR 4510 ; PHYS 4810 ; PHYS 4620 ; PHYS 4240 ; ASTR 4120 ; PHYS 4630 ; PHYS 4640 ; or PHYS 4720 . Corequisite: Must be concurrently registered in one of the following: ASTR 4120 , ASTR 4220 , ASTR 4240 , ASTR 4510 , PHYS 4240 , PHYS 4620 , PHYS 4630 , PHYS 4640 , or PHYS 4720 , PHYS 4810 , or by instructor permission.",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83275"
+  },
+  {
+    "course_id": "PHYS 4960",
+    "prefix": "PHYS",
+    "number": "4960",
+    "title": "Topics in Physics",
+    "description": "",
+    "credit_hours": "1-4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83276"
+  },
+  {
+    "course_id": "PHYS 6410",
+    "prefix": "PHYS",
+    "number": "6410",
+    "title": "Electrodynamics",
+    "description": "Electrostatics and magnetostatics. Relativistic kinematics. Relativistic dynamics. Relativistic theory of classical fields. Electromagnetic waves. Linear and nonlinear materials. EM waves in linear, dispersive media. EM waves in nonlinear materials. Diffraction. Radiation by relativistic particles.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Permission of the instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83278"
+  },
+  {
+    "course_id": "PHYS 6510",
+    "prefix": "PHYS",
+    "number": "6510",
+    "title": "Quantum Mechanics I",
+    "description": "Classical mechanics: from Lagrangian to Hamiltonian, single particle formalism, small oscillations, normal modes, Hamilton-Jacobi theory, Hamilton’s equation, review of wave mechanics: Schroedinger equation, barrier tunneling, quantum wells, mathematical foundation of quantum mechanics: ket space, representations, observables, eigenstates and diagonization, quantum postulates, application of quantum postulates to two-level systems, harmonic oscillators, creation and annihilation operators. Quantization of angular momentum, spherical harmonics, rotation operators, Landau levels, central force: hydrogen atom. Path integral formalism for quantum theory.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of PHYS 4100 or equivalent.",
+    "prerequisites": [
+      "PHYS 4100"
+    ],
+    "prerequisite_logic": "PHYS 4100",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83279"
+  },
+  {
+    "course_id": "PHYS 6520",
+    "prefix": "PHYS",
+    "number": "6520",
+    "title": "Quantum Mechanics II",
+    "description": "Intrinsic spins, Pauli matrices, spinors. Addition of angular momenta, Clebsch-Gordon coefficients, Wigner-Eckart Theorems, applications. Approximate treatments: variation methods, overlap integrals, Block wavelength. WKB methods. Stationary perturbation, degeneracy. Fine structure and hyperfine structure in atoms. Approximations for time dependent problems: Fermi-Golden rules. Classical fields: Lagrangian density, variational principle, field equations, normal modes. Field quantization: quantization of continuous systems, EM radiation, photons, EM-atom coupling, spontaneous emission. Relativistic single particle: Dirac equation, free space solution, central force solution.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHYS 6510",
+    "prerequisites": [
+      "PHYS 6510"
+    ],
+    "prerequisite_logic": "PHYS 6510",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83280"
+  },
+  {
+    "course_id": "PHYS 6530",
+    "prefix": "PHYS",
+    "number": "6530",
+    "title": "Quantum Mechanics III",
+    "description": "Relativistic wave equations. Commutation relations and the quantization of free fields. Spin and statistics of Bose and Fermi fields. Interacting fields and commutation relations. Interaction representation and S-matrix perturbation theory. Renormalization theory and applications in quantum electrodynamics. Many-body description of condensed matter systems. Functional integral formulation and methods for quantum field theory and many-body physics.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHYS 6510",
+    "prerequisites": [
+      "PHYS 6510"
+    ],
+    "prerequisite_logic": "PHYS 6510",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83281"
+  },
+  {
+    "course_id": "PHYS 6590",
+    "prefix": "PHYS",
+    "number": "6590",
+    "title": "Statistical Mechanics",
+    "description": "Review of thermodynamics, probability, and statistics. Statistical basis of thermodynamics, various ensembles, quantum statistics. Ideal Fermi and Bose gases and applications to solids and the black-body radiation. Interacting systems, phase transitions, and critical phenomena. Phase transition in the Van der Waals gas and in the Ising ferromagnet. Mean-field approximation and Landau theory of continuous phase transitions. Random walk, diffusion, Brownian motion, and Langevin equation. Stochastic processes.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of PHYS 4420 or equivalent. Corequisite: PHYS 6510",
+    "prerequisites": [
+      "PHYS 4420",
+      "PHYS 6510"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "PHYS 4420",
+        "PHYS 6510"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83282"
+  },
+  {
+    "course_id": "PHYS 6710",
+    "prefix": "PHYS",
+    "number": "6710",
+    "title": "Theory of Solids I",
+    "description": "An introduction to the theory of solids. Theory of the free-electron metal, band theory, and phonons. Application to the electrical, optical, and thermal properties of solids. Qualitative discussion of cohesion.",
+    "credit_hours": "3",
+    "prerequisites_raw": "PHYS 6520",
+    "prerequisites": [
+      "PHYS 6520"
+    ],
+    "prerequisite_logic": "PHYS 6520",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83283"
+  },
+  {
+    "course_id": "PHYS 6720",
+    "prefix": "PHYS",
+    "number": "6720",
+    "title": "Theory of Solids II",
+    "description": "More detailed application of solid-state theory to electrical, magnetic, and optical properties of matter. Consideration of particular materials; semiconductors, ferrites, ferroelectrics, and superconductors.",
+    "credit_hours": "3",
+    "prerequisites_raw": "PHYS 6710",
+    "prerequisites": [
+      "PHYS 6710"
+    ],
+    "prerequisite_logic": "PHYS 6710",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83284"
+  },
+  {
+    "course_id": "PHYS 6810",
+    "prefix": "PHYS",
+    "number": "6810",
+    "title": "Nonlinear and Quantum Optics",
+    "description": "Theoretical framework for analysis of wave propagation in nonlinear media. Classical and quantum theory of nonlinear response. Multi-wave mixing, including second-harmonic generation, optical phase conjugation and optical bistability. Quantization of the electromagnetic field and quantum stochastic processes in atom-field interactions. Applications to amplifiers, lasers, resonance fluorescence, and squeezed state generation. Quantum theory of measurements.",
+    "credit_hours": "3",
+    "prerequisites_raw": "PHYS 6510",
+    "prerequisites": [
+      "PHYS 6510"
+    ],
+    "prerequisite_logic": "PHYS 6510",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83285"
+  },
+  {
+    "course_id": "PHYS 6900",
+    "prefix": "PHYS",
+    "number": "6900",
+    "title": "Seminar",
+    "description": "Selected topics.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83286"
+  },
+  {
+    "course_id": "PHYS 6940",
+    "prefix": "PHYS",
+    "number": "6940",
+    "title": "Independent Study in Physics",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83287"
+  },
+  {
+    "course_id": "PHYS 6960",
+    "prefix": "PHYS",
+    "number": "6960",
+    "title": "Topics in Physics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83288"
+  },
+  {
+    "course_id": "PHYS 6970",
+    "prefix": "PHYS",
+    "number": "6970",
+    "title": "Professional Project",
+    "description": "Active participation in a semester-long project, under the supervision of a faculty adviser. A Professional Project often serves as a culminating experience for a Professional Master’s program but, with departmental or school approval, can be used to fulfill other program requirements. With approval, students may register for more than one Professional Project. Professional Projects must result in documentation established by each department or school, but are not submitted to the Office of Graduate Education and are not archived in the library. Grades of A, B, C, or F are assigned by the faculty adviser at the end of the semester. If not completed on time, a formal Incomplete grade may be assigned by the faculty adviser, listing the work remaining to be completed and the time limit for completing this work.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83289"
+  },
+  {
+    "course_id": "PHYS 6980",
+    "prefix": "PHYS",
+    "number": "6980",
+    "title": "Master’s Project",
+    "description": "Active participation in a master’s-level project, under the supervision of a faculty adviser, leading to a master’s project report. Grades S or U are assigned at the end of the semester. If recommended by the adviser, the master’s project may be accepted by the Office of Graduate Education to be archived in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83290"
+  },
+  {
+    "course_id": "PHYS 6990",
+    "prefix": "PHYS",
+    "number": "6990",
+    "title": "Master’s Thesis",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a master’s thesis. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83291"
+  },
+  {
+    "course_id": "PHYS 9990",
+    "prefix": "PHYS",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "1-16",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83292"
+  }
+]

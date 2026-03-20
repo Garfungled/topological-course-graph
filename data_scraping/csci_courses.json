@@ -1,0 +1,2095 @@
+[
+  {
+    "course_id": "CSCI 1100",
+    "prefix": "CSCI",
+    "number": "1100",
+    "title": "Computer Science I",
+    "description": "An introduction to computer programming algorithm design and analysis. Additional topics include basic computer organization; internal representation of scalar and array data; use of top-down design and subprograms to tackle complex problems; abstract data types. Enrichment material as time allows. Interdisciplinary case studies, numerical and nonnumerical applications. Students who have passed CSCI 1200 cannot register for this course.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82553"
+  },
+  {
+    "course_id": "CSCI 1200",
+    "prefix": "CSCI",
+    "number": "1200",
+    "title": "Data Structures",
+    "description": "Programming concepts: functions, parameter passing, pointers, arrays, strings, structs, classes, templates. Mathematical tools: sets, functions, and relations, order notation, complexity of algorithms, proof by induction. Data structures and their representations: data abstraction and internal representation, sequences, trees, binary search trees, associative structures. Algorithms: searching and sorting, generic algorithms, iterative and recursive algorithms. Methods of testing correctness and measuring performance.",
+    "credit_hours": "",
+    "prerequisites_raw": "Requires a C- or higher in CSCI 1100 ; or permission of instructor.",
+    "prerequisites": [
+      "CSCI 1100"
+    ],
+    "prerequisite_logic": "CSCI 1100",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82555"
+  },
+  {
+    "course_id": "CSCI 1700",
+    "prefix": "CSCI",
+    "number": "1700",
+    "title": "Early Introduction to RCOS",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84167"
+  },
+  {
+    "course_id": "CSCI 2110",
+    "prefix": "CSCI",
+    "number": "2110",
+    "title": "Web Systems Development",
+    "description": "This course involves a study of the methods used to extract and deliver dynamic information on the World Wide Web. The course uses a hands-on approach in which students actively develop Web-based software systems. Additional topics include installation, configuration, and management of Web servers. Students are required to have access to a PC on which they can install software such as a Web server and various programming environments.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ITWS 1100 Prerequisite or Corequisite: CSCI 1200",
+    "prerequisites": [
+      "ITWS 1100",
+      "CSCI 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ITWS 1100",
+        "CSCI 1200"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ITWS 2110",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84165"
+  },
+  {
+    "course_id": "CSCI 2200",
+    "prefix": "CSCI",
+    "number": "2200",
+    "title": "Foundations of Computer Science",
+    "description": "This course introduces important mathematical and theoretical tools for computer science, including topics from set theory, combinatorics, and probability theory, and then proceeds to automata theory, the Turing Machine model of computation, and notions of computational complexity. The course will emphasize formal reasoning and proof techniques.",
+    "credit_hours": "",
+    "prerequisites_raw": "CSCI 1200 and ( MATH 1010 , MATH 1020 , MATH 1500 , MATH 1020 or MATH 2010 ); MATH 1020 is strongly recommended.",
+    "prerequisites": [
+      "CSCI 1200",
+      "MATH 1010",
+      "MATH 1020",
+      "MATH 1500",
+      "MATH 2010"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 1200",
+            "MATH 1010",
+            "MATH 1020",
+            "MATH 1500",
+            "MATH 1020"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2010",
+            "MATH 1020"
+          ]
+        }
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83412"
+  },
+  {
+    "course_id": "CSCI 2210",
+    "prefix": "CSCI",
+    "number": "2210",
+    "title": "Mathematical Foundations of Machine Learning (MFML)",
+    "description": "This course covers the essential building blocks of machine learning, focusing on topics in linear algebra, continuous probability and stochastic, and optimization. This provides students with foundational mathematical concepts to the components of machine learning - data, models, and learning algorithms - at an introductory level, emphasizing their basic functionalities and relationships. These mathematical foundations are the bedrock upon which machine learning is constructed. The topics that will be covered in this course are: Vectors, matrices, matrix operations and decomposition, eigenvalues, eigenvectors, vector calculus, calculating gradients of functions of vectors and matrices, probability theory, and linear regression.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2200 and MATH 2010",
+    "prerequisites": [
+      "CSCI 2200",
+      "MATH 2010"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CSCI 2200",
+        "MATH 2010"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84240"
+  },
+  {
+    "course_id": "CSCI 2300",
+    "prefix": "CSCI",
+    "number": "2300",
+    "title": "Introduction to Algorithms",
+    "description": "Data structures and algorithms, and the mathematical techniques necessary to design and analyze them. Basic data structures: lists, associative structures, trees. Mathematical techniques for designing algorithms and analyzing worst-case and expected-case algorithm efficiency. Advanced data structures: balanced trees, tries, heaps, priority queues, graphs. Searching, sorting. Algorithm design techniques: dynamic programming, greedy algorithms, divide-and-conquer, backtracking. Example graph, string, geometric, and numeric algorithms.",
+    "credit_hours": "",
+    "prerequisites_raw": "CSCI 1200 and CSCI 2200 ; and ( MATH 1010 , MATH 1020 , MATH 1500 , or MATH 2010 ). CSCI 1200 requires students pass with a C- or higher.",
+    "prerequisites": [
+      "CSCI 1200",
+      "CSCI 2200",
+      "MATH 1010",
+      "MATH 1020",
+      "MATH 1500",
+      "MATH 2010"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 1200",
+            "CSCI 2200",
+            "MATH 1010",
+            "MATH 1020",
+            "MATH 1500"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2010",
+            "CSCI 1200"
+          ]
+        }
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82556"
+  },
+  {
+    "course_id": "CSCI 2500",
+    "prefix": "CSCI",
+    "number": "2500",
+    "title": "Computer Organization",
+    "description": "Introduction to computer organization, assembler language, and operating systems. Computer systems organization: processors, memory, I/O. Digital logic: gates, Boolean algebra, digital logic circuits, memory, buses. Microprogramming. Machine level: instruction formats, addressing modes, instruction types, flow of control. Operating systems: virtual memory, virtual I/O instructions, processes, interprocess communication. Numeric representation. Assembler language: the assembly process, macros, linking, loading. Advanced architectures: RISC architectures, parallel architectures.",
+    "credit_hours": "",
+    "prerequisites_raw": "CSCI 1200",
+    "prerequisites": [
+      "CSCI 1200"
+    ],
+    "prerequisite_logic": "CSCI 1200",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82557"
+  },
+  {
+    "course_id": "CSCI 2600",
+    "prefix": "CSCI",
+    "number": "2600",
+    "title": "Principles of Software",
+    "description": "A study of important concepts in software design, implementation, and testing. Topics include specification, abstraction with classes, design principles and patterns, testing, refactoring, the software development process, GUI and event-driven programming, and cloud-based programming. The course also introduces implementation and testing tools, including IDEs, revision control systems, and other frameworks. The overarching goal of the course is for students to learn how to write correct and maintainable software.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 1200 and CSCI 2200",
+    "prerequisites": [
+      "CSCI 1200",
+      "CSCI 2200"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CSCI 1200",
+        "CSCI 2200"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83577"
+  },
+  {
+    "course_id": "CSCI 2700",
+    "prefix": "CSCI",
+    "number": "2700",
+    "title": "Introduction to RCOS",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84168"
+  },
+  {
+    "course_id": "CSCI 2800",
+    "prefix": "CSCI",
+    "number": "2800",
+    "title": "Computer Architecture & Operating Systems (CAOS)",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90420"
+  },
+  {
+    "course_id": "CSCI 2941",
+    "prefix": "CSCI",
+    "number": "2941",
+    "title": "Undergraduate Research Project",
+    "description": "",
+    "credit_hours": "1-4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90480"
+  },
+  {
+    "course_id": "CSCI 4020",
+    "prefix": "CSCI",
+    "number": "4020",
+    "title": "Design and Analysis of Algorithms",
+    "description": "This course presents fundamental ideas and techniques of modern algorithm design and analysis. After completing this course, students should be able to formally analyze and design efficient algorithms for a variety of computational problems. Topics covered include Greedy Algorithms, Dynamic Programming, Network Flow, NP-Completeness, Linear Programming, Network Algorithms, as well as probabilistic and approximate algorithms.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300",
+    "prerequisites": [
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": "CSCI 2300",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82558"
+  },
+  {
+    "course_id": "CSCI 4030",
+    "prefix": "CSCI",
+    "number": "4030",
+    "title": "Randomized Algorithms",
+    "description": "State-of-the-art in contemporary algorithm design, randomized algorithms are algorithms that use randomness as part of their functioning. They are typically simple, often easy to analyze, and work well in practice. They have numerous applications in many fields of computer science and mathematics. Randomized algorithms represent an active and vibrant research area with many exciting new results contributed every year.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 4020",
+    "prerequisites": [
+      "CSCI 4020"
+    ],
+    "prerequisite_logic": "CSCI 4020",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CSCI 6220 . Students cannot receive credit for both CSCI 4030 and CSCI 6220 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83760"
+  },
+  {
+    "course_id": "CSCI 4040",
+    "prefix": "CSCI",
+    "number": "4040",
+    "title": "Approximation Algorithms",
+    "description": "Algorithms with provable guarantees on the quality of their solutions are a powerful way of dealing with intractable problems. This course covers fundamental techniques for designing approximation algorithms. Possible topics include: semi-definite and linear programming, inapproximability and the PCP theorem, randomized rounding, metrics and cuts, primal-dual methods, and online algorithms.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 4020",
+    "prerequisites": [
+      "CSCI 4020"
+    ],
+    "prerequisite_logic": "CSCI 4020",
+    "when_offered": "FALL TERM, ODD YEARS Co-Listed: CSCI 6040 . Students cannot receive credit for both CSCI 4040 and CSCI 6040 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83763"
+  },
+  {
+    "course_id": "CSCI 4050",
+    "prefix": "CSCI",
+    "number": "4050",
+    "title": "Theory of Computation",
+    "description": "This course covers the formal foundations of computability and complexity. We aim to answer fundamental questions about what problems can be solved and what problems cannot be solved, and what problems can be solved given our limited resources. Topics include: the Church-Turing thesis; variations of Turing Machines; decidability; the Halting Problem; reducibility; the Recursion Theorem; time and space complexity; intractability; NP-completeness; and Cook’s theorem. We will also discuss some emerging and unconventional computing models.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2200 and CSCI 2300",
+    "prerequisites": [
+      "CSCI 2200",
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CSCI 2200",
+        "CSCI 2300"
+      ]
+    },
+    "when_offered": "SPRING ALTERNATE YEARS Co-Listed: CSCI 6050",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90421"
+  },
+  {
+    "course_id": "CSCI 4100",
+    "prefix": "CSCI",
+    "number": "4100",
+    "title": "Machine Learning from Data",
+    "description": "Introduction to the theory, algorithms, and applications of machine learning (supervised, reinforcement, and unsupervised) from data: What is learning? Is learning feasible? How can we do it? How can we do it well? The course offers a mix of theory, technique, and application with additional selected topics chosen from Pattern Recognition, Decision Trees, Neural Networks, RBF’s, Bayesian Learning, PAC Learning, Support Vector Machines, Gaussian processes, and Hidden Markov Models.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2210 and CSCI 2300",
+    "prerequisites": [
+      "CSCI 2210",
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CSCI 2210",
+        "CSCI 2300"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CSCI 6100 . Students cannot receive credit for both CSCI 4100 and CSCI 6100 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82559"
+  },
+  {
+    "course_id": "CSCI 4110",
+    "prefix": "CSCI",
+    "number": "4110",
+    "title": "Computational Social Processes",
+    "description": "Introduction to the computational and algorithmic aspects of social processes. Topics covered will be selected to illustrate the diverse challenges in algorithmic social process analysis: social networks and their dynamics; information flow; hidden networks. Algorithms involving social and selfish agents, social choice theory, voting, and auctions. Ranking actors in networks, recommendation systems, peer-review, and aggregation of rankings/reviews.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300 ; and an advanced 4000-level algorithms-based CSCI or MATH course.",
+    "prerequisites": [
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": "CSCI 2300",
+    "when_offered": "FALL TERM, EVEN YEARS Co-Listed: CSCI 6110 . Students cannot receive credit for both CSCI 4110 and CSCI 6110 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83655"
+  },
+  {
+    "course_id": "CSCI 4120",
+    "prefix": "CSCI",
+    "number": "4120",
+    "title": "Computational Finance",
+    "description": "Introduction to the computational and mathematical techniques for practical financial applications. The course will emphasize the algorithmic side of finance. Topics will be selected from pricing (options and derivatives), trading, risk-evaluation, selfish agents, sequential decisions, and portfolio optimization. Examples of the mathematical and algorithmic techniques covered are martingale measures, risk-neutral pricing and Monte Carlo, dynamic programing, and stochastic processes.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2210 and CSCI 2300 ; or permission of instructor.",
+    "prerequisites": [
+      "CSCI 2210",
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CSCI 2210",
+        "CSCI 2300"
+      ]
+    },
+    "when_offered": "FALL TERM, EVEN YEARS Co-Listed: CSCI 6120 . Students cannot receive credit for both CSCI 4120 and CSCI 6120 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83657"
+  },
+  {
+    "course_id": "CSCI 4130",
+    "prefix": "CSCI",
+    "number": "4130",
+    "title": "AI in Fiction and Fact",
+    "description": "This interdisciplinary course explores the fascinating intersection between Artificial Intelligence (AI) as portrayed in fiction and its real-world counterparts. Students will delve into literary and cinematic works as well as news media and current affairs that feature AI while concurrently studying the historical development, technological underpinnings, ethical considerations, and societal impacts of AI. Through critical analysis, discussions, and a project, students will gain a nuanced understanding of AI’s portrayal in various media and its implications in our rapidly evolving world.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2200 , or permission of instructor.",
+    "prerequisites": [
+      "CSCI 2200"
+    ],
+    "prerequisite_logic": "CSCI 2200",
+    "when_offered": "SPRING ALTERNATE YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84241"
+  },
+  {
+    "course_id": "CSCI 4140",
+    "prefix": "CSCI",
+    "number": "4140",
+    "title": "Machine Learning and Optimization",
+    "description": "The first portion of this course introduces the optimization background necessary to understand the algorithms that dominate the landscape of machine learning. The second portion introduces effective architectures used in modern machine learning. Students revisit classical models and learn state-of-the-art models, always in service of gaining algorithmic insight that is broadly useful beyond specific models.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300 ; and CSCI 2210 or MATH 4100 , or permission of instructor.",
+    "prerequisites": [
+      "CSCI 2300",
+      "CSCI 2210",
+      "MATH 4100"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 2300",
+            "CSCI 2210"
+          ]
+        },
+        "MATH 4100"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84242"
+  },
+  {
+    "course_id": "CSCI 4150",
+    "prefix": "CSCI",
+    "number": "4150",
+    "title": "Introduction to Artificial Intelligence",
+    "description": "Topics and techniques of artificial intelligence using the language LISP. Topics include search, knowledge representation, expert systems, theorem proving, natural language interfaces, learning, game playing, and computer vision. Techniques include pattern matching, data-driven programming, substitution rules, frames, heuristic search, transition networks, neural networks, and evolutionary computation. Development of programming proficiency in LISP is emphasized.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300",
+    "prerequisites": [
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": "CSCI 2300",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82560"
+  },
+  {
+    "course_id": "CSCI 4160",
+    "prefix": "CSCI",
+    "number": "4160",
+    "title": "Reinforcement Learning",
+    "description": "This is an introductory course on the theory and practice of reinforcement learning (RL). We will derive the full RL framework, starting from Markov chains and Markov reward processes and building up to Markov decision processes. We will then cover classic RL approaches such as dynamic programming, Monte Carlo methods and Q-learning. Furthermore, we will cover more advanced topics such as deep learning, deep RL, as well as policy-gradient and actor-critic methods. Course activities include programming assignments as well as written homework testing students’ understanding of the material.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300 ; and CSCI 2210 or MATH 4100 , or permission of instructor.",
+    "prerequisites": [
+      "CSCI 2300",
+      "CSCI 2210",
+      "MATH 4100"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 2300",
+            "CSCI 2210"
+          ]
+        },
+        "MATH 4100"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84244"
+  },
+  {
+    "course_id": "CSCI 4170",
+    "prefix": "CSCI",
+    "number": "4170",
+    "title": "Projects in AI & Machine Learning",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84245"
+  },
+  {
+    "course_id": "CSCI 4180",
+    "prefix": "CSCI",
+    "number": "4180",
+    "title": "Trustworthy Machine Learning",
+    "description": "This seminar course introduces students with knowledge of machine learning to modern desiderata for trustworthy machine learning, including alignment, fairness, adversarial robustness, privacy, and their interrelations. Students read, present, and discuss seminal and influential recent papers in the field. The course includes a project component aimed at synthesizing the students’ learning",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2210 ; and CSCI 4100 or CSCI 4390 , or permission of instructor.",
+    "prerequisites": [
+      "CSCI 2210",
+      "CSCI 4100",
+      "CSCI 4390"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 2210",
+            "CSCI 4100"
+          ]
+        },
+        "CSCI 4390"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84243"
+  },
+  {
+    "course_id": "CSCI 4190",
+    "prefix": "CSCI",
+    "number": "4190",
+    "title": "Decentralized AI",
+    "description": "This course explores the synergistic combination of Artificial Intelligence (AI) and Blockchain technologies. A primary focus of this course is to identify the disruptors in the two technologies from a critical research lens. We discuss how leveraging blockchain technology can benefit AI and how applying AI can enhance the capabilities of blockchain technology. Further, students are encouraged to think about the impact these two technologies have on society. Topics include blockchain fundamentals, smart contracts, web3, federated machine learning, and decentralized applications that combine AI and blockchain technologies.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300 and CSCI 2600",
+    "prerequisites": [
+      "CSCI 2300",
+      "CSCI 2600"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CSCI 2300",
+        "CSCI 2600"
+      ]
+    },
+    "when_offered": "SPRING ALTERNATE YEARS Co-Listed: CSCI 6190",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90423"
+  },
+  {
+    "course_id": "CSCI 4210",
+    "prefix": "CSCI",
+    "number": "4210",
+    "title": "Operating Systems",
+    "description": "Discussion of various aspects of computer operating systems design and implementation. Topics include I/O programming, concurrent processes and synchronization problems, process management and scheduling of processes, virtual memory management, device management, file systems, deadlock problems, system calls, and interprocess communication. Programming projects are required.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300 and either CSCI 2500 (no longer offered), CSCI 2800 , or ECSE 2660",
+    "prerequisites": [
+      "CSCI 2300",
+      "CSCI 2500",
+      "CSCI 2800",
+      "ECSE 2660"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 2300",
+            "CSCI 2500",
+            "CSCI 2800"
+          ]
+        },
+        "ECSE 2660"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82561"
+  },
+  {
+    "course_id": "CSCI 4220",
+    "prefix": "CSCI",
+    "number": "4220",
+    "title": "Network Programming",
+    "description": "Programming with an overview of the principles of computer networks, including a detailed look at the OSI reference model and various popular network protocol suites. Concentration on Unix interprocess communication (IPC), network programming using TCP and UDP, as well as client-side and mobile programming. Programming projects are required.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2800 or CSCI 4210 or CSCI 2500 (no longer offered)",
+    "prerequisites": [
+      "CSCI 2800",
+      "CSCI 4210",
+      "CSCI 2500"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CSCI 2800",
+        "CSCI 4210",
+        "CSCI 2500"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82562"
+  },
+  {
+    "course_id": "CSCI 4230",
+    "prefix": "CSCI",
+    "number": "4230",
+    "title": "Cryptography and Network Security I",
+    "description": "A self-contained course that includes topics from number theory, basic cryptography, and protocol security. This is a hybrid course with sufficient depth in both theory and hands-on experience with network protocols. Topics include: Classical Cryptography, Block Ciphers (DES, AES), Information Theoretical Cryptography, Randomness, RNG and Stream Ciphers, Hash and MAC Algorithms, Public-Key Cryptography, Elliptic Curve Cryptography, Digital Signatures and Identification, Internet Attacks, Web Security, SSL and PGP. This is a communication-intensive course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2500 (no longer offered), CSCI 2800 or CSCI 4210",
+    "prerequisites": [
+      "CSCI 2500",
+      "CSCI 2800",
+      "CSCI 4210"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 2500",
+            "CSCI 2800"
+          ]
+        },
+        "CSCI 4210"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CSCI 6230 . Students cannot receive credit for both CSCI 4230 and CSCI 6230 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83578"
+  },
+  {
+    "course_id": "CSCI 4240",
+    "prefix": "CSCI",
+    "number": "4240",
+    "title": "Time Series Analysis",
+    "description": "Time series (TS) are found in a wide range of applications, including economics and finance, biomedical domains, etc. This course introduces the theory and practice of statistical TS analysis. We study how TS data are sampled and how to resample, which relates to the missing data problem. We also analyze TS data to identify deterministic and nondeterministic components, fitting a model to such data for prediction. Topics covered include stationary and non-stationary stochastic processes, autoregressive and moving average (ARMA) models, state-space models and the Kalman filter, forecasting and forecast evaluation, and an outline of spectral techniques. We also cover deep neural networks relevant to TS data, including RNN and LSTM. Course activities include programming and analytical assignments, a term project with a presentation, and exams.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300",
+    "prerequisites": [
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": "CSCI 2300",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: CSCI 6240",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90425"
+  },
+  {
+    "course_id": "CSCI 4250",
+    "prefix": "CSCI",
+    "number": "4250",
+    "title": "Frontiers of Network Science",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "CSCI 2300",
+    "prerequisites": [
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": "CSCI 2300",
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83659"
+  },
+  {
+    "course_id": "CSCI 4260",
+    "prefix": "CSCI",
+    "number": "4260",
+    "title": "Graph Theory",
+    "description": "Fundamental concepts and methods of graph theory and its applications to computing and the social and natural sciences. Topics include graphs as models, representation of graphs, trees, distances, matchings, connectivity, flows in networks, graph colorings, Hamiltonian cycles, traveling salesman problem, planarity. All concepts, methods, and applications are presented through a sequence of exercises and problems, many of which are done with the help of novel software systems for combinatorial computing.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2200 or MATH 4090",
+    "prerequisites": [
+      "CSCI 2200",
+      "MATH 4090"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CSCI 2200",
+        "MATH 4090"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: MATH 4150 . Students cannot receive credit for both CSCI 4260 and MATH 4150 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82563"
+  },
+  {
+    "course_id": "CSCI 4270",
+    "prefix": "CSCI",
+    "number": "4270",
+    "title": "Computational Vision",
+    "description": "The goal of this course is to introduce students to the problems, challenges, and applications of computer vision from a computational perspective. Topics include camera modeling and image formation, feature extraction, object and face recognition, image mosaic construction, stereo and three-dimensional imaging, motion, and tracking. Machine learning methods, including deep convolutional neural networks, will be studied and applied throughout the course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300 ; and CSCI 2210 or MATH 2010 ; or permission of instructor.",
+    "prerequisites": [
+      "CSCI 2300",
+      "CSCI 2210",
+      "MATH 2010"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 2300",
+            "CSCI 2210"
+          ]
+        },
+        "MATH 2010"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CSCI 6270 . Students cannot receive credit for both CSCI 4270 and CSCI 6270 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83761"
+  },
+  {
+    "course_id": "CSCI 4280",
+    "prefix": "CSCI",
+    "number": "4280",
+    "title": "Graph Mining",
+    "description": "This class is an introduction to graph processing and mining. Students will learn about research and analytical challenges related to the study of real-world graphs. Course topics may include, but are not limited to: general graph processing techniques, connectivity and centrality algorithms, recommender systems, link prediction, community detection, subgraph mining, graph neural networks, random graph models, random walks, and the interplay between graphs and linear algebra. Course activities include programming assignments, paper presentations, and a semester-long project involving a proposal presentation, update presentation, and final presentation and writeup.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300",
+    "prerequisites": [
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": "CSCI 2300",
+    "when_offered": "SPRING ALTERNATE YEARS Co-Listed: CSCI 6280",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90427"
+  },
+  {
+    "course_id": "CSCI 4310",
+    "prefix": "CSCI",
+    "number": "4310",
+    "title": "Networking in the Linux Kernel",
+    "description": "This course introduces Linux kernel programming basics and starts by examining how Berkeley sockets bridge the user-kernel gap. The remainder of the course is spent looking into transport layer (e.g., TCP) and network layer (e.g., IP) implementations. Students do both individual and group programming projects. In addition to coding, there are detailed write-ups and peer reviews in this course. This is a communication-intensive course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2800 , CSCI 4210 or ECSE 2660 .",
+    "prerequisites": [
+      "CSCI 2800",
+      "CSCI 4210",
+      "ECSE 2660"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 2800",
+            "CSCI 4210"
+          ]
+        },
+        "ECSE 2660"
+      ]
+    },
+    "when_offered": "FALL TERM, ODD YEARS Co-Listed: CSCI 6310 . Students cannot receive credit for both CSCI 4310 and CSCI 6310 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83801"
+  },
+  {
+    "course_id": "CSCI 4320",
+    "prefix": "CSCI",
+    "number": "4320",
+    "title": "Parallel Programming",
+    "description": "Techniques and methods for parallel programming: models of parallel machines and programs, efficiency and complexity of parallel algorithms. Paradigms of parallel programming and corresponding extensions to sequential programming languages. Overview of parallel languages and coordination languages and models; programming on networks of workstations. Basic parallel algorithms: elementary computation, matrix multiplication, sorting; sample scientific application.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300 and CSCI 2600 either CSCI 2500 , CSCI 2800 or ECSE 2660 .",
+    "prerequisites": [
+      "CSCI 2300",
+      "CSCI 2600",
+      "CSCI 2500",
+      "CSCI 2800",
+      "ECSE 2660"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 2300",
+            "CSCI 2600",
+            "CSCI 2500",
+            "CSCI 2800"
+          ]
+        },
+        "ECSE 2660"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: CSCI 6360 . Students cannot receive credit for both CSCI 4320 and CSCI 6360 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82564"
+  },
+  {
+    "course_id": "CSCI 4330",
+    "prefix": "CSCI",
+    "number": "4330",
+    "title": "Application Design Using Java",
+    "description": "Java is one of the most popular general purpose modern programming languages used in industry. This course focuses on learning and practicing advanced Java features which are widely used in industry and academia. The first part of the course is dedicated to object-oriented features of Java and how to use them in software design. It also covers all major tools that support development process during the entire software development life cycle. The second part of the course covers parallel programming, how it can be implemented in Java, its advantages and limitations. The third part of the course is dedicated to creating Web applications. Finally, the fourth part of the course discusses different database models and provides specific details on how to create Java applications that can use different databases as a data storage option. Special attention is given to noSQL graph databases which combined with Java allow building solutions that are capable of storing, manipulating, and analyzing billion-node scale networks.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300 and CSCI 2600 ; or permission of instructor.",
+    "prerequisites": [
+      "CSCI 2300",
+      "CSCI 2600"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CSCI 2300",
+        "CSCI 2600"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84177"
+  },
+  {
+    "course_id": "CSCI 4340",
+    "prefix": "CSCI",
+    "number": "4340",
+    "title": "Ontologies",
+    "description": "This course provides an introduction to ontologies, their uses, and an overview of their application in semantically enabled systems. Ontologies encode term meanings and are used to improve communication and enable computer programs to function more effectively. Class participants learn how to use ontologies in Web-based applications and evaluate ontologies for reuse. Participants read relevant papers, learn how to critically review ontology papers and ontologies, and participate in group project(s) designing, using, and evaluating ontologies.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300",
+    "prerequisites": [
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": "CSCI 2300",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: CSCI 6340 . Students cannot receive credit for both CSCI 4340 and CSCI 6340 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83765"
+  },
+  {
+    "course_id": "CSCI 4350",
+    "prefix": "CSCI",
+    "number": "4350",
+    "title": "Data Science",
+    "description": "Data science is advancing the inductive conduct of science and is driven by the greater volumes, complexity, and heterogeneity of data being made available over the Internet. It combines aspects of data management, library science, computer science, and physical science. It is changing the way all of these disciplines do both their individual and collaborative work. Key methodologies in application areas based on real research experience are taught.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CSCI 1200 and CSCI 4380",
+    "prerequisites": [
+      "CSCI 1200",
+      "CSCI 4380"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CSCI 1200",
+        "CSCI 4380"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ITWS 4350 / ITWS 6350 , and ERTH 4350 / ERTH 6350 . Students can obtain credits for only one of these courses. Co-Listed: CSCI 6350",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83510"
+  },
+  {
+    "course_id": "CSCI 4370",
+    "prefix": "CSCI",
+    "number": "4370",
+    "title": "Data and Society",
+    "description": "Data and Society provides a broad overview of how society is leveraging and responding to the social, organizational, policy, and technical opportunities and challenges of a data-driven world. Course themes focus on various aspects of the data ecosystem, data and innovation, and data and the broader community. Assignments build writing, presentation, and critical thinking, and assessment skills, all of which are important for professional success. This is a communication-intensive course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300 or CSCI 2600",
+    "prerequisites": [
+      "CSCI 2300",
+      "CSCI 2600"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CSCI 2300",
+        "CSCI 2600"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ITWS 4380 , ITWS 6380 Co-Listed: CSCI 6370 . Students cannot receive credit for both CSCI 4370 and CSCI 6370 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83611"
+  },
+  {
+    "course_id": "CSCI 4380",
+    "prefix": "CSCI",
+    "number": "4380",
+    "title": "Database Systems",
+    "description": "Discussion of the state of practice in modern database systems, with an emphasis on relational systems. Topics include database design, database system architecture, SQL, normalization techniques, storage structures, query processing, concurrency control, recovery, security, and new directions such as object-oriented and distributed database systems. Students gain hands-on experience with commercial database systems and interface building tools. Programming projects are required.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300",
+    "prerequisites": [
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": "CSCI 2300",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82565"
+  },
+  {
+    "course_id": "CSCI 4390",
+    "prefix": "CSCI",
+    "number": "4390",
+    "title": "Data Mining",
+    "description": "This course will provide an introductory survey of the main topics in data mining and knowledge discovery in databases (KDD), including: classification, clustering, association rules, sequence mining, similarity search, deviation detection, and so on. Emphasis will be on the algorithmic and system issues in KDD, as well as on applications such as Web mining, multimedia mining, bioinformatics, geographical information systems, etc.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300",
+    "prerequisites": [
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": "CSCI 2300",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CSCI 6390 . Students cannot receive credit for both CSCI 4390 and CSCI 6390 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82566"
+  },
+  {
+    "course_id": "CSCI 4400",
+    "prefix": "CSCI",
+    "number": "4400",
+    "title": "X-informatics",
+    "description": "Informatics covers a broad range of disciplines addressing challenges in the explosion of data and information resources. Xinformatics provides commonality for implementations in specific disciplines, e.g. X=astro, geo. Informatics’ theoretical bases are information and computer science, cognitive science, social science, library science, aggregating these studies and adding the practice of information processing, and the engineering of information systems. This course grounds the material that students will learn in discipline areas by coursework and project assignments.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CSCI 1200 and ( CSCI 4350 , ERTH 4350 , or ITWS 4350 )",
+    "prerequisites": [
+      "CSCI 1200",
+      "CSCI 4350",
+      "ERTH 4350",
+      "ITWS 4350"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 1200",
+            "CSCI 4350",
+            "ERTH 4350"
+          ]
+        },
+        "ITWS 4350"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ITWS 6400 and ERTH 4400 / ERTH 6400 . Students can only obtain credit for one of these courses. Co-Listed: CSCI 6400",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83512"
+  },
+  {
+    "course_id": "CSCI 4420",
+    "prefix": "CSCI",
+    "number": "4420",
+    "title": "Computability and Logic",
+    "description": "This course covers basic concepts and results in mathematical logic and computability theory, including decision procedures, automated theorem proving techniques for truth-functional and first-order logic, axiomatizations of set theory and arithmetic, Turing Machines, Abacus Machines, recursive functions, the Church-Turing Thesis, the halting problem, undecidability of first-order logic, undecidability of arithmetic, and Godel’s incompleteness results.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHIL 2140 or CSCI 2200",
+    "prerequisites": [
+      "PHIL 2140",
+      "CSCI 2200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "PHIL 2140",
+        "CSCI 2200"
+      ]
+    },
+    "when_offered": "SPRING TERM, ODD YEARS Cross Listed: MATH 4030 and PHIL 4420 . Students cannot obtain credit for this course and MATH 4030 or PHIL 4420 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83928"
+  },
+  {
+    "course_id": "CSCI 4430",
+    "prefix": "CSCI",
+    "number": "4430",
+    "title": "Programming Languages",
+    "description": "This course is a study of the important concepts found in current programming languages. Topics include language processing (lexical analysis, parsing, type-checking, interpretation and compilation, run-time environment), the role of abstraction (data abstraction and control abstraction), programming paradigms (procedural, functional, object-oriented, logic-oriented, generic), and formal language definition.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300 and CSCI 2600",
+    "prerequisites": [
+      "CSCI 2300",
+      "CSCI 2600"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CSCI 2300",
+        "CSCI 2600"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82567"
+  },
+  {
+    "course_id": "CSCI 4440",
+    "prefix": "CSCI",
+    "number": "4440",
+    "title": "Software Design and Documentation",
+    "description": "Software system design methodology emphasizing use of object oriented modeling of application domains and of software systems and emphasizing the roles of written and oral communication in software engineering. Project management and software testing. Individual and team projects include specification, software architecture, user interfaces, and documentation of the phases of a project. This is a communication-intensive course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300",
+    "prerequisites": [
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": "CSCI 2300",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82568"
+  },
+  {
+    "course_id": "CSCI 4450",
+    "prefix": "CSCI",
+    "number": "4450",
+    "title": "Principles of Program Analysis",
+    "description": "The goal of this course is to introduce students to program analysis and its many applications in software engineering, particularly in improving software quality and software productivity. Concretely, students who successfully complete this course should be able to: (1) understand and apply program analysis techniques, such as dataflow analysis and type-based analysis; (2) implement program analysis; (3) understand and apply software testing techniques, such as black-box testing and white-box testing; and (4) understand and apply refactoring techniques.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 4430",
+    "prerequisites": [
+      "CSCI 4430"
+    ],
+    "prerequisite_logic": "CSCI 4430",
+    "when_offered": "SPRING TERM, EVEN YEARS Co-Listed: CSCI 6450 . Students cannot receive credit for both CSCI 4450 and CSCI 6450 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83717"
+  },
+  {
+    "course_id": "CSCI 4460",
+    "prefix": "CSCI",
+    "number": "4460",
+    "title": "Large-Scale Programming and Testing",
+    "description": "This course focuses on software development techniques in support of large-scale software projects and maintenance. Specific topics include various programming paradigms and techniques, approaches to testing and automation, debugging, refactoring, and inheriting code. Individual and team assignments are required, including programming assignments. Project topics include text processing, building a search engine, and the like. This is a communication-intensive course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2600",
+    "prerequisites": [
+      "CSCI 2600"
+    ],
+    "prerequisite_logic": "CSCI 2600",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CSCI 6460 . Students cannot receive credit for both CSCI 4460 and CSCI 6460 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83803"
+  },
+  {
+    "course_id": "CSCI 4470",
+    "prefix": "CSCI",
+    "number": "4470",
+    "title": "Open Source Software",
+    "description": "Open source communities are proven development engines for creating large diverse user-focused software; however, these communities are not easily supported by traditional models of software development. Expected behaviors, tools, and licensing are uniquely adapted to the needs of an often volunteer workforce, distributed and asynchronous development, and meritocracy. In this course, students use and develop open source software, create open source repositories, and participate in open source communities.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300 and CSCI 2600",
+    "prerequisites": [
+      "CSCI 2300",
+      "CSCI 2600"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CSCI 2300",
+        "CSCI 2600"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83927"
+  },
+  {
+    "course_id": "CSCI 4480",
+    "prefix": "CSCI",
+    "number": "4480",
+    "title": "Robotics I",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82569"
+  },
+  {
+    "course_id": "CSCI 4500",
+    "prefix": "CSCI",
+    "number": "4500",
+    "title": "Distributed Computing Over The Internet",
+    "description": "This course will enable students to understand and apply theoretical foundations of programming concurrent, distributed, and mobile computing systems, namely process calculi, actors, join calculus, and mobile ambients. In the practical part, students will compare communication and synchronization aspects in concurrent programming languages following these theoretical models. Students will also review current research on distributed computing over the Internet, on topics including but not limited to coordination, mobility, heterogeneity, security, fault tolerance, scalability, programmability, and verification.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 4430 and either CSCI 2800 , CSCI 4210 or CSCI 4220 , or permission of instructor.",
+    "prerequisites": [
+      "CSCI 4430",
+      "CSCI 2800",
+      "CSCI 4210",
+      "CSCI 4220"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 4430",
+            "CSCI 2800",
+            "CSCI 4210"
+          ]
+        },
+        "CSCI 4220"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: CSCI 6500 . Students cannot receive credit for both CSCI 4500 and CSCI 6500 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83719"
+  },
+  {
+    "course_id": "CSCI 4510",
+    "prefix": "CSCI",
+    "number": "4510",
+    "title": "Distributed Systems and Algorithms",
+    "description": "This course explores the principles of distributed systems, emphasizing fundamental issues underlying the design of such systems: communication, coordination, synchronization, and fault-tolerance. Key algorithms and theoretical results will be studied and students will explore how these foundations play out in modern systems and applications.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2800 or CSCI 4210 .",
+    "prerequisites": [
+      "CSCI 2800",
+      "CSCI 4210"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CSCI 2800",
+        "CSCI 4210"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CSCI 6510 . Students cannot receive credit for both CSCI 4510 and CSCI 6510 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83720"
+  },
+  {
+    "course_id": "CSCI 4520",
+    "prefix": "CSCI",
+    "number": "4520",
+    "title": "Web Science Systems Development",
+    "description": "Building on the technology covered in Web Systems Development, students will be exposed to current technologies, frameworks, and practices in the area of Web development. Types of topics included will be HTML5/CSS3, API’s for data, node.js, MongoDB, and Angular. Methodology to be explored will be application design, software versioning, and team development. Lab intensive, this course is intended to complete a foundation for the advanced courses in Data Science and Advanced Web Science.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ITWS 2110 or CSCI 2110 ; and CSCI 1200",
+    "prerequisites": [
+      "ITWS 2110",
+      "CSCI 2110",
+      "CSCI 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ITWS 2110",
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 2110",
+            "CSCI 1200"
+          ]
+        }
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ITWS 4500",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84145"
+  },
+  {
+    "course_id": "CSCI 4530",
+    "prefix": "CSCI",
+    "number": "4530",
+    "title": "Advanced Computer Graphics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "CSCI 2300 and CSCI 2600 ; previous coursework or experience in computer graphics such as ECSE 4750 or computational geometry is recommended. Prerequisite or Corequisite:",
+    "prerequisites": [
+      "CSCI 2300",
+      "CSCI 2600",
+      "ECSE 4750"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 2300",
+            "CSCI 2600"
+          ]
+        },
+        "ECSE 4750"
+      ]
+    },
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82570"
+  },
+  {
+    "course_id": "CSCI 4545",
+    "prefix": "CSCI",
+    "number": "4545",
+    "title": "Social Computing",
+    "description": "Social computing is a research area at the intersection of computer science and social science, including psychology, sociology, communication, and linguistics. Its objective is to advance both fields by combining the power of data analytics, natural language processing, and artificial intelligence with the scientific method for studying human data and human behavior.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300",
+    "prerequisites": [
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": "CSCI 2300",
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: COGS 4540 , COGS 6540",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90415"
+  },
+  {
+    "course_id": "CSCI 4550",
+    "prefix": "CSCI",
+    "number": "4550",
+    "title": "Interactive Visualization",
+    "description": "Visualizing data is a key step in understanding many problems. This course is designed to introduce students to methods of visualizing many different types of data, such as images, three-dimensional surfaces, flow fields, and medical data. Both existing visualization software and program custom visualizations using C++ and OpenGL will be used. Course activities include discussion of recent and classic research papers, weekly homework assignments, in-class critiques of visualization artifacts, and a final project to explore creative uses of these techniques. This is a communication-intensive course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300 and CSCI 2600 , or permission of instructor.",
+    "prerequisites": [
+      "CSCI 2300",
+      "CSCI 2600"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CSCI 2300",
+        "CSCI 2600"
+      ]
+    },
+    "when_offered": "SPRING TERM, EVEN YEARS Co-Listed: CSCI 6550 . Students cannot receive credit for both CSCI 4550 and CSCI 6550 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83721"
+  },
+  {
+    "course_id": "CSCI 4560",
+    "prefix": "CSCI",
+    "number": "4560",
+    "title": "Computational Geometry",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84062"
+  },
+  {
+    "course_id": "CSCI 4600",
+    "prefix": "CSCI",
+    "number": "4600",
+    "title": "Data Analytics",
+    "description": "The world at-large is confronted with increasingly larger and complex sets of structured/unstructured information; from cyber and human sources. Traditional enterprises are moving toward analytics-driven approaches for core business functions. Data and information analytics extends analysis (descriptive models of data) by using data mining and machine learning methods, with optimization and validation, to recommend action or guide and communicate decision-making. Thus, analytics is an entire methodology rather than individual analyses or analysis steps.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CSCI 4350 , ERTH 4350 , or ITWS 4350 ; or permission of instructor.",
+    "prerequisites": [
+      "CSCI 4350",
+      "ERTH 4350",
+      "ITWS 4350"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 4350",
+            "ERTH 4350"
+          ]
+        },
+        "ITWS 4350"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Cross Listed: BCBP 4600 , ITWS 4600 , MGMT 4600 , ITWS 6600 and MGMT 6600 Students can only obtain credit for one of these courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83929"
+  },
+  {
+    "course_id": "CSCI 4610",
+    "prefix": "CSCI",
+    "number": "4610",
+    "title": "Computing and Quantum Computing",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90429"
+  },
+  {
+    "course_id": "CSCI 4700",
+    "prefix": "CSCI",
+    "number": "4700",
+    "title": "RCOS Open Source Development",
+    "description": "The mission of the Rensselaer Center for Open Source (RCOS) is to cultivate an inclusive, creative, and entrepreneurial community that seeks to empower students to develop open-source solutions to real-world problems. RCOS is a project-based course in which students join a project team and work primarily on one open-source project throughout the semester. Projects must be open source but can be existing external projects, internal (RCOS) projects, or new endeavors. Collaborative and cross-disciplinary projects are encouraged. Students are required to consistently contribute to their open source projects, in particular through multiple commits (commit early, commit often), presenting their work and/or specific technical talks, mentoring other projects, and generally contributing to the open source community.",
+    "credit_hours": "1-4",
+    "prerequisites_raw": "CSCI 2700",
+    "prerequisites": [
+      "CSCI 2700"
+    ],
+    "prerequisite_logic": "CSCI 2700",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90431"
+  },
+  {
+    "course_id": "CSCI 4710",
+    "prefix": "CSCI",
+    "number": "4710",
+    "title": "RCOS Senior Project Leader",
+    "description": "The mission of the Rensselaer Center for Open Source (RCOS) is to cultivate an inclusive, creative, and entrepreneurial community that seeks to empower students to develop open-source solutions to real-world problems. In this course, students lead a project team and work on an open source project that they have initially worked on in CSCI 4700. Students are required to manage this project, substantially contribute to this project, and present their project work as a final oral presentation. This course may not be repeated, with final grades based on effort, contributions, presentation, and the success of the given project. To register for this course, students must provide an individual project proposal to the instructor prior to the start of the semester.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2600",
+    "prerequisites": [
+      "CSCI 2600"
+    ],
+    "prerequisite_logic": "CSCI 2600",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90432"
+  },
+  {
+    "course_id": "CSCI 4730",
+    "prefix": "CSCI",
+    "number": "4730",
+    "title": "Material Informatics and Data Science",
+    "description": "Introduction to data science and machine learning, with case studies in discovery of structure-property relationships and new materials from experimental and computational data. Brief review of required background in linear algebra and statistics with hands-on exercises in Python. Data science topics: model fitting, clustering, dimensionality reduction, ontologies, Bayesian inference, and design of experiments.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENGR 2600 ; or equivalent",
+    "prerequisites": [
+      "ENGR 2600"
+    ],
+    "prerequisite_logic": "ENGR 2600",
+    "when_offered": "FALL TERM, EVEN YEARS Cross Listed: MTLE 4730 and MTLE 6730 . Students can only earn credit for one of these courses. Co-Listed: CSCI 6730",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84120"
+  },
+  {
+    "course_id": "CSCI 4800",
+    "prefix": "CSCI",
+    "number": "4800",
+    "title": "Numerical Computing",
+    "description": "A survey of numerical methods for scientific and engineering problems. Topics include numerical solution of linear and nonlinear algebraic equations, interpolation and least squares approximations, numerical integration and differentiation, eigenvalue problems, and an introduction to the numerical solution of ordinary differential equations. Emphasis is placed on efficient computational procedures including the use of library and student written procedures using high-level software such as MATLAB.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 2010 or MATH 2011 ; and MATH 2012 Prerequisite or Corequisite: MATH 2400",
+    "prerequisites": [
+      "MATH 2010",
+      "MATH 2011",
+      "MATH 2012",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        {
+          "type": "OR",
+          "items": [
+            "MATH 2010",
+            {
+              "type": "AND",
+              "items": [
+                "MATH 2011",
+                "MATH 2012"
+              ]
+            }
+          ]
+        },
+        "MATH 2400"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Cross Listed: MATH 4800 . Students cannot obtain credit for both this course and MATH 4800 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82571"
+  },
+  {
+    "course_id": "CSCI 4820",
+    "prefix": "CSCI",
+    "number": "4820",
+    "title": "Introduction to Numerical Methods for Differential Equations",
+    "description": "Derivation, analysis, and use of computational procedures for solving differential equations. Topics covered include ordinary differential equations (both initial value and boundary value problems) and partial differential equations. Runge-Kutta and multistep methods for initial value problems. Finite difference methods for partial differential equations including techniques for heat conduction, wave propagation, and potential problems. Basic convergence and stability theory.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 4800 or CSCI 4800",
+    "prerequisites": [
+      "MATH 4800",
+      "CSCI 4800"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MATH 4800",
+        "CSCI 4800"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: MATH 4820 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82572"
+  },
+  {
+    "course_id": "CSCI 4850",
+    "prefix": "CSCI",
+    "number": "4850",
+    "title": "Modern Binary Exploitation",
+    "description": "Modern Binary Exploitation will focus on teaching practical offensive security skills in binary exploitation and reverse engineering. Through a combination of interactive lectures and hands on labs, the course will offer students an opportunity to explore some of the most technically involved and fascinating subjects in the rapidly evolving field of security. It will cover protections found on modern systems and the techniques used to defeat them.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2800 , ECSE 2660 or CSCI 2500 (no longer offered)",
+    "prerequisites": [
+      "CSCI 2800",
+      "ECSE 2660",
+      "CSCI 2500"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 2800",
+            "ECSE 2660"
+          ]
+        },
+        "CSCI 2500"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ITWS 4850",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84141"
+  },
+  {
+    "course_id": "CSCI 4940",
+    "prefix": "CSCI",
+    "number": "4940",
+    "title": "Computer Science Independent Study",
+    "description": "Independent study of selected readings in the field of computer science, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82573"
+  },
+  {
+    "course_id": "CSCI 4941",
+    "prefix": "CSCI",
+    "number": "4941",
+    "title": "Undergraduate Research Project",
+    "description": "",
+    "credit_hours": "1-4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90481"
+  },
+  {
+    "course_id": "CSCI 4960",
+    "prefix": "CSCI",
+    "number": "4960",
+    "title": "Topics in Computer Science",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82574"
+  },
+  {
+    "course_id": "CSCI 6040",
+    "prefix": "CSCI",
+    "number": "6040",
+    "title": "Approximation Algorithms",
+    "description": "Algorithms with provable guarantees on the quality of their solutions are a powerful way of dealing with intractable problems. This course covers fundamental techniques for designing approximation algorithms. Possible topics include: semi-definite and linear programming, inapproximability and the PCP theorem, randomized rounding, metrics and cuts, primal-dual methods, and online algorithms.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of CSCI 4020",
+    "prerequisites": [
+      "CSCI 4020"
+    ],
+    "prerequisite_logic": "CSCI 4020",
+    "when_offered": "FALL TERM, ODD YEARS Co-Listed: CSCI 4040 . Students cannot receive credit for both CSCI 4040 and CSCI 6040.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83764"
+  },
+  {
+    "course_id": "CSCI 6050",
+    "prefix": "CSCI",
+    "number": "6050",
+    "title": "Theory of Computation",
+    "description": "This course covers the formal foundations of computability and complexity. We aim to answer fundamental questions about what problems can be solved and what problems cannot be solved, and what problems can be solved given our limited resources. Topics include: the Church-Turing thesis; variations of Turing Machines; decidability; the Halting Problem; reducibility; the Recursion Theorem; time and space complexity; intractability; NP-completeness; and Cook’s theorem. We will also discuss some emerging and unconventional computing models.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Prerequisites: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING ALTERNATE YEARS Co-Listed: CSCI 4050",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90422"
+  },
+  {
+    "course_id": "CSCI 6100",
+    "prefix": "CSCI",
+    "number": "6100",
+    "title": "Machine Learning from Data",
+    "description": "Introduction to the theory, algorithms, and applications of machine learning (supervised, reinforcement, and unsupervised) from data: What is learning? Is learning feasible? How can it be done? How can it be done well? The course offers a mix of theory, technique, and application with additional selected topics chosen from Pattern Recognition, Decision Trees, Neural Networks, RBF’s, Bayesian Learning, PAC Learning, Support Vector Machines, Gaussian processes, and Hidden Markov Models.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of CSCI 2300 ; an advanced 4000-level algorithms-based CSCI or MATH course; familiarity with probability, linear algebra, and calculus.",
+    "prerequisites": [
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": "CSCI 2300",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CSCI 4100 . Students cannot receive credit for both CSCI 4100 and CSCI 6100.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82575"
+  },
+  {
+    "course_id": "CSCI 6110",
+    "prefix": "CSCI",
+    "number": "6110",
+    "title": "Computational Social Processes",
+    "description": "Introduction to the computational and algorithmic aspects of social processes. Topics covered will be selected to illustrate the diverse challenges in algorithmic social process analysis: social networks and their dynamics; information flow; hidden networks. Algorithms involving social and selfish agents, social choice theory, voting, and auctions. Ranking actors in networks, recommendation systems, peer-review, and aggregation of rankings/reviews.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of CSCI 2300 ; and an advanced 4000-level algorithms-based CSCI or MATH course.",
+    "prerequisites": [
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": "CSCI 2300",
+    "when_offered": "FALL TERM, EVEN YEARS Co-Listed: CSCI 4110; Students cannot receive credit for both CSCI 4110 and CSCI 6110.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83656"
+  },
+  {
+    "course_id": "CSCI 6120",
+    "prefix": "CSCI",
+    "number": "6120",
+    "title": "Computational Finance",
+    "description": "Introduction to the computational and mathematical techniques for practical financial applications. The course will emphasize the algorithmic side of finance. Topics will be selected from pricing (options and derivatives), trading, risk-evaluation, selfish agents, sequential decisions, and portfolio optimization. Examples of the mathematical and algorithmic techniques covered are martingale measures, risk-neutral pricing and Monte Carlo, dynamic programing, and stochastic processes.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of CSCI 2300 ; an advanced 4000-level algorithms-based CSCI or MATH course; familiarity with probability, linear algebra, and calculus.",
+    "prerequisites": [
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": "CSCI 2300",
+    "when_offered": "FALL TERM, EVEN YEARS Co-Listed: CSCI 4120 ;Students cannot receive credit for both CSCI 4120 and CSCI 6120.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83658"
+  },
+  {
+    "course_id": "CSCI 6170",
+    "prefix": "CSCI",
+    "number": "6170",
+    "title": "Projects in AI & Machine Learning",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90433"
+  },
+  {
+    "course_id": "CSCI 6190",
+    "prefix": "CSCI",
+    "number": "6190",
+    "title": "Decentralized AI",
+    "description": "This course explores the synergistic combination of Artificial Intelligence (AI) and Blockchain technologies. A primary focus of this course is to identify the disruptors in the two technologies from a critical research lens. We discuss how leveraging blockchain technology can benefit AI and how applying AI can enhance the capabilities of blockchain technology. Further, students are encouraged to think about the impact these two technologies have on society. Topics include blockchain fundamentals, smart contracts, web3, federated machine learning, and decentralized applications that combine AI and blockchain technologies.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING ALTERNATE YEARS Co-Listed: CSCI 4190",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90424"
+  },
+  {
+    "course_id": "CSCI 6220",
+    "prefix": "CSCI",
+    "number": "6220",
+    "title": "Randomized Algorithms",
+    "description": "State-of-the-art in contemporary algorithm design, randomized algorithms are algorithms that use randomness as part of their functioning. They are typically simple, often easy to analyze, and work well in practice. They have numerous applications in many fields of computer science and mathematics. Randomized algorithms represent an active and vibrant research area with many exciting new results contributed every year.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 4020 or equivalent.",
+    "prerequisites": [
+      "CSCI 4020"
+    ],
+    "prerequisite_logic": "CSCI 4020",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CSCI 4030 ; Students cannot receive credit for both CSCI 4030 and 6220.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83580"
+  },
+  {
+    "course_id": "CSCI 6230",
+    "prefix": "CSCI",
+    "number": "6230",
+    "title": "Cryptography and Network Security I",
+    "description": "A self-contained course that includes topics from number theory, basic cryptography, and protocol security. This is a hybrid course with sufficient depth in both theory and hands-on experience with network protocols. Topics include: Classical Cryptography, Block Ciphers (DES, AES), Information Theoretical Cryptography, Randomness, RNG and Stream Ciphers, Hash and MAC Algorithms, Public-Key Cryptography, Elliptic Curve Cryptography, Digital Signatures and Identification, Internet Attacks, Web Security, SSL and PGP.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CSCI 4230 . Students cannot receive credit for both CSCI 4230 and CSCI 6230.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83579"
+  },
+  {
+    "course_id": "CSCI 6240",
+    "prefix": "CSCI",
+    "number": "6240",
+    "title": "Time Series Analysis",
+    "description": "Time series (TS) are found in a wide range of applications, including economics and finance, biomedical domains, etc. This course introduces the theory and practice of statistical TS analysis. We study how TS data are sampled and how to resample, which relates to the missing data problem. We also analyze TS data to identify deterministic and nondeterministic components, fitting a model to such data for prediction. Topics covered include stationary and non-stationary stochastic processes, autoregressive and moving average (ARMA) models, state-space models and the Kalman filter, forecasting and forecast evaluation, and an outline of spectral techniques. We also cover deep neural networks relevant to TS data, including RNN and LSTM. Course activities include programming and analytical assignments, a term project with a presentation, and exams.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: CSCI 4240",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90426"
+  },
+  {
+    "course_id": "CSCI 6250",
+    "prefix": "CSCI",
+    "number": "6250",
+    "title": "Frontiers of Network Science",
+    "description": "This course will offer an introduction to network science and a review of current research in this area. Classes will interchangeably present chapters from the textbook and related current research. The emphasis will be on the mathematical background of network science: graphs and networks; random networks and various types of scale-free networks; network properties such as assortativity, mobility, robustness, social networks, and communities; and dynamics of spreading in networks.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of CSCI 2300 ; a 4000-level algorithms-based CSCI course (e.g., CSCI 4020 , CSCI 4260 , CSCI 4800 ) or MATH course (e.g., MATH 4100 , MATH 4150 , MATH 4200 , MATH 4800 ) course; familiarity with probability, linear algebra, and calculus; or permission of the instructor.",
+    "prerequisites": [
+      "CSCI 2300",
+      "CSCI 4020",
+      "CSCI 4260",
+      "CSCI 4800",
+      "MATH 4100",
+      "MATH 4150",
+      "MATH 4200",
+      "MATH 4800"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 2300",
+            "CSCI 4020",
+            "CSCI 4260",
+            "CSCI 4800"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "MATH 4100",
+            "MATH 4150",
+            "MATH 4200",
+            "MATH 4800"
+          ]
+        }
+      ]
+    },
+    "when_offered": "FALL TERM, ODD YEARS Co-Listed: CSCI 4250 . Students cannot receive credit for both CSCI 4250 and CSCI 6250.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83660"
+  },
+  {
+    "course_id": "CSCI 6270",
+    "prefix": "CSCI",
+    "number": "6270",
+    "title": "Computational Vision",
+    "description": "The goal of this course is to introduce students to the problems, challenges, and applications of computer vision from a computational perspective. Topics include camera modeling and image formation, feature extraction, object and face recognition, image mosaic construction, stereo and three-dimensional imaging, motion, and tracking. Machine learning methods, including deep convolutional neural networks, will be studied and applied throughout the course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CSCI 4270 . Students cannot receive credit for both CSCI 4270 and CSCI 6270.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82576"
+  },
+  {
+    "course_id": "CSCI 6280",
+    "prefix": "CSCI",
+    "number": "6280",
+    "title": "Graph Mining",
+    "description": "This class is an introduction to graph processing and mining. Students will learn about research and analytical challenges related to the study of real-world graphs. Course topics may include, but are not limited to: general graph processing techniques, connectivity and centrality algorithms, recommender systems, link prediction, community detection, subgraph mining, graph neural networks, random graph models, random walks, and the interplay between graphs and linear algebra. Course activities include programming assignments, paper presentations, and a semester-long project involving a proposal presentation, update presentation, and final presentation and writeup.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING ALTERNATE YEARS Co-Listed: CSCI 4280",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90428"
+  },
+  {
+    "course_id": "CSCI 6310",
+    "prefix": "CSCI",
+    "number": "6310",
+    "title": "Networking in the Linux Kernel",
+    "description": "This course introduces Linux kernel programming basics and starts by examining how Berkeley sockets bridge the user-kernel gap. The remainder of the course is spent looking into transport layer (e.g., TCP) and network layer (e.g., IP) implementations. Students do both individual and group programming projects. In addition to coding, there are detailed write-ups and peer reviews in this course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of CSCI 2800 , CSCI 4210 or ECSE 2660 .",
+    "prerequisites": [
+      "CSCI 2800",
+      "CSCI 4210",
+      "ECSE 2660"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 2800",
+            "CSCI 4210"
+          ]
+        },
+        "ECSE 2660"
+      ]
+    },
+    "when_offered": "FALL TERM, ODD YEARS Co-Listed: CSCI 4310 . Students cannot receive credit for both CSCI 4310 and CSCI 6310.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83802"
+  },
+  {
+    "course_id": "CSCI 6340",
+    "prefix": "CSCI",
+    "number": "6340",
+    "title": "Ontologies",
+    "description": "This course provides an introduction to ontologies, their uses, and an overview of their application in semantically enabled systems. Ontologies encode term meanings and are used to improve communication and enable computer programs to function more effectively. Class participants learn how to use ontologies in web-based applications and evaluate ontologies for reuse. Participants read relevant papers, learn how to critically review ontology papers and ontologies, and participate in group project(s) designing, using, and evaluating ontologies.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of CSCI 2300",
+    "prerequisites": [
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": "CSCI 2300",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: CSCI 4340 . Students cannot receive credit for both CSCI 4340 and CSCI 6340.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83766"
+  },
+  {
+    "course_id": "CSCI 6350",
+    "prefix": "CSCI",
+    "number": "6350",
+    "title": "Data Science",
+    "description": "Data science is advancing the inductive conduct of science and is driven by the greater volumes, complexity, and heterogeneity of data being made available over the Internet. It combines aspects of data management, library science, computer science, and physical science. It is changing the way all of these disciplines do both their individual and collaborative work. Key methodologies in application areas based on real research experience are taught.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of CSCI 1200 and CSCI 4380 preferred.",
+    "prerequisites": [
+      "CSCI 1200",
+      "CSCI 4380"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CSCI 1200",
+        "CSCI 4380"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ITWS 4350 / ITWS 6350 , and ERTH 4350 / ERTH 6350 . Students can obtain credit for only one of these courses. Co-Listed: CSCI 4350",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83511"
+  },
+  {
+    "course_id": "CSCI 6360",
+    "prefix": "CSCI",
+    "number": "6360",
+    "title": "Parallel Computing",
+    "description": "A survey of fundamental issues in design of efficient programs for parallel computers. The topics discussed include models of parallel machines and programs, efficiency of parallel algorithms, programming styles for shared memory, message passing, data parallelism, and using MPI in scientific parallel programs. Parallel programming project required.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: CSCI 4320 . Students cannot receive credit for both CSCI 4320 and CSCI 6360.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82577"
+  },
+  {
+    "course_id": "CSCI 6370",
+    "prefix": "CSCI",
+    "number": "6370",
+    "title": "Data and Society",
+    "description": "Data and Society provides a broad overview of how society is leveraging and responding to the social, organizational, policy, and technical opportunities and challenges of a data-driven world. Course themes focus on various aspects of the data ecosystem, data and innovation, and data and the broader community. Assignments build writing, presentation, and critical thinking and assessment skills, all of which are important for professional success. This is a communication-intensive course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of CSCI 4350 or ITWS 4350",
+    "prerequisites": [
+      "CSCI 4350",
+      "ITWS 4350"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CSCI 4350",
+        "ITWS 4350"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ITWS 4380 , ITWS 6380 Co-Listed: CSCI 4370 . Students cannot receive credit for both CSCI 4370 and CSCI 6370.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83661"
+  },
+  {
+    "course_id": "CSCI 6390",
+    "prefix": "CSCI",
+    "number": "6390",
+    "title": "Data Mining",
+    "description": "This course will provide an introductory survey of the main topics in data mining and knowledge discovery in databases (KDD), including: classification, clustering, association rules, sequence mining, similarity search, deviation detection, and so on. Emphasis will be on the algorithmic and system issues in KDD, as well as on applications such as Web mining, multimedia mining, bioinformatics, geographical information systems, etc.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of CSCI 2300",
+    "prerequisites": [
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": "CSCI 2300",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CSCI 4390 . Students cannot receive credit for both CSCI 4390 and CSCI 6390.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82578"
+  },
+  {
+    "course_id": "CSCI 6400",
+    "prefix": "CSCI",
+    "number": "6400",
+    "title": "X-informatics",
+    "description": "Informatics covers a broad range of disciplines addressing challenges in the explosion of data and information resources. Xinformatics provides commonality for implementations in specific disciplines, e.g. X=astro, geo. Informatics’ theoretical bases are information and computer science, cognitive science, social science, library science, aggregating these studies and adding the practice of information processing, and the engineering of information systems. This course grounds the material that students will learn in discipline areas by coursework and project assignments.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ITWS 4400 / ITWS 6400 and ERTH 4400 / ERTH 6400 . Students can only obtain credit for one of these courses. Co-Listed: CSCI 4400",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83513"
+  },
+  {
+    "course_id": "CSCI 6450",
+    "prefix": "CSCI",
+    "number": "6450",
+    "title": "Principles of Program Analysis",
+    "description": "The goal of this course is to introduce students to program analysis and its many applications in software engineering, particularly in improving software quality and software productivity. Concretely, students who successfully complete this course should be able to: (1) understand and apply program analysis techniques, such as dataflow analysis and type-based analysis; (2) implement program analysis; (3) understand and apply software testing techniques, such as black-box testing and white-box testing; and (4) understand and apply refactoring techniques.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of CSCI 4430",
+    "prerequisites": [
+      "CSCI 4430"
+    ],
+    "prerequisite_logic": "CSCI 4430",
+    "when_offered": "SPRING TERM, EVEN YEARS Co-Listed: CSCI 4450 . Students cannot receive credit for both CSCI 4450 and CSCI 6450.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83718"
+  },
+  {
+    "course_id": "CSCI 6460",
+    "prefix": "CSCI",
+    "number": "6460",
+    "title": "Large-Scale Programming and Testing",
+    "description": "This course focuses on software development techniques in support of large-scale software projects and maintenance. Specific topics include various programming paradigms and techniques, approaches to testing and automation, debugging, refactoring, and inheriting code. Individual and team assignments are required, including programming assignments. Project topics include text processing, building a search engine, and the like.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowlege of CSCI 2600 or equivalent experience.",
+    "prerequisites": [
+      "CSCI 2600"
+    ],
+    "prerequisite_logic": "CSCI 2600",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CSCI 4460 . Students cannot receive credit for both CSCI 4460 and CSCI 6460.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83804"
+  },
+  {
+    "course_id": "CSCI 6500",
+    "prefix": "CSCI",
+    "number": "6500",
+    "title": "Distributed Computing Over The Internet",
+    "description": "This course will enable students to understand and apply theoretical foundations of programming concurrent, distributed, and mobile computing systems, namely process calculi, actors, join calculus, and mobile ambients. In the practical part, students will compare communication and synchronization aspects in concurrent programming languages following these theoretical models. Students will also review current research on distributed computing over the Internet, on topics including but not limited to coordination, mobility, heterogeneity, security, fault tolerance, scalability, programmability, and verification.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of CSCI 4430 ; and either CSCI 2800 , CSCI 4210 or CSCI 4220",
+    "prerequisites": [
+      "CSCI 4430",
+      "CSCI 2800",
+      "CSCI 4210",
+      "CSCI 4220"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 4430",
+            "CSCI 2800",
+            "CSCI 4210"
+          ]
+        },
+        "CSCI 4220"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: CSCI 4500 . Students cannot receive credit for both CSCI 4500 and CSCI 6500.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82579"
+  },
+  {
+    "course_id": "CSCI 6510",
+    "prefix": "CSCI",
+    "number": "6510",
+    "title": "Distributed Systems and Algorithms",
+    "description": "This course explores the principles of distributed systems, emphasizing fundamental issues underlying the design of such systems: communication, coordination, synchronization, and fault-tolerance. Key algorithms and theoretical results will be studied and students will explore how these foundations play out in modern systems and applications.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of CSCI 2800 or CSCI 4210",
+    "prerequisites": [
+      "CSCI 2800",
+      "CSCI 4210"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CSCI 2800",
+        "CSCI 4210"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CSCI 4510 . Students cannot receive credit for both CSCI 4510 and CSCI 6510.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82580"
+  },
+  {
+    "course_id": "CSCI 6530",
+    "prefix": "CSCI",
+    "number": "6530",
+    "title": "Advanced Computer Graphics",
+    "description": "In this course, there will be a survey of classic papers and current research in computer graphics. Topics include: advanced ray tracing, global illumination, photon mapping, subsurface scattering, mesh generation and simplification, subdivision surfaces, volumetric modeling, procedural modeling and texturing, weathering, physical simulation, appearance models. Course activities include programming assignments, oral presentations, and a term project. This is a communication-intensive course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of CSCI 2300 and CSCI 2600 ; previous coursework or experience in computer graphics such as ECSE 4750 or computational geometry is recommended.",
+    "prerequisites": [
+      "CSCI 2300",
+      "CSCI 2600",
+      "ECSE 4750"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 2300",
+            "CSCI 2600"
+          ]
+        },
+        "ECSE 4750"
+      ]
+    },
+    "when_offered": "SPRING TERM, ODD YEARS Co-Listed: CSCI 4530 . Students cannot receive credit for both CSCI 4530 and CSCI 6530.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82581"
+  },
+  {
+    "course_id": "CSCI 6550",
+    "prefix": "CSCI",
+    "number": "6550",
+    "title": "Interactive Visualization",
+    "description": "Visualizing data is a key step in understanding many problems. This course is designed to introduce students to methods of visualizing many different types of data, such as images, three-dimensional surfaces, flow fields, and medical data. Both existing visualization software and program custom visualizations using C++ and OpenGL will be used. Course activities include discussion of recent and classic research papers, weekly homework assignments, in-class critiques of visualization artifacts, and a final project to explore creative uses of these techniques. This is a communication-intensive course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM, EVEN YEARS Co-Listed: CSCI 4550 . Students cannot receive credit for both CSCI 4550 and CSCI 6550.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83722"
+  },
+  {
+    "course_id": "CSCI 6560",
+    "prefix": "CSCI",
+    "number": "6560",
+    "title": "Computational Geometry",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84063"
+  },
+  {
+    "course_id": "CSCI 6610",
+    "prefix": "CSCI",
+    "number": "6610",
+    "title": "Computing and Quantum Computing",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90430"
+  },
+  {
+    "course_id": "CSCI 6730",
+    "prefix": "CSCI",
+    "number": "6730",
+    "title": "Material Informatics and Data Science",
+    "description": "Introduction to data science and machine learning, with case studies in discovery of structure-property relationships and new materials from experimental and computational data. Brief review of required background in linear algebra and statistics with hands-on exercises in Python. Data science topics: model fitting, clustering, dimensionality reduction, ontologies, Bayesian inference, and design of experiments.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of ENGR 2600 , or equivalent.",
+    "prerequisites": [
+      "ENGR 2600"
+    ],
+    "prerequisite_logic": "ENGR 2600",
+    "when_offered": "FALL TERM, EVEN YEARS Cross Listed: MTLE 4730 ,and MTLE 6730 . Students can only earn credit for one of these courses. Co-Listed: CSCI 4730",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84121"
+  },
+  {
+    "course_id": "CSCI 6800",
+    "prefix": "CSCI",
+    "number": "6800",
+    "title": "Computational Linear Algebra",
+    "description": "Gaussian elimination, special linear systems (such as positive definite, banded, or sparse), introduction to parallel computing, iterative methods for linear systems (such as conjugate gradient and preconditioning), QR factorization and least squares problems, and eigenvalue problems.",
+    "credit_hours": "4",
+    "prerequisites_raw": "None, but knowledge of MATH 4800 or CSCI 4800 is highly recommended.",
+    "prerequisites": [
+      "MATH 4800",
+      "CSCI 4800"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MATH 4800",
+        "CSCI 4800"
+      ]
+    },
+    "when_offered": "FALL ALTERNATE YEARS Cross Listed: MATH 6800 . Students cannot obtain credit for both this course and MATH 6800 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82582"
+  },
+  {
+    "course_id": "CSCI 6820",
+    "prefix": "CSCI",
+    "number": "6820",
+    "title": "Numerical Solution of Ordinary Differential Equations",
+    "description": "Numerical methods and analysis for ODEs with applications from mechanics, optics, and chaotic dynamics. Numerical methods for dynamic systems include Runge-Kutta, multistep and extrapolation techniques, methods for conservative and Hamiltonian systems, methods for stiff differential equations and for differential-algebraic systems. Methods for boundary value problems include shooting and orthogonalization, finite difference and collocation techniques, and special methods for problems with boundary or shock layers.",
+    "credit_hours": "4",
+    "prerequisites_raw": "None, but knowledge of MATH 4800 or CSCI 4800 is recommended.",
+    "prerequisites": [
+      "MATH 4800",
+      "CSCI 4800"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MATH 4800",
+        "CSCI 4800"
+      ]
+    },
+    "when_offered": "FALL TERM, EVEN YEARS Cross Listed: MATH 6820 . Students cannot obtain credit for both this course and MATH 6820 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82583"
+  },
+  {
+    "course_id": "CSCI 6840",
+    "prefix": "CSCI",
+    "number": "6840",
+    "title": "Numerical Solution of Partial Differential Equations",
+    "description": "Numerical methods and analysis for linear and nonlinear PDEs with applications from heat conduction, wave propagation, solid and fluid mechanics, and other areas. Basic concepts of stability and convergence (Lax equivalence theorem, CFL condition, energy methods). Methods for parabolic problems (finite differences, method of lines, ADI, operator splitting), methods for hyperbolic problems (vector systems and characteristics, dissipation and dispersion, shocks capturing and tracking schemes), methods for elliptic problems (finite difference and finite volume methods).",
+    "credit_hours": "4",
+    "prerequisites_raw": "None, but knowledge of MATH 4800 or CSCI 4800 is recommended",
+    "prerequisites": [
+      "MATH 4800",
+      "CSCI 4800"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MATH 4800",
+        "CSCI 4800"
+      ]
+    },
+    "when_offered": "FALL TERM, ODD YEARS Cross Listed: MATH 6840 . Students cannot obtain credit for both this course and MATH 6840 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82584"
+  },
+  {
+    "course_id": "CSCI 6860",
+    "prefix": "CSCI",
+    "number": "6860",
+    "title": "Finite Element Analysis",
+    "description": "The course focuses on the mathematical and computational fundamentals as well as the applications of classical finite element methods and discontinuous Galerkin methods. The methods are presented through their formulations, matrix assembly for implementation, discrete spaces and approximation theories, stability, and error estimates. They will be applied to simulate elliptic/parabolic equations, convection-diffusion equations, and kinetic transport equations in one and higher dimensions. Galerkin-projection based reduced order models may also be discussed.",
+    "credit_hours": "4",
+    "prerequisites_raw": "None, but knowledge of MATH 4200 and of MATH 4800 or CSCI 4800 is recommended, along with some experience with partial differential equations and computer programming",
+    "prerequisites": [
+      "MATH 4200",
+      "MATH 4800",
+      "CSCI 4800"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MATH 4200",
+            "MATH 4800"
+          ]
+        },
+        "CSCI 4800"
+      ]
+    },
+    "when_offered": "SPRING TERM, EVEN YEARS Cross Listed: MATH 6860 . Students cannot obtain credit for both this course and MATH 6860 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82585"
+  },
+  {
+    "course_id": "CSCI 6900",
+    "prefix": "CSCI",
+    "number": "6900",
+    "title": "Computer Science Seminar",
+    "description": "Presentation of current developments in computer science. Reports by students.",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82586"
+  },
+  {
+    "course_id": "CSCI 6940",
+    "prefix": "CSCI",
+    "number": "6940",
+    "title": "Readings in Computer Science",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82587"
+  },
+  {
+    "course_id": "CSCI 6960",
+    "prefix": "CSCI",
+    "number": "6960",
+    "title": "Topics in Computer Science",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82588"
+  },
+  {
+    "course_id": "CSCI 6970",
+    "prefix": "CSCI",
+    "number": "6970",
+    "title": "Professional Project",
+    "description": "Active participation in a semester-long project, under the supervision of a faculty adviser. A Professional Project often serves as a culminating experience for a Professional Master’s program but, with departmental or school approval, can be used to fulfill other program requirements. With approval, students may register for more than one Professional Project. Professional Projects must result in documentation established by each department or school, but are not submitted to the Office of Graduate Education and are not archived in the library. Grades of A, B, C, or F are assigned by the faculty adviser at the end of the semester. If not completed on time, a formal Incomplete grade may be assigned by the faculty adviser, listing the work remaining to be completed and the time limit for completing this work.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82589"
+  },
+  {
+    "course_id": "CSCI 6980",
+    "prefix": "CSCI",
+    "number": "6980",
+    "title": "Master’s Project",
+    "description": "Active participation in a master’s-level project, under the supervision of a faculty adviser, leading to a master’s project report. Grades S or U are assigned at the end of the semester. If recommended by the adviser, the master’s project may be accepted by the Office of Graduate Education to be archived in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82590"
+  },
+  {
+    "course_id": "CSCI 6990",
+    "prefix": "CSCI",
+    "number": "6990",
+    "title": "Master’s Thesis",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a master’s thesis. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the thesis has been presentend, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82591"
+  },
+  {
+    "course_id": "CSCI 9990",
+    "prefix": "CSCI",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "1-16",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82592"
+  }
+]

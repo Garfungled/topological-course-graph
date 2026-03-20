@@ -1,0 +1,1041 @@
+[
+  {
+    "course_id": "ERTH 1010",
+    "prefix": "ERTH",
+    "number": "1010",
+    "title": "Planet Earth I: The Solid Earth",
+    "description": "Age and origin of the Earth, internal constituents, and energy sources; how plates move, oceans develop, resources accumulate, and mountains rise. Gives nonspecialists a picture of the Earth’s major processes and the ways in which they interact to provide the world’s citizens with adequate material resources. Lectures and recitation. (Students cannot obtain credit for both ERTH 1010 and ERTH 1100 .)",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82774"
+  },
+  {
+    "course_id": "ERTH 1020",
+    "prefix": "ERTH",
+    "number": "1020",
+    "title": "Planet Earth II: Oceans and Atmosphere",
+    "description": "An overview of the Earth’s surface processes and environment. Nature and interactions between the major oceanic, atmospheric, and terrestrial systems. Interrelations between geology, the environment, and human activities. Geologic and environmental implications, constraints, and opportunities for past, present, and future human populations and cultures. Short- and long-term benefits and consequences of actions or inaction.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82775"
+  },
+  {
+    "course_id": "ERTH 1030",
+    "prefix": "ERTH",
+    "number": "1030",
+    "title": "Natural Sciences I",
+    "description": "The sciences of the natural world, focusing primarily upon physics and chemistry but including some discussion of relevant topics in astronomy and planetary science. Both classical and modern concepts are treated, at scales ranging from the atom to the universe, and an effort is made to instill an appreciation for the nature of science and the scientific method. Examples are used as appropriate to illustrate the value of science in our everyday lives. The course is designed for students in non-technical fields; engineering and science majors will not be allowed to register. (Note: Natural Sciences II does qualify as a science distribution requirement for some science majors.)",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: For students NOT in engineering or science majors.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82776"
+  },
+  {
+    "course_id": "ERTH 1040",
+    "prefix": "ERTH",
+    "number": "1040",
+    "title": "Natural Sciences II",
+    "description": "The sciences of the natural world, focusing primarily on the earth and life sciences. The course addresses the origin, evolution, and current state of the planet and examines the earth as a life-supporting system. Specific examples of developments in scientific thinking are used to illustrate connections among the various disciplines comprising the natural sciences. The course is designed for non-science majors, and cannot be used by students majoring in one of the bio- or geosciences to fulfill a distribution requirement. This restriction does not apply to students majoring in computer science, mathematics, chemistry, or physics.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ERTH 1030 or recent course work in basic physics and chemistry.",
+    "prerequisites": [
+      "ERTH 1030"
+    ],
+    "prerequisite_logic": "ERTH 1030",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82777"
+  },
+  {
+    "course_id": "ERTH 1100",
+    "prefix": "ERTH",
+    "number": "1100",
+    "title": "Earth, Energy and the Environment",
+    "description": "Nature and evolution of Earth from the scale of minerals and rocks to tectonic plates. Earthquakes and volcanoes, their hazards and effects on humans. Natural resources, sources of energy, and their environmental impacts.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82778"
+  },
+  {
+    "course_id": "ERTH 1125",
+    "prefix": "ERTH",
+    "number": "1125",
+    "title": "Introduction to Environmental Science",
+    "description": "Previous Course Number IENV 2100 This course introduces students to the scientific principles, concepts and methodologies required to understand the interrelationships of the natural world, as well as to identify and analyze environmental problems and think critically about solutions for addressing them. Topics covered will include ecosystems, water quality, soil sustainability, air quality and climate. Case studies and projects will emphasize the investigation of local environmental problems and solutions. Labs include exposure to field equipment, techniques and analysis of data. This course is intended for first- and second-year students and includes a weekend field trip.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90383"
+  },
+  {
+    "course_id": "ERTH 1150",
+    "prefix": "ERTH",
+    "number": "1150",
+    "title": "Earth, Energy and the Environment Lab",
+    "description": "This lab focuses on geological processes in the interior of Earth and how they are manifested at the surface: age and origin of Earth, how rocks form, large-scale Earth processes, and energy sources. Review plate tectonics and the evolution of the main features of Earth’s surface. Physical and chemical composition of Earth and the large-scale dynamics of the planet. Corequisite: ERTH 1100",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83645"
+  },
+  {
+    "course_id": "ERTH 1155",
+    "prefix": "ERTH",
+    "number": "1155",
+    "title": "Earth Science in Pop Culture",
+    "description": "From disaster movies to sci-fi thrillers, pop culture frequently brings Earth Science into the spotlight—but how accurate are these portrayals? This course explores the intersection of Earth Science and media, critically analyzing how topics like natural disasters, climate change, space exploration, and geologic phenomena are represented in films, television, video games, and literature. Through case studies of popular works such as The Day After Tomorrow, Dante’s Peak, Interstellar, The Core, Don’t Look Up, etc. students will compare fictional depictions with real scientific principles. We will look at the literature underpinning the science in these works and examine how entertainment shapes public perception, influences policy discussions, and sometimes spreads misinformation",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90434"
+  },
+  {
+    "course_id": "ERTH 1200",
+    "prefix": "ERTH",
+    "number": "1200",
+    "title": "Earth’s Surface Processes",
+    "description": "This course looks investigates Earth’s climate and its surface environment from a geologist’s perspective. Students will develop an understanding of the atmospheric, oceanographic, geological, and biological systems that interact to modulate the climate. Particular focus will be on the study of modern coastal and river processes in the context of our region’s glacial history.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82779"
+  },
+  {
+    "course_id": "ERTH 1250",
+    "prefix": "ERTH",
+    "number": "1250",
+    "title": "Earth’s Surface Processes Lab",
+    "description": "The lab provides an introduction to analytical approaches, measurements, and observations used by geoscientists to advance understanding of natural surface earth, hydrologic, and atmospheric processes and the influence of human activities. Corequisite: ERTH 1200",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83646"
+  },
+  {
+    "course_id": "ERTH 1510",
+    "prefix": "ERTH",
+    "number": "1510",
+    "title": "Introduction to Astrobiology",
+    "description": "The field of Astrobiology considers the emergence and evolution of life on Earth, and the potential for life elsewhere. This course explores fundamental concepts in Astrobiology including the creation of the chemical elements, origin and evolution of the solar system, the definition and requirements for life, early Earth environments and life’s emergence on this planet. Additionally, students explore habitability on other extraterrestrial bodies — including Mars, Icy worlds and exoplanets, through self-directed research.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ISCI 1510 . Students cannot receive credit for both ISCI 1510 and ERTH 1510.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83892"
+  },
+  {
+    "course_id": "ERTH 2100",
+    "prefix": "ERTH",
+    "number": "2100",
+    "title": "Introduction to Geophysics",
+    "description": "An introduction to various aspects of the study of the physics of the Earth. Stress and strain, deformation, isostasy, seismic waves, earthquakes, Earth structure, resource exploration, Earth dynamics, plate tectonics, mountain building, gravity and geodesy, magnetic field, and heat flow.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ERTH 1100 , MATH 1020 , and PHYS 1100 or PHYS 1110 .",
+    "prerequisites": [
+      "ERTH 1100",
+      "MATH 1020",
+      "PHYS 1100",
+      "PHYS 1110"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "ERTH 1100",
+            "MATH 1020",
+            "PHYS 1100"
+          ]
+        },
+        "PHYS 1110"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82780"
+  },
+  {
+    "course_id": "ERTH 2120",
+    "prefix": "ERTH",
+    "number": "2120",
+    "title": "Structural Geology",
+    "description": "Introduction to stress and strain; observation, measurement, recording, and interpretation of rock structures including joints, faults, folds, and fabrics. Interpretation of structures from geologic maps. Structures and regional tectonics. Laboratory and field trips required.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ERTH 2210 or permission of instructor.",
+    "prerequisites": [
+      "ERTH 2210"
+    ],
+    "prerequisite_logic": "ERTH 2210",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82781"
+  },
+  {
+    "course_id": "ERTH 2140",
+    "prefix": "ERTH",
+    "number": "2140",
+    "title": "Introduction to Geochemistry",
+    "description": "An introduction to the application of chemistry to problems in the Earth and Environmental Sciences. Topics include thermodynamics and phase equilibria as applied to mineral stability, rock evolution, and water chemistry; stable isotope systematics; radiogenic isotope systematics; trace element geochemistry, organic geochemistry, and geochemical cycles.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: CHEM 2540 . Students cannot obtain credit for both this course and CHEM 2540 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82782"
+  },
+  {
+    "course_id": "ERTH 2155",
+    "prefix": "ERTH",
+    "number": "2155",
+    "title": "Introduction to Planetary Science",
+    "description": "This course provides an introductory exploration of planetary science, focusing on the study of planets, moons, and other bodies within our solar system and beyond. Students will learn about the fundamental processes that shape planetary bodies, including their formation, geology, atmospheres, and potential for habitability. Topics covered include planetary orbits, surface features, tectonics, volcanic activity, and the presence of water. The course will also delve into the exploration of planets and moons through space missions and observational techniques. A key component of the course will be examining the interconnections between planetary science and other fields, such as astronomy, geology, and atmospheric science.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING ALTERNATE YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90435"
+  },
+  {
+    "course_id": "ERTH 2160",
+    "prefix": "ERTH",
+    "number": "2160",
+    "title": "Introduction to Geobiology",
+    "description": "This course focuses on the co-evolution of life with Earth’s systems and targets students in Earth science, biology, chemistry, and physics. Topics include the emergence and early evolution of life on Earth, the environmental limits of life, microbial and metabolic evolution; the role of life in moderating global elemental cycles; earliest records of life; evolution of photosynthesis and the Great Oxidation Event; fossilization and evolution of complex life; mass radiations, mass extinctions, and global changes.",
+    "credit_hours": "4",
+    "prerequisites_raw": "None, however ERTH 1100 is recommended but not required.",
+    "prerequisites": [
+      "ERTH 1100"
+    ],
+    "prerequisite_logic": "ERTH 1100",
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: BIOL 2160 . A student cannot get credit for both ERTH 2160 and BIOL 2160 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83640"
+  },
+  {
+    "course_id": "ERTH 2200",
+    "prefix": "ERTH",
+    "number": "2200",
+    "title": "Environmental Data Analysis",
+    "description": "This course is designed to introduce students to the basic data analysis and statistical methods necessary to conduct and understand environmental research. Topics and methods covered in this course include experimental design, graphing and data presentation, descriptive statistics, comparison tests, correlation and regression, and other parametric and non-parametric statistical methods. There is a strong emphasis on the application of these methods to datasets that describe current environmental problems and issues.",
+    "credit_hours": "4",
+    "prerequisites_raw": "At least one of CHEM 1100 , ERTH 1100 , PHYS 1100 , PHYS 1110 , or BIOL 1010 ; or permission of instructor.",
+    "prerequisites": [
+      "CHEM 1100",
+      "ERTH 1100",
+      "PHYS 1100",
+      "PHYS 1110",
+      "BIOL 1010"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CHEM 1100",
+            "ERTH 1100",
+            "PHYS 1100",
+            "PHYS 1110"
+          ]
+        },
+        "BIOL 1010"
+      ]
+    },
+    "when_offered": "FALL TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83988"
+  },
+  {
+    "course_id": "ERTH 2210",
+    "prefix": "ERTH",
+    "number": "2210",
+    "title": "Field Methods",
+    "description": "Principles and methods of field work in Geological and Environmental Sciences, including geologic mapping of formations across spatial scales, basic orienteering, glacial geology, modern lake characterization, climate reconstruction using tree and sediment cores, drainage basin analysis, well-logging and water-well sampling, and basic pedology. Students are trained in the use of instruments to address selected field problems. Numerous all-day field trips every Wednesday throughout the semester (occasionally on weekends) required. Course culminates with an independent research project. This is a communication-intensive course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ERTH 1100 or ERTH 1200 or permission of instructor.",
+    "prerequisites": [
+      "ERTH 1100",
+      "ERTH 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ERTH 1100",
+        "ERTH 1200"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82783"
+  },
+  {
+    "course_id": "ERTH 2330",
+    "prefix": "ERTH",
+    "number": "2330",
+    "title": "Earth Materials",
+    "description": "Overview of the chemical and physical properties of the material constituents of the Earth and terrestrial planets, including minerals, rocks, lavas, and supercritical water. Topics include mineral structure and composition, bonding, optical properties, phase transformations, stabilities and surface properties. Mineral resources and the role of minerals in the man-made environment is also discussed. Intended for students interested in learning about the constituents of planet Earth and the techniques used in their characterization (both traditional and modern) at various scales.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ERTH 1100 or ERTH 1200",
+    "prerequisites": [
+      "ERTH 1100",
+      "ERTH 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ERTH 1100",
+        "ERTH 1200"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82784"
+  },
+  {
+    "course_id": "ERTH 2610",
+    "prefix": "ERTH",
+    "number": "2610",
+    "title": "Oceanography",
+    "description": "Ocean basins and margins; origin, distribution, chemistry, and history of sediments; physical and chemical properties of seawater; global atmospheric and oceanic circulations and climatic interactions.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82785"
+  },
+  {
+    "course_id": "ERTH 2620",
+    "prefix": "ERTH",
+    "number": "2620",
+    "title": "Current Topics in Earth Science",
+    "description": "This course provides the student with a formal participation in the weekly colloquium series of the Department of Earth and Environmental Sciences. These colloquia involve lectures on a wide variety of topics in the geologic and environmental sciences, primarily by outside investigators who are currently active in those fields. (Students may take this course a maximum of two times for credit.)",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: Geology or Environmental Science majors only, or permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82786"
+  },
+  {
+    "course_id": "ERTH 4080",
+    "prefix": "ERTH",
+    "number": "4080",
+    "title": "Advanced Geochemistry",
+    "description": "This course provides an in depth overview of geochemistry at both the advanced undergraduate and graduate level. It provides students to the scientific principles, concepts and methodologies required to understand the chemistry of the natural world, as well as to identify and analyze geological, planetary, and environmental problems and think critically about solutions for addressing them. Topics covered will include element formation and distribution, thermodynamics, isotopic geochemistry, and identifies long standing issues in geology. Case studies and projects will emphasize the investigation of geochemical questions and solutions. Labs include exposure to field equipment, techniques and analysis of data. This course is intended for fourth-year and grad students and includes a weekend field trip.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ERTH 2140 or equivalent.",
+    "prerequisites": [
+      "ERTH 2140"
+    ],
+    "prerequisite_logic": "ERTH 2140",
+    "when_offered": "FALL ALTERNATE YEARS Co-Listed: ERTH 6080",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90437"
+  },
+  {
+    "course_id": "ERTH 4180",
+    "prefix": "ERTH",
+    "number": "4180",
+    "title": "Environmental Geology",
+    "description": "A consideration of technical and scientific aspects of key geo-societal issues. Case studies and analysis of current and historic data bases will be used to illustrate topics including, but not limited to, climate modification, energy resources, future energy, water resources, water pollution, and health risks posed by lead, mercury, and emerging pollutants.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82788"
+  },
+  {
+    "course_id": "ERTH 4190",
+    "prefix": "ERTH",
+    "number": "4190",
+    "title": "Environmental Measurements",
+    "description": "Modern methods used in analysis of environmental samples for monitoring and research purposes. Standard and advanced techniques of air, water, sediment, and soil analysis are covered including spectrometric and chromatographic methods.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Permission of the instructor required.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SUMMER TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82789"
+  },
+  {
+    "course_id": "ERTH 4200",
+    "prefix": "ERTH",
+    "number": "4200",
+    "title": "Applied Micropaleontology",
+    "description": "This course will encompass marine, freshwater, and terrestrial microfossils (with emphasis on foraminifera), including taxonomy, evolutionary history, ecology and paleoenvironments, and a broad spectrum of micropaleontological applications, such as sea-level and climate reconstructions, geochemical analyses, oil industry research and production, and forensic geology. This course will also cover concepts of biostratigraphy and micropaleontological applications to stratigraphic correlation and time scale construction. Extensive hands-on microscope and lab work will be required.",
+    "credit_hours": "4",
+    "prerequisites_raw": "None. However, ERTH 1200 , ERTH 2610 are strongly recommended.",
+    "prerequisites": [
+      "ERTH 1200",
+      "ERTH 2610"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ERTH 1200",
+        "ERTH 2610"
+      ]
+    },
+    "when_offered": "FALL TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83414"
+  },
+  {
+    "course_id": "ERTH 4300",
+    "prefix": "ERTH",
+    "number": "4300",
+    "title": "Earth Science Literature & Research Synthesis",
+    "description": "This advanced seminar guides students through the process of developing and executing an original research project based on analysis of primary literature in Earth Sciences. Students will learn to analyze and synthesize primary literature from various geoscience disciplines, identify knowledge gaps in our understanding of Earth systems, and contribute meaningful insights to ongoing discussions in their chosen area of Earth Sciences.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: This course is for Senior Earth and Environmental Science majors (ENVS, HGEO and GEOL)",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90436"
+  },
+  {
+    "course_id": "ERTH 4340",
+    "prefix": "ERTH",
+    "number": "4340",
+    "title": "Igneous and Metamorphic Petrology",
+    "description": "Introduction to the observation and interpretation of igneous and metamorphic rocks in outcrop, hand sample, and thin sections. Processes of melting, solidification and migration of magmas; solid state recrystallization and pressure-temperature histories. Heat flow and regional crustal dynamics. Laboratory and field trips required.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ERTH 2330 and ERTH 2140",
+    "prerequisites": [
+      "ERTH 2330",
+      "ERTH 2140"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ERTH 2330",
+        "ERTH 2140"
+      ]
+    },
+    "when_offered": "SPRING TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82790"
+  },
+  {
+    "course_id": "ERTH 4350",
+    "prefix": "ERTH",
+    "number": "4350",
+    "title": "Data Science",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83491"
+  },
+  {
+    "course_id": "ERTH 4370",
+    "prefix": "ERTH",
+    "number": "4370",
+    "title": "The Global Carbon Cycle",
+    "description": "An in-depth study of papers addressing key aspects of both ancient and modern carbon cycles. Students will read and critique primary papers, present current research articles, and lead critical discussions.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CHEM 1100 ; and ERTH 1100 or ERTH 1200",
+    "prerequisites": [
+      "CHEM 1100",
+      "ERTH 1100",
+      "ERTH 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CHEM 1100",
+            "ERTH 1100"
+          ]
+        },
+        "ERTH 1200"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83937"
+  },
+  {
+    "course_id": "ERTH 4400",
+    "prefix": "ERTH",
+    "number": "4400",
+    "title": "Xinformatics",
+    "description": "Informatics covers a broad range of disciplines addressing challenges in the explosion of data and information resources. Xinformatics provides commonality for implementations in specific disciplines (e.g. X=astronomy, geology). Informatics’ theoretical bases are information and computer science, cognitive science, social science, library science, aggregating these studies and adding the practice of information processing, and the engineering of information systems. This course grounds the material that students will learn in discipline areas by coursework and project assignments. Students cannot obtain credit for more than one of ERTH 4400 / ITWS 4400 / CSCI 4400 .",
+    "credit_hours": "3",
+    "prerequisites_raw": "CSCI 1200 or permission of instructor.",
+    "prerequisites": [
+      "CSCI 1200"
+    ],
+    "prerequisite_logic": "CSCI 1200",
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ITWS 4400 / CSCI 4400 / ITWS 6400 / CSCI 6400 . Co-Listed: ERTH 6400",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83444"
+  },
+  {
+    "course_id": "ERTH 4500",
+    "prefix": "ERTH",
+    "number": "4500",
+    "title": "Earth’s Climate: Past, Present, and Future",
+    "description": "Overview of physical components of Earth’s climate system; builds on this foundation by examining the roles of both natural Earth system processes and anthropogenic influences in determining Earth’s climate and climate changes in the past, present, and future. Initial focus is on climate change through geologic history. Remainder of course will emphasize recent and future climate change.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CHEM 1100 or CHEM 1110 , or CHEM 1120 and ERTH 1200 and ERTH 1125 ; or permission of instructor.",
+    "prerequisites": [
+      "CHEM 1100",
+      "CHEM 1110",
+      "CHEM 1120",
+      "ERTH 1200",
+      "ERTH 1125"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CHEM 1100",
+        "CHEM 1110",
+        {
+          "type": "AND",
+          "items": [
+            "CHEM 1120",
+            "ERTH 1200",
+            "ERTH 1125"
+          ]
+        }
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82791"
+  },
+  {
+    "course_id": "ERTH 4540",
+    "prefix": "ERTH",
+    "number": "4540",
+    "title": "Organic Geochemistry",
+    "description": "Origin, transformation, and fate of organic matter on Earth. This course is chemistry-focused and incorporates concepts from biology, geology, and ecology. This course emphasizes reactivity, transport, and storage mechanisms which control the distribution of organic matter in terrestrial and marine systems. Analytical techniques for characterizing organic matter and applications to carbon cycling in natural and perturbed environments are also discussed.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CHEM 1100 and ERTH 1200 , or permission of instructor.",
+    "prerequisites": [
+      "CHEM 1100",
+      "ERTH 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CHEM 1100",
+        "ERTH 1200"
+      ]
+    },
+    "when_offered": "FALL TERM, EVEN YEARS Co-Listed: ERTH 6545",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82792"
+  },
+  {
+    "course_id": "ERTH 4560",
+    "prefix": "ERTH",
+    "number": "4560",
+    "title": "Isotope Geochemistry",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "CHEM 1100 or CHEM 1110 ; or permission of instructor.",
+    "prerequisites": [
+      "CHEM 1100",
+      "CHEM 1110"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CHEM 1100",
+        "CHEM 1110"
+      ]
+    },
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84030"
+  },
+  {
+    "course_id": "ERTH 4570",
+    "prefix": "ERTH",
+    "number": "4570",
+    "title": "Solid Earth Geophysics",
+    "description": "The course covers the physics of the Earth’s interior, including a survey of its evolution, rotation, gravity and tides, seismicity, internal heat, magnetism, and tectonics.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ERTH 1100 or permission of instructor.",
+    "prerequisites": [
+      "ERTH 1100"
+    ],
+    "prerequisite_logic": "ERTH 1100",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82793"
+  },
+  {
+    "course_id": "ERTH 4650",
+    "prefix": "ERTH",
+    "number": "4650",
+    "title": "Seismology",
+    "description": "Introduction to the causes, consequences, and uses of vibrations in the Earth. Topics include elastic wave propagation, earthquake source mechanics, seismic risk analysis, exploration seismology, and tomographic imaging.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 1020",
+    "prerequisites": [
+      "MATH 1020"
+    ],
+    "prerequisite_logic": "MATH 1020",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82794"
+  },
+  {
+    "course_id": "ERTH 4690",
+    "prefix": "ERTH",
+    "number": "4690",
+    "title": "Aqueous Geochemistry",
+    "description": "Fundamentals of aqueous geochemistry as applied to the evolution of natural waters. Principles of chemical equilibrium, activity models for solutes, acid-base chemistry, redox chemistry, mineral solubility, aqueous complexes, ion exchange, and stable isotopes will be covered. The carbonate system, weathering reactions, and redox chemistry are examined in detail. Students learn theory, the basics of analytical techniques, computation methods, and the use of computer programs for speciation, mass balance, and reaction path calculations.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CHEM 1100 , CHEM 1110 , or CHEM 1120",
+    "prerequisites": [
+      "CHEM 1100",
+      "CHEM 1110",
+      "CHEM 1120"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CHEM 1100",
+            "CHEM 1110"
+          ]
+        },
+        "CHEM 1120"
+      ]
+    },
+    "when_offered": "SPRING TERM, ODD YEARS Cross Listed: ENVE 4690 , CHEM 4690 . Students cannot obtain credit for more than one of these. Co-Listed: ERTH 6690",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82795"
+  },
+  {
+    "course_id": "ERTH 4710",
+    "prefix": "ERTH",
+    "number": "4710",
+    "title": "Groundwater Hydrology",
+    "description": "Study of hydrologic and geologic and other factors controlling groundwater flow, occurrence, and development. Groundwater flow theory and aquifer test methods are introduced. Interactions between surface and subsurface hydrologic systems are covered. Applications to design of infiltration, remediation, and dewatering systems.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 1020 or equivalent, or permission of the instructor.",
+    "prerequisites": [
+      "MATH 1020"
+    ],
+    "prerequisite_logic": "MATH 1020",
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ENVE 4710 / ENVE 6710 Co-Listed: ERTH 6710",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82796"
+  },
+  {
+    "course_id": "ERTH 4750",
+    "prefix": "ERTH",
+    "number": "4750",
+    "title": "Geographic Information Systems in the Sciences",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82797"
+  },
+  {
+    "course_id": "ERTH 4810",
+    "prefix": "ERTH",
+    "number": "4810",
+    "title": "Chemistry of the Environment",
+    "description": "Chemical processes important in the environment from naturally occurring and man-induced systems. Thermodynamic and chemical considerations of fuels; the thermodynamics of the atmosphere; atmospheric photochemistry; chemistry of natural water systems; chemistry of pesticides, fertilizers, and other important environmental contaminants; aspects of the carbon, nitrogen, and sulfur cycles.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CHEM 1200 or CHEM 1220 ; and one prior or concurrent course in organic chemistry, or permission of instructor.",
+    "prerequisites": [
+      "CHEM 1200",
+      "CHEM 1220"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CHEM 1200",
+        "CHEM 1220"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: CHEM 4810 . Students cannot obtain credit for both this course and CHEM 4810 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82798"
+  },
+  {
+    "course_id": "ERTH 4940",
+    "prefix": "ERTH",
+    "number": "4940",
+    "title": "Earth and Environmental Independent Study",
+    "description": "Independent study of selected readings in the fields of Earth and Environmental Studies, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82799"
+  },
+  {
+    "course_id": "ERTH 4960",
+    "prefix": "ERTH",
+    "number": "4960",
+    "title": "Topics in Geology",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82800"
+  },
+  {
+    "course_id": "ERTH 4970",
+    "prefix": "ERTH",
+    "number": "4970",
+    "title": "Out-of-Classroom Experience in Earth Sciences",
+    "description": "Credits are earned while the student gains practical experience in applying skills to working in a private company or government agency in an area relevant to the student’s educational goals. Requires a written proposal and final report.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82801"
+  },
+  {
+    "course_id": "ERTH 4980",
+    "prefix": "ERTH",
+    "number": "4980",
+    "title": "Undergraduate Research Thesis",
+    "description": "Independent field experience for undergraduates. Requires a written proposal and final report.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82802"
+  },
+  {
+    "course_id": "ERTH 6080",
+    "prefix": "ERTH",
+    "number": "6080",
+    "title": "Advanced Geochemistry",
+    "description": "This course provides an in depth overview of geochemistry at both the advanced undergraduate and graduate level. It provides students to the scientific principles, concepts and methodologies required to understand the chemistry of the natural world, as well as to identify and analyze geological, planetary, and environmental problems and think critically about solutions for addressing them. Topics covered will include element formation and distribution, thermodynamics, isotopic geochemistry, and identifies long standing issues in geology. Case studies and projects will emphasize the investigation of geochemical questions and solutions. Labs include exposure to field equipment, techniques and analysis of data. This course is intended for fourth-year and grad students and includes a weekend field trip.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL ALTERNATE YEARS Co-Listed: ERTH 4080",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90438"
+  },
+  {
+    "course_id": "ERTH 6200",
+    "prefix": "ERTH",
+    "number": "6200",
+    "title": "Advanced Applied Micropaleontology",
+    "description": "This course will encompass marine, freshwater, and terrestrial microfossils (with emphasis on foraminifera), including taxonomy, evolutionary history, ecology and paleoenvironments, and a broad spectrum of micropaleontological applications, such as sea-level and climate reconstructions, geochemical analyses, oil industry research and production, and forensic geology. This course will also cover concepts of biostratigraphy and micropaleontological applications to stratigraphic correlation and time scale construction. Extensive hands-on microscope and lab work will be required.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of ERTH 1200 and ERTH 2610 strongly recommended. Permission of the instructor is required.",
+    "prerequisites": [
+      "ERTH 1200",
+      "ERTH 2610"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ERTH 1200",
+        "ERTH 2610"
+      ]
+    },
+    "when_offered": "FALL TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82803"
+  },
+  {
+    "course_id": "ERTH 6230",
+    "prefix": "ERTH",
+    "number": "6230",
+    "title": "Biogeochemical Impacts of Extreme Events",
+    "description": "Climate change is driving an increase in extreme weather events (storms, drought, wildfire). These events manifest as episodic disturbances to affected ecosystems that can alter carbon and nutrient fluxes and reorganize biogeochemical cycles. This course is an in-depth study of current, peer-reviewed literature addressing biogeochemical responses to environmental disturbance and extreme events across varied spatial and temporal scales.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84137"
+  },
+  {
+    "course_id": "ERTH 6240",
+    "prefix": "ERTH",
+    "number": "6240",
+    "title": "Evolution of Earth’s Atmosphere",
+    "description": "This course will provide an in-depth and exploratory understanding of atmospheric evolution throughout Earth’s history, beginning with the moon-forming event 4.54 billion years ago and continuing into the present. Students will learn about the geological, biological, and anthropogenic mechanisms that altered the atmosphere. This course is designed to offer students an applied and interactive learning environment.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84138"
+  },
+  {
+    "course_id": "ERTH 6250",
+    "prefix": "ERTH",
+    "number": "6250",
+    "title": "Mechanisms of Mass Extinction",
+    "description": "This course will provide an in-depth and exploratory understanding of the causes for Mass Extinction events in Earth’s history, from 550 million years ago to the present day. The course will investigate the processes of mass extinction through geochemical, paleontological, and sedimentological data to track the triggers for and effects of mass extinctions on the co-evolution of the Earth system and biosphere in deep time. This course is designed to offer students an applied and interactive learning environment based on synthesis of the primary literature.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84139"
+  },
+  {
+    "course_id": "ERTH 6300",
+    "prefix": "ERTH",
+    "number": "6300",
+    "title": "Advanced Metamorphic Petrology",
+    "description": "In-depth analysis of metamorphic phase equilibria in pelites, amphibolites, carbonates, and ultramafic rocks. Schreinemakers’ analysis, petrogenetic grids, P-T-X relations, reaction space, geothermometry, geobarometry, and analysis of zoned prophyroblasts. Heat flow, metamorphic, and tectonic evolution. Laboratory involves analysis of textural relations in thin section and computer exercises.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82804"
+  },
+  {
+    "course_id": "ERTH 6350",
+    "prefix": "ERTH",
+    "number": "6350",
+    "title": "Data Science",
+    "description": "Data science is advancing the inductive conduct of science and is driven by the greater volumes, complexity, and heterogeneity of data being made available over the Internet. It combines aspects of data management, library science, computer science, and physical science. It is changing the way all of these disciplines do both their individual and collaborative work. Key methodologies in application areas based on real research experience are taught. This course meets with ERTH 4350 / CSCI 4350 / ITWS 4350 and CSCI 6350 / ITWS 6350 .",
+    "credit_hours": "3",
+    "prerequisites_raw": "Previous knowledge of both CSCI 1200 and CSCI 4380 preferred.",
+    "prerequisites": [
+      "CSCI 1200",
+      "CSCI 4380"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CSCI 1200",
+        "CSCI 4380"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: CSCI 4350 / CSCI 6350 , and ITWS 4350 / ITWS 6350 . A student can get credit for only one of these courses. Co-Listed: ERTH 4350",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83492"
+  },
+  {
+    "course_id": "ERTH 6400",
+    "prefix": "ERTH",
+    "number": "6400",
+    "title": "Xinformatics",
+    "description": "Informatics covers a broad range of disciplines addressing challenges in the explosion of data and information resources. Xinformatics provides commonality for implementations in specific disciplines (e.g. X=astronomy, geology). Informatics’ theoretical bases are information and computer science, cognitive science, social science, library science, aggregating these studies and adding the practice of information processing and the engineering of information systems. This course grounds the material that students will learn in discipline areas by coursework and project assignments. Students cannot obtain credit for more than one of ERTH 6400 / ITWS 6400 / CSCI 6400 .",
+    "credit_hours": "3",
+    "prerequisites_raw": "Previous knowledge of CSCI 1200",
+    "prerequisites": [
+      "CSCI 1200"
+    ],
+    "prerequisite_logic": "CSCI 1200",
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ITWS 6400 / CSCI 6400 / ITWS 4400 / CSCI 4400 . Co-Listed: ERTH 4400",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83445"
+  },
+  {
+    "course_id": "ERTH 6540",
+    "prefix": "ERTH",
+    "number": "6540",
+    "title": "Advanced Igneous Petrology",
+    "description": "Topical treatment of current problems and frontiers in igneous petrology, with emphasis on physical and chemical processes. Principles of fluid dynamics and chemical kinetics are applied to the formation and evolution of crust- and mantle-derived magmas.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Previous knowledge of ERTH 4340",
+    "prerequisites": [
+      "ERTH 4340"
+    ],
+    "prerequisite_logic": "ERTH 4340",
+    "when_offered": "SPRING TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82805"
+  },
+  {
+    "course_id": "ERTH 6545",
+    "prefix": "ERTH",
+    "number": "6545",
+    "title": "Organic Geochemistry",
+    "description": "Origin, transformation, and fate of organic matter on Earth. This course is chemistry-focused and incorporates concepts from biology, geology, and ecology. This course emphasizes reactivity, transport, and storage mechanisms that control the distribution of organic matter in terrestrial and marine systems. Analytical techniques for characterizing organic matter and applications to carbon cycling in natural and perturbed environments are also discussed.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Previous knowledge of CHEM 1100 and ERTH 1200",
+    "prerequisites": [
+      "CHEM 1100",
+      "ERTH 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CHEM 1100",
+        "ERTH 1200"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: ERTH 4540",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84044"
+  },
+  {
+    "course_id": "ERTH 6560",
+    "prefix": "ERTH",
+    "number": "6560",
+    "title": "Isotope Geochemistry",
+    "description": "Fundamentals of isotope geochemistry as applied to biogeochemical systems in modern and ancient environments. This course covers the principles of both radiogenic and stable isotope distribution, decay, and transfer through Earth’s exchangeable reservoirs. This course will emphasize stable isotopes, equilibrium and kinetic isotope fractionation, distribution, isotope mass balance, and using these systems to track global biogeochemical cycles in the modern environment and in deep time.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Previous knowledge of both CHEM 1100 and ERTH 1100 recommended",
+    "prerequisites": [
+      "CHEM 1100",
+      "ERTH 1100"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CHEM 1100",
+        "ERTH 1100"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Cross Listed: ERTH 4560 and ENVE 4560 . Students may not receive credit for ERTH 4560 and ENVE 4560 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83647"
+  },
+  {
+    "course_id": "ERTH 6580",
+    "prefix": "ERTH",
+    "number": "6580",
+    "title": "Seminar in Geophysics: Selected Topics",
+    "description": "General topics in advanced geophysics vary each time the seminar is offered. Previous subjects covered include crustal deformation, inverse theory, global positioning system, and seismic wave propagation.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82806"
+  },
+  {
+    "course_id": "ERTH 6690",
+    "prefix": "ERTH",
+    "number": "6690",
+    "title": "Aqueous Geochemistry",
+    "description": "Fundamentals of aqueous geochemistry as applied to the evolution of natural waters. Principles of chemical equilibrium, activity models for solutes, acid-base chemistry, redox chemistry, mineral solubility, aqueous complexes, ion exchange, and stable isotopes will be covered. The carbonate system, weathering reactions, and redox chemistry are examined in detail. Students learn theory, the basics of analytical techniques, computation methods, and the use of computer programs for speciation, mass balance, and reaction path calculations.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Previous knowledge of CHEM 1100 or CHEM 1110",
+    "prerequisites": [
+      "CHEM 1100",
+      "CHEM 1110"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CHEM 1100",
+        "CHEM 1110"
+      ]
+    },
+    "when_offered": "SPRING TERM, ODD YEARS Cross Listed: CHEM 4690 , ENVE 4690 ; Students cannot obtain credit for more than one of these. Co-Listed: ERTH 4690",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83610"
+  },
+  {
+    "course_id": "ERTH 6710",
+    "prefix": "ERTH",
+    "number": "6710",
+    "title": "Advanced Groundwater Hydrology",
+    "description": "Study of hydrologic and geologic and other factors controlling groundwater flow, occurrence, and development. Groundwater flow theory and aquifer test methods are introduced. Interactions between surface and subsurface hydrologic systems are covered. Applications to design of infiltration, remediation, and dewatering systems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Previous knowledge of MATH 1020 or equivalent",
+    "prerequisites": [
+      "MATH 1020"
+    ],
+    "prerequisite_logic": "MATH 1020",
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ENVE 6710 / ENVE 4710 Co-Listed: ERTH 4710",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82807"
+  },
+  {
+    "course_id": "ERTH 6940",
+    "prefix": "ERTH",
+    "number": "6940",
+    "title": "Readings in Earth and Environmental Studies",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82808"
+  },
+  {
+    "course_id": "ERTH 6960",
+    "prefix": "ERTH",
+    "number": "6960",
+    "title": "Special Topics in Geology",
+    "description": "Topics offered previously: geomagnetism, seismology, mineral equilibria; mineral structures; igneous minerals and rocks; sedimentary processes; marine geology; convergent plate margins; geoexploration; remote sensing applications; seismic stratigraphy; physical oceanography.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82809"
+  },
+  {
+    "course_id": "ERTH 6970",
+    "prefix": "ERTH",
+    "number": "6970",
+    "title": "Professional Project",
+    "description": "Active participation in a semester-long project, under the supervision of a faculty adviser. A Professional Project often serves as a culminating experience for a Professional Master’s program but, with departmental or school approval, can be used to fulfill other program requirements. With approval, students may register for more than one Professional Project. Professional Projects must result in documentation established by each department or school, but are not submitted to the Office of Graduate Education and are not archived in the library. Grades of A, B, C, or F are assigned by the faculty adviser at the end of the semester. If not completed on time, a formal Incomplete grade may be assigned by the faculty adviser, listing the work remaining to be completed and the time limit for completing this work.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82810"
+  },
+  {
+    "course_id": "ERTH 6980",
+    "prefix": "ERTH",
+    "number": "6980",
+    "title": "Master’s Project",
+    "description": "Active participation in a master’s-level project, under the supervision of a faculty adviser, leading to a master’s project report. Grades S or U are assigned at the end of the semester. If recommended by the adviser, the master’s project may be accepted by the Office of Graduate Education to be archived in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82811"
+  },
+  {
+    "course_id": "ERTH 6990",
+    "prefix": "ERTH",
+    "number": "6990",
+    "title": "Master’s Thesis",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a master’s thesis. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82812"
+  },
+  {
+    "course_id": "ERTH 9990",
+    "prefix": "ERTH",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "1-16",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82813"
+  }
+]

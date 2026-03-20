@@ -1,0 +1,1027 @@
+[
+  {
+    "course_id": "MATH 1010",
+    "prefix": "MATH",
+    "number": "1010",
+    "title": "Calculus I",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83014"
+  },
+  {
+    "course_id": "MATH 1020",
+    "prefix": "MATH",
+    "number": "1020",
+    "title": "Calculus II",
+    "description": "Techniques and applications of integration, polar coordinates, parametric equations, infinite sequences and series, vector functions and curves in space, functions of several variables, and partial derivatives.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 1010",
+    "prerequisites": [
+      "MATH 1010"
+    ],
+    "prerequisite_logic": "MATH 1010",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83015"
+  },
+  {
+    "course_id": "MATH 1500",
+    "prefix": "MATH",
+    "number": "1500",
+    "title": "Calculus for Architecture, Management, and HASS",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83016"
+  },
+  {
+    "course_id": "MATH 1520",
+    "prefix": "MATH",
+    "number": "1520",
+    "title": "Mathematical Methods in Management and Economics",
+    "description": "Functions of several variables, introductory linear algebra, and other analytical techniques needed for further study in probability, statistics, and operations research. Topics covered include improper integrals, probability density functions, partial derivatives and optimization techniques for functions of several variables, matrix algebra, linear systems, lines and planes in 3-space, linear inequalities, introductory linear programming, introductory combinatorics, and some probability.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 1010 or MATH 1500 ; and major in Management or Economics.",
+    "prerequisites": [
+      "MATH 1010",
+      "MATH 1500"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MATH 1010",
+        "MATH 1500"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83017"
+  },
+  {
+    "course_id": "MATH 1620",
+    "prefix": "MATH",
+    "number": "1620",
+    "title": "Contemporary Mathematical Ideas in Society",
+    "description": "An application-oriented course introducing contemporary mathematical concepts that pertain to areas of Architecture and Humanities, Arts, and Social Sciences. The course will cover growth and form, symmetry, patterns, tilings, linear programming, information coding, voting systems, game theory, logic, probability, and statistics.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 1010 or MATH 1500 ; and a major in Architecture or HASS.",
+    "prerequisites": [
+      "MATH 1010",
+      "MATH 1500"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MATH 1010",
+        "MATH 1500"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83018"
+  },
+  {
+    "course_id": "MATH 1900",
+    "prefix": "MATH",
+    "number": "1900",
+    "title": "Art and Science of Mathematics I",
+    "description": "A seminar for first-year math majors. The weekly student-faculty discussions will vary but examples of topics are: unsolved math problems, countability and the arithmetic of the infinite, topology and the concept of dimension, geometry and one-sided surfaces, and the theory underlying topics currently covered in calculus.",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: Prerequisite: first-year math majors.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83019"
+  },
+  {
+    "course_id": "MATH 2010",
+    "prefix": "MATH",
+    "number": "2010",
+    "title": "Multivariable Calculus and Matrix Algebra",
+    "description": "Directional derivatives, maxima and minima, double integrals, line integrals, div and curl, and Green’s Theorem; matrix algebra and systems of linear equations, vectors and linear transformations in R^n, eigenvectors and eigenvalues, applications in engineering and science.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 1020",
+    "prerequisites": [
+      "MATH 1020"
+    ],
+    "prerequisite_logic": "MATH 1020",
+    "when_offered": "OFFERED YEARLY Cross Listed: Students cannot get credit for this course and MATH 2011 or MATH 2012 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83020"
+  },
+  {
+    "course_id": "MATH 2011",
+    "prefix": "MATH",
+    "number": "2011",
+    "title": "Multivariable Calculus",
+    "description": "Directional Derivatives, maxima and minima, double integrals, line integrals, div and curl, Green’s Theorem, and applications to engineering and science. This course is intended for students who have tranfser credit for the Matrix Algebra half of MATH 2010 .",
+    "credit_hours": "2",
+    "prerequisites_raw": "MATH 1020",
+    "prerequisites": [
+      "MATH 1020"
+    ],
+    "prerequisite_logic": "MATH 1020",
+    "when_offered": "OFFERED YEARLY Cross Listed: Students cannot get credit for this course and MATH 2010 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83395"
+  },
+  {
+    "course_id": "MATH 2012",
+    "prefix": "MATH",
+    "number": "2012",
+    "title": "Matrix Algebra",
+    "description": "Matrix algebra and systems of linear equations, vectors and linear transformations in R n eigenvectors and eigenvalues, applications in engineering and science. This course is intended for students who have transfer credit for the Multivariable Calculus half of MATH 2010 .",
+    "credit_hours": "2",
+    "prerequisites_raw": "MATH 1020 and MATH 2011",
+    "prerequisites": [
+      "MATH 1020",
+      "MATH 2011"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 1020",
+        "MATH 2011"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Cross Listed: Students cannot get credit for this course and MATH 2010 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83396"
+  },
+  {
+    "course_id": "MATH 2400",
+    "prefix": "MATH",
+    "number": "2400",
+    "title": "Introduction to Differential Equations",
+    "description": "First-order differential equations, second-order linear equations, eigenvalues and eigenvectors of matrices, systems of first-order equations, stability and qualitative properties of nonlinear autonomous systems in the plane, Fourier series, separation of variables for partial differential equations.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 1020 and some knowledge of matrices.",
+    "prerequisites": [
+      "MATH 1020"
+    ],
+    "prerequisite_logic": "MATH 1020",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83021"
+  },
+  {
+    "course_id": "MATH 2940",
+    "prefix": "MATH",
+    "number": "2940",
+    "title": "Readings in Mathematics",
+    "description": "Independent study of selected readings in the field of mathematics, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83022"
+  },
+  {
+    "course_id": "MATH 2960",
+    "prefix": "MATH",
+    "number": "2960",
+    "title": "Topics in Mathematics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83023"
+  },
+  {
+    "course_id": "MATH 4010",
+    "prefix": "MATH",
+    "number": "4010",
+    "title": "Abstract Algebra",
+    "description": "Groups, rings, polynomial rings, fields, integral domains, with emphasis on group theory; homomorphisms and isomorphisms; normal subgroups, co-sets, ideals, modules; quotient groups and quotient rings; other topics chosen from number theory, polynomials, and Galois Theory.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 4090 is required; in additionl MATH 4100 is recommended, but it not required.",
+    "prerequisites": [
+      "MATH 4090",
+      "MATH 4100"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 4090",
+        "MATH 4100"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83024"
+  },
+  {
+    "course_id": "MATH 4020",
+    "prefix": "MATH",
+    "number": "4020",
+    "title": "Introduction to Number Theory",
+    "description": "Topics include the history of number representation systems, divisibility, greatest common divisor and prime factorization, linear Diophantine equations, congruences, and condition congruences. Additional topics may be chosen from cryptology, the perpetual calendar, hashing functions, computer operations and complexity, continued fractions, multiplicative functions, primitive roots, pseudo-random numbers, nonlinear Diophantine equations, Fermat’s last theorem, algebraic numbers, and approximation of numbers by rationals.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 1020",
+    "prerequisites": [
+      "MATH 1020"
+    ],
+    "prerequisite_logic": "MATH 1020",
+    "when_offered": "SPRING TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83025"
+  },
+  {
+    "course_id": "MATH 4030",
+    "prefix": "MATH",
+    "number": "4030",
+    "title": "Computability and Logic",
+    "description": "This course covers basic concepts and results in mathematical logic and computability theory, including decision procedures, automated theorem proving techniques for truth-functional and first-order logic, axiomatizations of set theory and arithmetic, Turing Machines, Abacus Machines, recursive functions, the Church-Turing Thesis, the halting problem, undecidability of first-order logic, undecidability of arithmetic, and Godel’s incompleteness results.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHIL 2140 or CSCI 2200",
+    "prerequisites": [
+      "PHIL 2140",
+      "CSCI 2200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "PHIL 2140",
+        "CSCI 2200"
+      ]
+    },
+    "when_offered": "SPRING TERM, ODD YEARS Cross Listed: CSCI 4420 and PHIL 4420 ;Students cannot obtain credit for both this course and PHIL or CSCI.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83026"
+  },
+  {
+    "course_id": "MATH 4040",
+    "prefix": "MATH",
+    "number": "4040",
+    "title": "Introduction to Topology",
+    "description": "Topics include general topological spaces, connectedness, compactness, continuity, and product spaces. Additional topics may be chosen from identification spaces, homotopy, the fundamental group, covering maps, lifts, classification of surfaces, Baire category, dimension, and the Jordan curve theorem.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 4090 ; or graduate standing or permission of the instructor.",
+    "prerequisites": [
+      "MATH 4090"
+    ],
+    "prerequisite_logic": "MATH 4090",
+    "when_offered": "FALL TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83027"
+  },
+  {
+    "course_id": "MATH 4090",
+    "prefix": "MATH",
+    "number": "4090",
+    "title": "Foundation of Analysis",
+    "description": "The course provides an opportunity for the development of theorem-proving skills in the field of mathematical analysis. Expansion of a knowledge base comes as a by-product of energy expended in theorem proving and subsequent exposition. Analysis topics included are: sets, functions, the real numbers, cardinality, induction, decimal representations of real numbers, Euclidean spaces, abstract vector spaces, and metric spaces. This is a communication-intensive course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 2010 ; and also must be a declared mathematics major.",
+    "prerequisites": [
+      "MATH 2010"
+    ],
+    "prerequisite_logic": "MATH 2010",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83028"
+  },
+  {
+    "course_id": "MATH 4100",
+    "prefix": "MATH",
+    "number": "4100",
+    "title": "Linear Algebra",
+    "description": "The theory underlying vector spaces, algebra of subspaces, bases; linear transformations, dual spaces; eigenvectors, eigenvalues, minimal polynomials, canonical forms of linear transformations; inner products, adjoints, orthogonal projections, and complements.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: MATH 2010 , or MATH 2011 and MATH 2012",
+    "prerequisites": [
+      "MATH 2010",
+      "MATH 2011",
+      "MATH 2012"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MATH 2010",
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2011",
+            "MATH 2012"
+          ]
+        }
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83029"
+  },
+  {
+    "course_id": "MATH 4120",
+    "prefix": "MATH",
+    "number": "4120",
+    "title": "Fundamentals of Geometry",
+    "description": "Topics may be chosen from differential geometry of curves and surfaces, involutes and evolutes, order of contact, developable surfaces, Euler’s and Meusnier’s Theorem, mean and Gaussian curvatures, geodesics and parallel transport, The Theorem Egregium of Gauss, Gauss-Bonnet Theorem, computer-aided geometric design, computational geometry, tessellations, tiling and patterns, projective and non-Euclidean geometries, postulates and axiomatic systems, advanced Euclidean geometry, and the history of geometry.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 2010",
+    "prerequisites": [
+      "MATH 2010"
+    ],
+    "prerequisite_logic": "MATH 2010",
+    "when_offered": "SPRING TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83030"
+  },
+  {
+    "course_id": "MATH 4140",
+    "prefix": "MATH",
+    "number": "4140",
+    "title": "Intermediate Logic",
+    "description": "This course is a continuation of PHIL 2140 , covering basic metatheory of logic (including formal syntax and semantics, model theory, and soundness and completeness of proof systems), applications of logic (including automated theorem proving, deductive problem solving, and the axiomatization of various branches of mathematics), and alternative systems of logic (including sequent systems, diagrammatic logic, and modal logic).",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHIL 2140",
+    "prerequisites": [
+      "PHIL 2140"
+    ],
+    "prerequisite_logic": "PHIL 2140",
+    "when_offered": "SPRING TERM, EVEN YEARS Cross Listed: PHIL 4140",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84006"
+  },
+  {
+    "course_id": "MATH 4150",
+    "prefix": "MATH",
+    "number": "4150",
+    "title": "Graph Theory",
+    "description": "Fundamental concepts and methods of graph theory and its applications to various areas of computing and the social and natural sciences. Topics include graphs as models, representation of graphs, trees, distances, matchings, connectivity, flows in networks, graph colorings, Hamiltonian cycles, traveling salesman problem, planarity. All concepts, methods, and applications are presented through a sequence of exercises and problems, many of which are done with the help of novel software systems for combinatorial computing.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 1100 and either CSCI 2200 or MATH 4090 .",
+    "prerequisites": [
+      "CSCI 1100",
+      "CSCI 2200",
+      "MATH 4090"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 1100",
+            "CSCI 2200"
+          ]
+        },
+        "MATH 4090"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: CSCI 4260 . Students cannot obtain credit for both this course and CSCI 4260 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83031"
+  },
+  {
+    "course_id": "MATH 4200",
+    "prefix": "MATH",
+    "number": "4200",
+    "title": "Math Analysis",
+    "description": "Fundamental concepts of mathematical analysis will be covered including such topics as the real number system, metric spaces, limits, sequences, series, convergence, functions of one variable, uniform convergence, continuity, differentiability, Riemann integration, and the Stone-Weierstrass Theorem.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 1020 and MATH 4090",
+    "prerequisites": [
+      "MATH 1020",
+      "MATH 4090"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 1020",
+        "MATH 4090"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83032"
+  },
+  {
+    "course_id": "MATH 4300",
+    "prefix": "MATH",
+    "number": "4300",
+    "title": "Introduction to Complex Variables: Theory and Applications",
+    "description": "An introduction to the theory and applications of complex variables. Topics include analytic functions, Riemann surfaces, complex integration, Taylor and Laurent series, residues, conformal mapping, harmonic functions, and Laplace transforms. Applications will be to problems in science and engineering such as fluid and heat flow, dynamical systems, and electrostatics.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 2010 or equivalent.",
+    "prerequisites": [
+      "MATH 2010"
+    ],
+    "prerequisite_logic": "MATH 2010",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83033"
+  },
+  {
+    "course_id": "MATH 4400",
+    "prefix": "MATH",
+    "number": "4400",
+    "title": "Ordinary Differential Equations and Dynamical Systems",
+    "description": "An intermediate course emphasizing a modern geometric approach and applications in science and engineering. Topics include first-order equations, linear systems, phase plane, linearization and stability, calculus of variations, Lagrangian and Hamiltonian mechanics, oscillations, basic bifurcation theory, chaotic dynamics, and existence and uniqueness.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 2010 and MATH 2400 ; or permission of instructor.",
+    "prerequisites": [
+      "MATH 2010",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 2010",
+        "MATH 2400"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83034"
+  },
+  {
+    "course_id": "MATH 4500",
+    "prefix": "MATH",
+    "number": "4500",
+    "title": "Methods of Partial Differential Equations of Mathematical Physics",
+    "description": "An intermediate course serving to introduce both the qualitative properties of solutions of partial differential equations and methods of solution, including separation of variables. Topics include first-order equations, derivation of the classical equations of mathematical physics (wave, potential, and heat equations), method of characteristics, construction and behavior of solutions, maximum principles, energy integrals.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 2010 and MATH 2400 ; or permission of instructor.",
+    "prerequisites": [
+      "MATH 2010",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 2010",
+        "MATH 2400"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83035"
+  },
+  {
+    "course_id": "MATH 4600",
+    "prefix": "MATH",
+    "number": "4600",
+    "title": "Advanced Calculus",
+    "description": "A course emphasizing advanced concepts and methods from calculus. Topics include: multivariable integral theorems (Green’s, divergence, Stokes’, Reynolds transport), extrema of multivariable functions (including Taylor’s theorem and Lagrange multipliers), the calculus of variations (Euler–Lagrange equations, constraints, principle of least action), and Cartesian tensors (calculus, invariants, representations).",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 2010",
+    "prerequisites": [
+      "MATH 2010"
+    ],
+    "prerequisite_logic": "MATH 2010",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83036"
+  },
+  {
+    "course_id": "MATH 4700",
+    "prefix": "MATH",
+    "number": "4700",
+    "title": "Foundations of Applied Mathematics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "MATH 2400 is required.",
+    "prerequisites": [
+      "MATH 2400"
+    ],
+    "prerequisite_logic": "MATH 2400",
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83037"
+  },
+  {
+    "course_id": "MATH 4720",
+    "prefix": "MATH",
+    "number": "4720",
+    "title": "Mathematics in Medicine and Biology",
+    "description": "An introduction to mathematical modeling, simulation, and analysis of problems in the biological sciences, bioengineering, and medicine. One or more topics will be selected from subjects ranging from physiology, tissue mechanics, and/or proteins in cells, to microorganism dynamics.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 1020 and MATH 2400",
+    "prerequisites": [
+      "MATH 1020",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 1020",
+        "MATH 2400"
+      ]
+    },
+    "when_offered": "FALL TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83038"
+  },
+  {
+    "course_id": "MATH 4800",
+    "prefix": "MATH",
+    "number": "4800",
+    "title": "Numerical Computing",
+    "description": "A survey of numerical methods for scientific and engineering problems. Topics include numerical solution of linear and nonlinear algebraic equations, interpolation and least squares approximations, numerical integration and differentiation, eigenvalue problems, and an introduction to the numerical solution of ordinary differential equations. Emphasis placed on efficient computational procedures including the use of library and student written procedures using high-level software such as MATLAB.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 2010 or ( MATH 2011 and MATH 2012 ); and MATH 2400 Corequisite:",
+    "prerequisites": [
+      "MATH 2010",
+      "MATH 2011",
+      "MATH 2012",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MATH 2010",
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2011",
+            "MATH 2012",
+            "MATH 2400"
+          ]
+        }
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Cross Listed: CSCI 4800 . Students cannot obtain credit for both this course and CSCI 4800 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83039"
+  },
+  {
+    "course_id": "MATH 4820",
+    "prefix": "MATH",
+    "number": "4820",
+    "title": "Introduction to Numerical Methods for Differential Equations",
+    "description": "Derivation, analysis, and use of computational procedures for solving differential equations. Topics covered include ordinary differential equations (both initial value and boundary value problems) and partial differential equations. Runge-Kutta and multistep methods for initial value problems. Finite difference methods for partial differential equations including techniques for heat conduction, wave propagation, and potential problems. Basic convergence and stability theory.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 4800 or CSCI 4800",
+    "prerequisites": [
+      "MATH 4800",
+      "CSCI 4800"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MATH 4800",
+        "CSCI 4800"
+      ]
+    },
+    "when_offered": "SPRING TERM, EVEN YEARS Cross Listed: CSCI 4820 . Students cannot obtain credit for both this course and CSCI 4820 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83040"
+  },
+  {
+    "course_id": "MATH 4840",
+    "prefix": "MATH",
+    "number": "4840",
+    "title": "Numerical Linear Algebra with Applications",
+    "description": "The focus of the course is on fundamental algorithms in computational linear algebra and their applications in science and engineering. These algorithms involve QR and SVD factorizations, the computation of eigenvalues and eigenvectors, basic optimization methods, and iterative methods for sparse systems. Applications will be considered in areas such as data analysis and compression, principal component and spectral analysis, solutions of large sparse systems, among others.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 4800 or CSCI 4800",
+    "prerequisites": [
+      "MATH 4800",
+      "CSCI 4800"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MATH 4800",
+        "CSCI 4800"
+      ]
+    },
+    "when_offered": "SPRING TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83716"
+  },
+  {
+    "course_id": "MATH 4940",
+    "prefix": "MATH",
+    "number": "4940",
+    "title": "Mathematics Independent Study",
+    "description": "Independent study of selected readings in the field of mathematics, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83041"
+  },
+  {
+    "course_id": "MATH 4950",
+    "prefix": "MATH",
+    "number": "4950",
+    "title": "Research in Mathematics",
+    "description": "Undergraduate mathematics projects that utilize students’ mathematical knowledge will result in formal reports and final presentations. Examples are research projects or critical in-depth mathematical literature reviews. Information about projects will be exchanged in weekly meetings with the research supervisor. In order to take this course, students must make arrangements with a math faculty member to act as a research supervisor. This is a communication-intensive course. To be graded S/U.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Prerequisite: permission of instructor is required. Open to mathematics majors only.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83042"
+  },
+  {
+    "course_id": "MATH 4960",
+    "prefix": "MATH",
+    "number": "4960",
+    "title": "Topics in Mathematics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83043"
+  },
+  {
+    "course_id": "MATH 4980",
+    "prefix": "MATH",
+    "number": "4980",
+    "title": "Undergraduate Project in Mathematics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83044"
+  },
+  {
+    "course_id": "MATH 6190",
+    "prefix": "MATH",
+    "number": "6190",
+    "title": "Topics in Mathematics",
+    "description": "The course is intended to provide a mathematical perspective on one or more topics chosen from algebra, geometry, and/or topology. Topics may include combinatorial matrix theory, classification of surfaces, Lie groups, Galois theory, geometric analysis, computational geometry, homology, and/or fixed point theorems.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Prerequisites: vary with topic.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83045"
+  },
+  {
+    "course_id": "MATH 6220",
+    "prefix": "MATH",
+    "number": "6220",
+    "title": "Applied Functional Analysis",
+    "description": "A basic course in the concepts of linear functional analysis, including such topics as Banach and Hilbert spaces, L^p and l^p (sequence) spaces; weak, strong and weak* convergence; linear functionals; linear bounded, unbounded, closed, and compact operators; spectrum, resolvent, the spectral theorem for compact operators, Fredholm alternative; applications are to differential equations, integral equations and optimization.",
+    "credit_hours": "4",
+    "prerequisites_raw": "None. Prior knowledge of Linear Algebra, Mathematical Analysis, Complex Variables, and Advanced Calculus at the level of MATH 4100 and MATH 4200 , MATH 4300 , and MATH 4600 is recommended Prerequisite or Corequisite: .",
+    "prerequisites": [
+      "MATH 4100",
+      "MATH 4200",
+      "MATH 4300",
+      "MATH 4600"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 4100",
+        "MATH 4200",
+        "MATH 4300",
+        "MATH 4600"
+      ]
+    },
+    "when_offered": "FALL TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83047"
+  },
+  {
+    "course_id": "MATH 6490",
+    "prefix": "MATH",
+    "number": "6490",
+    "title": "Topics in Ordinary Differential Equations",
+    "description": "Mathematical foundations and/or applications of ordinary differential equations. Possible topics include: stability and chaos in dynamics, mathematical methods of classical mechanics, stochastic differential equations, and soliton equations.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Prerequisites: vary with topic.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83049"
+  },
+  {
+    "course_id": "MATH 6500",
+    "prefix": "MATH",
+    "number": "6500",
+    "title": "Partial Differential Equations",
+    "description": "A course dealing with the basic theory of partial differential equations. It includes such topics as properties of solutions of hyperbolic, parabolic, and elliptic equations in two or more independent variables; linear and nonlinear first order equations; existence and uniqueness theory for general higher order equations; potential theory and integral equations.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None, but knowledge of Linear Algebra, Mathematical Analysis, and Advanced Calculus at the level of MATH 4100 and MATH 4200 and MATH 4600 is recommended.",
+    "prerequisites": [
+      "MATH 4100",
+      "MATH 4200",
+      "MATH 4600"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 4100",
+        "MATH 4200",
+        "MATH 4600"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83050"
+  },
+  {
+    "course_id": "MATH 6590",
+    "prefix": "MATH",
+    "number": "6590",
+    "title": "Topics in Partial Differential Equations",
+    "description": "Mathematical foundation and/or applications of partial differential equations. Possible topics include soliton theory and applications, wavelets and PDEs, scattering theory, hyperbolic conservation laws.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Prerequisites: vary with topic.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83051"
+  },
+  {
+    "course_id": "MATH 6600",
+    "prefix": "MATH",
+    "number": "6600",
+    "title": "Methods of Applied Mathematics",
+    "description": "Linear vector spaces; eigenvalues and eigenvectors in discrete systems; eigenvalues and eigenvectors in continuous systems including Sturm-Liouville theory, orthogonal expansions and Fourier series, Green’s functions; elementary theory of nonlinear ODEs including phase plane, stability and bifurcation; calculus of variations. Applications will be drawn from equilibrium and dynamic phenomena in science and engineering.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None, but knowledge of differential equations and advanced calculus at the level of MATH 2400 and MATH 4600 is recommended.",
+    "prerequisites": [
+      "MATH 2400",
+      "MATH 4600"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 2400",
+        "MATH 4600"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83052"
+  },
+  {
+    "course_id": "MATH 6620",
+    "prefix": "MATH",
+    "number": "6620",
+    "title": "Perturbation Methods",
+    "description": "This course is devoted to advanced methods rather than theory. Content includes such topics as matched asymptotic expansions, multiple scales, WKB, and homogenization. Applications are made to ODEs, PDEs, difference equations, and integral equations. The methods are illustrated using currently interesting scientific and engineering problems that involve such phenomena as boundary or shock layers, nonlinear wave propagation, bifurcation and stability, and resonance.",
+    "credit_hours": "4",
+    "prerequisites_raw": "None, but knowledge of differential equations and advanced calculus at the level of MATH 2400 and MATH 4600 is recommended.",
+    "prerequisites": [
+      "MATH 2400",
+      "MATH 4600"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 2400",
+        "MATH 4600"
+      ]
+    },
+    "when_offered": "SPRING TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83053"
+  },
+  {
+    "course_id": "MATH 6640",
+    "prefix": "MATH",
+    "number": "6640",
+    "title": "Complex Variables and Integral Transforms with Applications",
+    "description": "Review of basic complex variables theory; power series, analytic functions, singularities, and integration in the complex plane. Integral transforms (Laplace, Fourier, etc.) in the complex plane, with application to solution of PDEs and integral equations. Asymptotic expansions of integrals (Laplace method, methods of steepest descent and stationary phase), with emphasis on extraction of useful information from inversion integrals of transforms. Problems to be drawn from linear models in science and engineering.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Prerequisites: None, but knowledge of differential equations, complex variables, and advanced calculus at the level of MATH 2400 , MATH 4300 and MATH 4600 is recommended.",
+    "prerequisites": [
+      "MATH 2400",
+      "MATH 4300",
+      "MATH 4600"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 2400",
+        "MATH 4300",
+        "MATH 4600"
+      ]
+    },
+    "when_offered": "SPRING TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83054"
+  },
+  {
+    "course_id": "MATH 6660",
+    "prefix": "MATH",
+    "number": "6660",
+    "title": "Stochastic Processes and Modeling",
+    "description": "This course provides an introduction to methods and concepts to model and analyze the dynamics of system with uncertain inputs or too many variables to track explicitly. Topics may include Markov processes, point processes, renewal processes, and/or stochastic differential equations. Applications will be developed and illustrated on examples drawn from physics, biology, chemistry, industry, and finance.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None, but knowledge of differential equations at the level of MATH 2400 is recommended.",
+    "prerequisites": [
+      "MATH 2400"
+    ],
+    "prerequisite_logic": "MATH 2400",
+    "when_offered": "SPRING TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83470"
+  },
+  {
+    "course_id": "MATH 6790",
+    "prefix": "MATH",
+    "number": "6790",
+    "title": "Topics in Applied Mathematics",
+    "description": "Advanced methods and/or applications of mathematics. Possible topics include: nonlinear continuum mechanics, nonlinear waves, inverse problems, nonlinear optics, combustion, acoustic wave propagation, similarity methods for differential equations, quantum field theory and statistical mechanics, stability of fluid flows, biomathematics, and finance.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Prerequisites: vary with topic.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83055"
+  },
+  {
+    "course_id": "MATH 6800",
+    "prefix": "MATH",
+    "number": "6800",
+    "title": "Computational Linear Algebra",
+    "description": "Computational methods for linear systems, Gaussian elimination, conditioning and stability, pivoting strategies, special linear systems (such as positive definite, banded, or sparse), QR factorization and least squares problem. Computational methods for eigenvalue problems and singular value decompositions. Iterative methods for linear systems (such as GMRES, conjugate gradient and preconditioning).",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None, but knowledge of Numerical Computing at the level of MATH 4800 or CSCI 4800 is recommended.",
+    "prerequisites": [
+      "MATH 4800",
+      "CSCI 4800"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MATH 4800",
+        "CSCI 4800"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: CSCI 6800 . Students cannot obtain credit for both this course and CSCI 6800 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83056"
+  },
+  {
+    "course_id": "MATH 6820",
+    "prefix": "MATH",
+    "number": "6820",
+    "title": "Numerical Solution of Ordinary Differential Equations",
+    "description": "Numerical methods and analysis for ODEs with applications from mechanics, optics, and chaotic dynamics. Numerical methods for dynamical systems include Runge-Kutta, multistep and extrapolation techniques, methods for conservative and Hamiltonian systems, methods for stiff differential equations and for differential-algebraic systems. Methods for boundary value problems include shooting and orthogonalization, finite difference and collocation techniques, and special methods for problems with boundary or shock layers.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None, but knowledge of Numerical Computing at the level of MATH 4800 or CSCI 4800 is recommended.",
+    "prerequisites": [
+      "MATH 4800",
+      "CSCI 4800"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MATH 4800",
+        "CSCI 4800"
+      ]
+    },
+    "when_offered": "FALL TERM, EVEN YEARS Cross Listed: CSCI 6820 . Students cannot obtain credit for both this course and CSCI 6820 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83057"
+  },
+  {
+    "course_id": "MATH 6840",
+    "prefix": "MATH",
+    "number": "6840",
+    "title": "Numerical Solution of Partial Differential Equations",
+    "description": "Numerical methods and analysis for linear and nonlinear PDEs with applications from heat conduction, wave propagation, solid and fluid mechanics, and other areas. Basic concepts of stability and convergence (such as Lax equivalence theorem, CFL condition, GKS stability theory, energy methods). Methods for parabolic problems (finite differences, method of lines, ADI, operator splitting), methods for hyperbolic problems (vector systems and characteristics, dissipation and dispersion, shock capturing and tracking schemes), methods for elliptic problems (finite difference and finite volume methods).",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Prerequisite: None, but knowledge of numerical methods at the level of MATH 4800 or CSCI 4800 is recommended.",
+    "prerequisites": [
+      "MATH 4800",
+      "CSCI 4800"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MATH 4800",
+        "CSCI 4800"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: CSCI 6840 . Students cannot obtain credit for both this course and CSCI 6840 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83058"
+  },
+  {
+    "course_id": "MATH 6860",
+    "prefix": "MATH",
+    "number": "6860",
+    "title": "Finite Element Analysis",
+    "description": "The course focuses on the mathematical and computational fundamentals as well as the applications of classical finite element methods and discontinuous Galerkin methods. The methods are presented through their formulations, matrix assembly for implementation, discrete spaces and approximation theories, stability, and error estimates. They will be applied to simulate elliptic/parabolic equations, convection-diffusion equations, and kinetic transport equations in one and higher dimensions. Galerkin-projection based reduced order models may also be discussed.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None, but knowledge of Mathematical Analysis at the level of MATH 4200 and of Numerical Computing at the level of MATH 4800 or CSCI 4800 is recommended, along with some experience with partial differential equations and computer programming.",
+    "prerequisites": [
+      "MATH 4200",
+      "MATH 4800",
+      "CSCI 4800"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MATH 4200",
+            "MATH 4800"
+          ]
+        },
+        "CSCI 4800"
+      ]
+    },
+    "when_offered": "SPRING TERM, EVEN YEARS Cross Listed: CSCI 6860 . Students cannot obtain credit for both this course and CSCI 6860 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83059"
+  },
+  {
+    "course_id": "MATH 6890",
+    "prefix": "MATH",
+    "number": "6890",
+    "title": "Topics in Computational Mathematics",
+    "description": "Advanced methods and/or applications in scientific computing. Possible topics include computational fluid dynamics, parallel computing, computational acoustics, and computer applications in medicine and biology.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Prerequisites: vary with topic.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83060"
+  },
+  {
+    "course_id": "MATH 6940",
+    "prefix": "MATH",
+    "number": "6940",
+    "title": "Readings in Mathematics",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83061"
+  },
+  {
+    "course_id": "MATH 6950",
+    "prefix": "MATH",
+    "number": "6950",
+    "title": "Teaching Seminar for Teaching Assistants",
+    "description": "A seminar required for first-year TAs in mathematics.",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: Prerequisite: first-year math TA.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83062"
+  },
+  {
+    "course_id": "MATH 6951",
+    "prefix": "MATH",
+    "number": "6951",
+    "title": "Introduction to Research in Mathematics",
+    "description": "This seminar introduces first-year graduate students in mathematics to the faculty and their research. Each week a different faculty member from math will give introductory presentations of their current research areas in a setting that is conducive for significant student-faculty discussions of the material.",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: Prerequisite: graduate student in mathematics.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83063"
+  },
+  {
+    "course_id": "MATH 6960",
+    "prefix": "MATH",
+    "number": "6960",
+    "title": "Topics in Mathematics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83064"
+  },
+  {
+    "course_id": "MATH 6970",
+    "prefix": "MATH",
+    "number": "6970",
+    "title": "Master’s Practicum in Mathematics",
+    "description": "Active participation in a professional experience in mathematics, under the supervision of a faculty adviser. A Master’s Practicum may serve as the capstone professional experience for the M.S. degree. A Master’s Practicum may result in documentation as required by the adviser, but is not submitted to the Office of Graduate Education and is not archived in the library. Grades of A, B, C, or F are assigned if credit is awarded for the Master’s Practicum.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83065"
+  },
+  {
+    "course_id": "MATH 6980",
+    "prefix": "MATH",
+    "number": "6980",
+    "title": "Master’s Project",
+    "description": "Active participation in a master’s-level project, under the supervision of a faculty adviser, leading to a master’s project report. Grades S or U are assigned at the end of the semester. If recommended by the adviser, the master’s project may be accepted by the Office of Graduate Education to be archived in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83066"
+  },
+  {
+    "course_id": "MATH 6990",
+    "prefix": "MATH",
+    "number": "6990",
+    "title": "Master’s Thesis",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83067"
+  },
+  {
+    "course_id": "MATH 9990",
+    "prefix": "MATH",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "1-16",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83068"
+  }
+]

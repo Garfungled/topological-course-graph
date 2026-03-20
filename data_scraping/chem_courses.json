@@ -1,0 +1,1210 @@
+[
+  {
+    "course_id": "CHEM 1100",
+    "prefix": "CHEM",
+    "number": "1100",
+    "title": "Principles of Chemistry I",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82346"
+  },
+  {
+    "course_id": "CHEM 1110",
+    "prefix": "CHEM",
+    "number": "1110",
+    "title": "Chemistry I",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82347"
+  },
+  {
+    "course_id": "CHEM 1120",
+    "prefix": "CHEM",
+    "number": "1120",
+    "title": "Chemistry I Honors",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84132"
+  },
+  {
+    "course_id": "CHEM 1200",
+    "prefix": "CHEM",
+    "number": "1200",
+    "title": "Chemistry II",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82348"
+  },
+  {
+    "course_id": "CHEM 1220",
+    "prefix": "CHEM",
+    "number": "1220",
+    "title": "Chemistry II Honors",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84133"
+  },
+  {
+    "course_id": "CHEM 1600",
+    "prefix": "CHEM",
+    "number": "1600",
+    "title": "Materials Science",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83681"
+  },
+  {
+    "course_id": "CHEM 1900",
+    "prefix": "CHEM",
+    "number": "1900",
+    "title": "Chemistry for Life",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83833"
+  },
+  {
+    "course_id": "CHEM 2030",
+    "prefix": "CHEM",
+    "number": "2030",
+    "title": "Inorganic Chemistry I",
+    "description": "Descriptive chemistry of the elements. Properties, structures, and typical reactions of the elements of the periodic table and their compounds; basic principles of inorganic chemistry.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHEM 1200 or CHEM 1220 or CHEM 1600 / PHYS 1600 / ISCI 1600 / ENGR 1600 .",
+    "prerequisites": [
+      "CHEM 1200",
+      "CHEM 1220",
+      "CHEM 1600",
+      "PHYS 1600",
+      "ISCI 1600",
+      "ENGR 1600"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CHEM 1200",
+        "CHEM 1220",
+        {
+          "type": "AND",
+          "items": [
+            "CHEM 1600",
+            "PHYS 1600",
+            "ISCI 1600",
+            "ENGR 1600"
+          ]
+        }
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82349"
+  },
+  {
+    "course_id": "CHEM 2110",
+    "prefix": "CHEM",
+    "number": "2110",
+    "title": "Equilibrium Chemistry and Quantitative Analysis",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82350"
+  },
+  {
+    "course_id": "CHEM 2120",
+    "prefix": "CHEM",
+    "number": "2120",
+    "title": "Experimental Chemistry I: Analytical Techniques",
+    "description": "A laboratory course dealing with wet and instrumental techniques of chemical analysis.",
+    "credit_hours": "2",
+    "prerequisites_raw": "or Corequisite: CHEM 2110",
+    "prerequisites": [
+      "CHEM 2110"
+    ],
+    "prerequisite_logic": "CHEM 2110",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82351"
+  },
+  {
+    "course_id": "CHEM 2230",
+    "prefix": "CHEM",
+    "number": "2230",
+    "title": "Organic Chemistry Laboratory I",
+    "description": "Laboratory experiments dealing with basic techniques used in the synthesis and characterization of organic compounds.",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: CHEM 2250",
+    "prerequisites": [
+      "CHEM 2250"
+    ],
+    "prerequisite_logic": "CHEM 2250",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82352"
+  },
+  {
+    "course_id": "CHEM 2240",
+    "prefix": "CHEM",
+    "number": "2240",
+    "title": "Organic Chemistry Laboratory II",
+    "description": "A continuation of CHEM 2230 , which is a",
+    "credit_hours": "1",
+    "prerequisites_raw": ". Prerequisite: CHEM 2230 Corequisite: CHEM 2260 ; or a similar course in organic chemistry should be taken with or prior to this course.",
+    "prerequisites": [
+      "CHEM 2230",
+      "CHEM 2260"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CHEM 2230",
+        "CHEM 2260"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82353"
+  },
+  {
+    "course_id": "CHEM 2250",
+    "prefix": "CHEM",
+    "number": "2250",
+    "title": "Organic Chemistry I",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82354"
+  },
+  {
+    "course_id": "CHEM 2260",
+    "prefix": "CHEM",
+    "number": "2260",
+    "title": "Organic Chemistry II",
+    "description": "A continuation of CHEM 2250 , which is a",
+    "credit_hours": "3",
+    "prerequisites_raw": ". Prerequisite: CHEM 2250",
+    "prerequisites": [
+      "CHEM 2250"
+    ],
+    "prerequisite_logic": "CHEM 2250",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82355"
+  },
+  {
+    "course_id": "CHEM 2290",
+    "prefix": "CHEM",
+    "number": "2290",
+    "title": "Experimental Chemistry II: Synthesis and Characterization",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "CHEM 2110 or permission of instructor. Corequisite: CHEM 2260 Prerequisite or Corequisite:",
+    "prerequisites": [
+      "CHEM 2110",
+      "CHEM 2260"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CHEM 2110",
+        "CHEM 2260"
+      ]
+    },
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82356"
+  },
+  {
+    "course_id": "CHEM 2360",
+    "prefix": "CHEM",
+    "number": "2360",
+    "title": "Chemistry Laboratory: Selected Experiments",
+    "description": "A selection of experiments taken primarily from other chemistry laboratory courses. Intended to permit an individualized laboratory course to be set up to enable transfer students to make up deficiencies in their laboratory background, to allow students from other departments to obtain experience in areas of interest to them, and to provide a course that students from other schools can use to fulfill laboratory requirements of their home institution on a transfer basis. Selection of experiments and credits determined by individual consultation with the academic adviser and instructor.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82357"
+  },
+  {
+    "course_id": "CHEM 2540",
+    "prefix": "CHEM",
+    "number": "2540",
+    "title": "Introduction to Geochemistry",
+    "description": "An introduction to the application of chemistry to the understanding of problems in the earth and environmental sciences. Topics include thermodynamics and phase equilibria as applied to mineral stability, rock evolution, and water chemistry; stable isotope systematics; radiogenic isotope systematics, trace element geochemistry, organic geochemistry, and geochemical cycles.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ERTH 1100 or ERTH 1200 ; or permission of instructor.",
+    "prerequisites": [
+      "ERTH 1100",
+      "ERTH 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ERTH 1100",
+        "ERTH 1200"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ERTH 2140 . Students cannot receive credit for both this course and ERTH 2140 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82359"
+  },
+  {
+    "course_id": "CHEM 2910",
+    "prefix": "CHEM",
+    "number": "2910",
+    "title": "Mentoring First Year Chemistry Students",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84232"
+  },
+  {
+    "course_id": "CHEM 2930",
+    "prefix": "CHEM",
+    "number": "2930",
+    "title": "Out-of-Classroom Experience in Chemistry",
+    "description": "Students may obtain credit for chemistry-related experience in nonclassroom situations. For credit to be awarded, a brief proposal outlining the nature of the experience to be undertaken must be given to the department in advance for approval of its suitability. A written report is required at the end of the experience. A maximum of 4 credits is allowed, but this may be made up in more than one experience.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82360"
+  },
+  {
+    "course_id": "CHEM 2940",
+    "prefix": "CHEM",
+    "number": "2940",
+    "title": "Special Projects in Chemistry",
+    "description": "Study and experimental work in various fields of chemistry to develop an interest in and ability for independent study and investigation.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82361"
+  },
+  {
+    "course_id": "CHEM 2950",
+    "prefix": "CHEM",
+    "number": "2950",
+    "title": "Undergraduate Research",
+    "description": "An introduction to independent, hands-on research in chemistry under the guidance of a faculty member. Students will take part in projects that are at the forefront of chemistry research. Students will learn about hypothesis driven research, designing experiments, and analyzing research data. Through this course, students develop critical thinking and problem-solving skills, preparing them for more advanced studies and research opportunities in the field of chemistry.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82362"
+  },
+  {
+    "course_id": "CHEM 4010",
+    "prefix": "CHEM",
+    "number": "4010",
+    "title": "Inorganic Chemistry II",
+    "description": "A course dealing with more advanced topics of inorganic chemistry, including molecular symmetry, application of symmetry concepts to molecular orbital descriptions of polyatomic molecules, solid state and non-stoichiometric compounds, coordination chemistry, spectral and magnetic properties, organometallic chemistry, and bioinorganic chemistry.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHEM 2030 ; it is recommended that CHEM 4410 be taken concurrently.",
+    "prerequisites": [
+      "CHEM 2030",
+      "CHEM 4410"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CHEM 2030",
+        "CHEM 4410"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82363"
+  },
+  {
+    "course_id": "CHEM 4020",
+    "prefix": "CHEM",
+    "number": "4020",
+    "title": "Experimental Chemistry III: Inorganic and Physical Methods",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82364"
+  },
+  {
+    "course_id": "CHEM 4030",
+    "prefix": "CHEM",
+    "number": "4030",
+    "title": "Experimental Chemistry III Abridged: Physical Methods",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "CHEM 2120 and CHEM 2290 Prerequisite or Corequisite: CHEM 4410",
+    "prerequisites": [
+      "CHEM 2120",
+      "CHEM 2290",
+      "CHEM 4410"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CHEM 2120",
+            "CHEM 2290"
+          ]
+        },
+        "CHEM 4410"
+      ]
+    },
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83938"
+  },
+  {
+    "course_id": "CHEM 4110",
+    "prefix": "CHEM",
+    "number": "4110",
+    "title": "Instrumental Methods of Analysis",
+    "description": "This course will introduce advanced instrumental physicochemical methods of chemical analysis as well as instrument design and data capture/processing. Topics covered include atomic and molecular spectroscopy, chromatography, electroanalytical chemistry and measurement basics. This course is a",
+    "credit_hours": "3",
+    "prerequisites_raw": "or corequisite for CHEM 4120 / CHEM 4130 . Prerequisite: CHEM 2110 and CHEM 2120 ; or permission of the instructor. Attributes Data Intensive 2",
+    "prerequisites": [
+      "CHEM 4120",
+      "CHEM 4130",
+      "CHEM 2110",
+      "CHEM 2120"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CHEM 4120",
+        "CHEM 4130",
+        "CHEM 2110",
+        "CHEM 2120"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82365"
+  },
+  {
+    "course_id": "CHEM 4120",
+    "prefix": "CHEM",
+    "number": "4120",
+    "title": "Experimental Chemistry IV: Physical and Instrumental Methods",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "CHEM 4020 or CHEM 4030 ; or permission of instructor. Prerequisite or Corequisite: CHEM 4110 and CHEM 4420 (Experiments depend on the theoretical material in these courses)",
+    "prerequisites": [
+      "CHEM 4020",
+      "CHEM 4030",
+      "CHEM 4110",
+      "CHEM 4420"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        {
+          "type": "OR",
+          "items": [
+            "CHEM 4020",
+            "CHEM 4030"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "CHEM 4110",
+            "CHEM 4420"
+          ]
+        }
+      ]
+    },
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82366"
+  },
+  {
+    "course_id": "CHEM 4130",
+    "prefix": "CHEM",
+    "number": "4130",
+    "title": "Mass Spectrometry",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83789"
+  },
+  {
+    "course_id": "CHEM 4140",
+    "prefix": "CHEM",
+    "number": "4140",
+    "title": "NMR Spectroscopy for Scientists and Engineers",
+    "description": "This course will review modern techniques of multi-dimensional NMR spectroscopy, including the history of magnetic resonance, principles of NMR, 13C and 1H NMR, multinuclear NMR, 2D homonuclear and heteronuclear methods, nuclear Overhauser effect, relaxation, structure elucidation, solid-state NMR and the nuts and bolts of NMR spectrometers and probes. This course is intended for graduate and upper-level undergraduate students in the School of Science and Engineering.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: CHEM 6140 ; Students cannot get credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83841"
+  },
+  {
+    "course_id": "CHEM 4200",
+    "prefix": "CHEM",
+    "number": "4200",
+    "title": "Industrial Chemistry",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83939"
+  },
+  {
+    "course_id": "CHEM 4300",
+    "prefix": "CHEM",
+    "number": "4300",
+    "title": "Medicinal Chemistry",
+    "description": "This course explores the fundamental principles that define the relationship between chemical structure and the biological action of drug molecules. A major focus of the course is the application of these chemical principles to molecular-targeted drug discovery, molecular mechanisms of pharmacological activity, and the biopharmaceutical properties of drugs. The relationships between drug structure, therapeutic properties, and physicochemical characteristics will be discussed. Structure activity relationships (SAR), structure-property relationships (SPR) and ADME (absorption, distribution, metabolism, and excretion) will be explored and presented through case studies. The roles of computational chemistry, molecular modeling, and biophysical methods in the understanding of the relationship between structure and biological activity will also be studied. Although an emphasis will be placed on orally bioavailable small molecules, alternative drug modalities will also be discussed.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHEM 2260 or permission of instructor.",
+    "prerequisites": [
+      "CHEM 2260"
+    ],
+    "prerequisite_logic": "CHEM 2260",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CHEM 6300 ; Students cannot receive credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82368"
+  },
+  {
+    "course_id": "CHEM 4330",
+    "prefix": "CHEM",
+    "number": "4330",
+    "title": "Drug Discovery",
+    "description": "This course will examine how bioinformatics, functional genomics, and other modern biotechnologies are used to speed the discovery of new drugs, especially those small organic molecules to treat human diseases with large unmet therapeutic need. Special emphasis will be placed on molecular target identification and validation as well as high-throughput screening to identify a lead. Topics to be discussed will include transgenic mice, RNA interference, DNA and protein microarrays, homogenous time-resolved fluorescence bioassays, phage-display, combinatorial chemistry, and parallel synthesis.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHEM 2260 or permission of instructor.",
+    "prerequisites": [
+      "CHEM 2260"
+    ],
+    "prerequisite_logic": "CHEM 2260",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CHEM 6330 ; Students cannot get credit for both this course and CHEM 6330.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82370"
+  },
+  {
+    "course_id": "CHEM 4410",
+    "prefix": "CHEM",
+    "number": "4410",
+    "title": "Macroscopic Physical Chemistry",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82371"
+  },
+  {
+    "course_id": "CHEM 4420",
+    "prefix": "CHEM",
+    "number": "4420",
+    "title": "Microscopic Physical Chemistry",
+    "description": "A course dealing primarily with physicochemical properties of substances on a molecular basis. Quantum chemistry, spectroscopy, and statistical mechanics.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MATH 2400 and ( CHEM 1200 , CHEM 1220 or CHME 2020 )",
+    "prerequisites": [
+      "MATH 2400",
+      "CHEM 1200",
+      "CHEM 1220",
+      "CHME 2020"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2400",
+            "CHEM 1200",
+            "CHEM 1220"
+          ]
+        },
+        "CHME 2020"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82372"
+  },
+  {
+    "course_id": "CHEM 4440",
+    "prefix": "CHEM",
+    "number": "4440",
+    "title": "Physical Chemistry for Life Sciences",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82358"
+  },
+  {
+    "course_id": "CHEM 4530",
+    "prefix": "CHEM",
+    "number": "4530",
+    "title": "Modern Techniques in Chemistry",
+    "description": "A lecture/laboratory course for Chemical Engineering students. Topics include the principles of chemical equilibria and their relation to modern analytical methods and the basis of instrumental techniques for characterizing the chemical structures and properties of compounds. The course provides laboratory experience in the use of modern instruments along with other chemical techniques. Aspects of analytical, organic, and physical chemistry will be illustrated throughout the course. Students cannot get credit for both this course and CHEM 2110 .",
+    "credit_hours": "4",
+    "prerequisites_raw": "CHEM 2250",
+    "prerequisites": [
+      "CHEM 2250"
+    ],
+    "prerequisite_logic": "CHEM 2250",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82374"
+  },
+  {
+    "course_id": "CHEM 4610",
+    "prefix": "CHEM",
+    "number": "4610",
+    "title": "Natural Polymers and Materials",
+    "description": "This course provides students with a comprehensive understanding of the diverse range of natural polymers, their role in nature, routes to production, physical properties, and applications. Natural polymers are of growing importance as society transitions from carbon derived from petroleum to readily renewable sources such as plants. Furthermore, natural polymer biosynthesis occurs under mild and sustainable conditions that provide representative examples of green chemistry. Natural polymers offer desirable attributes such as biodegradability and properties that can be manipulated by traditional methods such as modification or blending as well as via genetic engineering. The course introduces numerous families of natural polymers from sources such as plant cell walls, rubber trees, grains, crustacean exoskeletons, fungal cell walls, microbial fermentation, seaweed, seeds, silkworms, spiders, and animals. Applications of natural polymers and their modified forms that will be discussed include but are not limited to, thickeners, biodegradable plastics, medical materials, fibers in composites, nanoparticles, antimicrobials, and cosmetic ingredients.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CHEM 6610 ; Students cannot get credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84111"
+  },
+  {
+    "course_id": "CHEM 4620",
+    "prefix": "CHEM",
+    "number": "4620",
+    "title": "Introduction to Polymer Chemistry",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82375"
+  },
+  {
+    "course_id": "CHEM 4630",
+    "prefix": "CHEM",
+    "number": "4630",
+    "title": "Technical and Leadership skills for Academia/Industry",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90391"
+  },
+  {
+    "course_id": "CHEM 4690",
+    "prefix": "CHEM",
+    "number": "4690",
+    "title": "Aqueous Geochemistry",
+    "description": "Fundamentals of aqueous chemistry as applied to the evolution of natural waters. The course covers principles of chemical equilibrium, activity models for solutes, pH as a master variable, concentration and Eh-pH diagrams, mineral solubility, aqueous complexes, ion exchange, and stable isotopes. The carbonate system, weathering reactions, and acid rain are examined in detail. Emphasis is on the chemical reactions that control surface and groundwater evolution in natural and engineered (treatment process) settings. Students learn theory, computation methods, and the use of computer programs for calculation of speciation and mass balance.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CHEM 1100 , CHEM 1110 or CHEM 1120 ; or permission of instructor.",
+    "prerequisites": [
+      "CHEM 1100",
+      "CHEM 1110",
+      "CHEM 1120"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CHEM 1100",
+            "CHEM 1110"
+          ]
+        },
+        "CHEM 1120"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ERTH 4690 , ENVE 4690 , ERTH 4690 , ERTH 6690",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82376"
+  },
+  {
+    "course_id": "CHEM 4710",
+    "prefix": "CHEM",
+    "number": "4710",
+    "title": "Chemical Biology",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83838"
+  },
+  {
+    "course_id": "CHEM 4720",
+    "prefix": "CHEM",
+    "number": "4720",
+    "title": "Proteomics and Structural Bioinformatics",
+    "description": "Proteomics and Structural Bioinformatics is a survey of modern techniques of protein biochemistry, bioinformatics, protein chemistry, and proteomics, and their applications in the broad field of structural biology and functional genomics. It is targeted to upper-level undergraduate and graduate students in chemistry and/or biology (co-listed).",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: CHEM 6720",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84238"
+  },
+  {
+    "course_id": "CHEM 4750",
+    "prefix": "CHEM",
+    "number": "4750",
+    "title": "Biocatalysis: Fundamentals and Applications",
+    "description": "This course describes how enzymes in cells and immobilized within matrices are valuable tools to prepare natural and non-natural molecules used in a wide range of applications such as commodity chemicals, sweeteners, polymers, nutraceuticals, drugs, tissue engineering matrices, surfactants, antimicrobials, coatings, and advanced materials. Furthermore, biocatalysis has become a primary tool to develop sustainable pathways for chemical manufacturing. Students are introduced to basic biochemical principles of enzymes and whole cell systems. Lectures on free enzymes discuss their catalytic mechanism(s), approaches to enable their practical use under non-aqueous conditions (e.g. immobilization on solid supports), effects of reaction media polarity and water content. The importance of protein and metabolic engineering to developing practical biocatalysts is discussed. Integrated within the course are discussions of green chemistry and sustainability.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CHEM 6750 ; Students cannot get credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84158"
+  },
+  {
+    "course_id": "CHEM 4760",
+    "prefix": "CHEM",
+    "number": "4760",
+    "title": "Molecular Biochemistry I",
+    "description": "Part I of a two-semester sequence focusing on the chemistry, structure, and function of biological molecules, macromolecules, and systems. Topics covered include protein and nucleic acid structure, enzymology, mechanisms of catalysis, regulation, lipids and membranes, carbohydrates, bioenergetics, and carbohydrate metabolism.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CHEM 2250 and BIOL 1010 or BIOL 2120 ; or equivalents.",
+    "prerequisites": [
+      "CHEM 2250",
+      "BIOL 1010",
+      "BIOL 2120"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CHEM 2250",
+            "BIOL 1010"
+          ]
+        },
+        "BIOL 2120"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: BCBP 4760 , BIOL 4760 ; (Students cannot obtain credit for both this course and either BIOL 4760 or BCBP 4760 .)",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82377"
+  },
+  {
+    "course_id": "CHEM 4770",
+    "prefix": "CHEM",
+    "number": "4770",
+    "title": "Molecular Biochemistry II",
+    "description": "The second semester of the Molecular Biochemistry sequence. Topics include lipids and lipid metabolism, amino acid metabolism and the coenzymes involved in this metabolism, nucleic acid synthesis and chemistry, protein synthesis and degradation, integration of metabolism, photobiology, and photosynthesis. This course is taught in studio mode. (Students cannot obtain credit for both this course and either BIOL 4770 or BCBP 4770 .)",
+    "credit_hours": "4",
+    "prerequisites_raw": "CHEM 4760 or BCBP 4760 or BIOL 4760 ; or equivalent.",
+    "prerequisites": [
+      "CHEM 4760",
+      "BCBP 4760",
+      "BIOL 4760"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CHEM 4760",
+        "BCBP 4760",
+        "BIOL 4760"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: BIOL 4770 , BCBP 4770",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82378"
+  },
+  {
+    "course_id": "CHEM 4810",
+    "prefix": "CHEM",
+    "number": "4810",
+    "title": "Chemistry of the Environment",
+    "description": "Chemical processes important in the environment from naturally occurring and man-induced systems. Thermodynamic and chemical considerations of fuels; the thermodynamics of the atmosphere; atmospheric photochemistry; chemistry of natural water systems; chemistry of pesticides, fertilizers, and other important environmental contaminants; aspects of the carbon, nitrogen, and sulfur cycles.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CHEM 1200 or CHEM 1220 ; and one prior or concurrent course in organic chemistry, or permission of instructor.",
+    "prerequisites": [
+      "CHEM 1200",
+      "CHEM 1220"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CHEM 1200",
+        "CHEM 1220"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ERTH 4810 . Students cannot obtain credit for both this course and ERTH 4810.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82379"
+  },
+  {
+    "course_id": "CHEM 4820",
+    "prefix": "CHEM",
+    "number": "4820",
+    "title": "Food Chemistry and Technology",
+    "description": "Understanding of the chemical aspects of food composition with emphasis on the functional properties and chemical reactions of the major constituents of foods: Water, carbohydrates, proteins, and fats/oils (lipids). Several food-related concepts such as Gelation, Browning and the Maillard reactions, Meat glue, Food texture and Mouth feel, Emulsions, Sous-vide cooking, Thickening, etc. will be introduced.",
+    "credit_hours": "2",
+    "prerequisites_raw": "CHEM 2250",
+    "prerequisites": [
+      "CHEM 2250"
+    ],
+    "prerequisite_logic": "CHEM 2250",
+    "when_offered": "SUMMER TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84236"
+  },
+  {
+    "course_id": "CHEM 4900",
+    "prefix": "CHEM",
+    "number": "4900",
+    "title": "Professional Development Seminar",
+    "description": "Weekly seminars on topics of concern to students who are about to embark on their professional careers in chemistry. Topics will include employment and career opportunities; graduate school; ethical requirements and expectations in the profession; patent considerations; new directions in research and other topical matters. Restricted to senior chemistry majors.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82380"
+  },
+  {
+    "course_id": "CHEM 4910",
+    "prefix": "CHEM",
+    "number": "4910",
+    "title": "Leadership in Chemistry Mentoring I",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84233"
+  },
+  {
+    "course_id": "CHEM 4920",
+    "prefix": "CHEM",
+    "number": "4920",
+    "title": "Leadership in Chemistry Mentoring II",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84234"
+  },
+  {
+    "course_id": "CHEM 4930",
+    "prefix": "CHEM",
+    "number": "4930",
+    "title": "Chemistry Teaching Practicum",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84235"
+  },
+  {
+    "course_id": "CHEM 4950",
+    "prefix": "CHEM",
+    "number": "4950",
+    "title": "Culminating Research Experience",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82381"
+  },
+  {
+    "course_id": "CHEM 4960",
+    "prefix": "CHEM",
+    "number": "4960",
+    "title": "Selected Topics in Chemistry",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82382"
+  },
+  {
+    "course_id": "CHEM 4970",
+    "prefix": "CHEM",
+    "number": "4970",
+    "title": "Advanced Research Project",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82383"
+  },
+  {
+    "course_id": "CHEM 4990",
+    "prefix": "CHEM",
+    "number": "4990",
+    "title": "Senior Thesis",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82384"
+  },
+  {
+    "course_id": "CHEM 6020",
+    "prefix": "CHEM",
+    "number": "6020",
+    "title": "Coordination Chemistry – Fundamentals and Applications",
+    "description": "This advanced graduate level course will focus on the structure, bonding, and reactivity of transition metal coordination compounds. The course will cover group theory, ligand field theory, substitution reactions, photochemistry, catalysis, and redox reactions. Examples from the literature will be included to highlight the current research trends and applications of coordination compounds.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: A working knowledge of inorganic, organic, and physical chemistry is required.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82386"
+  },
+  {
+    "course_id": "CHEM 6130",
+    "prefix": "CHEM",
+    "number": "6130",
+    "title": "Mass Spectrometry",
+    "description": "Survey of modern techniques in and associated with mass spectrometry, including historical perspectives, strengths/weaknesses, detection/quantification of analytes, ionization source/mass analyzer design, and construction of associated technologies including vacuum systems, ion detection, and ion optics. Ion formation processes will also be discussed.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CHEM 4130 ; Students cannot get credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83790"
+  },
+  {
+    "course_id": "CHEM 6140",
+    "prefix": "CHEM",
+    "number": "6140",
+    "title": "NMR Spectroscopy for Scientists and Engineers",
+    "description": "This course will review modern techniques of multi-dimensional NMR spectroscopy, including the history of magnetic resonance, principles of NMR, 13C and 1H NMR, multinuclear NMR, 2D homonuclear and heteronuclear methods, nuclear Overhauser effect, relaxation, structure elucidation, solid-state NMR and the nuts and bolts of NMR spectrometers and probes. This course is intended for graduate and upper-level undergraduate students in the School of Science and Engineering.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: CHEM 4140 ; Students cannot get credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83840"
+  },
+  {
+    "course_id": "CHEM 6200",
+    "prefix": "CHEM",
+    "number": "6200",
+    "title": "Organic Spectra Interpretation",
+    "description": "Spectra of various kinds are essential tools in modern chemistry. This course will deal with the interpretation of mass, infrared, NMR and UV-visible spectra as applied to the identification and structural characterization of organic compounds.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83639"
+  },
+  {
+    "course_id": "CHEM 6210",
+    "prefix": "CHEM",
+    "number": "6210",
+    "title": "Advanced Organic Chemistry I",
+    "description": "An introduction to the organic chemical literature. A consideration of reactions of synthetic importance to the organic chemist with emphasis on the influence of structure on the behavior of organic molecules.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82388"
+  },
+  {
+    "course_id": "CHEM 6300",
+    "prefix": "CHEM",
+    "number": "6300",
+    "title": "Medicinal Chemistry",
+    "description": "This course explores the fundamental principles that define the relationship between chemical structure and the biological action of drug molecules. A major focus of the course is the application of these chemical principles to molecular-targeted drug discovery, molecular mechanisms of pharmacological activity, and the biopharmaceutical properties of drugs. The relationships between drug structure, therapeutic properties, and physicochemical characteristics will be discussed. Structure activity relationships (SAR), structure-property relationships (SPR) and ADME (absorption, distribution, metabolism, and excretion) will be explored and presented through case studies. The roles of computational chemistry, molecular modeling, and biophysical methods in the understanding of the relationship between structure and biological activity will also be studied. Although an emphasis will be placed on orally bioavailable small molecules, alternative drug modalities will also be discussed.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CHEM 4300 ; Students cannot receive credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82389"
+  },
+  {
+    "course_id": "CHEM 6330",
+    "prefix": "CHEM",
+    "number": "6330",
+    "title": "Drug Discovery",
+    "description": "This course will examine how bioinformatics, functional genomics, and other modern biotechnologies are used to speed the discovery of new drugs, especially those small organic molecules to treat human diseases with large unmet therapeutic need. Special emphasis will be placed on molecular target identification and validation as well as high-throughput screening to identify a lead. Topics to be discussed will include transgenic mice, RNA interference, DNA and protein microarrays, homogenous time-resolved fluorescence bioassays, phage-display, combinatorial chemistry, and parallel synthesis.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: a knowledge of organic chemistry is required.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CHEM 4330 ; Students cannot receive credit for both this course and CHEM 4330 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82391"
+  },
+  {
+    "course_id": "CHEM 6520",
+    "prefix": "CHEM",
+    "number": "6520",
+    "title": "Advanced Analytical Chemistry",
+    "description": "A course in the principles of analytical chemistry emphasizing the role of equilibrium chemistry in chemical analysis and the statistical design of experiments. Topics covered include equilibrium chemistry, electrochemistry, chromatographic separations, thermal methods, and chemometrics/experimental design.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82394"
+  },
+  {
+    "course_id": "CHEM 6540",
+    "prefix": "CHEM",
+    "number": "6540",
+    "title": "Electrochemistry",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83839"
+  },
+  {
+    "course_id": "CHEM 6610",
+    "prefix": "CHEM",
+    "number": "6610",
+    "title": "Natural Polymers and Materials",
+    "description": "This course provides students with a comprehensive understanding of the diverse range of natural polymers, their role in nature, routes to production, physical properties, and applications. Natural polymers are of growing importance as society transitions from carbon derived from petroleum to readily renewable sources such as plants. Furthermore, natural polymer biosynthesis occurs under mild and sustainable conditions that provide representative examples of green chemistry. Natural polymers offer desirable attributes such as biodegradability and properties that can be manipulated by traditional methods such as modification or blending as well as via genetic engineering. The course introduces numerous families of natural polymers from sources such as plant cell walls, rubber trees, grains, crustacean exoskeletons, fungal cell walls, microbial fermentation, seaweed, seeds, silkworms, spiders, and animals. Applications of natural polymers and their modified forms that will be discussed include but are not limited to, thickeners, biodegradable plastics, medical materials, fibers in composites, nanoparticles, antimicrobials, and cosmetic ingredients.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CHEM 4610 ; Students cannot get credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83677"
+  },
+  {
+    "course_id": "CHEM 6620",
+    "prefix": "CHEM",
+    "number": "6620",
+    "title": "Polymer Chemistry",
+    "description": "This course will introduce synthetic and kinetic aspects of various polymerization reactions that have been employed to produce commodity and specialty plastic materials. Control and prediction of the molecular weight distribution for different polymerization mechanisms will be discussed along with various characterization techniques of molecular weight distribution and its relation to properties. Thermal/solution properties, chemical/physical properties, and uses of polymers also will be discussed.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: CHEM 4620 ; Students cannot get credit for both this course and CHEM 4620 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84000"
+  },
+  {
+    "course_id": "CHEM 6630",
+    "prefix": "CHEM",
+    "number": "6630",
+    "title": "Technical and Leadership skills for Academia/Industry",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90393"
+  },
+  {
+    "course_id": "CHEM 6660",
+    "prefix": "CHEM",
+    "number": "6660",
+    "title": "Polymer Analysis and Characterization",
+    "description": "The objective of this course is to provide the student with a broad survey of methods of analysis and characterization of polymers. Thermal analysis, molecular weight characterization, spectroscopy, and mechanical property determination will be reviewed with an emphasis on method of measurement, quantities measured, and quantities derived from the measurements. Select applications will be used to convey the usefulness of these methods for characterizing polymers and their properties.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82396"
+  },
+  {
+    "course_id": "CHEM 6710",
+    "prefix": "CHEM",
+    "number": "6710",
+    "title": "Chemical Biology",
+    "description": "This course introduces the fundamentals of protein structure and function with an emphasis on chemical concepts as applied to biological problems. It provides an introduction to enzymatic reaction mechanisms and includes interactive hands-on computer-aided visualization exercises. The goal is to equip students with an understanding and appreciation for the diversity and versatility of protein function. This course is intended for graduate or upper-level undergraduate students in the School of Science and Engineering.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: CHEM 4710 . Students cannot get credit for both this course and CHEM 4710 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83497"
+  },
+  {
+    "course_id": "CHEM 6720",
+    "prefix": "CHEM",
+    "number": "6720",
+    "title": "Proteomics and Structural Bioinformatics",
+    "description": "Proteomics and Structural Bioinformatics is a survey of modern techniques of protein biochemistry, bioinformatics, protein chemistry, and proteomics, and their applications in the broad field of structural biology and functional genomics. It is targeted to upper-level undergraduate and graduate students in chemistry and/or biology.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: CHEM 4720",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84239"
+  },
+  {
+    "course_id": "CHEM 6750",
+    "prefix": "CHEM",
+    "number": "6750",
+    "title": "Biocatalysis: Fundamentals and Applications",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83676"
+  },
+  {
+    "course_id": "CHEM 6900",
+    "prefix": "CHEM",
+    "number": "6900",
+    "title": "Chemistry Seminar",
+    "description": "",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82397"
+  },
+  {
+    "course_id": "CHEM 6910",
+    "prefix": "CHEM",
+    "number": "6910",
+    "title": "Chemistry Teaching Seminar",
+    "description": "Discussions and seminars on how to deal with the various aspects of teaching and related problems encountered by teaching assistants in chemistry. Seminar topics will include: cognitive theories of learning; several models of teaching; educational psychology; attitude and motivational factors; communication and presentation skills; leadership; time management; how to write an exam; grading problems; ethics; group problem solving skills; and cultural diversity. Seminars will be led by a senior, experienced teaching assistant along with participating faculty.",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82398"
+  },
+  {
+    "course_id": "CHEM 6940",
+    "prefix": "CHEM",
+    "number": "6940",
+    "title": "Readings in Chemistry",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82399"
+  },
+  {
+    "course_id": "CHEM 6950",
+    "prefix": "CHEM",
+    "number": "6950",
+    "title": "Introduction to Research",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83471"
+  },
+  {
+    "course_id": "CHEM 6960",
+    "prefix": "CHEM",
+    "number": "6960",
+    "title": "Selected Topics in Chemistry",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82400"
+  },
+  {
+    "course_id": "CHEM 6970",
+    "prefix": "CHEM",
+    "number": "6970",
+    "title": "Masters Project",
+    "description": "Active participation in a semester-long research project, under the supervision of a faculty adviser, leading to a master’s project report. This research project serves as the culminating experience for the master’s project track. The research project must result in documentation established by the department, but is not submitted to the Office of Graduate Education and is not archived in the library.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82401"
+  },
+  {
+    "course_id": "CHEM 6990",
+    "prefix": "CHEM",
+    "number": "6990",
+    "title": "Master’s Thesis",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a master’s thesis. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82402"
+  },
+  {
+    "course_id": "CHEM 9990",
+    "prefix": "CHEM",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82403"
+  }
+]

@@ -1,0 +1,1474 @@
+[
+  {
+    "course_id": "BIOL 1010",
+    "prefix": "BIOL",
+    "number": "1010",
+    "title": "Introduction to Biology",
+    "description": "Introduction to biological systems. Discussion of problems associated with biological organization, scaling, and hierarchy. Major topics covered include evolution, genetics and medicine, and ecology. The course considers the biological components of various environmental, social, and individual problems. Course is taught using both traditional and research-based pedagogical methods. Corequisite: BIOL 1015 or BIOL 1016 Attributes Data Intensive 1",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82283"
+  },
+  {
+    "course_id": "BIOL 1015",
+    "prefix": "BIOL",
+    "number": "1015",
+    "title": "Introduction to Biology Laboratory",
+    "description": "The goal of this laboratory course is to learn about biology through hands-on, project-based lab activities that engage students in actual biology experiments and procedures - learning biology by actually doing biology. Corequisite: BIOL 1010 Attributes Data Intensive 1",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83498"
+  },
+  {
+    "course_id": "BIOL 1016",
+    "prefix": "BIOL",
+    "number": "1016",
+    "title": "Introduction to Biology Computational Laboratory",
+    "description": "The goal of this laboratory course is to learn about biology through computational data analysis. Students will be introduced to a wide variety of real-world biological data sets. Students will learn how to manage, visualize, analyze, and interpret biological data. This class culminates in a collaborative research project. Students enrolled in a major other than biology and students with an interest in computational biology are particularly encouraged to register for this course Corequisite: BIOL 1010",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84112"
+  },
+  {
+    "course_id": "BIOL 1550",
+    "prefix": "BIOL",
+    "number": "1550",
+    "title": "Biology in Popular Fiction",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90390"
+  },
+  {
+    "course_id": "BIOL 2120",
+    "prefix": "BIOL",
+    "number": "2120",
+    "title": "Introduction to Cell and Molecular Biology",
+    "description": "Structural and functional relationships of cells are discussed with regard to similarities among all living organisms. Introduction to cellular biochemistry, metabolism and energy flow, cellular and Mendelian genetics, and the chemical basis of heredity. Corequisite: BIOL 2125",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82284"
+  },
+  {
+    "course_id": "BIOL 2125",
+    "prefix": "BIOL",
+    "number": "2125",
+    "title": "Introduction to Cell and Molecular Biology Laboratory",
+    "description": "The goal of this course is to gain practical experience with cellular and molecular biology through hands-on experimental techniques. The laboratory exercises are designed to illustrate current concepts in cellular and molecular biology. Corequisite: BIOL 2120",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83994"
+  },
+  {
+    "course_id": "BIOL 2160",
+    "prefix": "BIOL",
+    "number": "2160",
+    "title": "Introduction to Geobiology",
+    "description": "This course focuses on the co-evolution of life with Earth’s systems and targets students in earth science, biology, chemistry, and physics. Topics include the emergence and early evolution of life on Earth, the environmental limits of life, microbial and metabolic evolution; the role of life in moderating global elemental cycles; earliest records of life; evolution of photosynthesis and the Great Oxidation Event; fossilization and evolution of complex life; mass radiations, mass extinctions, and global change.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ERTH 1100 recommended, not required.",
+    "prerequisites": [
+      "ERTH 1100"
+    ],
+    "prerequisite_logic": "ERTH 1100",
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ERTH 2160 . Students cannot obtain credit for both BIOL 2160 and ERTH 2160.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83644"
+  },
+  {
+    "course_id": "BIOL 2300",
+    "prefix": "BIOL",
+    "number": "2300",
+    "title": "Field Experiences In Aquatic Biology",
+    "description": "This course provides students with an introduction to the biology and ecology of aquatic habitats found in upstate New York, with a focus on field sampling techniques and data analysis. Topics covered may include lakes, rivers, wetlands, and other inland water bodies, as well as the unique flora and fauna that inhabit these systems. Rensselaer Polytechnic Institute’s Troy, NY campus is uniquely situated near the Hudson Valley, an aquatic ecosystem with both urban and rural land use. This location can provide excellent research opportunities for students who are interested in biotic responses to environmental stressors.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SUMMER TERM ONLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90377"
+  },
+  {
+    "course_id": "BIOL 2500",
+    "prefix": "BIOL",
+    "number": "2500",
+    "title": "Genetics and Evolution",
+    "description": "Mechanisms of inheritance in eukaryotes and prokaryotes; genetic mapping, gene expression, cloning and sequencing; quantitative and population genetics, and synthetic theory of evolution.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 2120",
+    "prerequisites": [
+      "BIOL 2120"
+    ],
+    "prerequisite_logic": "BIOL 2120",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82286"
+  },
+  {
+    "course_id": "BIOL 2900",
+    "prefix": "BIOL",
+    "number": "2900",
+    "title": "Research in Biology",
+    "description": "Independent study program for the purpose of developing research skills under the guidance of a faculty member. This course may be repeated, and it cannot count as a biology elective.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82287"
+  },
+  {
+    "course_id": "BIOL 2930",
+    "prefix": "BIOL",
+    "number": "2930",
+    "title": "Out-of-Classroom Experience in Biology",
+    "description": "Credit to be given for an out-of-classroom experience related to biology having intellectual content relevant to the student’s educational or career goals, subject to approval of a written proposal and a final report. The adviser (for biology majors) or, with permission, any Biology faculty member may serve as evaluator. For each out-of-classroom experience, a student may register only once for 1 to 4 credit hours. This course cannot be used as a biology elective.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82288"
+  },
+  {
+    "course_id": "BIOL 4050",
+    "prefix": "BIOL",
+    "number": "4050",
+    "title": "Evolutionary Cell Biology",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90394"
+  },
+  {
+    "course_id": "BIOL 4070",
+    "prefix": "BIOL",
+    "number": "4070",
+    "title": "Marine Biology",
+    "description": "The goal of this course is to provide both biology majors and non-majors with a solid foundation in the physical and biological aspects of the marine environment. With this foundation, we will delve into a discussion-based investigation in current topics in marine biology.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 1010",
+    "prerequisites": [
+      "BIOL 1010"
+    ],
+    "prerequisite_logic": "BIOL 1010",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: BIOL 6070",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90384"
+  },
+  {
+    "course_id": "BIOL 4100",
+    "prefix": "BIOL",
+    "number": "4100",
+    "title": "From Neuron to Behavior",
+    "description": "A detailed survey of important topics in the neurosciences. Some of the topics to be covered in this class are: basic mechanisms of neural signaling (neurophysiology, synaptic transmission, and molecular signaling); understanding of sensation/movement and in particular how it relates to neuroanatomy; neurodevelopment and how the mature brain can change (plasticity); complex brainfunctions and neurological disease. Taught together with BIOL 6100.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 1010 , BIOL 2120 , or permission of the instructor.",
+    "prerequisites": [
+      "BIOL 1010",
+      "BIOL 2120"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "BIOL 1010",
+        "BIOL 2120"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BIOL 6100 . Although there is extra work associated with the 6100-course, students cannot take both BIOL 4100 and BIOL 6100 for credit.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82289"
+  },
+  {
+    "course_id": "BIOL 4110",
+    "prefix": "BIOL",
+    "number": "4110",
+    "title": "Investigative Medicine I",
+    "description": "Students will be exposed to real time investigative biomedical research projects that are currently in development, taught the principles of research project development and exposed to clinical experiences at a level typically found in college graduates/post graduates who are entering medical school.",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: Intended only for 3rd Year RPI students who are in the combined B.S./M.D. Physician Scientist Program with Albany Medical College.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: BMED 4110 . Students cannot obtain credit for both BIOL 4110 and BMED 4110.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83673"
+  },
+  {
+    "course_id": "BIOL 4120",
+    "prefix": "BIOL",
+    "number": "4120",
+    "title": "Investigative Medicine II",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "BIOL 4110 or BMED 4110",
+    "prerequisites": [
+      "BIOL 4110",
+      "BMED 4110"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "BIOL 4110",
+        "BMED 4110"
+      ]
+    },
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83674"
+  },
+  {
+    "course_id": "BIOL 4130",
+    "prefix": "BIOL",
+    "number": "4130",
+    "title": "Biomedical Research",
+    "description": "Independent research in health sciences, supervised by a faculty member, for the purpose of developing research skills. Such skills include defining a research project, both as a written and oral exercise for a scientific and general audience, and gathering preliminary research data enabling both a written and oral description of the project in the form of a research proposal and an oral defense. This is a communication-intensive course.",
+    "credit_hours": "6",
+    "prerequisites_raw": "or Corequisite: Restricted to 3rd Year RPI students who are in the combined B.S./M.D. Physician Scientist Program with Albany Medical College. Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: BMED 4130 . Students cannot obtain credit for both BIOL 4130 and BMED 4130.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84040"
+  },
+  {
+    "course_id": "BIOL 4140",
+    "prefix": "BIOL",
+    "number": "4140",
+    "title": "Cytoskeletal Biology",
+    "description": "This course is an in-depth study of current research within the broad field of cytoskeletal biology. Students will read, interpret, and critique recent primary literature, present new findings, lead discussions, and identify rising questions in the field.",
+    "credit_hours": "2",
+    "prerequisites_raw": "BIOL 4260 and permission of instructor.",
+    "prerequisites": [
+      "BIOL 4260"
+    ],
+    "prerequisite_logic": "BIOL 4260",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BIOL 6140 . Students cannot obtain credit for both BIOL 4140 and BIOL 6140.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84051"
+  },
+  {
+    "course_id": "BIOL 4150",
+    "prefix": "BIOL",
+    "number": "4150",
+    "title": "Cellular Neuroscience",
+    "description": "Neurons are uniquely organized to facilitate signal transmission and information processing in the brain. This course will examine the mechanisms that develop and maintain neurons, the unusual cell-biological problems these cells solve, and the experimental tools that drive modern neuroscience research. Students will read current scientific literature, evaluate it critically, and develop a research project.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 4100 and BIOL 4260 or equivalents, or by permission of instructor.",
+    "prerequisites": [
+      "BIOL 4100",
+      "BIOL 4260"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "BIOL 4100",
+        "BIOL 4260"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: BIOL 6150 . Students cannot recieve credit for both BIOL 4150 and BIOL 6150 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83787"
+  },
+  {
+    "course_id": "BIOL 4200",
+    "prefix": "BIOL",
+    "number": "4200",
+    "title": "Biostatistics",
+    "description": "An introduction to the concepts and techniques of modern statistics. Computer-based, in-class sessions will emphasize hands-on application of statistical techniques using data and examples drawn from the biological and medical sciences. Pre-class, online exercises will prepare students for in-depth classroom explorations. Topics covered will include sampling, regression, analysis of variance, and factor analysis, MANOVA, maximum likelihood methods, discriminant analysis, time series analysis, and forecasting. The final project requires analysis of a major research-related data set and write-up of results in the format of a scientific paper.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 1010 and MATH 1010 , or permission of the instructor.",
+    "prerequisites": [
+      "BIOL 1010",
+      "MATH 1010"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "BIOL 1010",
+        "MATH 1010"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82285"
+  },
+  {
+    "course_id": "BIOL 4220",
+    "prefix": "BIOL",
+    "number": "4220",
+    "title": "Machine Learning for Environmental Biology",
+    "description": "This course is designed to create an applied learning environment to introduce students to large scale datasets in the environmental field and learn advanced techniques for analyzing them. Students will learn multivariate data exploration techniques, evaluate the quality of large datasets, and analyze the data using machine learning techniques. Specifically students will propose, develop, and finalize projects where they will apply machine learning approaches to datasets to understand complex environmental biology processes. Along with these topics, students will learn to critically read current scientific literature relevant to their projects.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 4200 or by permission of the instructor. Attributes Data Intensive 2",
+    "prerequisites": [
+      "BIOL 4200"
+    ],
+    "prerequisite_logic": "BIOL 4200",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BIOL 6220 . A student cannot obtain credit for both BIOL 4220 and BIOL 6220.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83836"
+  },
+  {
+    "course_id": "BIOL 4240",
+    "prefix": "BIOL",
+    "number": "4240",
+    "title": "Topics in Circadian Biology",
+    "description": "This is an in-depth study of current papers within the broad field of Circadian Biology. Students will read and critique recent primary literature, present current research articles, and lead discussions on new findings in the field.",
+    "credit_hours": "2",
+    "prerequisites_raw": "or Corequisite: By permission of instructor only.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: BCBP 4240 Co-Listed: BIOL 6240 . Students can obtain credit for only one of these courses: BCBP 4240, BIOL 4240 or BIOL 6240.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84036"
+  },
+  {
+    "course_id": "BIOL 4250",
+    "prefix": "BIOL",
+    "number": "4250",
+    "title": "Developmental Biology",
+    "description": "Model systems provide the experimental basis for understanding the conserved principles of developmental biology. This class will cover fundamental topics including axis specification, pattern formation, cell fate and determination, cell differentiation, senescence, and apoptosis. Emphasis will be placed on integrating gene function and cell behavior with development. Model systems include vertebrates (e.g. frog and chick) and genetically tractable invertebrates (e.g. fruit flies and roundworms).",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 2120 and BIOL 2500",
+    "prerequisites": [
+      "BIOL 2120",
+      "BIOL 2500"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "BIOL 2120",
+        "BIOL 2500"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82290"
+  },
+  {
+    "course_id": "BIOL 4260",
+    "prefix": "BIOL",
+    "number": "4260",
+    "title": "Advanced Cell Biology",
+    "description": "This course is designed to enable students to understand how an organism functions at the cellular and molecular level, and further, how this functioning is regulated so that cells can adapt to changes in their environment. Students will learn the fundamental components of the cell (from protein to organelle), their characteristics, and how these components function in both normal and diseased cells. Students will also learn biochemical, structural, and mechanical aspects of cell functioning and regulation in normal and diseased cells. In addition, students will learn to critically read current scientific literature. By reading current literature, students will gain knowledge of the practice and presentation of science, as well as learn about new techniques and findings.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 2120 , and either BIOL 4620 or BIOL 4760 .",
+    "prerequisites": [
+      "BIOL 2120",
+      "BIOL 4620",
+      "BIOL 4760"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "BIOL 2120",
+            "BIOL 4620"
+          ]
+        },
+        "BIOL 4760"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BIOL 6260 . Students cannot obtain credit for both BIOL 4260 and BIOL 6260.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82291"
+  },
+  {
+    "course_id": "BIOL 4270",
+    "prefix": "BIOL",
+    "number": "4270",
+    "title": "Human Physiology",
+    "description": "Fundamental physiological processes and their mechanism of action in human and higher mammalian organisms. Emphasis on the control and interaction of physiological systems. Introduction to the muscle, nervous, circulatory, renal, respiratory, digestive, reproductive, and hormonal systems. Limited to Biology, Biochemistry and Biophysics, Biological Neuroscience, and Computational Biology majors, and Biology Accelerated Medical students.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 2120 or BIOL 4620 ; and CHEM 2250 and ( PHYS 1100 or PHYS 1110 ) . Not recommended for freshmen and sophomores.",
+    "prerequisites": [
+      "BIOL 2120",
+      "BIOL 4620",
+      "CHEM 2250",
+      "PHYS 1100",
+      "PHYS 1110"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "BIOL 2120",
+        {
+          "type": "AND",
+          "items": [
+            "BIOL 4620",
+            "CHEM 2250",
+            "PHYS 1100"
+          ]
+        },
+        "PHYS 1110"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82292"
+  },
+  {
+    "course_id": "BIOL 4310",
+    "prefix": "BIOL",
+    "number": "4310",
+    "title": "Microbiology",
+    "description": "Microbiology is the study of “microscopic organisms,” including members of all the kingdoms of life. The course has two objectives: 1) Provide an overview of the diversity, genetics, and physiology of microorganisms. 2) Review current topics of investigation in Microbiology in detail. Microbes will be studied from a cellular and molecular perspective. This includes structure, nutrition, growth, control, classification, and genetics. This course will provide biology students the necessary background in bacterial genetics, pathogenic microbiology, prokaryotic physiology, eukaryotic microbiology, molecular biology, and microbial ecology.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 2120 or permission of instructor.",
+    "prerequisites": [
+      "BIOL 2120"
+    ],
+    "prerequisite_logic": "BIOL 2120",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: BIOL 6310 . Students cannot obtain credit for both BIOL 4310 and BIOL 6310.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83410"
+  },
+  {
+    "course_id": "BIOL 4320",
+    "prefix": "BIOL",
+    "number": "4320",
+    "title": "Microbiology Lab",
+    "description": "Microbiology Laboratory will provide hands-on experience for broad training in bacteriology and mycology with emphasis on: microscopy, bacterial growth, and biochemical assays. An investigative component will involve characterization of an unknown bacterium using the analytical tools learned. In addition to laboratory experience and good technique, the course will emphasize written communication with reports in the format of scientific papers. This is a communication-intensive course.",
+    "credit_hours": "6",
+    "prerequisites_raw": "BIOL 2500",
+    "prerequisites": [
+      "BIOL 2500"
+    ],
+    "prerequisite_logic": "BIOL 2500",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83495"
+  },
+  {
+    "course_id": "BIOL 4340",
+    "prefix": "BIOL",
+    "number": "4340",
+    "title": "Animal Behavior",
+    "description": "The goal of this course is to provide students with an overview of animal behavior theory and empirical investigations using an active learning approach that stresses how to develop hypotheses and experimental designs to answer biological questions.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 1010",
+    "prerequisites": [
+      "BIOL 1010"
+    ],
+    "prerequisite_logic": "BIOL 1010",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84225"
+  },
+  {
+    "course_id": "BIOL 4345",
+    "prefix": "BIOL",
+    "number": "4345",
+    "title": "Microbial Pathogenesis",
+    "description": "This course is an advanced Microbiology course on the mechanisms of microbial pathogenesis. The course will examine the common features on how microbes cause disease. The course will be based on lectures and students’ presentations.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 4310 ; and permission of the instructor",
+    "prerequisites": [
+      "BIOL 4310"
+    ],
+    "prerequisite_logic": "BIOL 4310",
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: BCBP 4345 , BCBP 6345 Co-Listed: BIOL 6345",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84226"
+  },
+  {
+    "course_id": "BIOL 4350",
+    "prefix": "BIOL",
+    "number": "4350",
+    "title": "Virology",
+    "description": "This course will provide an exploration of the essential aspects of virology. Introductory examination of viral structure, entry, and replication for each of the major classes of viruses serve as a foundation. Case studies will examine virus host interactions and strategies for prevention and intervention of viral infection. Additional topics include: emerging viruses, viral detection, viral extinction, beneficial use of viruses, modified viruses as research tools.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 4310 and BIOL 4620 ; or permission of instructor. Prerequisite or Corequisite: Prerequisites:",
+    "prerequisites": [
+      "BIOL 4310",
+      "BIOL 4620"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "BIOL 4310",
+        "BIOL 4620"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BIOL 6350 . A student cannot get credit for both BIOL 4350 and BIOL 6350.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83493"
+  },
+  {
+    "course_id": "BIOL 4470",
+    "prefix": "BIOL",
+    "number": "4470",
+    "title": "Muscle & Cardiac Biology",
+    "description": "This is an in-depth study of current papers within the broad field of Muscle & Cardiac Biology. Students will read and critique primary papers, present current research articles, and lead critical discussions of topics listed in the class schedule.",
+    "credit_hours": "2",
+    "prerequisites_raw": "BIOL 4270 or permission of the instructor",
+    "prerequisites": [
+      "BIOL 4270"
+    ],
+    "prerequisite_logic": "BIOL 4270",
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: BCBP 4470 / BCBP 6470 Co-Listed: BIOL 6470 . Students can obtain credit for only one of these courses: BIOL 4470, BCBP 4470, BCBP 6470, or BIOL 6470.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83940"
+  },
+  {
+    "course_id": "BIOL 4500",
+    "prefix": "BIOL",
+    "number": "4500",
+    "title": "Advanced Topics in Ecology and Environmental Biology",
+    "description": "Students in this course will complete an in-depth study of current peer reviewed literature and topics in the field of ecology and environmental biology. Students will read and critique peer-reviewed papers and present and lead discussions on peer-reviewed articles. Topics covered will include populations and biological communities, biodiversity, ecosystem structures and habitats, climate change, and ecosystem attributes.",
+    "credit_hours": "2",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BIOL 6500",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84230"
+  },
+  {
+    "course_id": "BIOL 4520",
+    "prefix": "BIOL",
+    "number": "4520",
+    "title": "Human Population",
+    "description": "This interdisciplinary science course examines the human ecology of the global human overpopulation problem. Pollution, resource depletion, extinctions, unrest and carrying capacity are explored, as well as political, psychological, cultural and technological adaptations. Feedback mechanisms will be proposed, discussed, and interpreted. Students will engage in debate and systems dynamics model building.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 1010 and MATH 1010",
+    "prerequisites": [
+      "BIOL 1010",
+      "MATH 1010"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "BIOL 1010",
+        "MATH 1010"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84178"
+  },
+  {
+    "course_id": "BIOL 4540",
+    "prefix": "BIOL",
+    "number": "4540",
+    "title": "Sequence Analysis",
+    "description": "This course covers the theory and practice of biological sequence analysis, including algorithms for pairwise sequence alignment, multiple sequence alignment, phylogenetic analysis, and database searching. Concepts covered include homology, sequence similarity, parsimony, mechanisms and metrics of molecular evolution, biological data bases, database search algorithms (BLAST), and statistical significance. Selected topics include hidden Markov models, bootstrap analysis and gene finding. Modern sequence analysis software will be provided. Laptop computers and programming knowledge are required. Meets jointly with BIOL 6410.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 4620 and CSCI 1200 , or equivalents. Prerequisite or Corequisite: MATH 1020",
+    "prerequisites": [
+      "BIOL 4620",
+      "CSCI 1200",
+      "MATH 1020"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "BIOL 4620",
+            "CSCI 1200"
+          ]
+        },
+        "MATH 1020"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BIOL 6410 . Students cannot obtain credit for both BIOL 4540 and BIOL 6410.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82293"
+  },
+  {
+    "course_id": "BIOL 4550",
+    "prefix": "BIOL",
+    "number": "4550",
+    "title": "Molecular Modeling",
+    "description": "This course covers the theory and practice of the structural modeling of proteins and other biomolecules using informatics-driven and energy-based approaches. Topics include template-based comparative modeling, secondary structure prediction, tertiary structure prediction, protein classification, sidechain rotamers, docking, protein design, energy minimization, electrostatics, molecular dynamics, and molecular surfaces. Molecular modeling software will be provided. Laptop computers are required. BIOL 4550, BIOL 6420, BCBP 4550, and BCBP 6420 meet jointly.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 1020 , BIOL 4620 and BIOL 4760 , or BCBP 4760 , or CHEM 4760 .",
+    "prerequisites": [
+      "MATH 1020",
+      "BIOL 4620",
+      "BIOL 4760",
+      "BCBP 4760",
+      "CHEM 4760"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MATH 1020",
+            "BIOL 4620",
+            "BIOL 4760"
+          ]
+        },
+        "BCBP 4760",
+        "CHEM 4760"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: BCBP 4550 / BCBP 6420 Co-Listed: BIOL 6420 . Students can obtain credit for only one of these courses: BIOL 4550, BCBP 4550, BCBP 6420 or BIOL 6420.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82294"
+  },
+  {
+    "course_id": "BIOL 4620",
+    "prefix": "BIOL",
+    "number": "4620",
+    "title": "Molecular Biology",
+    "description": "Nucleotide biosynthesis; structure, replication, transcription, and translation of nucleic acids; reassociation of nucleic acids; molecular cloning, sequencing, and endonuclease mapping of DNA; control of gene expression in bacteria and higher organisms.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 2120 and BIOL 2500 ; or permission of the instructor.",
+    "prerequisites": [
+      "BIOL 2120",
+      "BIOL 2500"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "BIOL 2120",
+        "BIOL 2500"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82295"
+  },
+  {
+    "course_id": "BIOL 4630",
+    "prefix": "BIOL",
+    "number": "4630",
+    "title": "Molecular Biology II",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82296"
+  },
+  {
+    "course_id": "BIOL 4660",
+    "prefix": "BIOL",
+    "number": "4660",
+    "title": "The Biology of Systems",
+    "description": "This course is designed to be a first course in the study of “systems biology”, to introduce students to the field, the experimental and computational methods that are used within it, and the type of insights that the field can provide to biology. To fully appreciate the complexity of living systems, researchers gather systematic, quantitative measurements of a system’s components using cutting-edge omics techniques. In addition, researchers also leverage computing power to describe, model, and predict dynamic behaviors that could otherwise not be perceived in such large scale omics data. Along with these topics, students will learn to critically read current scientific literature.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 4620 and BIOL 4760 or BCBP 4760 or CHEM 4760 ; or permission of the instructor. Attributes Data Intensive 2",
+    "prerequisites": [
+      "BIOL 4620",
+      "BIOL 4760",
+      "BCBP 4760",
+      "CHEM 4760"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "BIOL 4620",
+            "BIOL 4760"
+          ]
+        },
+        "BCBP 4760",
+        "CHEM 4760"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: BCBP 4660 / BCBP 6650 Co-Listed: BIOL 6650 . Students can obtain credit for only one of these courses: BIOL 4660, BCBP 4660, BCBP 6650 and BIOL 6650.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83730"
+  },
+  {
+    "course_id": "BIOL 4710",
+    "prefix": "BIOL",
+    "number": "4710",
+    "title": "Biochemistry Laboratory",
+    "description": "Major principles of biochemistry are illustrated, as students purify and analyze specific proteins. Experience is obtained with various techniques including protein extraction from bacteria and tissues, chromatography, ultracentrifugation, spectrophotometric analysis, and electrophoresis. The course includes extensive hands-on laboratory work, as well as the writing of in-depth reports. This is a communication-intensive course.",
+    "credit_hours": "6",
+    "prerequisites_raw": "BIOL 2120 and BIOL 2125",
+    "prerequisites": [
+      "BIOL 2120",
+      "BIOL 2125"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "BIOL 2120",
+        "BIOL 2125"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: BCBP 4710 . Students cannot obtain credit for both BIOL 4710 and BCBP 4710.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82298"
+  },
+  {
+    "course_id": "BIOL 4720",
+    "prefix": "BIOL",
+    "number": "4720",
+    "title": "Molecular Biology Laboratory",
+    "description": "The techniques of gel electrophoresis, restriction enzyme mapping, PCR, and use of a molecular biology software program are applied to the study of bacterial plasmids and mammalian genes. The course includes extensive hands-on laboratory work, as well as the writing of in-depth reports. This is a communication-intensive course.",
+    "credit_hours": "6",
+    "prerequisites_raw": "BIOL 2120 , BIOL 2125 , and BIOL 4620 .",
+    "prerequisites": [
+      "BIOL 2120",
+      "BIOL 2125",
+      "BIOL 4620"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "BIOL 2120",
+        "BIOL 2125",
+        "BIOL 4620"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82299"
+  },
+  {
+    "course_id": "BIOL 4740",
+    "prefix": "BIOL",
+    "number": "4740",
+    "title": "Advanced Cell Biology Laboratory",
+    "description": "Students will learn a variety of modern cell biology techniques such as cell culture, genetic analysis, immunocytochemistry, fluorescence microscopy, and live cell imaging. Using these techniques, students will investigate the function of genetically manipulated proteins in cells. In the last third of the semester, students will develop independent experimental research plans to address questions of interest to the student. This is a communication-intensive course.",
+    "credit_hours": "6",
+    "prerequisites_raw": "BIOL 2120 , BIOL 2125 , and BIOL 2500 .",
+    "prerequisites": [
+      "BIOL 2120",
+      "BIOL 2125",
+      "BIOL 2500"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "BIOL 2120",
+        "BIOL 2125",
+        "BIOL 2500"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82300"
+  },
+  {
+    "course_id": "BIOL 4760",
+    "prefix": "BIOL",
+    "number": "4760",
+    "title": "Molecular Biochemistry I",
+    "description": "Part I of a two-semester sequence focusing on the chemistry, structure, and function of biological molecules, macromolecules, and systems. Topics covered include protein and nucleic acid structure, enzymology, mechanisms of catalysis, regulation, lipids and membranes, carbohydrates, bioenergetics, and carbohydrate metabolism.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CHEM 2250 and; BIOL 1010 or BIOL 2120",
+    "prerequisites": [
+      "CHEM 2250",
+      "BIOL 1010",
+      "BIOL 2120"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CHEM 2250",
+            "BIOL 1010"
+          ]
+        },
+        "BIOL 2120"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Cross Listed: BCBP 4760 and CHEM 4760 . Students can obtain credit for only one of these courses: BIOL 4760 / BCBP 4760 / CHEM 4760.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82301"
+  },
+  {
+    "course_id": "BIOL 4770",
+    "prefix": "BIOL",
+    "number": "4770",
+    "title": "Molecular Biochemistry II",
+    "description": "The second semester of the molecular biochemistry sequence. Topics include lipids and lipid metabolism, amino acid metabolism and the coenzymes involved in this metabolism, nucleic acid synthesis and chemistry, protein synthesis and degradation, integration of metabolism, photobiology, and photosynthesis. This course is taught in studio mode.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BCBP 4760 , BIOL 4760 or CHEM 4760",
+    "prerequisites": [
+      "BCBP 4760",
+      "BIOL 4760",
+      "CHEM 4760"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "BCBP 4760",
+            "BIOL 4760"
+          ]
+        },
+        "CHEM 4760"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: BCBP 4770 and CHEM 4770 . Students can obtain credit for only one of these courses: BIOL 4770 / BCBP 4770 / CHEM 4770.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82302"
+  },
+  {
+    "course_id": "BIOL 4850",
+    "prefix": "BIOL",
+    "number": "4850",
+    "title": "Principles of Ecology",
+    "description": "A study of the fundamental principles of the ecology of plants and animals. Interrelationships between organisms and their environments are discussed as well as material and energy balances in the ecosystem. Emphasis on the biology of populations (producers, consumers, and decomposers).",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 1010 or BIOL 2120",
+    "prerequisites": [
+      "BIOL 1010",
+      "BIOL 2120"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "BIOL 1010",
+        "BIOL 2120"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82303"
+  },
+  {
+    "course_id": "BIOL 4860",
+    "prefix": "BIOL",
+    "number": "4860",
+    "title": "Evolution",
+    "description": "Phylogeny and the patterns of evolution in the fossil record, geography of evolution, biodiversity, origin of genetic variation, genetic drift, natural selection and adaptation, genetic theory of natural selection, evolution of phenotypic traits, conflict and cooperation, speciation, fitness, coevolution, genomic evolution, evolution and development, macroevolution, evolutionary science and society. Lectures, student presentations, and peer learning.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 2500",
+    "prerequisites": [
+      "BIOL 2500"
+    ],
+    "prerequisite_logic": "BIOL 2500",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82304"
+  },
+  {
+    "course_id": "BIOL 4880",
+    "prefix": "BIOL",
+    "number": "4880",
+    "title": "Global Environmental Change",
+    "description": "This 4-credit course will explore global environmental cycles, patterns, and changes. It will discuss elemental cycles of phosphorus, nitrogen, and carbon, and pollutants such as mercury, lead, and CFCs, and how changes in these cycles influence organisms and ecosystems. Also discussed will be large-scale biotic processes and theory about ecosystem dynamics. Major environmental issues such as acid rain, eutrophication, climate change, and land use conversation will also be discussed.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 1010 , BIOL 1015 , BIOL 2120 , and BIOL 2125",
+    "prerequisites": [
+      "BIOL 1010",
+      "BIOL 1015",
+      "BIOL 2120",
+      "BIOL 2125"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "BIOL 1010",
+        "BIOL 1015",
+        "BIOL 2120",
+        "BIOL 2125"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: BIOL 6880 . Students cannot obtain credit for both BIOL 4880 and BIOL 6880.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83734"
+  },
+  {
+    "course_id": "BIOL 4900",
+    "prefix": "BIOL",
+    "number": "4900",
+    "title": "Team Research",
+    "description": "Independent research by teams under the supervision of a faculty member, including literature search, brief proposal of project design, conduct of project to completion, and writing of a formal report in the form of a scientific paper and presentation of a seminar or poster on the project.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 1010 , BIOL 2120 , and BIOL 2500 ; or equivalents and who have permission of the instructor to register. Restricted to Biology majors.",
+    "prerequisites": [
+      "BIOL 1010",
+      "BIOL 2120",
+      "BIOL 2500"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "BIOL 1010",
+        "BIOL 2120",
+        "BIOL 2500"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82305"
+  },
+  {
+    "course_id": "BIOL 4940",
+    "prefix": "BIOL",
+    "number": "4940",
+    "title": "Biology Independent Study",
+    "description": "Selected readings in the biological literature to supplement the scientific background of undergraduate students. May be used as a biology elective with approval of Biology Department Curriculum Committee.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82306"
+  },
+  {
+    "course_id": "BIOL 4960",
+    "prefix": "BIOL",
+    "number": "4960",
+    "title": "Topics in Biology",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83675"
+  },
+  {
+    "course_id": "BIOL 4970",
+    "prefix": "BIOL",
+    "number": "4970",
+    "title": "Non-thesis Research",
+    "description": "Independent study program for the purpose of developing research skills under the guidance of a faculty member. This course may be repeated once, and it can count as a biology elective.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82307"
+  },
+  {
+    "course_id": "BIOL 4980",
+    "prefix": "BIOL",
+    "number": "4980",
+    "title": "Biomedical Research",
+    "description": "Independent research in health sciences, supervised by a faculty member, for the purpose of developing research skills. Such skills include defining a research project, both as a written and oral exercise for a scientific and general audience, and gathering preliminary research data enabling both a written and oral description of the project in the form of a research proposal and an oral defense. Open to students in the accelerated physician-scientist curriculum only. This course is the Culminating Experience for students in this program. This is a communication-intensive course.",
+    "credit_hours": "6",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82308"
+  },
+  {
+    "course_id": "BIOL 4990",
+    "prefix": "BIOL",
+    "number": "4990",
+    "title": "Senior Research Thesis",
+    "description": "Independent research, supervised by a faculty member, culminating in a written thesis and oral presentation.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82309"
+  },
+  {
+    "course_id": "BIOL 6050",
+    "prefix": "BIOL",
+    "number": "6050",
+    "title": "Evolutionary Cell Biology",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90395"
+  },
+  {
+    "course_id": "BIOL 6070",
+    "prefix": "BIOL",
+    "number": "6070",
+    "title": "Marine Biology",
+    "description": "The goal of this course is to provide both biology majors and non-majors with a solid foundation in the physical and biological aspects of the marine environment. With this foundation, we will delve into a discussion-based investigation in current topics in marine biology.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: BIOL 4070",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90385"
+  },
+  {
+    "course_id": "BIOL 6100",
+    "prefix": "BIOL",
+    "number": "6100",
+    "title": "From Neuron to Behavior",
+    "description": "A detailed survey of important topics in the neurosciences. Some of the topics to be covered in this class are: basic mechanisms of neural signaling (neurophysiology, synaptic transmission, and molecular signaling; understanding of sensation/movement and in particular how it relates to neuroanatomy; neurodevelopment and how the mature brain can change (plasticity); and complex brain functions and neurological disease. Students prepare analyses and make a presentation of a paper in the original literature.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Previous knowledge of BIOL 1010 and BIOL 2120",
+    "prerequisites": [
+      "BIOL 1010",
+      "BIOL 2120"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "BIOL 1010",
+        "BIOL 2120"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BIOL 4100 . Since there is overlap associated with the 4100-course, students cannot take both BIOL 4100 and BIOL 6100 for credit.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82310"
+  },
+  {
+    "course_id": "BIOL 6140",
+    "prefix": "BIOL",
+    "number": "6140",
+    "title": "Cytoskeletal Biology",
+    "description": "This course is an in-depth study of current research within the broad field of cytoskeletal biology. Students will read, interpret, and critique recent primary literature, present new findings, lead discussions, and identify rising questions in the field.",
+    "credit_hours": "2",
+    "prerequisites_raw": "Prior knowledge of BIOL 4260",
+    "prerequisites": [
+      "BIOL 4260"
+    ],
+    "prerequisite_logic": "BIOL 4260",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BIOL 4140 . Students cannot obtain credit for both BIOL 4140 and BIOL 6140.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84052"
+  },
+  {
+    "course_id": "BIOL 6150",
+    "prefix": "BIOL",
+    "number": "6150",
+    "title": "Cellular Neuroscience",
+    "description": "Neurons are uniquely organized to facilitate signal transmission and information processing in the brain. This course will examine the mechanisms that develop and maintain neurons, the unusual cell-biological problems these cells solve, and the experimental tools that drive modern neuroscience research. Students will read current scientific literature, evaluate it critically, and develop a research project.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of BIOL 4100 and BIOL 4260",
+    "prerequisites": [
+      "BIOL 4100",
+      "BIOL 4260"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "BIOL 4100",
+        "BIOL 4260"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: BIOL 4150 . Students cannot obtain credit for both BIOL 4150 and BIOL 6150.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83788"
+  },
+  {
+    "course_id": "BIOL 6220",
+    "prefix": "BIOL",
+    "number": "6220",
+    "title": "Machine Learning for Environmental Biology",
+    "description": "This course is designed to create an applied learning environment to introduce students to large scale datasets in the environmental field and learn advanced techniques for analyzing them. Students will learn multivariate data exploration techniques, evaluate the quality of large datasets, and analyze the data using machine learning techniques. Specifically students will propose, develop, and finalize projects where they will apply machine learning approaches to datasets to understand complex environmental biology processes. Along with these topics, students will learn to critically read current scientific literature relevant to their projects.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of BIOL 4200",
+    "prerequisites": [
+      "BIOL 4200"
+    ],
+    "prerequisite_logic": "BIOL 4200",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BIOL 4220 . Students cannot obtain credit for both BIOL 4220 and BIOL 6220.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83837"
+  },
+  {
+    "course_id": "BIOL 6240",
+    "prefix": "BIOL",
+    "number": "6240",
+    "title": "Topics in Circadian Biology",
+    "description": "This is an in-depth study of current papers within the broad field of Circadian Biology. Students will read and critique recent primary literature, present current research articles, and lead discussions on new findings in the field.",
+    "credit_hours": "2",
+    "prerequisites_raw": "or Corequisite: By permission of instructor only.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: BCBP 4240 and BCBP 6240 Co-Listed: BIOL 4240 . Students can obtain credit for only one of these courses: BIOL 4240, BIOL 6240 or BCBP 6240.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84037"
+  },
+  {
+    "course_id": "BIOL 6260",
+    "prefix": "BIOL",
+    "number": "6260",
+    "title": "Advanced Cell Biology",
+    "description": "This course is designed to enable students to understand how an organism functions at the cellular and molecular level, and further, how this functioning is regulated so that cells can adapt to changes in their environment. Students will learn the fundamental components of the cell (from protein to organelle), their characteristics, and how these components function in both normal and diseased cells. Students will also learn biochemical, structural, and mechanical aspects of cell functioning and regulation in normal and diseased cells. In addition, students will learn to critically read current scientific literature. By reading current literature, students will gain knowledge of the practice and presentation of science, as well as learn about new techniques and findings.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of BIOL 2120 equivalent. Coursework in Biochemistry and Molecular Biology will be helpful, as well.",
+    "prerequisites": [
+      "BIOL 2120"
+    ],
+    "prerequisite_logic": "BIOL 2120",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BIOL 4260 . Students cannot obtain credit for both BIOL 4260 and BIOL 6260.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82311"
+  },
+  {
+    "course_id": "BIOL 6310",
+    "prefix": "BIOL",
+    "number": "6310",
+    "title": "Microbiology",
+    "description": "Microbiology is the study of “microscopic organisms,” including members of all the kingdoms of life. The course has two objectives: 1) Provide an overview of the diversity, genetics, and physiology of microorganisms. 2) Review current topics of investigation in Microbiology in detail. Microbes will be studied from a cellular and molecular perspective. This includes structure, nutrition, growth, control, classification, and genetics. This course will provide biology students the necessary background in bacterial genetics, pathogenic microbiology, prokaryotic physiology, eukaryotic microbiology, molecular biology and microbial ecology.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: BIOL 4310 . Students cannot obtain credit for both BIOL 4310 and BIOL 6310.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82312"
+  },
+  {
+    "course_id": "BIOL 6345",
+    "prefix": "BIOL",
+    "number": "6345",
+    "title": "Microbial Pathogenesis",
+    "description": "This course is an advanced Microbiology course on the mechanisms of microbial pathogenesis. The course will examine the common features on how microbes cause disease. The course will be based on lectures and students’ presentations",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: BCBP 4345 , BCBP 6345 Co-Listed: BIOL 4345",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84227"
+  },
+  {
+    "course_id": "BIOL 6350",
+    "prefix": "BIOL",
+    "number": "6350",
+    "title": "Virology",
+    "description": "This course will provide an exploration of the essential aspects of virology. Introductory examination of viral structure, entry, and replication for each of the major classes of viruses serve as a foundation. Case studies will examine virus host interactions and strategies for prevention and intervention of viral infection. Additional topics include: emerging viruses, viral detection, viral extinction, beneficial use of viruses, modified viruses as research tools.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of BIOL 4620 and BIOL 4310",
+    "prerequisites": [
+      "BIOL 4620",
+      "BIOL 4310"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "BIOL 4620",
+        "BIOL 4310"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BIOL 4350 . Students cannot obtain credit for both BIOL 4350 and BIOL 6350.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83494"
+  },
+  {
+    "course_id": "BIOL 6410",
+    "prefix": "BIOL",
+    "number": "6410",
+    "title": "Sequence Analysis",
+    "description": "This course covers the theory and practice of biological sequence analysis, including algorithms for pairwise sequence alignment, multiple sequence alignment, phylogenetic analysis, and database searching. Concepts covered include homology, sequence similarity, parsimony, mechanisms and metrics of molecular evolution, biological data bases, database search algorithms (BLAST), and statistical significance. Selected topics include hidden Markov models, bootstrap analysis, and gene finding. Modern sequence analysis software will be provided. Laptop computers are required. Knowledge of a programming language is strongly suggested. Meets jointly with BIOL 4540.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: MATH 1020 , BIOL 4620 , CSCI 1200 or equivalent, or permission of the instructor.",
+    "prerequisites": [
+      "MATH 1020",
+      "BIOL 4620",
+      "CSCI 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 1020",
+        "BIOL 4620",
+        "CSCI 1200"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BIOL 4540 . Students cannot obtain credit for both BIOL 4540 and BIOL 6410.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82313"
+  },
+  {
+    "course_id": "BIOL 6420",
+    "prefix": "BIOL",
+    "number": "6420",
+    "title": "Molecular Modeling",
+    "description": "This course covers the theory and practice of the structural modeling of proteins and other biomolecules using informatics-driven and energy-based approaches. Topics include template-based comparative modeling, secondary structure prediction, tertiary structure prediction, protein classification, sidechain rotamers, docking, protein design, energy minimization, electrostatics, molecular dynamics, and molecular surfaces. Molecular modeling software will be provided. Laptop computers are required. BIOL 4550, BIOL 6420, BCBP 4550, and BCBP 6420 meet jointly.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: MATH 1020 , BIOL 4620 , and BIOL 4760 / BCBP 4760 / CHEM 4760 .",
+    "prerequisites": [
+      "MATH 1020",
+      "BIOL 4620",
+      "BIOL 4760",
+      "BCBP 4760",
+      "CHEM 4760"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 1020",
+        "BIOL 4620",
+        "BIOL 4760",
+        "BCBP 4760",
+        "CHEM 4760"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: BCBP 4550 / BCBP 6420 Co-Listed: BIOL 4550 . Students can obtain credit for only one of these courses: BIOL 4550, BCBP 4550, BCBP 6420 or BIOL 6420.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82314"
+  },
+  {
+    "course_id": "BIOL 6470",
+    "prefix": "BIOL",
+    "number": "6470",
+    "title": "Muscle & Cardiac Biology",
+    "description": "This is an in-depth study of current papers within the broad field of Muscle & Cardiac Biology. Students will read and critique primary papers, present current research articles, and lead critical discussions of topics listed in the class schedule.",
+    "credit_hours": "2",
+    "prerequisites_raw": "or Corequisite: BIOL 4270 or permission of the instructor",
+    "prerequisites": [
+      "BIOL 4270"
+    ],
+    "prerequisite_logic": "BIOL 4270",
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: BCBP 4470 / BCBP 6470 Co-Listed: BIOL 4470 . Students can obtain credit for only one of these courses: BIOL 4470, BCBP 4470, BCBP 6470 or BIOL 6470.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83942"
+  },
+  {
+    "course_id": "BIOL 6500",
+    "prefix": "BIOL",
+    "number": "6500",
+    "title": "Advanced Topics in Ecology and Environmental Biology",
+    "description": "Students in this course will complete an in-depth study of current peer reviewed literature and topics in the field of ecology and environmental biology. Students will read and critique peer-reviewed papers and present and lead discussions on peer-reviewed articles. Topics covered will include populations and biological communities, biodiversity, ecosystem structures and habitats, climate change, and ecosystem attributes.",
+    "credit_hours": "2",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BIOL 4500",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84231"
+  },
+  {
+    "course_id": "BIOL 6510",
+    "prefix": "BIOL",
+    "number": "6510",
+    "title": "Biology Core Course I",
+    "description": "An intensive course designed to provide instruction and stimulate discussion on important topics relevant to biological research. It is loosely divided into three sections: 1) overview of major areas of faculty research; 2) professional development topics such as research ethics and responsible conduct of research, scientific communication, career options, and software tools for science (i.e. structural biology toolkits, bioinformatics tools, graphics packages, etc.); and 3) scientific writing. This course is required of and limited to first year students in the Biology and Biochemistry/Biophysics Ph.D. programs.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Completed bachelor’s degree or permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82315"
+  },
+  {
+    "course_id": "BIOL 6520",
+    "prefix": "BIOL",
+    "number": "6520",
+    "title": "Biology Core Course II",
+    "description": "An intensive course designed to provide instruction and stimulate discussion on important topics relevant to biological research. It is loosely divided into three sections: 1) overview of major areas of faculty research; 2) professional development topics such as hypothesis testing and design of experiments, responsible use of statistics, and scientific funding; and 3) scientific writing. This course is required of and limited to first year students in the Biology and Biochemistry/Biophysics Ph.D. programs.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Prerequisite: This is a continuation of the fall course BIOL 6510 . Completed bachelor’s degree or permission of instructor.",
+    "prerequisites": [
+      "BIOL 6510"
+    ],
+    "prerequisite_logic": "BIOL 6510",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82316"
+  },
+  {
+    "course_id": "BIOL 6550",
+    "prefix": "BIOL",
+    "number": "6550",
+    "title": "Ethical Issues in Biotechnology",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83496"
+  },
+  {
+    "course_id": "BIOL 6650",
+    "prefix": "BIOL",
+    "number": "6650",
+    "title": "The Biology of Systems",
+    "description": "This course is designed to be a first course in the study of “systems biology”, to introduce students to the field, the experimental and computational methods that are used within it, and the type of insights that the field can provide to biology. To fully appreciate the complexity of living systems, researchers gather systematic, quantitative measurements of a system’s components using cutting-edge omics techniques. In addition, researchers also leverage computing power to describe, model, and predict dynamic behaviors that could otherwise not be perceived in such large-scale omics data. Along with these topics, students will learn to critically read current scientific literature.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of BIOL 4620 and BIOL 4760 Attributes Data Intensive 2",
+    "prerequisites": [
+      "BIOL 4620",
+      "BIOL 4760"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "BIOL 4620",
+        "BIOL 4760"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: BCBP 4660 / BCBP 6650 Co-Listed: BIOL 4660 . Students can obtain credit for only one of these courses: BIOL 4660, BCBP 4660, BCBP 6650 and BIOL 6650.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83732"
+  },
+  {
+    "course_id": "BIOL 6660",
+    "prefix": "BIOL",
+    "number": "6660",
+    "title": "Muscle Mechanics and Modeling",
+    "description": "This graduate/advanced undergraduate hybrid course examines the structural and physiologic properties of muscle, as well as its force production and overall biomechanical function. Muscle structure and function will be explored at the protein, single fiber, and whole tissue levels. Discussions will focus primarily on skeletal muscle, and topics will include muscle morphology, cross-bridge theory, molecular motor and actomyosin interaction, Hill-type and Huxley-type models, electromyography, fatigue, muscle inhibition, history-dependent phenomena, in vitro and in vivo muscle function, and the response to injury. Each topic will be introduced and developed utilizing seminal articles in the literature as well as excerpts from texts, and further discussion on current problems and state-of-the-art experimental techniques will draw on the current scientific literature.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Senior standing or permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: BMED 4660 / BMED 6660 . Students can obtain credit for only one of these courses: BMED 4660, BMED 6660 or BIOL 6660.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83474"
+  },
+  {
+    "course_id": "BIOL 6690",
+    "prefix": "BIOL",
+    "number": "6690",
+    "title": "Advanced Molecular Biology",
+    "description": "Students will use a variety of tools (textbooks, scientific journals, and Internet resources including molecular databases and data mining tools) to increase understanding of genes, their expression, their products, and their inter-relatedness. (Meets together with BIOL 4630)",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Undergraduate course in molecular biology, molecular genetics, and/or molecular biochemistry.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BIOL 4630 . Students cannot obtain credit for both BIOL 4630 and BIOL 6690.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82317"
+  },
+  {
+    "course_id": "BIOL 6700",
+    "prefix": "BIOL",
+    "number": "6700",
+    "title": "Freshwater Ecology",
+    "description": "Freshwater ecology is the quantitative examination of major biological fresh water communities. Course discussions will delineate the physical and chemical regimes under which aquatic organisms exist. Basic limnological processes are studied to define aquatic systems of differing physical characteristics. Nutrient chemistry analyses of waters of varying acidity, alkalinity, and chemical loadings are related to their trophic status. Lecture and Laboratory are taught at the Darrin Fresh Water Institute at Lake George with field activities at various locations in the Adironacks. The course includes extensive hands-on laboratory work, as well as the writing of in-depth reports.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of BIOL 4850",
+    "prerequisites": [
+      "BIOL 4850"
+    ],
+    "prerequisite_logic": "BIOL 4850",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83479"
+  },
+  {
+    "course_id": "BIOL 6880",
+    "prefix": "BIOL",
+    "number": "6880",
+    "title": "Global Environmental Change",
+    "description": "This 4-credit course will explore global environmental cycles, patterns, and changes. It will cover elemental cycles of phosphorus, nitrogen, and carbon, and pollutants such as mercury, lead, and CFCs, and how changes in these cycles influence organisms and ecosystems. Also discussed will be large-scale biotic processes and theory about ecosystem dynamics. Major environmental issues such as acid rain, eutrophication, climate change, and land use conversation will also be discussed.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of BIOL 1010 , BIOL 1015 , BIOL 2120 , and BIOL 2125 ​.",
+    "prerequisites": [
+      "BIOL 1010",
+      "BIOL 1015",
+      "BIOL 2120",
+      "BIOL 2125"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "BIOL 1010",
+        "BIOL 1015",
+        "BIOL 2120",
+        "BIOL 2125"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: BIOL 4880 . Students cannot obtain credit for both BIOL 4880 and BIOL 6880.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83735"
+  },
+  {
+    "course_id": "BIOL 6900",
+    "prefix": "BIOL",
+    "number": "6900",
+    "title": "Seminar in Biology",
+    "description": "Weekly discussion of selected topics in biology by graduate students and staff.",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82318"
+  },
+  {
+    "course_id": "BIOL 6910",
+    "prefix": "BIOL",
+    "number": "6910",
+    "title": "Research Rotation l",
+    "description": "The students take active part in research, under the supervision of a Biology faculty adviser by mutual agreement.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Restricted to first year Biology graduate students.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83476"
+  },
+  {
+    "course_id": "BIOL 6920",
+    "prefix": "BIOL",
+    "number": "6920",
+    "title": "Research Rotation ll",
+    "description": "The student will perform hands-on research in the lab of a Biology faculty member to learn basic research methods and techniques, accomplish a small research project and determine whether the lab is a good fit for thesis research.",
+    "credit_hours": "2",
+    "prerequisites_raw": "or Corequisite: Restricted to first year Biology graduate students.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83477"
+  },
+  {
+    "course_id": "BIOL 6930",
+    "prefix": "BIOL",
+    "number": "6930",
+    "title": "Research Rotation lll",
+    "description": "The student will perform hands-on research in the lab of a Biology faculty member to learn basic research methods and techniques, accomplish a small research project, and determine whether the lab is a good fit for thesis research.",
+    "credit_hours": "2",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83478"
+  },
+  {
+    "course_id": "BIOL 6940",
+    "prefix": "BIOL",
+    "number": "6940",
+    "title": "Readings in Biology",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82319"
+  },
+  {
+    "course_id": "BIOL 6960",
+    "prefix": "BIOL",
+    "number": "6960",
+    "title": "Current Topics in Biology Research",
+    "description": "This is an in-depth study of current papers within the broad field of biology research. Students will read and critique primary papers, present current research articles, and lead critical discussions.",
+    "credit_hours": "1-4",
+    "prerequisites_raw": "or Corequisite: Varies depending on topic offered.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83777"
+  },
+  {
+    "course_id": "BIOL 6960",
+    "prefix": "BIOL",
+    "number": "6960",
+    "title": "Topics in Biology",
+    "description": "A variable topics-based course that changes per term.",
+    "credit_hours": "1-4",
+    "prerequisites_raw": "or Corequisite: Defined per term offering.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=86261"
+  },
+  {
+    "course_id": "BIOL 6970",
+    "prefix": "BIOL",
+    "number": "6970",
+    "title": "Professional Project",
+    "description": "Active participation in a semester-long project, under the supervision of a faculty adviser. A Professional Project often serves as a culminating experience for a Professional Master’s program but, with departmental or school approval, can be used to fulfill other program requirements. With approval, students may register for more than one Professional Project. Professional Projects must result in documentation established by each department or school, but are not submitted to the Office of Graduate Education and are not archived in the library. Grades of A, B, C, or F are assigned by the faculty adviser at the end of the semester. If not completed on time, a formal Incomplete grade may be assigned by the faculty adviser, listing the work remaining to be completed and the time limit for completing this work.",
+    "credit_hours": "1-9",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82320"
+  },
+  {
+    "course_id": "BIOL 6990",
+    "prefix": "BIOL",
+    "number": "6990",
+    "title": "Master’s Thesis",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a master’s thesis. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82321"
+  },
+  {
+    "course_id": "BIOL 9990",
+    "prefix": "BIOL",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82322"
+  }
+]

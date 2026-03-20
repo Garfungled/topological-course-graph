@@ -1,0 +1,625 @@
+[
+  {
+    "course_id": "BCBP 2900",
+    "prefix": "BCBP",
+    "number": "2900",
+    "title": "Research in Biochemistry/Biophysics",
+    "description": "Hands-on research in a faculty member’s research laboratory.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82265"
+  },
+  {
+    "course_id": "BCBP 2930",
+    "prefix": "BCBP",
+    "number": "2930",
+    "title": "Out-of-Classroom Experience in Biochemistry/Biophysics",
+    "description": "Credit to be given for an out-of-classroom experience related to biochemistry and/or biophysics (BCBP) having intellectual content relevant to the student’s educational or career goals, subject to approval of a written proposal and a final written report. The adviser (for BCBP majors) or, with permission, any BCBP faculty member may serve as evaluator. For each out-of-classroom experience a student may register only once.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82266"
+  },
+  {
+    "course_id": "BCBP 2940",
+    "prefix": "BCBP",
+    "number": "2940",
+    "title": "Biochemistry/Biophysics Independent Study",
+    "description": "Independent study of selected readings in the fields of biochemistry and biophysics, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82267"
+  },
+  {
+    "course_id": "BCBP 4240",
+    "prefix": "BCBP",
+    "number": "4240",
+    "title": "Topics in Circadian Biology",
+    "description": "This is an in-depth study of current papers within the broad field of Circadian Biology. Students will read and critique recent primary literature, present current research articles, and lead discussions on new findings in the field.",
+    "credit_hours": "2",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: BIOL 4240 Co-Listed: BCBP 6240",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84038"
+  },
+  {
+    "course_id": "BCBP 4310",
+    "prefix": "BCBP",
+    "number": "4310",
+    "title": "Genetic Engineering",
+    "description": "In this course, students will explore the molecular methods and applications of recombinant DNA technology and the issues regarding their use through case studies on the effect of genetic engineering in medicine, agriculture, biology, forensics, and various other areas of technology. The course has three major components: 1) techniques used in the generation of recombinant molecules, 2) application of recombinant technology to diagnostics and therapeutics and 3) genetically modified organisms.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 4620 and BIOL 4760 or BCBP 4760 or CHEM 4760 ; or permission of instructor.",
+    "prerequisites": [
+      "BIOL 4620",
+      "BIOL 4760",
+      "BCBP 4760",
+      "CHEM 4760"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "BIOL 4620",
+            "BIOL 4760"
+          ]
+        },
+        "BCBP 4760",
+        "CHEM 4760"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: BCBP 6310 ; (Students cannot obtain credit for both this course and BCBP 6310 .)",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82268"
+  },
+  {
+    "course_id": "BCBP 4345",
+    "prefix": "BCBP",
+    "number": "4345",
+    "title": "Microbial Pathogenesis",
+    "description": "This course is an advanced Microbiology course on the mechanisms of microbial pathogenesis. The course will examine the common features on how microbes cause disease. The course will be based on lectures and students’ presentations.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 4310 and permission of instructor",
+    "prerequisites": [
+      "BIOL 4310"
+    ],
+    "prerequisite_logic": "BIOL 4310",
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: BIOL 4345 , BIOL 6345 Co-Listed: BCBP 6345",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84228"
+  },
+  {
+    "course_id": "BCBP 4470",
+    "prefix": "BCBP",
+    "number": "4470",
+    "title": "Muscle & Cardiac Biology",
+    "description": "This is an in-depth study of current papers within the broad field of Muscle & Cardiac Biology. Students will read and critique primary papers, present current research articles, and lead critical discussions of topics listed in the class schedule.",
+    "credit_hours": "2",
+    "prerequisites_raw": "BIOL 4270 or permission of the instructor",
+    "prerequisites": [
+      "BIOL 4270"
+    ],
+    "prerequisite_logic": "BIOL 4270",
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: BIOL 4470 and BIOL 6470 Co-Listed: BCBP 6470 Students cannot receive credit for more than one of these courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83941"
+  },
+  {
+    "course_id": "BCBP 4550",
+    "prefix": "BCBP",
+    "number": "4550",
+    "title": "Molecular Modeling",
+    "description": "This course covers the theory and practice of the structural modeling of proteins and other biomolecules using informatics-driven and energy-based approaches. Topics include template-based comparative modeling, secondary structure prediction, tertiary structure prediction, protein classification, sidechain rotamers, docking, protein design, energy minimization, electrostatics, molecular dynamics, and molecular surfaces. Molecular modeling software will be provided. Laptop computers are required. BIOL 4550 , BIOL 6420 , BCBP 4550, and BCBP 6420 meet jointly; only one of these courses can be taken for credit.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 1020 and BIOL 4620 ; and BIOL 4760 or ( CHEM 4760 or BCBP 4760 )",
+    "prerequisites": [
+      "MATH 1020",
+      "BIOL 4620",
+      "BIOL 4760",
+      "CHEM 4760",
+      "BCBP 4760"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MATH 1020",
+            "BIOL 4620",
+            "BIOL 4760"
+          ]
+        },
+        "CHEM 4760",
+        "BCBP 4760"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: BIOL 4550 and BIOL 6420 Co-Listed: BCBP 6420",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83499"
+  },
+  {
+    "course_id": "BCBP 4600",
+    "prefix": "BCBP",
+    "number": "4600",
+    "title": "Data Analytics",
+    "description": "The world at-large is confronted with increasingly larger and complex sets of structured/unstructured information; from cyber and human sources. Traditional enterprises are moving toward analytics-driven approaches for core business functions. Data and information analytics extends analysis (descriptive models of data) by using data mining and machine learning methods, with optimization and validation, to recommend action or guide and communicate decision-making. Thus, analytics is an entire methodology rather than individual analyses or analysis steps.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Cross Listed: ITWS 4600 / CSCI 4600 / ITWS 6600 / MGMT 4600 / MGMT 6600 ; Students can only obtain credit for one of these courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84005"
+  },
+  {
+    "course_id": "BCBP 4660",
+    "prefix": "BCBP",
+    "number": "4660",
+    "title": "The Biology of Systems",
+    "description": "This course is designed to be a first course in the study of “systems biology”, to introduce students to the field, the experimental and computational methods that are used within it, and the type of insights that the field can provide to biology. To fully appreciate the complexity of living systems, researchers gather systematic, quantitative measurements of a system’s components using cutting-edge omics techniques. In addition, researchers also leverage computing power to describe, model, and predict dynamic behaviors that could otherwise not be perceived in such large-scale omics data. Along with these topics, students will learn to critically read current scientific literature.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BIOL 4620 and BIOL 4760 ; or ( BCBP 4760 or CHEM 4760 ); or permission of the instructor.",
+    "prerequisites": [
+      "BIOL 4620",
+      "BIOL 4760",
+      "BCBP 4760",
+      "CHEM 4760"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "BIOL 4620",
+            "BIOL 4760"
+          ]
+        },
+        "BCBP 4760",
+        "CHEM 4760"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: BIOL 4660 and BIOL 6650 Co-Listed: BCBP 6650",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83731"
+  },
+  {
+    "course_id": "BCBP 4710",
+    "prefix": "BCBP",
+    "number": "4710",
+    "title": "Biochemistry Laboratory",
+    "description": "Major principles of biochemistry are illustrated as students purify and analyze specific proteins. Experience is obtained with various techniques including protein extraction from bacteria and tissues, chromatography, ultracentrifugation, spectrophotometric analysis, and electrophoresis. The course includes extensive hands-on laboratory work, as well as the writing of in-depth reports. (Students cannot obtain credit for both this course and BIOL 4710 .) This is a communication-intensive course.",
+    "credit_hours": "6",
+    "prerequisites_raw": "BIOL 2120 and BIOL 2125 .",
+    "prerequisites": [
+      "BIOL 2120",
+      "BIOL 2125"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "BIOL 2120",
+        "BIOL 2125"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: BIOL 4710",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82269"
+  },
+  {
+    "course_id": "BCBP 4760",
+    "prefix": "BCBP",
+    "number": "4760",
+    "title": "Molecular Biochemistry I",
+    "description": "Part I of a two-semester sequence focusing on the chemistry, structure, and function of biological molecules, macromolecules, and systems. Topics covered include protein and nucleic acid structure, enzymology, mechanisms of catalysis, regulation, lipids and membranes, carbohydrates, bioenergetics, and carbohydrate metabolism.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CHEM 2250 and; BIOL 1010 or BIOL 2120",
+    "prerequisites": [
+      "CHEM 2250",
+      "BIOL 1010",
+      "BIOL 2120"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CHEM 2250",
+            "BIOL 1010"
+          ]
+        },
+        "BIOL 2120"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Cross Listed: BIOL 4760 and CHEM 4760 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82270"
+  },
+  {
+    "course_id": "BCBP 4770",
+    "prefix": "BCBP",
+    "number": "4770",
+    "title": "Molecular Biochemistry II",
+    "description": "The second semester of the molecular biochemistry sequence. Topics include lipids and lipid metabolism, amino acid metabolism and the coenzymes involved in this metabolism, nucleic acid synthesis and chemistry, protein synthesis and degradation, integration of metabolism, photobiology, and photosynthesis. This course is taught in studio mode. (Students cannot obtain credit for both this course and either BIOL 4770 or CHEM 4770 .)",
+    "credit_hours": "4",
+    "prerequisites_raw": "BCBP 4760 , BIOL 4760 or CHEM 4760",
+    "prerequisites": [
+      "BCBP 4760",
+      "BIOL 4760",
+      "CHEM 4760"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "BCBP 4760",
+            "BIOL 4760"
+          ]
+        },
+        "CHEM 4760"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: BIOL 4770 and CHEM 4770 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82271"
+  },
+  {
+    "course_id": "BCBP 4800",
+    "prefix": "BCBP",
+    "number": "4800",
+    "title": "Methods in Biophysics",
+    "description": "Biophysics addresses the physical principles of biological function, which requires the application of physical methods. The focus of this course is on methods used to study the interactions and dynamics of biomolecules in vitro, primarily proteins and nucleic acids. Both the theoretical and methodological aspects of molecular biophysical methods will be covered. This course is designed as an interdisciplinary introduction to the field and is open to students in biology, chemistry, physics, or engineering.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BCBP 4760 , BIOL 4760 or CHEM 4760 ; or permission of instructor.",
+    "prerequisites": [
+      "BCBP 4760",
+      "BIOL 4760",
+      "CHEM 4760"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "BCBP 4760",
+            "BIOL 4760"
+          ]
+        },
+        "CHEM 4760"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BCBP 6800 . Students cannot receive credit for both BCBP 4800 and BCBP 6800 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83538"
+  },
+  {
+    "course_id": "BCBP 4870",
+    "prefix": "BCBP",
+    "number": "4870",
+    "title": "Protein Structure Determination",
+    "description": "X-ray crystallography and nuclear magnetic resonance (NMR) are used to determine 3-D structures of biological macromolecules at atomic resolution. The course will cover crystallographic and NMR methods, their theory and practice, along with thermodynamics of structure formation and molecular dynamics. Students will prepare a poster presentation on a protein of their choice.",
+    "credit_hours": "4",
+    "prerequisites_raw": "BCBP 4760 , BIOL 4760 , or CHEM 4760 ; and MATH 1020 and PHYS 1200 .",
+    "prerequisites": [
+      "BCBP 4760",
+      "BIOL 4760",
+      "CHEM 4760",
+      "MATH 1020",
+      "PHYS 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "BCBP 4760",
+            "BIOL 4760"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "CHEM 4760",
+            "MATH 1020",
+            "PHYS 1200"
+          ]
+        }
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BCBP 6870 ; Students cannot obtain credit for both this course and BCBP 6870.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82273"
+  },
+  {
+    "course_id": "BCBP 4940",
+    "prefix": "BCBP",
+    "number": "4940",
+    "title": "Biochemistry and Biophysics Independent Study",
+    "description": "Selected readings in the biochemistry and biophysics literature to supplement the scientific background of undergraduate students. May be used as a BCBP elective with approval of the BCBP Curriculum Committee.",
+    "credit_hours": "1-4",
+    "prerequisites_raw": "or Corequisite: Permission of the instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83779"
+  },
+  {
+    "course_id": "BCBP 4970",
+    "prefix": "BCBP",
+    "number": "4970",
+    "title": "Non-Thesis Research",
+    "description": "Independent study program for the purpose of developing research skills under the guidance of a faculty member. This course may be repeated once, and it can count as a biology elective.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83729"
+  },
+  {
+    "course_id": "BCBP 4990",
+    "prefix": "BCBP",
+    "number": "4990",
+    "title": "Senior Research Thesis",
+    "description": "Independent laboratory research, on or off campus, supervised by a faculty member, culminating in a written thesis; or literature research culminating in the writing of a review article. The thesis research must also be presented in the form of a poster presentation or a talk. This is a communication-intensive course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82274"
+  },
+  {
+    "course_id": "BCBP 6170",
+    "prefix": "BCBP",
+    "number": "6170",
+    "title": "Advanced Topics in Nuclear Magnetic Resonance",
+    "description": "Advanced graduate course covering fundamental aspects of NMR common for application in a broad range of fields. Classical and quantum-mechanical descriptions are utilized to explore information content of NMR pulse sequences. The latter approach includes density matrix theory and proceeds with the product-operator formalism. Practical aspects and data analysis are also described. Subsequent focus is on liquid-state NMR of biological macromolecules, including resonance assignment and determination of molecular structure and dynamics. (Students cannot obtain credit for both this course and CHEM 6170 .)",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of CHEM 4410 or equivalent.",
+    "prerequisites": [
+      "CHEM 4410"
+    ],
+    "prerequisite_logic": "CHEM 4410",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82275"
+  },
+  {
+    "course_id": "BCBP 6240",
+    "prefix": "BCBP",
+    "number": "6240",
+    "title": "Topics in Circadian Biology",
+    "description": "This is an in-depth study of current papers within the broad field of Circadian Biology. Students will read and critique recent primary literature, present current research articles, and lead discussions on new findings in the field.",
+    "credit_hours": "2",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: BIOL 4240 and BIOL 6240 Co-Listed: BCBP 4240",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84039"
+  },
+  {
+    "course_id": "BCBP 6310",
+    "prefix": "BCBP",
+    "number": "6310",
+    "title": "Genetic Engineering",
+    "description": "In this course, students will explore the molecular methods and applications of recombinant DNA technology and the issues regarding their use through case studies on the effect of genetic engineering on medicine, agriculture, biology, forensics, and various other areas of technology. The course has three major components: 1) techniques used in the generation of recombinant molecules, 2) application of recombinant technology to diagnostics and therapeutics and 3) genetically modified organisms.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Undergraduate course in molecular biology and biochemistry or permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: BCBP 4310 ; (Students cannot obtain credit for both this course and BCBP 4310 .)",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82276"
+  },
+  {
+    "course_id": "BCBP 6345",
+    "prefix": "BCBP",
+    "number": "6345",
+    "title": "Microbial Pathogenesis",
+    "description": "This course is an advanced Microbiology course on the mechanisms of microbial pathogenesis. The course will examine the common features on how microbes cause disease. The course will be based on lectures and students’ presentations.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: BIOL 4345 , BIOL 6345 Co-Listed: BCBP 4345",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84229"
+  },
+  {
+    "course_id": "BCBP 6420",
+    "prefix": "BCBP",
+    "number": "6420",
+    "title": "Molecular Modeling",
+    "description": "This course covers the theory and practice of the structural modeling of proteins and other biomolecules using informatics-driven and energy-based approaches. Topics include template-based comparative modeling, secondary structure prediction, tertiary structure prediction, protein classification, sidechain rotamers, docking, protein design, energy minimization, electrostatics, molecular dynamics, and molecular surfaces. Molecular modeling software will be provided. Laptop computers are required. BIOL 4550 , BIOL 6420 , BCBP 4550 , and BCBP 6420 meet jointly; only one of these courses can be taken for credit.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of the following: MATH 1020 , BIOL 4620 , BIOL 4760 .",
+    "prerequisites": [
+      "MATH 1020",
+      "BIOL 4620",
+      "BIOL 4760"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 1020",
+        "BIOL 4620",
+        "BIOL 4760"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: BIOL 4550 and BIOL 6420 Co-Listed: BCBP 4550",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83500"
+  },
+  {
+    "course_id": "BCBP 6470",
+    "prefix": "BCBP",
+    "number": "6470",
+    "title": "Muscle & Cardiac Biology",
+    "description": "This is an in-depth study of current papers within the broad field of Muscle & Cardiac Biology. Students will read and critique primary papers, present current research articles, and lead critical discussions of topics listed in the class schedule.",
+    "credit_hours": "2",
+    "prerequisites_raw": "Prior knowledge of BIOL 4270",
+    "prerequisites": [
+      "BIOL 4270"
+    ],
+    "prerequisite_logic": "BIOL 4270",
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: BIOL 4470 , BIOL 6470 , Students cannot receive credit for more than one of these courses. Co-Listed: BCBP 4470 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83943"
+  },
+  {
+    "course_id": "BCBP 6550",
+    "prefix": "BCBP",
+    "number": "6550",
+    "title": "Ethical Issues in Biotechnology",
+    "description": "This course reviews the principles of ethical behavior and responsible conduct of research and discusses specific areas of biotechnology research, medical research, and societal issues in the context of these principles. Representative topics include genetic engineering, stem cell research, assisted reproduction, human subjects, animal research, and nanotechnology. Active student participation is expected.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Undergraduate registration only with permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: BMED 6700 and BIOL 6550 . Students may not receive credit for both BCBP 6550, BIOL 6550 , or BMED 6700 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83669"
+  },
+  {
+    "course_id": "BCBP 6650",
+    "prefix": "BCBP",
+    "number": "6650",
+    "title": "The Biology of Systems",
+    "description": "This course is designed to be a first course in the study of “systems biology”, to introduce students to the field, the experimental and computational methods that are used within it, and the type of insights that the field can provide to biology. To fully appreciate the complexity of living systems, researchers gather systematic, quantitative measurements of a system’s components using cutting-edge omics techniques. In addition, researchers also leverage computing power to describe, model, and predict dynamic behaviors that could otherwise not be perceived in such large-scale omics data. Along with these topics, students will learn to critically read current scientific literature. A student cannot get credit for both BCBP 4660 / BIOL 4660 and BCBP 6650 / BIOL 6650 .",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of BIOL 4620 and BCBP 4760",
+    "prerequisites": [
+      "BIOL 4620",
+      "BCBP 4760"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "BIOL 4620",
+        "BCBP 4760"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: BIOL 4660 and BIOL 6650 . Co-Listed: BCBP 4660",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83733"
+  },
+  {
+    "course_id": "BCBP 6780",
+    "prefix": "BCBP",
+    "number": "6780",
+    "title": "Protein Folding",
+    "description": "The biophysical mechanism of protein folding and the role of misfolding in human diseases is explored. The course will introduce principles of protein structure, protein folding in the cell, and thermodynamic and kinetic methods for studying protein folding in vitro. The course will also involve a literature-based discussion of human diseases related to protein folding defects, including Alzheimer’s and other amyloid diseases, cystic fibrosis, and Prion-related syndromes.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of BCBP 4760",
+    "prerequisites": [
+      "BCBP 4760"
+    ],
+    "prerequisite_logic": "BCBP 4760",
+    "when_offered": "SPRING TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82277"
+  },
+  {
+    "course_id": "BCBP 6800",
+    "prefix": "BCBP",
+    "number": "6800",
+    "title": "Methods in Biophysics",
+    "description": "Biophysics addresses the physical principles of biological function, which requires the application of physical methods. The focus of this course is on methods used to study the interactions and dynamics of biomolecules in vitro, primarily proteins and nucleic acids. It will cover both the theoretical and methodological aspects of molecular biophysical methods. This course is designed as an interdisciplinary introduction to the field and is open to students in biology, chemistry, physics, or engineering.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of BCBP 4760",
+    "prerequisites": [
+      "BCBP 4760"
+    ],
+    "prerequisite_logic": "BCBP 4760",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: BCBP 4800 . Students cannot receive credit for both BCBP 4800 and BCBP 6800.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83539"
+  },
+  {
+    "course_id": "BCBP 6870",
+    "prefix": "BCBP",
+    "number": "6870",
+    "title": "Protein Structure Determination",
+    "description": "X-ray crystallography and nuclear magnetic resonance (NMR) are used to determine 3-D structures of biological macromolecules at atomic resolution. The course will cover crystallographic and NMR methods, their theory and practice, along with thermodynamics of structure formation and molecular dynamics. Students will prepare an oral presentation on a protein of their choice.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of BCBP 4760 , MATH 1020 , and PHYS 1200",
+    "prerequisites": [
+      "BCBP 4760",
+      "MATH 1020",
+      "PHYS 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "BCBP 4760",
+        "MATH 1020",
+        "PHYS 1200"
+      ]
+    },
+    "when_offered": "SPRING TERM, EVEN YEARS Co-Listed: BCBP 4870 ; Students cannot obtain credit for both this course and BCBP 4870 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82278"
+  },
+  {
+    "course_id": "BCBP 6910",
+    "prefix": "BCBP",
+    "number": "6910",
+    "title": "Research Rotation",
+    "description": "The student will perform hands on research in the lab of a BCBP faculty to learn basic research methods and techniques, accomplish a small research project and determine whether the lab is a good ﬁt for thesis research.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Restricted to first year BCBP graduate students.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83475"
+  },
+  {
+    "course_id": "BCBP 6940",
+    "prefix": "BCBP",
+    "number": "6940",
+    "title": "Independent Study in Biochemistry/Biophysics",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82279"
+  },
+  {
+    "course_id": "BCBP 6970",
+    "prefix": "BCBP",
+    "number": "6970",
+    "title": "Professional Project",
+    "description": "Active participation in a semester-long project, under the supervision of a faculty adviser. A Professional Project often serves as a culminating experience for a Professional Master’s program but, with departmental or school approval, can be used to fulfill other program requirements. With approval, students may register for more than one Professional Project. Professional Projects must result in documentation established by each department or school, but are not submitted to the Office of Graduate Education and are not archived in the library. Grades of A, B, C, or F are assigned by the faculty adviser at the end of the semester. If not completed on time, a formal Incomplete grade may be assigned by the faculty adviser, listing the work remaining to be completed and the time limit for completing this work.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82280"
+  },
+  {
+    "course_id": "BCBP 6990",
+    "prefix": "BCBP",
+    "number": "6990",
+    "title": "Master’s Thesis",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a master’s thesis. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82281"
+  },
+  {
+    "course_id": "BCBP 9990",
+    "prefix": "BCBP",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82282"
+  }
+]

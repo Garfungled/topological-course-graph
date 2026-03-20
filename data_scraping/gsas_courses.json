@@ -1,0 +1,566 @@
+[
+  {
+    "course_id": "GSAS 1040",
+    "prefix": "GSAS",
+    "number": "1040",
+    "title": "Introduction to Game Art",
+    "description": "This course combines an introduction to traditional visual arts and digital media and serves as a foundation for work in game design and interactive art. Using studio projects that incorporate physical media, digital imaging and computer code, students develop their formal vocabulary, observational skills, and their understanding of issues in visual and interactive arts.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Cross Listed: ARTS 1040",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83586"
+  },
+  {
+    "course_id": "GSAS 1600",
+    "prefix": "GSAS",
+    "number": "1600",
+    "title": "History and Culture of Games",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82523"
+  },
+  {
+    "course_id": "GSAS 2120",
+    "prefix": "GSAS",
+    "number": "2120",
+    "title": "Concept Art",
+    "description": "Concept Art is a digital painting course oriented towards quickly ideating and visualizing concepts such as characters, creatures, props, environments, and motion for games, film, and TV.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 1040",
+    "prerequisites": [
+      "ARTS 1040"
+    ],
+    "prerequisite_logic": "ARTS 1040",
+    "when_offered": "SUMMER TERM ONLY Cross Listed: ARTS 2120",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90464"
+  },
+  {
+    "course_id": "GSAS 2255",
+    "prefix": "GSAS",
+    "number": "2255",
+    "title": "UI Art",
+    "description": "UI Art is a production course that looks at creating user interface art for primarily video games, but has transference into graphic design, web design, and other UI spaces like automobiles, phones, and other digital devices. Health bars, menus, inventory screens, start screens, and logos are all examples that would follow under the purview of a UI UX Artist.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 1040 , ARTS 2220 , COMM 2660 or GSAS 1040",
+    "prerequisites": [
+      "ARTS 1040",
+      "ARTS 2220",
+      "COMM 2660",
+      "GSAS 1040"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "ARTS 1040",
+            "ARTS 2220",
+            "COMM 2660"
+          ]
+        },
+        "GSAS 1040"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ARTS 2255",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90474"
+  },
+  {
+    "course_id": "GSAS 2265",
+    "prefix": "GSAS",
+    "number": "2265",
+    "title": "Introduction to Worldbuilding",
+    "description": "This course provides an overview of the art of developing, maintaining, and expanding imagined worlds, with special emphasis on worldbuilding for games. Students will be equipped with tools for collaboratively imagining worlds, presenting those worlds through interactive media, and using worldbuilding techniques to promote positive social change.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SUMMER TERM ONLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90462"
+  },
+  {
+    "course_id": "GSAS 2510",
+    "prefix": "GSAS",
+    "number": "2510",
+    "title": "Introduction to Game Design",
+    "description": "This course introduces students to foundational game mechanics, rule clarity, aesthetic design, and player interaction. Students build a shared vocabulary, analyze games, and create their own analog games. Various design perspectives and some psychological/behavioral theory will be incorporated into the class. Through the projects, students will participate in design thinking, organizational methodologies, teamwork, iterative design, and playtesting (including heuristic testing).",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82509"
+  },
+  {
+    "course_id": "GSAS 2520",
+    "prefix": "GSAS",
+    "number": "2520",
+    "title": "Introduction to Game Storytelling",
+    "description": "This course is designed to provide an overview of the art of effective story development. Students will come away with a heightened awareness of the structures and principles that master storytellers apply to their craft in games and other popular media. It is intended for all GSAS majors and other interested students, as well as the",
+    "credit_hours": "4",
+    "prerequisites_raw": "for the GSAS concentration in Writing.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83602"
+  },
+  {
+    "course_id": "GSAS 2540",
+    "prefix": "GSAS",
+    "number": "2540",
+    "title": "Introduction to Game Programming",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83708"
+  },
+  {
+    "course_id": "GSAS 2560",
+    "prefix": "GSAS",
+    "number": "2560",
+    "title": "Game Sound and Musical Play",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84018"
+  },
+  {
+    "course_id": "GSAS 2610",
+    "prefix": "GSAS",
+    "number": "2610",
+    "title": "Designing Musical Games",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84008"
+  },
+  {
+    "course_id": "GSAS 2940",
+    "prefix": "GSAS",
+    "number": "2940",
+    "title": "Studies in Games",
+    "description": "Independent study of selected readings in the field of games and simulation arts, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83972"
+  },
+  {
+    "course_id": "GSAS 2960",
+    "prefix": "GSAS",
+    "number": "2960",
+    "title": "Topics in Games",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83969"
+  },
+  {
+    "course_id": "GSAS 4100",
+    "prefix": "GSAS",
+    "number": "4100",
+    "title": "Psychology Of Games",
+    "description": "This course examines games from a psychological perspective, including, analyzing the psychology behind game design and player experience, examining the ethics of game design and play, and looking at how social psychology affects player identity both in and out of the game.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90469"
+  },
+  {
+    "course_id": "GSAS 4115",
+    "prefix": "GSAS",
+    "number": "4115",
+    "title": "Environment Art",
+    "description": "Environment art teaches students how to build visual, virtual spaces for games, film, and TV. Modelling, texturing, lighting, basic VFX/animation, and environment design principles are addressed.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 2230",
+    "prerequisites": [
+      "ARTS 2230"
+    ],
+    "prerequisite_logic": "ARTS 2230",
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ARTS 4115",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90476"
+  },
+  {
+    "course_id": "GSAS 4125",
+    "prefix": "GSAS",
+    "number": "4125",
+    "title": "Character Art",
+    "description": "Character Art focuses on digitally sculpting characters for 3D mediums like games, films, and TV. Students go through the practices of character design, concepting, modelling, texturing, UV’s and retopology, and lighting/rendering.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ARTS 2230",
+    "prerequisites": [
+      "ARTS 2230"
+    ],
+    "prerequisite_logic": "ARTS 2230",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ARTS 4125",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90467"
+  },
+  {
+    "course_id": "GSAS 4200",
+    "prefix": "GSAS",
+    "number": "4200",
+    "title": "Lighting, Rendering, & Cinematography",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83987"
+  },
+  {
+    "course_id": "GSAS 4230",
+    "prefix": "GSAS",
+    "number": "4230",
+    "title": "Game Animation",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83974"
+  },
+  {
+    "course_id": "GSAS 4240",
+    "prefix": "GSAS",
+    "number": "4240",
+    "title": "Writing for Games I",
+    "description": "This is the second course in the central track of the Writing concentration for GSAS students. In this project-intensive course, students will learn and practice basic, in-the-trenches writing and narrative development for games, including story outlines, cutscenes, scripted dialogue, systemic dialogue, and mission writing and design, across multiple game types and narrative genres.",
+    "credit_hours": "4",
+    "prerequisites_raw": "GSAS 2520 or WRIT 2330 , or permission of instructor.",
+    "prerequisites": [
+      "GSAS 2520",
+      "WRIT 2330"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "GSAS 2520",
+        "WRIT 2330"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83460"
+  },
+  {
+    "course_id": "GSAS 4250",
+    "prefix": "GSAS",
+    "number": "4250",
+    "title": "Writing for Games II",
+    "description": "This is the third course in the central track of the Writing concentration for GSAS students. In this course, students gain exposure to elements of the bigger creative picture, including intellectual property (IP) development, world-building, and original character design. Students also continue to refine their competency in game writing essentials while exploring complex game narrative challenges such as branching, open-world, and other non-linear structures.",
+    "credit_hours": "4",
+    "prerequisites_raw": "GSAS 4240",
+    "prerequisites": [
+      "GSAS 4240"
+    ],
+    "prerequisite_logic": "GSAS 4240",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83468"
+  },
+  {
+    "course_id": "GSAS 4260",
+    "prefix": "GSAS",
+    "number": "4260",
+    "title": "Game Narrative Design",
+    "description": "Game Narrative Design moves the focus more squarely onto the design elements of game writing – most especially integration with gameplay design structure – and away from line-by-line writing.​",
+    "credit_hours": "4",
+    "prerequisites_raw": "GSAS 2520",
+    "prerequisites": [
+      "GSAS 2520"
+    ],
+    "prerequisite_logic": "GSAS 2520",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83897"
+  },
+  {
+    "course_id": "GSAS 4270",
+    "prefix": "GSAS",
+    "number": "4270",
+    "title": "Level Design",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84022"
+  },
+  {
+    "course_id": "GSAS 4440",
+    "prefix": "GSAS",
+    "number": "4440",
+    "title": "Music, Sound & Screen Media",
+    "description": "This course examines how music and sound is heard, experienced, and circulated on screens across diverse media formats in contemporary society. This interdisciplinary course introduces students to a variety of analytical, historical, and theoretical approaches to the understanding of music, sound and interactive and non-interactive narrative screen media, including film, television, music video, video games, apps and mobile media, Internet audiovisual & social media, VR/AR, and other screen formats of sound production, distribution, and consumption. This course is open to sophomores, juniors, and seniors only.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: none",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Cross Listed: ARTS 4440",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84032"
+  },
+  {
+    "course_id": "GSAS 4510",
+    "prefix": "GSAS",
+    "number": "4510",
+    "title": "Experimental Game Design",
+    "description": "Experimental Game Design is an upper level studio arts course focusing on the creation of innovative, workable game prototypes using a variety of interactive multimedia. Games are considered as a new genre and are analyzed as cultural artifacts. The aesthetics of game design including character development, level design, game play experience, and delivery systems are covered. Flow, game theory, and game play gestalt are considered. Alternate gaming paradigms and emerging forms are encouraged.",
+    "credit_hours": "4",
+    "prerequisites_raw": "GSAS 4540 or CSCI 4540 (no longer offered)",
+    "prerequisites": [
+      "GSAS 4540",
+      "CSCI 4540"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "GSAS 4540",
+        "CSCI 4540"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Cross Listed: ARTS 4510 and ARTS 6400",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82236"
+  },
+  {
+    "course_id": "GSAS 4520",
+    "prefix": "GSAS",
+    "number": "4520",
+    "title": "Game Development I",
+    "description": "This class is a practical primer for anyone interested in a career in the rapidly evolving industry of video gaming. It is an intense, team-based, project-based course in which students will closely follow the actual game development cycle, with each team producing a complete PC game.",
+    "credit_hours": "4",
+    "prerequisites_raw": "GSAS 2510 and GSAS 2540",
+    "prerequisites": [
+      "GSAS 2510",
+      "GSAS 2540"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "GSAS 2510",
+        "GSAS 2540"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83589"
+  },
+  {
+    "course_id": "GSAS 4530",
+    "prefix": "GSAS",
+    "number": "4530",
+    "title": "Computer Graphics for Games",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84021"
+  },
+  {
+    "course_id": "GSAS 4540",
+    "prefix": "GSAS",
+    "number": "4540",
+    "title": "Game Development II",
+    "description": "This course follows Game Development I. Students work in interdisciplinary teams to create one large-scale 3D game, working from concept to public release. Projects may include games, educational games, serious games and simulations, and interactive artworks, and will focus on creative design, technical execution, and use of game design principles. The course builds on skills and knowledge in previous courses in the GSAS core, including game design, game mechanics, game programming, art, and narrative.",
+    "credit_hours": "4",
+    "prerequisites_raw": "GSAS 4520 ; or permission of instructor",
+    "prerequisites": [
+      "GSAS 4520"
+    ],
+    "prerequisite_logic": "GSAS 4520",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83466"
+  },
+  {
+    "course_id": "GSAS 4550",
+    "prefix": "GSAS",
+    "number": "4550",
+    "title": "Game Architecture",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83600"
+  },
+  {
+    "course_id": "GSAS 4940",
+    "prefix": "GSAS",
+    "number": "4940",
+    "title": "Games and Simulation Arts Independent Study",
+    "description": "Independent study of selected readings in the field of games and simulation arts, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83772"
+  },
+  {
+    "course_id": "GSAS 4960",
+    "prefix": "GSAS",
+    "number": "4960",
+    "title": "Topics in Games",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83970"
+  },
+  {
+    "course_id": "GSAS 4990",
+    "prefix": "GSAS",
+    "number": "4990",
+    "title": "GSAS Capstone",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83976"
+  },
+  {
+    "course_id": "GSAS 6100",
+    "prefix": "GSAS",
+    "number": "6100",
+    "title": "Game Studies Theory and Praxis",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83984"
+  },
+  {
+    "course_id": "GSAS 6200",
+    "prefix": "GSAS",
+    "number": "6200",
+    "title": "Topics in Game Research",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83985"
+  },
+  {
+    "course_id": "GSAS 6300",
+    "prefix": "GSAS",
+    "number": "6300",
+    "title": "Research Methods in Critical Game Design",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83983"
+  },
+  {
+    "course_id": "GSAS 6400",
+    "prefix": "GSAS",
+    "number": "6400",
+    "title": "Critical Game Design: History/Theory/Futures",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83981"
+  },
+  {
+    "course_id": "GSAS 6500",
+    "prefix": "GSAS",
+    "number": "6500",
+    "title": "Advanced Game Design/User-Experience Methods",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83982"
+  },
+  {
+    "course_id": "GSAS 6940",
+    "prefix": "GSAS",
+    "number": "6940",
+    "title": "Studies in Games and Simulation Arts",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83973"
+  },
+  {
+    "course_id": "GSAS 6960",
+    "prefix": "GSAS",
+    "number": "6960",
+    "title": "Topics in Games",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83971"
+  },
+  {
+    "course_id": "GSAS 6980",
+    "prefix": "GSAS",
+    "number": "6980",
+    "title": "Master’s Project",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83980"
+  },
+  {
+    "course_id": "GSAS 9990",
+    "prefix": "GSAS",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "1-16",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83986"
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "course_id": "ISCI 1510",
+    "prefix": "ISCI",
+    "number": "1510",
+    "title": "Introduction to Astrobiology",
+    "description": "The field of Astrobiology considers the emergence and evolution of life on Earth, and the potential for life elsewhere. This course explores fundamental concepts in Astrobiology including the creation of the chemical elements, origin and evolution of the solar system, the definition and requirements for life, early Earth environments and life’s emergence on this planet. Additionally, students explore habitability on other extraterrestrial bodies, including, Mars, icy worlds, and exoplanets, through self-directed research.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ERTH 1510 . Students cannot receive credit for both ISCI 1510 and ERTH 1510.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83891"
+  },
+  {
+    "course_id": "ISCI 1600",
+    "prefix": "ISCI",
+    "number": "1600",
+    "title": "Materials Science",
+    "description": "Introduction to the scientific principles that dictate the structure and properties of engineering materials, including metals, ceramics, semiconductors, and polymers. Physical properties of materials (mechanical, electrical, thermal, optical) are discussed in terms of the underlying structure, spanning multiple length scales from atomic packing to micron scale defects, in practical engineering materials. Throughout the course, the material behaviors are understood from the viewpoint of thermodynamics and kinetics.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Cross Listed: ENGR 1600 , PHYS 1600 , and CHEM 1600 . Students can obtain credit for only one of these courses: ENGR 1600, PHYS 1600, CHEM 1600 or ISCI 1600.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83686"
+  },
+  {
+    "course_id": "ISCI 4510",
+    "prefix": "ISCI",
+    "number": "4510",
+    "title": "Readings in Astrobiology and the Origins of Life",
+    "description": "Discussion of current issues relevant to the origins of life in astrophysics, biology, chemistry, and earth sciences.",
+    "credit_hours": "1",
+    "prerequisites_raw": "ISCI 1510 or ERTH 1510 ; and junior standing or higher, or permission of instructor.",
+    "prerequisites": [
+      "ISCI 1510",
+      "ERTH 1510"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ISCI 1510",
+        "ERTH 1510"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Co-Listed: ISCI 6510 . Students cannot obtain credit for both ICSI 4510 and ICSI 6510.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82825"
+  },
+  {
+    "course_id": "ISCI 4610",
+    "prefix": "ISCI",
+    "number": "4610",
+    "title": "Capstone in Astrobiology",
+    "description": "Students taking the Minor in Astrobiology are required to complete 3 credits of research in an Astrobiology-related discipline with a RARE-affiliated faculty member. Concurrent or in a later semester, students will enroll in ISCI 4610 with the same faculty member to prepare their research results for dissemination.",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: 3 credits of Astrobiology research with a RARE-affiliated faculty member.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83893"
+  },
+  {
+    "course_id": "ISCI 4950",
+    "prefix": "ISCI",
+    "number": "4950",
+    "title": "Research Rotation",
+    "description": "Students will contact several faculty members prior to the start of the semester. They and the participating faculty will mutually agree about the general area of the research and the time commitment for the rotation. Expectations for the research experience will be specified, and mutually agreed to, by the start of the semester.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Restricted to School of Science majors accepted into the Accelerated B.S./Ph.D. Program.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83411"
+  },
+  {
+    "course_id": "ISCI 6510",
+    "prefix": "ISCI",
+    "number": "6510",
+    "title": "Readings in Astrobiology and the Origins of Life",
+    "description": "Discussion of current issues and research relevant to astrobiology and the origins of life through the view of earth sciences, chemistry, biology, and astrophysics.",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Co-Listed: ISCI 4510 . Students cannot obtain credit for both ISCI 4510 and ISCI 6510.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84042"
+  },
+  {
+    "course_id": "ISCI 6970",
+    "prefix": "ISCI",
+    "number": "6970",
+    "title": "Professional Project",
+    "description": "Active participation in a semester-long project, under the supervision of a faculty adviser. A professional project often serves as a culminating experience for a professional master’s program but, with departmental or school approval, can be used to fulfill other program requirements. With approval, students may register for more than one professional project. Professional projects must result in documentation established by each department or school, but are not submitted to the Office of Graduate Education and are not archived in the library. Grades of A, B, C, or F are assigned by the faculty adviser at the end of the semester. If not completed on time, a formal Incomplete grade may be assigned by the faculty adviser, listing the work remaining to be completed and the time limit for completing this work.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82826"
+  },
+  {
+    "course_id": "ISCI 6980",
+    "prefix": "ISCI",
+    "number": "6980",
+    "title": "Master’s Project",
+    "description": "Active participation in a master’s-level project, under the supervision of a faculty adviser, leading to a master’s project report. Grades S or U are assigned at the end of the semester. If recommended by the adviser, the master’s project may be accepted by the Office of Graduate Education to be archived in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82827"
+  },
+  {
+    "course_id": "ISCI 6990",
+    "prefix": "ISCI",
+    "number": "6990",
+    "title": "Master’s Thesis",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a master’s thesis. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the thesis has been presentend, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82828"
+  },
+  {
+    "course_id": "ISCI 9990",
+    "prefix": "ISCI",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "1-16",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82829"
+  }
+]

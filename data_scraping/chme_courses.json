@@ -1,0 +1,946 @@
+[
+  {
+    "course_id": "CHME 1010",
+    "prefix": "CHME",
+    "number": "1010",
+    "title": "Introduction to Chemical Engineering",
+    "description": "This is an elective course suitable for first-year students interested in chemical engineering. It introduces students to the profession, including the technical content, career opportunities, and societal impact.",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82404"
+  },
+  {
+    "course_id": "CHME 1100",
+    "prefix": "CHME",
+    "number": "1100",
+    "title": "Fundamentals of Chemical Engineering",
+    "description": "Problem solving and analysis techniques focused on chemical engineering applications. Principles of steady state material balance calculations, introduction to chemical engineering design and process flowsheeting. The use of software packages to solve algebraic equation systems.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84003"
+  },
+  {
+    "course_id": "CHME 2010",
+    "prefix": "CHME",
+    "number": "2010",
+    "title": "Material, Energy, and Entropy Balances",
+    "description": "Development of the ability to apply and solve equations of balance for chemical-process systems, laying the foundation for subsequent chemical engineering courses in unit operations and process design. Topics include mass and mole balances for nonreactive and reactive systems, properties of fluids, and the first and second laws of thermodynamics.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHME 1100 (preferred) or ENGR 1100 .",
+    "prerequisites": [
+      "CHME 1100",
+      "ENGR 1100"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CHME 1100",
+        "ENGR 1100"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82405"
+  },
+  {
+    "course_id": "CHME 2020",
+    "prefix": "CHME",
+    "number": "2020",
+    "title": "Energy, Entropy, and Equilibrium",
+    "description": "A continuation of CHME 2010 . Topics include process flowsheeting, solution thermodynamics, phase equilibria, chemical-reaction equilibria, and applications of thermodynamics to problems in chemical-process design.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHME 2010 and MATH 2400 ; or equivalent.",
+    "prerequisites": [
+      "CHME 2010",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CHME 2010",
+        "MATH 2400"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82406"
+  },
+  {
+    "course_id": "CHME 2050",
+    "prefix": "CHME",
+    "number": "2050",
+    "title": "Introduction to Computational Chemical Engineering",
+    "description": "This course introduces common computational techniques that are used in Chemical Engineering. Topics include solving algebraic equations, data analysis, numerical differentiation and integration, and numerical solutions of differential equations applied to chemical engineering problems. Multiple numerical approaches will be used, including an introduction to computer programming.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MATH 2400",
+    "prerequisites": [
+      "MATH 2400"
+    ],
+    "prerequisite_logic": "MATH 2400",
+    "when_offered": "SUMMER TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83829"
+  },
+  {
+    "course_id": "CHME 2100",
+    "prefix": "CHME",
+    "number": "2100",
+    "title": "Chemical Process Safety",
+    "description": "This is a course designed to supplement RPI’s personal lab safety courses and covers the safety protocols and practices associated with chemical process plants. It is designed to provide information necessary for an ABET accredited degree and to assist students in finding an internship and a job. The course uses material offered on-line by the American Institute of Chemical Engineers. It is part of the Safety and Chemical Engineering (SAChE) Certificate program offered by the society and provides continuing education credits for working engineers.",
+    "credit_hours": "0",
+    "prerequisites_raw": "CHME 2020",
+    "prerequisites": [
+      "CHME 2020"
+    ],
+    "prerequisite_logic": "CHME 2020",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84048"
+  },
+  {
+    "course_id": "CHME 2940",
+    "prefix": "CHME",
+    "number": "2940",
+    "title": "Readings in Chemical Engineering",
+    "description": "Independent study of selected readings in the field of chemical engineering, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82407"
+  },
+  {
+    "course_id": "CHME 2960",
+    "prefix": "CHME",
+    "number": "2960",
+    "title": "Topics in Chemical Engineering",
+    "description": "",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82408"
+  },
+  {
+    "course_id": "CHME 2980",
+    "prefix": "CHME",
+    "number": "2980",
+    "title": "Senior Project",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82409"
+  },
+  {
+    "course_id": "CHME 4010",
+    "prefix": "CHME",
+    "number": "4010",
+    "title": "Transport Phenomena I",
+    "description": "An introductory course in transport phenomena covering fluid statics, and one-dimensional diffusive processes including laminar flow, heat conduction, and mass diffusion. Course focuses on developing the equations of change, introducing sum-of-resistance concepts and couple fluid flow, heat transfer, and mass transfer problems. The concept of extended surfaces as a means of enhancing transport process is included. The course introduces numerical simulation concepts for solving simple, one-dimensional transport problems. Credit not allowed for both this course and ENGR 2250 .",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 2400 and CHME 2010",
+    "prerequisites": [
+      "MATH 2400",
+      "CHME 2010"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 2400",
+        "CHME 2010"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82410"
+  },
+  {
+    "course_id": "CHME 4011",
+    "prefix": "CHME",
+    "number": "4011",
+    "title": "Semiconductor Electrochemistry",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83995"
+  },
+  {
+    "course_id": "CHME 4020",
+    "prefix": "CHME",
+    "number": "4020",
+    "title": "Transport Phenomena II",
+    "description": "A continuation of CHME 4010 . Course includes topics on multi-dimensional transport processes, potential, boundary layer and turbulent fluid flows, convective heat and mass transfer processes, friction factors and drag in and around solid objects, heat and mass exchangers, and radiation heat transfer. The course extends the use of numerical methods to apply to multidimensional problems, convective heat and mass transfer problems, and the simulation of more complicated fluid flows including turbulence approximations. Credit not allowed for both this course and ENGR 2250 .",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 2400 and CHME 4010",
+    "prerequisites": [
+      "MATH 2400",
+      "CHME 4010"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 2400",
+        "CHME 4010"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82411"
+  },
+  {
+    "course_id": "CHME 4030",
+    "prefix": "CHME",
+    "number": "4030",
+    "title": "Chemical Process Dynamics and Control",
+    "description": "Introduction to modeling and control of dynamic chemical processes. Topics include the development of first-principles models, linearization and state space form, input/output (transfer function) form, design and tuning of PID controllers, model-based control, frequency response for robustness analysis, case studies in multivariable control, numerical analysis, and simulation.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CHME 2050 , CHME 4040 , and CHME 4500",
+    "prerequisites": [
+      "CHME 2050",
+      "CHME 4040",
+      "CHME 4500"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CHME 2050",
+        "CHME 4040",
+        "CHME 4500"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82412"
+  },
+  {
+    "course_id": "CHME 4040",
+    "prefix": "CHME",
+    "number": "4040",
+    "title": "Chemical Engineering Separations",
+    "description": "The application of the fundamentals of chemistry, thermodynamics, mathematics, and transport phenomena to the design and evaluation of stage-wise and continuous contacting apparatus and systems for separating and purifying chemical materials. Steady-state and transient processes are studied.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHME 2020 , CHME 4010 , and CHME 4020",
+    "prerequisites": [
+      "CHME 2020",
+      "CHME 4010",
+      "CHME 4020"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CHME 2020",
+        "CHME 4010",
+        "CHME 4020"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82413"
+  },
+  {
+    "course_id": "CHME 4050",
+    "prefix": "CHME",
+    "number": "4050",
+    "title": "Chemical Process Design: Fundamentals",
+    "description": "The design of equipment, processes, and systems of interest in chemical engineering through application of scientific, technological, and economic principles. The concepts of product design, design for the environment, and the ethical and safety issues of design are introduced. Emphasis is placed on problem formulation and the conceptual, analytical, and decision aspects of open-ended design situations. The work integrates knowledge and skills gained in previous and concurrent courses. This is a communication-intensive course.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHME 2100 , CHME 4040 , and CHME 4500",
+    "prerequisites": [
+      "CHME 2100",
+      "CHME 4040",
+      "CHME 4500"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CHME 2100",
+        "CHME 4040",
+        "CHME 4500"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82414"
+  },
+  {
+    "course_id": "CHME 4060",
+    "prefix": "CHME",
+    "number": "4060",
+    "title": "Chemical Process Design: Applications",
+    "description": "A continuation of CHME 4050 . Topics include chemical plant design including full economic analysis, implementation of safety protocols, plant layout design, and complete feasibility study. Projects can be chosen from a wide variety of chemical and bioprocesses to study different aspects of chemical industry.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHME 4050",
+    "prerequisites": [
+      "CHME 4050"
+    ],
+    "prerequisite_logic": "CHME 4050",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84004"
+  },
+  {
+    "course_id": "CHME 4100",
+    "prefix": "CHME",
+    "number": "4100",
+    "title": "Finite Element Modeling for Chemical Engineers",
+    "description": "This course presents how solutions to problems in transport phenomena can be obtained using the finite element method. The fundamentals of numerical simulation for coupled heat, mass, and momentum transport are presented. Finite difference methods in 1D and 2D are discussed too. Simulations are performed in multiphysics software for 1D, 2D and 3D systems. The course covers the fundamentals of numerical simulation, formulating user-inspired problems, writing user-defined functions and variables, processing results, and extraction and analysis of simulation data.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHME 4020 , CHME 2050 , and MATH 2400",
+    "prerequisites": [
+      "CHME 4020",
+      "CHME 2050",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CHME 4020",
+        "CHME 2050",
+        "MATH 2400"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84049"
+  },
+  {
+    "course_id": "CHME 4150",
+    "prefix": "CHME",
+    "number": "4150",
+    "title": "Chemical Engineering Laboratory I",
+    "description": "A two-term laboratory course on experimental analysis of the operations and processes of chemical engineering. Emphasis is placed on planning of experiments, data evaluation, and report writing.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHME 4010 , CHME 4020 , and CHME 2020 . Attributes Data Intensive 2",
+    "prerequisites": [
+      "CHME 4010",
+      "CHME 4020",
+      "CHME 2020"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CHME 4010",
+        "CHME 4020",
+        "CHME 2020"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82415"
+  },
+  {
+    "course_id": "CHME 4160",
+    "prefix": "CHME",
+    "number": "4160",
+    "title": "Chemical Engineering Laboratory II",
+    "description": "A two-term laboratory course on experimental analysis of the operations and processes of chemical engineering. Emphasis is placed on planning of experiments, data evaluation, and report writing.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHME 4150 , CHME 4040 , and CHME 4500 .",
+    "prerequisites": [
+      "CHME 4150",
+      "CHME 4040",
+      "CHME 4500"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CHME 4150",
+        "CHME 4040",
+        "CHME 4500"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82416"
+  },
+  {
+    "course_id": "CHME 4170",
+    "prefix": "CHME",
+    "number": "4170",
+    "title": "Bioprocessing Laboratory Course",
+    "description": "A one-term laboratory course covering the fundamentals of biotechnology and bioprocessing including molecular biology, fermentation, and protein purification.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: senior standing in chemical and biological engineering. CHME 4430 strongly recommended.",
+    "prerequisites": [
+      "CHME 4430"
+    ],
+    "prerequisite_logic": "CHME 4430",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82417"
+  },
+  {
+    "course_id": "CHME 4400",
+    "prefix": "CHME",
+    "number": "4400",
+    "title": "Chromatographic Separation Processes",
+    "description": "Theory and practice of chromatographic separation processes. Topics include chromatographic dispersion, adsorption isotherms, solute movement analysis, chromatographic techniques (reversed-phase, HIC, ion exchange, affinity, and size exclusion), modes of operation (gradient, elution, displacement, and continuous systems), novel morphologies and chromatographic applications in biotechnology. Includes critical reviews of the current literature and computer simulations. Suitable for graduate students in chemical engineering, chemistry, biology, and biomedical engineering.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: senior or graduate standing in chemical engineering or permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: CHME 6440",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82418"
+  },
+  {
+    "course_id": "CHME 4430",
+    "prefix": "CHME",
+    "number": "4430",
+    "title": "Introduction to Biochemical Engineering",
+    "description": "Description, fundamentals, and engineering features of processes using microbial, plant or animal cells or their enzymes. Topics include review of biochemistry, review of microbiology, computer simulation, growth, death, aseptic techniques, continuous culture, fermenter design, sterilization, mixed cultures, process scale up, immobilized cells and enzymes, recovery of products, and process economics. Weekly exercises requiring personal computers.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: background in chemical engineering or microbiology. Biochemistry strongly recommended.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82419"
+  },
+  {
+    "course_id": "CHME 4460",
+    "prefix": "CHME",
+    "number": "4460",
+    "title": "Biomolecular Engineering",
+    "description": "This course will focus on 1) designing, engineering, and selecting proteins and other biomolecules with desired functional and biophysical properties (high thermal stability, high solubility, low propensity to aggregate), and 2) characterizing thermodynamic and kinetic properties (folding, oligomerization, and self-association) of these biomolecules.",
+    "credit_hours": "3",
+    "prerequisites_raw": "BIOL 1010 or BIOL 2120 ; or equivalent.",
+    "prerequisites": [
+      "BIOL 1010",
+      "BIOL 2120"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "BIOL 1010",
+        "BIOL 2120"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: CHME 6460 ; (Students may not receive credit for both this course and CHME 4460)",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82420"
+  },
+  {
+    "course_id": "CHME 4480",
+    "prefix": "CHME",
+    "number": "4480",
+    "title": "From Single Molecules to Complex Fluids",
+    "description": "This course will focus on the connections between the behavior of single molecules and their interactions and macroscopic non-Newtonian behavior. It will discuss microscopic models of these systems, techniques for measuring and manipulating the microstructure, and the impact on macroscopic behavior.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHME 4020 or equivalent",
+    "prerequisites": [
+      "CHME 4020"
+    ],
+    "prerequisite_logic": "CHME 4020",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: CHME 6480; Students may not receive credit for both this course and CHME 6480 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82421"
+  },
+  {
+    "course_id": "CHME 4500",
+    "prefix": "CHME",
+    "number": "4500",
+    "title": "Chemical Reactor Design",
+    "description": "Principles of kinetics, reactor design, and analysis for both homogeneous and heterogeneous (catalytic) systems. Topics include design for multiple reaction networks (optimum selectivity), analysis of simple reactor combinations, and design of isothermal, adiabatic, and optimum temperature profile reactor.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHME 2010 , CHME 2020 , CHME 4010 , and CHME 4020",
+    "prerequisites": [
+      "CHME 2010",
+      "CHME 2020",
+      "CHME 4010",
+      "CHME 4020"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CHME 2010",
+        "CHME 2020",
+        "CHME 4010",
+        "CHME 4020"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82422"
+  },
+  {
+    "course_id": "CHME 4600",
+    "prefix": "CHME",
+    "number": "4600",
+    "title": "Introduction to Semiconductor Processing",
+    "description": "The basic processes of fabrication of silicon-based semiconductor devices with emphasis on the chemical principles and systems involved. Topics include materials preparation, oxide growth, lithography, diffusion, ion implantation, epitaxial growth, chemical-vapor deposition, vacuum deposition, reactive ion etching, and packaging technologies. Fabrication of both bipolar and FET devices is discussed with emphasis on manufacturing process flow and control. Process design methodology.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: senior standing in chemical engineering or permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82423"
+  },
+  {
+    "course_id": "CHME 4610",
+    "prefix": "CHME",
+    "number": "4610",
+    "title": "Polymer Processing and Plastics Technology",
+    "description": "This course covers structure, processing, and property relationships for industrially important plastic materials. Fundamentals of fluid flow, rheology, heat transfer, and transport phenomena are applied to analyze polymer processing operations including extrusion, multi-phase mixing, calendering, blow molding, thermoforming, fiber spinning, compression molding, injection molding, and recycling.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHME 4010",
+    "prerequisites": [
+      "CHME 4010"
+    ],
+    "prerequisite_logic": "CHME 4010",
+    "when_offered": "SPRING TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84187"
+  },
+  {
+    "course_id": "CHME 4660",
+    "prefix": "CHME",
+    "number": "4660",
+    "title": "Model Predictive Control",
+    "description": "An introduction to the theory and application of model predictive control (MPC). Overview of discrete-time model-based control. Methods to correct for plant-model mismatch. Unconstrained and constrained solutions to the MPC optimization problem. Extensions to nonlinear systems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHME 4030",
+    "prerequisites": [
+      "CHME 4030"
+    ],
+    "prerequisite_logic": "CHME 4030",
+    "when_offered": "SPRING TERM, ODD YEARS Co-Listed: CHME 6660",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84149"
+  },
+  {
+    "course_id": "CHME 4940",
+    "prefix": "CHME",
+    "number": "4940",
+    "title": "Chemical Engineering Independent Study",
+    "description": "Independent study of selected readings in the field of chemical engineering, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82424"
+  },
+  {
+    "course_id": "CHME 4960",
+    "prefix": "CHME",
+    "number": "4960",
+    "title": "Topics in Chemical Engineering",
+    "description": "",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82425"
+  },
+  {
+    "course_id": "CHME 6011",
+    "prefix": "CHME",
+    "number": "6011",
+    "title": "Semiconductor Electrochemistry",
+    "description": "An interdisciplinary course focusing on the fundamentals and applications of semiconductor electrochemistry, and will serve as a bridge between classical electrochemistry and solid state physics. Topics include fundamentals of semiconductor physics, principles of electrochemistry, nature of semiconductor/electrolyte interfaces, current flow, and the applications of above principles to environment remediation and renewable energy devices such as solar cells, photocatalysis, and battery technologies.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: none.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: CHME 4011",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84002"
+  },
+  {
+    "course_id": "CHME 6410",
+    "prefix": "CHME",
+    "number": "6410",
+    "title": "Advanced Membrane Concepts",
+    "description": "An in-depth and comprehensive treatment of membrane technology. Membrane preparation and morphology. Models for transport through membranes. Fluid-dynamic phenomena across membrane systems. Particle dynamics, membrane fouling, and concentration polarization. Applications to chemical and biochemical separations. Critical reviews of the current literature.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: a general knowledge of transport phenomena.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82426"
+  },
+  {
+    "course_id": "CHME 6420",
+    "prefix": "CHME",
+    "number": "6420",
+    "title": "Separation and Recovery Processes",
+    "description": "The application of theoretical and fundamental principles and pilot plant data to the design and operation of biochemical separation processes and advanced waste treatment systems. Topics covered include characterization and dispersion, coagulation and flocculation, sedimentation, filtration, adsorption, ion exchange, membrane processes, aeration and gas transfer, centrifugation, and related subjects.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82427"
+  },
+  {
+    "course_id": "CHME 6430",
+    "prefix": "CHME",
+    "number": "6430",
+    "title": "Biochemical Engineering",
+    "description": "Engineering aspects of microbial processes and of conversions with immobilized enzymes. Topics are mixed-culture processes, sterilization, aseptic techniques, mass transfer, bioprocess control, product isolation, enzyme technology, bioprocess development. There are heavy emphases on continuous fermentation and on chemicals from biomass.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: microbiology or assigned reading.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82428"
+  },
+  {
+    "course_id": "CHME 6440",
+    "prefix": "CHME",
+    "number": "6440",
+    "title": "Chromatographic Separation Processes",
+    "description": "Theory and practice of chromatographic separation processes. Topics include chromatographic dispersion, adsorption isotherms, solute movement analysis, chromatographic techniques (reversed-phase, HIC, ion exchange, affinity, and size exclusion), modes of operation (gradient, elution, displacement, and continuous systems), novel morphologies and chromatographic applications in biotechnology. Includes critical reviews of the current literature and computer simulations. Suitable for graduate students in chemical engineering, chemistry, biology, and biomedical engineering.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: CHME 4400",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82429"
+  },
+  {
+    "course_id": "CHME 6450",
+    "prefix": "CHME",
+    "number": "6450",
+    "title": "Advanced Biochemical Engineering",
+    "description": "Selected topics beyond the scope of CHME 6430 . Particular emphasis on the current literature and the applications of computers and graphics. Extensive coverage is given to purification and separation technology, kinetic analysis, design of bioreactors, exploitation of genetic engineering, and bioprocess development. An individual project is required.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHME 6430 or permission of instructor.",
+    "prerequisites": [
+      "CHME 6430"
+    ],
+    "prerequisite_logic": "CHME 6430",
+    "when_offered": "SUMMER TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82430"
+  },
+  {
+    "course_id": "CHME 6460",
+    "prefix": "CHME",
+    "number": "6460",
+    "title": "Biomolecular Engineering",
+    "description": "This course will focus on 1) designing, engineering, and selecting proteins and other biomolecules with desired functional and biophysical properties (high thermal stability, high solubility, low propensity to aggregate), and 2) characterizing thermodynamic and kinetic properties (folding, oligomerization, and self-association) of these biomolecules.",
+    "credit_hours": "3",
+    "prerequisites_raw": "BIOL 1010 or BIOL 2120 ; or equivalent.",
+    "prerequisites": [
+      "BIOL 1010",
+      "BIOL 2120"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "BIOL 1010",
+        "BIOL 2120"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: CHME 4460 ; (Students may not receive credit for both this course and CHME 6460.)",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82431"
+  },
+  {
+    "course_id": "CHME 6470",
+    "prefix": "CHME",
+    "number": "6470",
+    "title": "Downstream Processing in Biochemical Engineering",
+    "description": "The course focuses on the concentration, recovery, and isolation of biological molecules relevant in biotechnology. The characteristics of biological molecules such as proteins and biological fluids such as blood, fermentation, and cell culture broth, are discussed. The principles, advantages, and limitations of centrifugation, membranes, cell-disruption, two-phase extraction, precipitation crystallization, and electrical processes are discussed. Integrated bioseparation schemes are presented and many specific applications are discussed in detail.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: a course in biochemical engineering or permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82432"
+  },
+  {
+    "course_id": "CHME 6480",
+    "prefix": "CHME",
+    "number": "6480",
+    "title": "From Single Molecules to Complex Fluids",
+    "description": "This course will focus on the connections between the behavior of single molecules and their interactions and macroscopic non-Newtonian behavior. Among the topics discussed are microscopic models of these systems, techniques for measuring and manipulating the microsctructure, and the impact on macroscopic behavior.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHME 4020 or equivalent.",
+    "prerequisites": [
+      "CHME 4020"
+    ],
+    "prerequisite_logic": "CHME 4020",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: CHME 4480; Students may not receive credit for both this course and CHME 4480 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82433"
+  },
+  {
+    "course_id": "CHME 6510",
+    "prefix": "CHME",
+    "number": "6510",
+    "title": "Advanced Transport Phenomena I",
+    "description": "Continuity, momentum, and energy equations for continuous fluids; constitutive relations. Kinematics of fluid motion; vorticity and circulation. Potential flow. Navier-Stokes equations. Boundary layer theory. Turbulence. Multicomponent reacting systems. Selected applications.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of both CHME 4010 and CHME 4020",
+    "prerequisites": [
+      "CHME 4010",
+      "CHME 4020"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CHME 4010",
+        "CHME 4020"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82434"
+  },
+  {
+    "course_id": "CHME 6520",
+    "prefix": "CHME",
+    "number": "6520",
+    "title": "Advanced Transport Phenomena II",
+    "description": "A continuation of CHME 6510 . Treats irrotational flow, flow around bubbles, and other free surface problems, turbulent flow, jets, and wakes. Presumes an understanding of continuum mechanics, viscous flow, and boundary layer flow.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHME 6510 or permission of instructor.",
+    "prerequisites": [
+      "CHME 6510"
+    ],
+    "prerequisite_logic": "CHME 6510",
+    "when_offered": "FALL TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82435"
+  },
+  {
+    "course_id": "CHME 6540",
+    "prefix": "CHME",
+    "number": "6540",
+    "title": "Convective Heat Transfer",
+    "description": "A review of basic concepts of mass, momentum, and energy conservation as related to convective heat transfer. The analysis of laminar and turbulent forces and free convection problems in both internal and external flows. Also a study of the current state of the art in boiling and condensation heat transfer.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82436"
+  },
+  {
+    "course_id": "CHME 6570",
+    "prefix": "CHME",
+    "number": "6570",
+    "title": "Chemical and Phase Equilibrium",
+    "description": "Classical solution thermodynamics, equations of state, and topics in chemical reaction and phase equilibria. Emphasis is on the rigorous formulation of equilibrium problems, and on the measurement, reduction, correlation, and interpretation of experimental data.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of CHME 2020 and MATH 2400 ; or equivalent.",
+    "prerequisites": [
+      "CHME 2020",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CHME 2020",
+        "MATH 2400"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82437"
+  },
+  {
+    "course_id": "CHME 6610",
+    "prefix": "CHME",
+    "number": "6610",
+    "title": "Mathematical Methods in Chemical Engineering I",
+    "description": "Development and application of mathematical methods for the solution of chemical engineering problems. Classical solution methods for ordinary and partial differential equations. Major emphasis is given to the mathematical implications of describing and solving representation of chemical reactors and other systems. Case studies relevant to other departmental graduate courses and ongoing research activities are discussed. The mathematical methods include series solutions, special function representations, boundary-value problems, and operational calculus.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of MATH 2400 or equivalent.",
+    "prerequisites": [
+      "MATH 2400"
+    ],
+    "prerequisite_logic": "MATH 2400",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82438"
+  },
+  {
+    "course_id": "CHME 6620",
+    "prefix": "CHME",
+    "number": "6620",
+    "title": "Mathematical Methods in Chemical Engineering II",
+    "description": "Modern solution techniques including semi-analytical, approximation, and numerical methods are introduced and applied to linear and nonlinear transport phenomena problems and chemical engineering systems. Similarity theory and integral methods, perturbation techniques, and orthogonal collocation, indispensable to chemical engineering, are discussed.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHME 6610 or permission of instructor.",
+    "prerequisites": [
+      "CHME 6610"
+    ],
+    "prerequisite_logic": "CHME 6610",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82439"
+  },
+  {
+    "course_id": "CHME 6640",
+    "prefix": "CHME",
+    "number": "6640",
+    "title": "Advanced Chemical Reactor Design",
+    "description": "Analysis of ideal and nonideal chemical reactor operation with simple and multiple homogeneous, heterogeneous, and catalytic reactions. Interplay of chemical and mass and energy and momentum transport processes in model reactors and catalytic particles. Topics include transient and steady-state operation, residence time distribution, multiplicity, stability, selectivity control, and catalyst deactivation.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of CHME 4500",
+    "prerequisites": [
+      "CHME 4500"
+    ],
+    "prerequisite_logic": "CHME 4500",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82440"
+  },
+  {
+    "course_id": "CHME 6650",
+    "prefix": "CHME",
+    "number": "6650",
+    "title": "Advanced Process Control",
+    "description": "Application of modern control theory to chemical processes. Introduction to on-line data acquisition and computer control. Real-time process optimization and optimal control theory. Estimation theory and adaptive control. Introduction to stochastic control and to the control of large-scale distribution systems. Case studies via computer-aided design programs.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of CHME 4030 or equivalent.",
+    "prerequisites": [
+      "CHME 4030"
+    ],
+    "prerequisite_logic": "CHME 4030",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82441"
+  },
+  {
+    "course_id": "CHME 6660",
+    "prefix": "CHME",
+    "number": "6660",
+    "title": "Model Predictive Control",
+    "description": "An introduction to the theory and application of model predictive control (MPC). Overview of discrete-time model-based control. Methods to correct for plant-model mismatch. Unconstrained and constrained solutions to the MPC optimization problem. Extensions to nonlinear systems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of CHME 4030",
+    "prerequisites": [
+      "CHME 4030"
+    ],
+    "prerequisite_logic": "CHME 4030",
+    "when_offered": "SPRING TERM, ODD YEARS Co-Listed: CHME 4660",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84150"
+  },
+  {
+    "course_id": "CHME 6670",
+    "prefix": "CHME",
+    "number": "6670",
+    "title": "Advanced Process Design",
+    "description": "Process synthesis with applications to heat exchange networks, energy-integrated separation sequences, and reactor networks. Analysis, design, and optimization of large-scale systems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: chemical engineering degree or permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82442"
+  },
+  {
+    "course_id": "CHME 6830",
+    "prefix": "CHME",
+    "number": "6830",
+    "title": "Combustion Systems",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82443"
+  },
+  {
+    "course_id": "CHME 6840",
+    "prefix": "CHME",
+    "number": "6840",
+    "title": "An Introduction to Multiphase Flow and Heat Transfer I",
+    "description": "This course is intended to give students a state-of-the-art understanding about single and multicomponent boiling and condensation heat transfer phenomena. Applications include the analysis of nuclear reactors, oil wells, and chemical process equipment. Students satisfactorily completing this course are expected to be able to thoroughly understand the current thermal-hydraulics literature on multiphase heat and mass transfer and be able to conduct independent research in this field.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: A working knowledge of fluid mechanics and heat transfer.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: MANE 6840 . Students cannot obtain credit for both this course and MANE 6840 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82444"
+  },
+  {
+    "course_id": "CHME 6850",
+    "prefix": "CHME",
+    "number": "6850",
+    "title": "An Introduction to Multiphase Flow and Heat Transfer II",
+    "description": "This course is intended to give students a state-of-the-art understanding in multicomponent flow phenomena. Applications in the chemical process, petroleum recovery, and fossil/nuclear power industries will be given. Specific areas of coverage include two-phase: fluid mechanics, pressure drop, modeling and analysis, stability analysis, critical flow and dynamic waves, flow regime analysis, and phase separation and distribution phenomena.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHME 6840 or MANE 6840",
+    "prerequisites": [
+      "CHME 6840",
+      "MANE 6840"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CHME 6840",
+        "MANE 6840"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: MANE 6850 . Students cannot obtain credit for this course and MANE 6850 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82445"
+  },
+  {
+    "course_id": "CHME 6900",
+    "prefix": "CHME",
+    "number": "6900",
+    "title": "Chemical and Biological Engineering Seminar",
+    "description": "This seminar-based graduate level course provides a broad exposure to the chemical and biological engineering discipline. Attending and participating in seminars from recognized experts will form the core of the course. Topics include energy and the environment, nano and biotechnologies, computational molecular science, polymers and advanced materials, synthetic biology, metabolic engineering, and the future of our discipline. The course is required for chemical engineering Ph.D. students.",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83609"
+  },
+  {
+    "course_id": "CHME 6940",
+    "prefix": "CHME",
+    "number": "6940",
+    "title": "Readings in Chemical Engineering",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82446"
+  },
+  {
+    "course_id": "CHME 6960",
+    "prefix": "CHME",
+    "number": "6960",
+    "title": "Topics in Chemical Engineering",
+    "description": "State-of the-art formal courses in specialized areas suitable for master’s and doctoral programs. Usually two topics offered per term. Typical topics include colloidal dynamics, dispersion and mixing, fluidation, heterogeneous catalysis, polymer reaction engineering, stochastic processes, and statistical mechanics.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82447"
+  },
+  {
+    "course_id": "CHME 6970",
+    "prefix": "CHME",
+    "number": "6970",
+    "title": "Professional Project",
+    "description": "Active participation in a semester-long project, under the supervision of a faculty adviser. A Professional Project often serves as a culminating experience for a Professional Master’s program but, with departmental or school approval, can be used to fulfill other program requirements. With approval, students may register for more than one Professional Project. Professional Projects must result in documentation established by each department or school, but are not submitted to the Office of Graduate Education and are not archived in the library. Grades of A, B, C, or F are assigned by the faculty adviser at the end of the semester. If not completed on time, a formal Incomplete grade may be assigned by the faculty adviser, listing the work remaining to be completed and the time limit for completing this work.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82448"
+  },
+  {
+    "course_id": "CHME 6990",
+    "prefix": "CHME",
+    "number": "6990",
+    "title": "Master’s Thesis",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a master’s thesis. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82449"
+  },
+  {
+    "course_id": "CHME 9990",
+    "prefix": "CHME",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82450"
+  }
+]

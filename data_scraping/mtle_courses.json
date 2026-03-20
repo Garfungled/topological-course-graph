@@ -1,0 +1,972 @@
+[
+  {
+    "course_id": "MTLE 1200",
+    "prefix": "MTLE",
+    "number": "1200",
+    "title": "Introduction to Materials Engineering",
+    "description": "A 1-credit course comprising class lectures, laboratory visits, and group projects. The course will provide an overview of the field of materials science and engineering, highlighting how understanding the structures, properties and processing of materials provides scientific and engineering advances that sustain the progress of technology.",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83429"
+  },
+  {
+    "course_id": "MTLE 2020",
+    "prefix": "MTLE",
+    "number": "2020",
+    "title": "Introduction to Ceramic Materials",
+    "description": "Structure and properties of crystalline ceramic materials. Atomic bonding, crystal structure, structural imperfections, nonstoichiometry, surfaces, and interfaces. Reactions in ceramic systems in terms of phase equilibria, nucleation and crystal growth, diffusion, grain growth, and sintering. Ceramic microstructures and various properties.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83192"
+  },
+  {
+    "course_id": "MTLE 2040",
+    "prefix": "MTLE",
+    "number": "2040",
+    "title": "Programming for Materials Engineers",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84122"
+  },
+  {
+    "course_id": "MTLE 2100",
+    "prefix": "MTLE",
+    "number": "2100",
+    "title": "Structure of Engineering Materials",
+    "description": "The first course in Materials Science and Engineering. Structures of metals, ceramics, and polymers and experimental techniques for their determination are discussed. Laboratory experience is included.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ENGR 1600",
+    "prerequisites": [
+      "ENGR 1600"
+    ],
+    "prerequisite_logic": "ENGR 1600",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83193"
+  },
+  {
+    "course_id": "MTLE 2500",
+    "prefix": "MTLE",
+    "number": "2500",
+    "title": "Materials Laboratory Skills",
+    "description": "Introduction to some experimental methods used to fabricate and measure the structure and properties of materials. Thermal and mechanical processing and properties are emphasized. Specimen preparation, examination by light optical microscopy, report writing, and measurement systems analysis are covered.",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SUMMER TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83826"
+  },
+  {
+    "course_id": "MTLE 2940",
+    "prefix": "MTLE",
+    "number": "2940",
+    "title": "Readings in Materials",
+    "description": "",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83194"
+  },
+  {
+    "course_id": "MTLE 2980",
+    "prefix": "MTLE",
+    "number": "2980",
+    "title": "Senior Project",
+    "description": "",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83195"
+  },
+  {
+    "course_id": "MTLE 4030",
+    "prefix": "MTLE",
+    "number": "4030",
+    "title": "Glass Science",
+    "description": "Glasses are used in optical communications (optical fibers), electronics (insulator), and nuclear waste processing in addition to conventional use as windows, light bulbs, and containers. Subjects covered include: Formation and structure of inorganic glasses. The relationship between properties and cooling rate. Viscosity and structural relaxation. Phase separation and crystallization. Ionic diffusion and electrical properties. Mechanical strength and fatigue. Glass surface and chemical durability. Optical properties.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83196"
+  },
+  {
+    "course_id": "MTLE 4050",
+    "prefix": "MTLE",
+    "number": "4050",
+    "title": "Introduction to Polymers",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83197"
+  },
+  {
+    "course_id": "MTLE 4100",
+    "prefix": "MTLE",
+    "number": "4100",
+    "title": "Thermodynamics of Materials",
+    "description": "Rigorous development of classical thermodynamics as applied to prediction of materials properties. Nonideal gases, solutions, phase equilibria, chemical equilibria, defects.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CHEM 1100 , CHEM 1110 , or CHEM 1120 ; and ( ENGR 1600 or BMED 2100 or equivalent).",
+    "prerequisites": [
+      "CHEM 1100",
+      "CHEM 1110",
+      "CHEM 1120",
+      "ENGR 1600",
+      "BMED 2100"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CHEM 1100",
+            "CHEM 1110"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "CHEM 1120",
+            "ENGR 1600"
+          ]
+        },
+        "BMED 2100"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83198"
+  },
+  {
+    "course_id": "MTLE 4130",
+    "prefix": "MTLE",
+    "number": "4130",
+    "title": "Functional Ceramics",
+    "description": "This course covers topics of structures and properties of functional ceramic materials: atomic structure; symmetry; defects; electrical, optical, magnetic, electrochemical and dielectric properties; phase and defect equilibria; charge transport; and structural and electronic phase transitions. Case studies on oxide ceramics include ferroelectricity, piezoelectricity, pyroelectricity, electro-optics, shape memory ceramics, and solid electrochemistry.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MTLE 4100 or approval by the instructor",
+    "prerequisites": [
+      "MTLE 4100"
+    ],
+    "prerequisite_logic": "MTLE 4100",
+    "when_offered": "SPRING TERM, EVEN YEARS Co-Listed: MTLE 6130 ; Students can only earn credit for one of these courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84116"
+  },
+  {
+    "course_id": "MTLE 4150",
+    "prefix": "MTLE",
+    "number": "4150",
+    "title": "Kinetics in Materials Systems",
+    "description": "Kinetic processes in materials. Overview of kinetics in relation to equilibrium thermodynamics, atomistics and mathematics of diffusion, phase transformations, and microstructural evolution. All materials classes, including metals and alloys, ionic and intermetallic compounds, glasses, semiconductors, and polymers will be considered in terms of similarities and differences. Includes laboratory component.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CHEM 1100 , CHEM 1110 , or CHEM 1120 ; and MTLE 4100",
+    "prerequisites": [
+      "CHEM 1100",
+      "CHEM 1110",
+      "CHEM 1120",
+      "MTLE 4100"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CHEM 1100",
+            "CHEM 1110"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "CHEM 1120",
+            "MTLE 4100"
+          ]
+        }
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83199"
+  },
+  {
+    "course_id": "MTLE 4160",
+    "prefix": "MTLE",
+    "number": "4160",
+    "title": "Semiconducting Materials",
+    "description": "Review of electronic properties of materials. Growth and structure of semiconductors. Diffusion, ion implantation, oxidation, microlithography, plasma etching, thin film deposition, metallization, with emphasis on Si technology. Introduction to compound semiconductors.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MTLE 4200 or equivalent.",
+    "prerequisites": [
+      "MTLE 4200"
+    ],
+    "prerequisite_logic": "MTLE 4200",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83200"
+  },
+  {
+    "course_id": "MTLE 4200",
+    "prefix": "MTLE",
+    "number": "4200",
+    "title": "Electrical and Optical Properties of Materials",
+    "description": "Electronic and optical properties of metals, dielectrics, semiconductors, and organic molecular solids. Introduction to quantum mechanics. Lattice vibrations, magnetism, energy bands in solids. Free and nearly free electron models. Effect of electronic structure on interatomic bonding. Semiconductors and their devices.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MTLE 2100 and ( PHYS 1200 or PHYS 1250 ).",
+    "prerequisites": [
+      "MTLE 2100",
+      "PHYS 1200",
+      "PHYS 1250"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MTLE 2100",
+            "PHYS 1200"
+          ]
+        },
+        "PHYS 1250"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83201"
+  },
+  {
+    "course_id": "MTLE 4250",
+    "prefix": "MTLE",
+    "number": "4250",
+    "title": "Mechanical Properties of Materials",
+    "description": "This is a required departmental course, but is also appropriate for biomedical engineers and other engineering disciplines as an elective. This course teaches the mechanical properties of metals, ceramics, and polymers from both the macroscopic and atomistic or micromechanical viewpoints. An introduction to three-dimensional stresses and strains. Elastic behavior, plastic behavior, strengthening mechanisms, fracture, creep, and fatigue are all addressed. Includes laboratory component.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MTLE 2100 and ENGR 1600 (or equivalent)",
+    "prerequisites": [
+      "MTLE 2100",
+      "ENGR 1600"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MTLE 2100",
+        "ENGR 1600"
+      ]
+    },
+    "when_offered": "SUMMER TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83202"
+  },
+  {
+    "course_id": "MTLE 4310",
+    "prefix": "MTLE",
+    "number": "4310",
+    "title": "Corrosion",
+    "description": "Mechanisms, characteristics, and types of corrosion. Methods for testing, combating, and evaluating corrosion resistance. Suitability of metals, ceramics, and organic materials in corrosive environments. Oxidation and other high-temperature gas-metal reactions.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83203"
+  },
+  {
+    "course_id": "MTLE 4400",
+    "prefix": "MTLE",
+    "number": "4400",
+    "title": "Materials Synthesis and Processing",
+    "description": "This course covers materials processing in the area of metals, polymers, ceramics, and electronic materials. Some processes covered include casting, molding, deformation processing, additive processing, and joining methods. Design and analysis of experiments and process modeling are emphasized. Includes laboratories.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MTLE 4200 and MTLE 4150 and MTLE 4250 .",
+    "prerequisites": [
+      "MTLE 4200",
+      "MTLE 4150",
+      "MTLE 4250"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MTLE 4200",
+        "MTLE 4150",
+        "MTLE 4250"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83204"
+  },
+  {
+    "course_id": "MTLE 4430",
+    "prefix": "MTLE",
+    "number": "4430",
+    "title": "Fundamentals of Metallurgical Alloy Systems",
+    "description": "This course explores principles of chemical and physical metallurgy of the common alloy systems, including mild and low alloy steels, copper, aluminum, and aluminum alloys. Applications include alloys designed for corrosion resistance and elevated temperature applications. Alloy design and development for extreme or exotic environments also will be discussed. In each case, alloy development concepts will be related to the appropriate engineering applications.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83515"
+  },
+  {
+    "course_id": "MTLE 4440",
+    "prefix": "MTLE",
+    "number": "4440",
+    "title": "Thin Films",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83519"
+  },
+  {
+    "course_id": "MTLE 4460",
+    "prefix": "MTLE",
+    "number": "4460",
+    "title": "Materials for Energy Applications",
+    "description": "This course covers all aspects of the role materials play in energy. The course takes a fundamental perspective and these materials can range from neutrons to photons to energetic biomolecules. The five forms of energy (thermal, electromagnetic, mechanical, chemical, and nuclear) are stressed in every lecture as are the appropriate thermodynamic laws and governing cycles.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83517"
+  },
+  {
+    "course_id": "MTLE 4470",
+    "prefix": "MTLE",
+    "number": "4470",
+    "title": "Biology in Materials Science",
+    "description": "This course will cover the basic principles of biology in the context of materials science as well as emerging and cutting applications of biomaterials science. Topics will include: fundamentals of biological self assembly and hierarchical structures; examination of structure-property relationships in naturally occurring biopolymers, foams, and ceramic composites; biomimetic design and synthesis of novel materials at the molecular and nanoscale levels. Students will gain a deeper appreciation of the impact of biological principles on current topics in materials science.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CHEM 1600 , ISCI 1600 , ENGR 1600 , PHYS 1600 , or BMED 2100 or equivalent.",
+    "prerequisites": [
+      "CHEM 1600",
+      "ISCI 1600",
+      "ENGR 1600",
+      "PHYS 1600",
+      "BMED 2100"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "CHEM 1600",
+            "ISCI 1600",
+            "ENGR 1600",
+            "PHYS 1600"
+          ]
+        },
+        "BMED 2100"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MTLE 6470 Students cannot get credit for both MTLE 4470 and MTLE 6470.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83430"
+  },
+  {
+    "course_id": "MTLE 4500",
+    "prefix": "MTLE",
+    "number": "4500",
+    "title": "Computational Materials Design",
+    "description": "This course will provide the background and a set of examples of how computational methods can be applied to design of materials with desired structure and properties. The methods will span multi-length and time scales, including first-principles approaches, molecular dynamics simulations, stochastic methods for optimization and sampling, and computational thermodynamics. Lectures will be complemented by computer labs with hands-on exercises using publicly available or commercial software packages.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Undergraduates must have junior standing or permission of the instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83518"
+  },
+  {
+    "course_id": "MTLE 4520",
+    "prefix": "MTLE",
+    "number": "4520",
+    "title": "Materials under Extreme Conditions",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83520"
+  },
+  {
+    "course_id": "MTLE 4720",
+    "prefix": "MTLE",
+    "number": "4720",
+    "title": "Applied Mathematical Methods in Materials",
+    "description": "Students apply mathematical and numerical techniques to understand materials engineering topics such as materials structure, symmetry, diffusion, mechanics, and physics of solids. Class uses examples from materials science and engineering core courses to introduce mathematical concepts and materials-related problem-solving skills. Topics include linear algebra, eigenvalues and eigenvectors, quadratic forms, tensor operations, symmetry operations, calculus of several variables, ordinary and partial differential equations, Fourier analysis, integral transformations, numerical methods, and calculus of variations.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MATH 2400 and access to Mathematica.",
+    "prerequisites": [
+      "MATH 2400"
+    ],
+    "prerequisite_logic": "MATH 2400",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83723"
+  },
+  {
+    "course_id": "MTLE 4730",
+    "prefix": "MTLE",
+    "number": "4730",
+    "title": "Material Informatics and Data Science",
+    "description": "Introduction to data science and machine learning, with case studies in discovery of structure-property relationships and new materials from experimental and computational data. Brief review of required background in linear algebra and statistics with hands-on exercises in Python. Data science topics: model fitting, clustering, dimensionality reduction, ontologies, Bayesian inference, and design of experiments.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENGR 2600 , or equivalent.",
+    "prerequisites": [
+      "ENGR 2600"
+    ],
+    "prerequisite_logic": "ENGR 2600",
+    "when_offered": "FALL TERM, EVEN YEARS Cross Listed: CSCI 4730 , and CSCI 4730 . Students may not receive additional credit for any of these cross listed courses in addition. Co-Listed: MTLE 6730",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84118"
+  },
+  {
+    "course_id": "MTLE 4910",
+    "prefix": "MTLE",
+    "number": "4910",
+    "title": "Materials Selection",
+    "description": "This class covers basic materials selection concepts and the underlying structure-property-process-performance interaction. Engineering materials, structures and properties, principles and process of materials selection, generation of materials performances indices, assessment and optimization of performance, processing routes and manufacturing issues, role of reverse engineering and failure analysis in design are covered. Materials selection against yielding, fracture, flexure, buckling, fatigue, creep, corrosion, and wear are addressed. Decomposition of engineering problems into functional, geometric, and materials constraints are emphasized. Materials selection based on simple and complex or conflicting constraints will be developed. Students will perform written assignments and oral presentations to develop communication skills. Enrollment for Materials Science and Engineering majors is restricted to juniors, seniors, or graduates.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MTLE 2100",
+    "prerequisites": [
+      "MTLE 2100"
+    ],
+    "prerequisite_logic": "MTLE 2100",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83205"
+  },
+  {
+    "course_id": "MTLE 4920",
+    "prefix": "MTLE",
+    "number": "4920",
+    "title": "Multidisciplinary Capstone Design",
+    "description": "A capstone design experience that engages students from biomedical, computer systems, electrical, industrial, materials, and mechanical engineering on teams in an open-ended engineering design problem in preparation for professional practice. With the guidance of a multidisciplinary team of faculty members and instructional support staff, students apply knowledge and skills from prior coursework. This is a communication-intensive course.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENGR 2050 and MTLE 4910 and senior status.",
+    "prerequisites": [
+      "ENGR 2050",
+      "MTLE 4910"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ENGR 2050",
+        "MTLE 4910"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Cross Listed: ECSE 4900 and MANE 4260 and ISYE 4270 . Students cannot obtain credit for this course and ECSE 4900 , MANE 4260 or ISYE 4270 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83206"
+  },
+  {
+    "course_id": "MTLE 4960",
+    "prefix": "MTLE",
+    "number": "4960",
+    "title": "Topics in Materials Engineering",
+    "description": "",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83726"
+  },
+  {
+    "course_id": "MTLE 6010",
+    "prefix": "MTLE",
+    "number": "6010",
+    "title": "Defects in Solids",
+    "description": "Point defects, nonstoichiometry, diffusion and defects, electronic defects, elastic properties of dislocations, dislocation-point defect interactions, dislocation arrays, grain boundaries, stacking faults, phase stability, twin boundaries, epitaxial interfaces.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of MTLE 2100 or equivalent.",
+    "prerequisites": [
+      "MTLE 2100"
+    ],
+    "prerequisite_logic": "MTLE 2100",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83207"
+  },
+  {
+    "course_id": "MTLE 6030",
+    "prefix": "MTLE",
+    "number": "6030",
+    "title": "Advanced Thermodynamics",
+    "description": "Review of classical thermodynamics. Development of basic concepts of statistical thermodynamics. Application of both classical and statistical techniques to the determination of phase and chemical equilibrium in real systems.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of MTLE 4100",
+    "prerequisites": [
+      "MTLE 4100"
+    ],
+    "prerequisite_logic": "MTLE 4100",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83208"
+  },
+  {
+    "course_id": "MTLE 6040",
+    "prefix": "MTLE",
+    "number": "6040",
+    "title": "Principles of Crystallography and X-Ray Diffraction",
+    "description": "Symmetry operations, point groups and space groups, x-ray and electron diffraction techniques, reciprocal lattice, Ewald sphere, mathematics of diffraction, crystal chemistry, crystal structure-property relationships.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83209"
+  },
+  {
+    "course_id": "MTLE 6050",
+    "prefix": "MTLE",
+    "number": "6050",
+    "title": "Introduction to Polymers",
+    "description": "Introduction to Polymers is a first course on polymer science and structure-property relationships. Topics include chemical and molecular structure; morphology (structure) of amorphous and crystalline polymers; crystallization phenomena; polymer solutions and blends; physical properties of polymers in relation to structure, including rubber elasticity, viscoelasticity, and glass transition; and mechanical and rheological properties and testing.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: There are no prerequisites for this course. This is a companion course to CHEM 4620 Introduction to Polymer Chemistry.",
+    "prerequisites": [
+      "CHEM 4620"
+    ],
+    "prerequisite_logic": "CHEM 4620",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: MTLE 4050 . Students can only earn credit for MTLE 4050 or MTLE 6050.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83685"
+  },
+  {
+    "course_id": "MTLE 6060",
+    "prefix": "MTLE",
+    "number": "6060",
+    "title": "Advanced Kinetics of Materials Reactions",
+    "description": "Diffusion and phase transformations: solutions to the diffusion equation, moving boundaries, concentration-dependent diffusion coefficient, interdiffusion, nucleation, crystal growth from the vapor and solution, solidification. Precipitation: general, cellular, and G-P zones. Allotropic and martensitic transformations. Grain growth. Sintering.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Prior knowledge of MTLE 4100 or MTLE 6030 or equivalent.",
+    "prerequisites": [
+      "MTLE 4100",
+      "MTLE 6030"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MTLE 4100",
+        "MTLE 6030"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83210"
+  },
+  {
+    "course_id": "MTLE 6080",
+    "prefix": "MTLE",
+    "number": "6080",
+    "title": "Electron Microscopy of Materials",
+    "description": "Introduction to electron optics, electron diffraction contrast mechanisms, specimen preparation, and microanalysis. Theory and operating fundamentals of the SEM, TEM, STEM, and the electron microprobe. Analysis of images from crystalline materials using kinematical and dynamical theories of electron diffraction. Includes laboratory component.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of MTLE 2100 or MTLE 6040 .",
+    "prerequisites": [
+      "MTLE 2100",
+      "MTLE 6040"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MTLE 2100",
+        "MTLE 6040"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83211"
+  },
+  {
+    "course_id": "MTLE 6110",
+    "prefix": "MTLE",
+    "number": "6110",
+    "title": "Diffusion in Solids",
+    "description": "The diffusion process in metals and alloys. Solution to Fick’s law. Self-diffusion. Effect of temperature upon diffusion. Grain boundary and surface diffusion. Solution and diffusion of gases in metals. Diffusion in carburizing, the austenite transformation, powder metallurgy, and the scaling of metals and alloys.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83212"
+  },
+  {
+    "course_id": "MTLE 6120",
+    "prefix": "MTLE",
+    "number": "6120",
+    "title": "Advanced Electronic Properties of Materials",
+    "description": "Review of essential electromagnetic theory and quantum mechanics, including exact models and approximate methods. Application to behavior of electrons in solids including electronic band structure, charge carrier statistics and charge transport in metals, semiconductors, and insulators. Dielectric, optical, and magnetic properties. Solid-vacuum, solid-liquid, and solid-solid interfaces. Applications to semiconductor, optoelectronic, and magnetic devices.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83213"
+  },
+  {
+    "course_id": "MTLE 6130",
+    "prefix": "MTLE",
+    "number": "6130",
+    "title": "Functional Ceramics",
+    "description": "This course covers topics of structures and properties of functional ceramic materials: atomic structure; symmetry; defects; electrical, optical, magnetic, electrochemical and dielectric properties; phase and defect equilibria; charge transport; and structural and electronic phase transitions. Case studies on oxide ceramics include ferroelectricity, piezoelectricity, pyroelectricity, electro-optics, shape memory ceramics, and solid electrochemistry.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of MTLE 4100",
+    "prerequisites": [
+      "MTLE 4100"
+    ],
+    "prerequisite_logic": "MTLE 4100",
+    "when_offered": "SPRING TERM, EVEN YEARS Co-Listed: MTLE 4130 ; Students can only earn credit for one of these courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84117"
+  },
+  {
+    "course_id": "MTLE 6150",
+    "prefix": "MTLE",
+    "number": "6150",
+    "title": "Fracture of Solids",
+    "description": "Review of elasticity and plasticity theory. Calculation of theoretical cohesive strength of crystalline solids; influence of stress concentrations on fracture strength. Fractography. Theory and applications of linear elastic fracture mechanics. Fracture testing. Elastic-plastic fracture mechanics. Dislocation theories of cleavage fracture. Phenomenology and theories of stress corrosion cracking, creep rupture, fatigue.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83214"
+  },
+  {
+    "course_id": "MTLE 6220",
+    "prefix": "MTLE",
+    "number": "6220",
+    "title": "Advanced Semiconducting Materials and Processing",
+    "description": "Discussion of selected advanced and emerging topics in microelectronics materials and fabrication. These may include metallization, thin film deposition, interconnection technology, microlithography, plasma etching and processing.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83215"
+  },
+  {
+    "course_id": "MTLE 6250",
+    "prefix": "MTLE",
+    "number": "6250",
+    "title": "Advanced Mechanical Properties of Materials",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83216"
+  },
+  {
+    "course_id": "MTLE 6300",
+    "prefix": "MTLE",
+    "number": "6300",
+    "title": "Integrated Circuit Fabrication Laboratory",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83217"
+  },
+  {
+    "course_id": "MTLE 6400",
+    "prefix": "MTLE",
+    "number": "6400",
+    "title": "Vacuum Techniques",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83218"
+  },
+  {
+    "course_id": "MTLE 6420",
+    "prefix": "MTLE",
+    "number": "6420",
+    "title": "Surface Phenomena",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83219"
+  },
+  {
+    "course_id": "MTLE 6430",
+    "prefix": "MTLE",
+    "number": "6430",
+    "title": "Materials Characterization",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83220"
+  },
+  {
+    "course_id": "MTLE 6440",
+    "prefix": "MTLE",
+    "number": "6440",
+    "title": "Thin Films",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83516"
+  },
+  {
+    "course_id": "MTLE 6450",
+    "prefix": "MTLE",
+    "number": "6450",
+    "title": "Melting and Solidification",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83221"
+  },
+  {
+    "course_id": "MTLE 6460",
+    "prefix": "MTLE",
+    "number": "6460",
+    "title": "Advanced Structure and Bonding in Materials",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83222"
+  },
+  {
+    "course_id": "MTLE 6470",
+    "prefix": "MTLE",
+    "number": "6470",
+    "title": "Biology in Materials Science",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83442"
+  },
+  {
+    "course_id": "MTLE 6480",
+    "prefix": "MTLE",
+    "number": "6480",
+    "title": "Nanostructured Materials",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83484"
+  },
+  {
+    "course_id": "MTLE 6500",
+    "prefix": "MTLE",
+    "number": "6500",
+    "title": "Modeling of Materials",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83223"
+  },
+  {
+    "course_id": "MTLE 6520",
+    "prefix": "MTLE",
+    "number": "6520",
+    "title": "Materials under Extreme Conditions",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83521"
+  },
+  {
+    "course_id": "MTLE 6610",
+    "prefix": "MTLE",
+    "number": "6610",
+    "title": "Deformation Processing",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83224"
+  },
+  {
+    "course_id": "MTLE 6730",
+    "prefix": "MTLE",
+    "number": "6730",
+    "title": "Material Informatics and Data Science",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84119"
+  },
+  {
+    "course_id": "MTLE 6750",
+    "prefix": "MTLE",
+    "number": "6750",
+    "title": "Special Topics in Ceramics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83225"
+  },
+  {
+    "course_id": "MTLE 6840",
+    "prefix": "MTLE",
+    "number": "6840",
+    "title": "Polymer Engineering",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83226"
+  },
+  {
+    "course_id": "MTLE 6900",
+    "prefix": "MTLE",
+    "number": "6900",
+    "title": "Graduate Seminar",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83227"
+  },
+  {
+    "course_id": "MTLE 6930",
+    "prefix": "MTLE",
+    "number": "6930",
+    "title": "Literature Study",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83228"
+  },
+  {
+    "course_id": "MTLE 6940",
+    "prefix": "MTLE",
+    "number": "6940",
+    "title": "Independent Study Materials Engineering",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83229"
+  },
+  {
+    "course_id": "MTLE 6960",
+    "prefix": "MTLE",
+    "number": "6960",
+    "title": "Topics in Materials Engineering",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83230"
+  },
+  {
+    "course_id": "MTLE 6970",
+    "prefix": "MTLE",
+    "number": "6970",
+    "title": "Professional Project",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83231"
+  },
+  {
+    "course_id": "MTLE 6980",
+    "prefix": "MTLE",
+    "number": "6980",
+    "title": "Master’s Project",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83232"
+  },
+  {
+    "course_id": "MTLE 6990",
+    "prefix": "MTLE",
+    "number": "6990",
+    "title": "Master’s Thesis",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83233"
+  },
+  {
+    "course_id": "MTLE 9990",
+    "prefix": "MTLE",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83234"
+  }
+]

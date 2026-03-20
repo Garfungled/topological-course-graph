@@ -1,0 +1,197 @@
+[
+  {
+    "course_id": "LANG 1410",
+    "prefix": "LANG",
+    "number": "1410",
+    "title": "Chinese I",
+    "description": "This course assumes no previous knowledge of the subject. The course is designed to provide students with fundamental skills in listening, speaking, reading, and writing Mandarin Chinese. Oral and aural skills will be emphasized. Background on Chinese culture will be introduced as an element of the course. For entry level, non-native speakers only.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83759"
+  },
+  {
+    "course_id": "LANG 2410",
+    "prefix": "LANG",
+    "number": "2410",
+    "title": "Chinese II",
+    "description": "This is a continuation of Chinese I, a course for the standard modern Chinese language (Mandarin). Students learn more Chinese characters and words, reach a total of nearly 500 characters and 650 words, and use more complicated grammatical structures, including some compliment phrases and topic-comment sentences. In sum, students will learn more in all four aspects—listening, speaking, reading, and writing—presented in Chinese I.",
+    "credit_hours": "4",
+    "prerequisites_raw": "LANG 1410 ; or permission of instructor.",
+    "prerequisites": [
+      "LANG 1410"
+    ],
+    "prerequisite_logic": "LANG 1410",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82880"
+  },
+  {
+    "course_id": "LANG 2940",
+    "prefix": "LANG",
+    "number": "2940",
+    "title": "Language Studies",
+    "description": "Independent study of selected readings in the field of foreign language and literatures, supervised by a faculty member.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82883"
+  },
+  {
+    "course_id": "LANG 2960",
+    "prefix": "LANG",
+    "number": "2960",
+    "title": "Topics in Language",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83966"
+  },
+  {
+    "course_id": "LANG 4420",
+    "prefix": "LANG",
+    "number": "4420",
+    "title": "Chinese III",
+    "description": "This is a continuation of Chinese II, a course for the standard modern Chinese language (Mandarin). Students learn more Chinese characters and words, reach a total of about 650 characters, 1000 words, and use more complicated grammatical structures, e.g., reduplication of adjectives and verbs, resultative and potential compliments. In sum, students learn more in all four aspects—listening, speaking, reading and writing—presented in Chinese II.",
+    "credit_hours": "4",
+    "prerequisites_raw": "LANG 2410 or permission of instructor.",
+    "prerequisites": [
+      "LANG 2410"
+    ],
+    "prerequisite_logic": "LANG 2410",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82881"
+  },
+  {
+    "course_id": "LANG 4430",
+    "prefix": "LANG",
+    "number": "4430",
+    "title": "Chinese IV",
+    "description": "This is a continuation of Chinese III, a course for standard modern Chinese language (Mandarin). Students learn additional Chinese characters and words, reach a total of about 800 characters, 1350 words, and complicated grammatical structures, e.g., expression of approximation, comparison of structural and aspect particles, etc. In sum, students learn more in all four aspects—listening, speaking, reading, and writing—presented in Chinese III.",
+    "credit_hours": "4",
+    "prerequisites_raw": "LANG 4420 or permission of instructor.",
+    "prerequisites": [
+      "LANG 4420"
+    ],
+    "prerequisite_logic": "LANG 4420",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82882"
+  },
+  {
+    "course_id": "LANG 4455",
+    "prefix": "LANG",
+    "number": "4455",
+    "title": "Chinese Calligraphy",
+    "description": "This course introduces students to the techniques and socio-cultural significance of Chinese calligraphy as they explore its history, aesthetics, and practice. Students will gain hands-on practice with brush and ink, developing fundamental calligraphic skills as they analyze historical and contemporary examples of the art from both cultural studies and artistic perspectives. Finally, they will learn about the wellness benefits of calligraphic practice, including improved mental health, concentration, posture, and spiritual calmness. Taught in English, this course requires no prior knowledge of Chinese.",
+    "credit_hours": "4",
+    "prerequisites_raw": "INQR 1492 , LANG 1410 , or LANG 2410",
+    "prerequisites": [
+      "INQR 1492",
+      "LANG 1410",
+      "LANG 2410"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "INQR 1492",
+            "LANG 1410"
+          ]
+        },
+        "LANG 2410"
+      ]
+    },
+    "when_offered": "SUMMER TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84146"
+  },
+  {
+    "course_id": "LANG 4470",
+    "prefix": "LANG",
+    "number": "4470",
+    "title": "Chinese V",
+    "description": "Chinese V is a continuation of Chinese IV, a course for standard modern Chinese language (Mandarin). Students learn additional Chinese characters and words, reach a total of about 950 characters, 1700 words, and complicated grammatical structures, e.g., idiomatic expressions, expressions of comparison, concession, and subjection, etc. In sum, students learn more in all four aspects – listening, speaking, reading and writing – presented in Chinese IV.",
+    "credit_hours": "4",
+    "prerequisites_raw": "LANG 4430 or permission of instructor.",
+    "prerequisites": [
+      "LANG 4430"
+    ],
+    "prerequisite_logic": "LANG 4430",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83603"
+  },
+  {
+    "course_id": "LANG 4480",
+    "prefix": "LANG",
+    "number": "4480",
+    "title": "Chinese Language & Culture in Film",
+    "description": "This course is designed for students with some foundation in Chinese to further develop their proficiency in the Chinese language and culture. It will cover six well-known Chinese films produced by internationally acclaimed directors. Students will learn the language (listening, speaking, reading, and writing) in a fun, meaningful, authentic, and contextualized way through “real world” scenarios, and gain a more in-depth understanding of Chinese history, society, customs, cultural nuances, and people’s thoughts and lives. This course is intended only for Chinese language learners.",
+    "credit_hours": "4",
+    "prerequisites_raw": "LANG 1410",
+    "prerequisites": [
+      "LANG 1410"
+    ],
+    "prerequisite_logic": "LANG 1410",
+    "when_offered": "SUMMER TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84209"
+  },
+  {
+    "course_id": "LANG 4940",
+    "prefix": "LANG",
+    "number": "4940",
+    "title": "Language Studies Independent Study",
+    "description": "Independent study of selected readings in the field of language studies, supervised by a faculty member.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82884"
+  },
+  {
+    "course_id": "LANG 4960",
+    "prefix": "LANG",
+    "number": "4960",
+    "title": "Topics in Language",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83967"
+  },
+  {
+    "course_id": "LANG 6940",
+    "prefix": "LANG",
+    "number": "6940",
+    "title": "Language Studies",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82885"
+  },
+  {
+    "course_id": "LANG 6960",
+    "prefix": "LANG",
+    "number": "6960",
+    "title": "Topics in Language",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83968"
+  }
+]

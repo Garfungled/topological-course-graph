@@ -1,0 +1,732 @@
+[
+  {
+    "course_id": "COGS 2120",
+    "prefix": "COGS",
+    "number": "2120",
+    "title": "Introduction to Cognitive Science",
+    "description": "This course is an introduction to the new and quickly growing field of cognitive science. Cognitive Science is a highly interdisciplinary field of study of mind at the intersection of philosophy, psychology, computer science, neuroscience, linguistics, and anthropology.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83399"
+  },
+  {
+    "course_id": "COGS 2340",
+    "prefix": "COGS",
+    "number": "2340",
+    "title": "Introduction to Linguistics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83612"
+  },
+  {
+    "course_id": "COGS 4210",
+    "prefix": "COGS",
+    "number": "4210",
+    "title": "Cognitive Modeling",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82510"
+  },
+  {
+    "course_id": "COGS 4220",
+    "prefix": "COGS",
+    "number": "4220",
+    "title": "Animal Cognition and Interaction with Humans",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84009"
+  },
+  {
+    "course_id": "COGS 4230",
+    "prefix": "COGS",
+    "number": "4230",
+    "title": "Human & Machine Learning",
+    "description": "This seminar explores the growing convergence between computational theories of human and machine learning. The course will focus on major theoretical frameworks including deep learning, Bayesian inference, information theory, and reinforcement learning, utilizing journal articles from both machine learning and cognitive science literatures. These topics will be critically evaluated from the perspective of how computational theories can be instantiated in cognitive systems. Both successes, and limitations, of current computational theories will be considered.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: COGS 6230",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84184"
+  },
+  {
+    "course_id": "COGS 4280",
+    "prefix": "COGS",
+    "number": "4280",
+    "title": "Canine Cognition and Science-Based Training",
+    "description": "This course will explore research on canine cognition and the application of these findings to dog training, behavior modification, and creating a positive dog-human bond. Topics include domestication, development, socialization, communication, olfaction, emotions, training philosophies, learning theory, play, problem solving, dopamine, neuroimaging, breed differences, and more. The course is communication intensive with communication-oriented foci including writing, cognitive modeling, visually representing models, translating scientific findings to the broader public, and the role of stories in learning.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None; Sophomore or higher academic standing.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: PSYC 4280",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90412"
+  },
+  {
+    "course_id": "COGS 4330",
+    "prefix": "COGS",
+    "number": "4330",
+    "title": "Introduction to Cognitive Neuroscience",
+    "description": "This survey course is intended as an introduction to Cognitive Neuroscience. The topics covered will focus on exploring the neural underpinnings for cognitive processes, such as sensation, language, attention, motor control, executive functions, social communication, emotions, consciousness, and learning/memory. Basic aspects of nervous system function and neuroanatomy, brain development/evolution, structural and functional imaging techniques, and other research methods used in Cognitive Neuroscience will be discussed.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PSYC 1200 or COGS 2120 ; or permission of instructor.",
+    "prerequisites": [
+      "PSYC 1200",
+      "COGS 2120"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "PSYC 1200",
+        "COGS 2120"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: PSYC 4330 . Students cannot obtain credit for both COGS 4330 and PSYC 4300.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83463"
+  },
+  {
+    "course_id": "COGS 4340",
+    "prefix": "COGS",
+    "number": "4340",
+    "title": "The Linguistics of Computational Linguistics",
+    "description": "This course will explore how linguistics, the scientific study of the properties of human language and languages, can be applied to the development of intelligent agents that can fluently and meaningfully communicate with people in natural language. It will focus on linguistic phenomena that have so far been particularly resistant to effective machine processing, such as lexical ambiguity resolution, reference resolution, ellipsis, indirect speech acts, implicature, and non-literal language (e.g., metaphor and irony).",
+    "credit_hours": "4",
+    "prerequisites_raw": "COGS 2340 or permission of the instructor.",
+    "prerequisites": [
+      "COGS 2340"
+    ],
+    "prerequisite_logic": "COGS 2340",
+    "when_offered": "OFFERED YEARLY Co-Listed: COGS 6340 . Students cannot obtain credit for both COGS 4340 and COGS 6340.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83613"
+  },
+  {
+    "course_id": "COGS 4360",
+    "prefix": "COGS",
+    "number": "4360",
+    "title": "Behavioral Neuroscience",
+    "description": "This course is an introduction to the role of physiological mechanisms in behavioral processes. There will be detailed examination and discussion of the involvement of biological systems in feeding and drinking, sexual behavior, sleep and arousal, learning and memory, psychopathology and psychopharmacology.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PSYC 1200 or COGS 2120 , or permission of instructor.",
+    "prerequisites": [
+      "PSYC 1200",
+      "COGS 2120"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "PSYC 1200",
+        "COGS 2120"
+      ]
+    },
+    "when_offered": "SUMMER TERM ANNUALLY Cross Listed: PSYC 4360 . Students cannot obtain credit for both COGS 4360 and PSYC 4360.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83598"
+  },
+  {
+    "course_id": "COGS 4410",
+    "prefix": "COGS",
+    "number": "4410",
+    "title": "Programming for Cognitive Science and Artificial Intelligence",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82511"
+  },
+  {
+    "course_id": "COGS 4420",
+    "prefix": "COGS",
+    "number": "4420",
+    "title": "Game AI",
+    "description": "This course introduces students to basic concepts and methods of artificial intelligence and their applications in computer games. The topics include decision making, movement, path finding, and AI for human-like characters. This course will take the form of a combination of lectures, presentations by students, class discussions, and independent study.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 2300 and GSAS 2540",
+    "prerequisites": [
+      "CSCI 2300",
+      "GSAS 2540"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CSCI 2300",
+        "GSAS 2540"
+      ]
+    },
+    "when_offered": "FALL TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83599"
+  },
+  {
+    "course_id": "COGS 4430",
+    "prefix": "COGS",
+    "number": "4430",
+    "title": "Learning and Advanced Game AI",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83860"
+  },
+  {
+    "course_id": "COGS 4440",
+    "prefix": "COGS",
+    "number": "4440",
+    "title": "Sensibilities",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83820"
+  },
+  {
+    "course_id": "COGS 4540",
+    "prefix": "COGS",
+    "number": "4540",
+    "title": "Social Computing",
+    "description": "Social computing is a research area at the intersection of computer science and social science, including psychology, sociology, communication, and linguistics. Its objective is to advance both fields by combining the power of data analytics, natural language processing, and artificial intelligence with the scientific method for studying human data and human behavior.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Basic understanding of algorithms and/or statistics is recommended",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: CSCI 4545 Co-Listed: COGS 6540",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84212"
+  },
+  {
+    "course_id": "COGS 4560",
+    "prefix": "COGS",
+    "number": "4560",
+    "title": "Cross-linguistic Perspectives",
+    "description": "This course will explore the different strategies used by different languages to fulfill the same needs of human communication. A sampling of topics: quickly learning the basics of a new language using linguistic principles; cross-linguistic knowledge elicitation and engineering; principles of generative grammar; space, time, agency, and other linguistic phenomena viewed cross-linguistically.",
+    "credit_hours": "4",
+    "prerequisites_raw": "COGS 2340 or permission of the instructor.",
+    "prerequisites": [
+      "COGS 2340"
+    ],
+    "prerequisite_logic": "COGS 2340",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: COGS 6560 . Students cannot obtain credit for both COGS 4560 and COGS 6560.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83750"
+  },
+  {
+    "course_id": "COGS 4600",
+    "prefix": "COGS",
+    "number": "4600",
+    "title": "Cognition and the Brain",
+    "description": "Perception and thought are considered in terms of processes represented in the brain. The localization and lateralization of function are examined, drawing upon research on the behavioral effects of brain damage as well as brain-imaging studies and other approaches. Examples of topics include object recognition, memory, language, emotion, spatial ability, and motor processes.",
+    "credit_hours": "4",
+    "prerequisites_raw": "COGS 4330 / PSYC 4330 , or COGS 4360 / PSYC 4360 , or PSYC 4370 , or permission of instructor.",
+    "prerequisites": [
+      "COGS 4330",
+      "PSYC 4330",
+      "COGS 4360",
+      "PSYC 4360",
+      "PSYC 4370"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "COGS 4330",
+            "PSYC 4330"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "COGS 4360",
+            "PSYC 4360"
+          ]
+        },
+        "PSYC 4370"
+      ]
+    },
+    "when_offered": "FALL TERM, ODD YEARS Cross Listed: PSYC 4600 . Students cannot obtain credit for both COGS 4600 and PSYC 4600.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83601"
+  },
+  {
+    "course_id": "COGS 4610",
+    "prefix": "COGS",
+    "number": "4610",
+    "title": "Stress and the Brain",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83461"
+  },
+  {
+    "course_id": "COGS 4640",
+    "prefix": "COGS",
+    "number": "4640",
+    "title": "Intelligent Virtual Agents",
+    "description": "This course introduces various computational approaches for creating intelligent conversational agents. This course will take the form of a combination of lectures, presentations by students, class discussions, and independent study.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 1200 and CSCI 2300",
+    "prerequisites": [
+      "CSCI 1200",
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CSCI 1200",
+        "CSCI 2300"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: COGS 6640 . Students cannot obtain credit for both COGS 4640 and COGS 6640.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83465"
+  },
+  {
+    "course_id": "COGS 4650",
+    "prefix": "COGS",
+    "number": "4650",
+    "title": "Information Retrieval",
+    "description": "This course will discuss theory and practice of searching and retrieval of text and bibliographic information. Topics covered include automated indexing, statistical and linguistic models, text classification, Boolean, vector space, and probabilistic approaches to indexing, language models and dense continuous vector space models, query formulation and output ranking, information routing and filtering, topic detection and tracking, as well as measures of retrieval effectiveness, including relevance, utility, miss/false-alarm.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 1100 ; familiarity with linear algebra, basic statistics and probability is recommended.",
+    "prerequisites": [
+      "CSCI 1100"
+    ],
+    "prerequisite_logic": "CSCI 1100",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84210"
+  },
+  {
+    "course_id": "COGS 4700",
+    "prefix": "COGS",
+    "number": "4700",
+    "title": "Hormones, Brain, and Behavior",
+    "description": "This course will examine hormone and brain/behavior relationships across the lifespan. Hormones are molecules that are secreted by glands (the majority of which are located outside the brain) and have distal effects on their targets, such as the brain, throughout development. A focus will be on hormones’ effects, mechanisms, and brain regions of interest for behavior and cognitive processes, such as perception, learning/memory, social cognition, motivation, and emotion.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PSYC 1200 or permission of instructor.",
+    "prerequisites": [
+      "PSYC 1200"
+    ],
+    "prerequisite_logic": "PSYC 1200",
+    "when_offered": "FALL TERM, ODD YEARS Cross Listed: PSYC 4700 . Students cannot obtain credit for both COGS 4700 and PSYC 4700.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83812"
+  },
+  {
+    "course_id": "COGS 4780",
+    "prefix": "COGS",
+    "number": "4780",
+    "title": "Advanced Topics in Linguistics",
+    "description": "This course will serve as a seminar for advanced students of linguistics. The material to be covered will be selected collaboratively by the instructor and each cohort of students. Students, who ideally will have taken at least two linguistics-oriented courses previously, will be guided in pursuing topics that they have found particularly compelling in previous courses.",
+    "credit_hours": "4",
+    "prerequisites_raw": "COGS 2340 or permission of instructor.",
+    "prerequisites": [
+      "COGS 2340"
+    ],
+    "prerequisite_logic": "COGS 2340",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: COGS 6780 . Students cannot obtain credit for both COGS 4780 and COGS 6780.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83752"
+  },
+  {
+    "course_id": "COGS 4880",
+    "prefix": "COGS",
+    "number": "4880",
+    "title": "Language-Endowed Intelligent Agents",
+    "description": "This course will concentrate on explanation-capable knowledge-based cognitive intelligent agents capable of acting as members of human-agent teams. The course will emphasize meaning-oriented language processing and cognitive robotics. We will discuss cognitive and cognitive-robotic architectures, the modeling of perception, decision-making and physical and verbal action, knowledge required by the agents and prospects for using generative AI to aid in the development of cognitive agents.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: COGS 6880 . Students cannot obtain credit for both COGS 4880 and COGS 6880.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83754"
+  },
+  {
+    "course_id": "COGS 4940",
+    "prefix": "COGS",
+    "number": "4940",
+    "title": "Cognitive Science Independent Study",
+    "description": "An individually arranged independent study course under the supervision of a member of the Cognitive Science Department. The topic is selected by consultation between student and faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83433"
+  },
+  {
+    "course_id": "COGS 4960",
+    "prefix": "COGS",
+    "number": "4960",
+    "title": "Topics in Cognitive Science",
+    "description": "An advanced course concerned with selected topics in cognitive science.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83431"
+  },
+  {
+    "course_id": "COGS 4990",
+    "prefix": "COGS",
+    "number": "4990",
+    "title": "Undergraduate Thesis",
+    "description": "Students conduct original scholarly projects: original research, theoretical or analytical reviews of the literature, or computer simulations. Students prepare written reports relating to this project, under the supervision of a faculty member.",
+    "credit_hours": "3-6",
+    "prerequisites_raw": "or Corequisite: Prerequisite: permission of a supervising faculty member (completion of the thesis/project/dissertation registration form).",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83443"
+  },
+  {
+    "course_id": "COGS 6100",
+    "prefix": "COGS",
+    "number": "6100",
+    "title": "Professional Seminar",
+    "description": "The course offers a survey of topics in cognitive science that are actively researched by COGS members. Students are acquainted with the latest advances in the field which also facilitates their choice of topic for graduate work.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90449"
+  },
+  {
+    "course_id": "COGS 6200",
+    "prefix": "COGS",
+    "number": "6200",
+    "title": "Cognition",
+    "description": "This course covers reasoning, decision making, and behavioral game theory, which are major domains in human higher order cognition. Each topic begins with normative theories and continues through formal and mathematical models, and the introduction of empirical studies. The course emphasizes integrations of competing approaches within a domain, integration between reasoning and decision making, and integration between individual decision making and game-theoretic interactions. Each year, the course has a theme. The theme for this year is quantum cognition, which applies quantum theory in cognitive modeling. This course is designed as self-contained, and has no",
+    "credit_hours": "4",
+    "prerequisites_raw": ". A middle term presentation and a final term paper are required for each student. Graduate students only.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82512"
+  },
+  {
+    "course_id": "COGS 6210",
+    "prefix": "COGS",
+    "number": "6210",
+    "title": "Cognitive Modeling I",
+    "description": "This is a graduate level course that introduces the student to computational cognitive modeling. Cognitive modeling is the simulation of human cognitive, perceptual, and motor processes based on a cognitive architecture. The benefit of cognitive modeling is that it facilitates the testing of ideas about human processes through comparison of model data with empirical data. This course covers ACT-R, a symbolic architecture and LEABRA, a neural-level architecture.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: COGS 4210 . Students cannot obtain credit for both COGS 4210 and COGS 6210.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82513"
+  },
+  {
+    "course_id": "COGS 6220",
+    "prefix": "COGS",
+    "number": "6220",
+    "title": "Cognitive Modeling II",
+    "description": "This is a graduate level course that extends the objectives of Cognitive Modeling I to additional cognitive architectures. The first part of the course is a survey of cognitive modeling paradigms. The second part will be a more in-depth coverage of two or three architectures and will be done by teams of students. Each team will study one architecture including the development of a model.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82514"
+  },
+  {
+    "course_id": "COGS 6230",
+    "prefix": "COGS",
+    "number": "6230",
+    "title": "Human & Machine Learning",
+    "description": "This seminar explores the growing convergence between computational theories of human and machine learning. The course will focus on major theoretical frameworks including deep learning, Bayesian inference, information theory, and reinforcement learning, utilizing journal articles from both machine learning and cognitive science literatures. These topics will be critically evaluated from the perspective of how computational theories can be instantiated in cognitive systems. Both successes, and limitations, of current computational theories will be considered.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: COGS 4230",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84185"
+  },
+  {
+    "course_id": "COGS 6240",
+    "prefix": "COGS",
+    "number": "6240",
+    "title": "Logic and Artificial Intelligence",
+    "description": "This course is about the connection between logic and artificial intelligence (AI). It may be partitioned into three general sections: 1) the straightforward application of first order logic (FOL) in AI; 2) the broadening of FOL to enable a robot to reason in a commonsense way (nonmonotonic reasoning, induction, etc.) and to formalize a robot agent’s belief and knowledge system (modal logics, etc.); and 3) using a logical approach to the Frame Problem and to building a planner.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82515"
+  },
+  {
+    "course_id": "COGS 6310",
+    "prefix": "COGS",
+    "number": "6310",
+    "title": "Research Methods and Statistics II",
+    "description": "This course is the second in a two-semester sequence on research methods and statistics in the behavioral sciences. It covers approaches to statistical modeling and inference that lie within the null hypothesis significance testing (NHST) framework as well as alternative frameworks. Students will learn how to analyze various kinds of data using linear regression and analysis of variance and gain proficiency with the R programming language and software environment for statistical computing. Students will carry out a research project and give a formal presentation of the findings.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None, other than graduate level status.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: PSYC 4310",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90446"
+  },
+  {
+    "course_id": "COGS 6340",
+    "prefix": "COGS",
+    "number": "6340",
+    "title": "The Linguistics of Computational Linguistics",
+    "description": "This course will explore how linguistics, the scientific study of the properties of human language and languages, can be applied to the development of intelligent agents that can fluently and meaningfully communicate with people in natural language. It will focus on linguistic phenomena that have so far been particularly resistant to effective machine processing, such as lexical ambiguity resolution, reference resolution, ellipsis, indirect speech acts, implicature, and non-literal language (e.g., metaphor and irony).",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Graduate standing.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Co-Listed: COGS 4340 . Students cannot obtain credit for both COGS 4340 and COGS 6340.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83749"
+  },
+  {
+    "course_id": "COGS 6410",
+    "prefix": "COGS",
+    "number": "6410",
+    "title": "Programming for Cognitive Science and Artificial Intelligence",
+    "description": "This course is a graduate course that teaches Cognitive Science and Artificial Intelligence concepts by enabling the student to develop and understand computer programs that implement them. It covers data collection and analysis, task environments, natural language, cognitive architectures, and learning. Some previous programming experience is very beneficial but not required.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: COGS 4410 . Students cannot obtain credit for both COGS 4410 and COGS 6410.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82516"
+  },
+  {
+    "course_id": "COGS 6420",
+    "prefix": "COGS",
+    "number": "6420",
+    "title": "Perception and Action",
+    "description": "This course is a graduate level introduction to the topic of perception and action, and will focus on the significance of perception, motor control, and perceptual-motor learning as they relate to the performance of routine and skilled tasks. It will explore perception and action from information processing, computational, dynamical systems, and ecological perspectives, review current empirical and computational research, and consider some applications, including training, rehabilitation, human-machine interaction, and robotics.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Prerequisite: Graduate status or permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82517"
+  },
+  {
+    "course_id": "COGS 6430",
+    "prefix": "COGS",
+    "number": "6430",
+    "title": "Learning and Advanced Game AI",
+    "description": "Digital gaming is one of the most rapidly developing fields. The effort required for developing games is not trivial. To make a game fun to play, the design of the game levels and/or the AI-driven opponents need to be intelligent and adaptive to the players’ strategies and skills. In this course, students will learn and explore using machine learning techniques to automate the design process of digital games. The course will cover basic and advanced topics in Artificial Intelligence and Learning, such as Decision Trees, Neural Networks, Genetic Algorithms, and Reinforcement Learning. Students will gain hands-on experience in applying these techniques in computer games. The course will also introduce psychological theories and studies about people’s decision-making and emotional processes and how they are related to the players’ experience in games. This course will take the form of a combination of lectures, presentations by students, class discussions, and independent study.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Graduate standing.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: COGS 4430 . Students cannot obtain credit for both COGS 4430 and COGS 6430.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83861"
+  },
+  {
+    "course_id": "COGS 6440",
+    "prefix": "COGS",
+    "number": "6440",
+    "title": "Philosophy of Mathematics",
+    "description": "This course reviews the fundamental epistemological, metaphysical, and logical challenges in the foundations of mathematics. Historical discussions of the paradoxes arising during the foundational crisis in mathematics, e.g., the inconsistency of class theory, the discovery of Gödel’s incompleteness theorems, and the collapse of the Hilbert program set the stage for investigation into what mathematical entities are, how we can come to have reliable knowledge of them, and what choices we ought to make in the face of paradoxes or contradictions in our representations of mathematical truth.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: PHIL 4440",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90409"
+  },
+  {
+    "course_id": "COGS 6450",
+    "prefix": "COGS",
+    "number": "6450",
+    "title": "Non-Classical Logic",
+    "description": "This course provides an introduction to the philosophical and formal aspects of several families of non-classical logics that provide alternatives to classical (Russell-Frege) logic. Emphases will include philosophical objections to particular components of classical logic and how alternative formalizations of reasoning have emerged in order to accommodate these objections. In particular, topics to be covered will include logics of strict implication, intuitionistic logic, relevant logic, and fuzzy logic.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: PHIL 4450",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90411"
+  },
+  {
+    "course_id": "COGS 6540",
+    "prefix": "COGS",
+    "number": "6540",
+    "title": "Social Computing",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84213"
+  },
+  {
+    "course_id": "COGS 6560",
+    "prefix": "COGS",
+    "number": "6560",
+    "title": "Cross-linguistic Perspectives",
+    "description": "This course will explore the different strategies used by different languages to fulfill the same needs of human communication. A sampling of topics: quickly learning the basics of a new language using linguistic principles; cross-linguistic knowledge elicitation and engineering; principles of generative grammar; space, time, agency, and other linguistic phenomena viewed cross-linguistically.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Graduate standing; background in languages or linguistics expected.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: COGS 4560 . Students cannot obtain credit for both COGS 4560 and COGS 6560.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83751"
+  },
+  {
+    "course_id": "COGS 6640",
+    "prefix": "COGS",
+    "number": "6640",
+    "title": "Intelligent Virtual Agents",
+    "description": "This course introduces various computational approaches for creating intelligent conversational agents. This course will take the form of a combination of lectures, presentations by students, class discussions, and independent study.",
+    "credit_hours": "4",
+    "prerequisites_raw": "CSCI 1200 and CSCI 2300",
+    "prerequisites": [
+      "CSCI 1200",
+      "CSCI 2300"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "CSCI 1200",
+        "CSCI 2300"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: COGS 4640 . Students cannot obtain credit for both COGS 4640 and COGS 6640.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83469"
+  },
+  {
+    "course_id": "COGS 6650",
+    "prefix": "COGS",
+    "number": "6650",
+    "title": "Information Retrieval",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84211"
+  },
+  {
+    "course_id": "COGS 6780",
+    "prefix": "COGS",
+    "number": "6780",
+    "title": "Advanced Topics in Linguistics",
+    "description": "This course will serve as a seminar for advanced students of linguistics. The material to be covered will be selected collaboratively by the instructor and each cohort of students. Students, who ideally will have taken at least two linguistics-oriented courses previously, will be guided in pursuing topics that they have found particularly compelling in previous courses.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Graduate standing; background in languages or linguistics expected.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: COGS 4780 . Students cannot obtain credit for both COGS 4780 and COGS 6780.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83753"
+  },
+  {
+    "course_id": "COGS 6800",
+    "prefix": "COGS",
+    "number": "6800",
+    "title": "Research Problems in Cognitive Science",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90450"
+  },
+  {
+    "course_id": "COGS 6880",
+    "prefix": "COGS",
+    "number": "6880",
+    "title": "Language-Endowed Intelligent Agents",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83755"
+  },
+  {
+    "course_id": "COGS 6940",
+    "prefix": "COGS",
+    "number": "6940",
+    "title": "Readings in Cognitive Science",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Prerequisite: Graduate status and permission of supervising faculty member.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82518"
+  },
+  {
+    "course_id": "COGS 6960",
+    "prefix": "COGS",
+    "number": "6960",
+    "title": "Topics in Cognitive Science",
+    "description": "An advanced course concerned with selected topics in cognitive science.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83432"
+  },
+  {
+    "course_id": "COGS 6980",
+    "prefix": "COGS",
+    "number": "6980",
+    "title": "Master’s Project",
+    "description": "Active participation in a master’s-level project, under the supervision of a faculty adviser, leading to a master’s project report. Grades S or U are assigned at the end of the semester. If recommended by the adviser, the master’s project may be accepted by the Office of Graduate Education to be archived in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82519"
+  },
+  {
+    "course_id": "COGS 6990",
+    "prefix": "COGS",
+    "number": "6990",
+    "title": "Master’s Thesis",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a master’s thesis. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the thesis has been presentend, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82520"
+  },
+  {
+    "course_id": "COGS 9990",
+    "prefix": "COGS",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82521"
+  }
+]

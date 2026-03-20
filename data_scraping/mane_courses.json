@@ -1,0 +1,2875 @@
+[
+  {
+    "course_id": "MANE 1010",
+    "prefix": "MANE",
+    "number": "1010",
+    "title": "Essence of Engineering Mechanics",
+    "description": "Intrinsic to engineering design are modeling and analysis, introduced here in the context of mechanics: the action of forces on material systems. Starting from undeformable bodies in static equilibrium we build to introduce the concepts of stress, traction, and force/displacement boundary conditions to model the mechanics of elementary structures in static equilibrium. Vector and matrix algebra will be fundamental to the computational thinking for analyzing our mechanics models of real world systems.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "Fall and Spring terms annually",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90373"
+  },
+  {
+    "course_id": "MANE 1060",
+    "prefix": "MANE",
+    "number": "1060",
+    "title": "Fundamentals of Flight",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82905"
+  },
+  {
+    "course_id": "MANE 1090",
+    "prefix": "MANE",
+    "number": "1090",
+    "title": "Introduction to Mechatronics Hardware and Software",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83653"
+  },
+  {
+    "course_id": "MANE 1100",
+    "prefix": "MANE",
+    "number": "1100",
+    "title": "Introduction to Nuclear Engineering",
+    "description": "A survey of concepts applied to nuclear power production and non-power applications of nuclear science and technology. Topics include next generation nuclear power plants, nuclear reactor materials, waste management, environmental impacts of nuclear power, fusion power, medical applications, radiation protection, and other topics of current interest. Introduction to and tours of experimental facilities including an electron accelerator. Discussions of educational, research, and career opportunities in Nuclear Engineering. This course is graded Satisfactory/Unsatisfactory.",
+    "credit_hours": "1",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83570"
+  },
+  {
+    "course_id": "MANE 1960",
+    "prefix": "MANE",
+    "number": "1960",
+    "title": "Topics in Mechanical Engineering, Aerospace Engineering, or Nuclear Engineering",
+    "description": "Topics courses at the 1000 level will either be for a grade or be graded Satisfactory/Unsatisfactory; consult the course syllabus to determine which.",
+    "credit_hours": "1-4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83798"
+  },
+  {
+    "course_id": "MANE 2010",
+    "prefix": "MANE",
+    "number": "2010",
+    "title": "Solid Mechanics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90376"
+  },
+  {
+    "course_id": "MANE 2110",
+    "prefix": "MANE",
+    "number": "2110",
+    "title": "Numerical Methods and Programming for Engineers",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "( MANE 1960 or ENGR 1100 or MANE 1010 ) and PHYS 1100 , PHYS 1110 , or PHYS 1150 and MATH 2400* Prerequisite or Corequisite: MATH 2400",
+    "prerequisites": [
+      "MANE 1960",
+      "ENGR 1100",
+      "MANE 1010",
+      "PHYS 1100",
+      "PHYS 1110",
+      "PHYS 1150",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        {
+          "type": "OR",
+          "items": [
+            "MANE 1960",
+            "ENGR 1100",
+            {
+              "type": "AND",
+              "items": [
+                "MANE 1010",
+                "PHYS 1100",
+                "PHYS 1110"
+              ]
+            },
+            {
+              "type": "AND",
+              "items": [
+                "PHYS 1150",
+                "MATH 2400"
+              ]
+            }
+          ]
+        },
+        "MATH 2400"
+      ]
+    },
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83791"
+  },
+  {
+    "course_id": "MANE 2220",
+    "prefix": "MANE",
+    "number": "2220",
+    "title": "Inventor’s Studio 1",
+    "description": "A first course in enhancing critical skills for leaders of technological innovation. The course emphasizes creativity, teamwork, communication and work across engineering disciplines. Students learn how to build on personal and innate talents through critical thinking skills, design-oriented mindsets, and an understanding of appropriate tool and process selection. Students will utilize tools and processes for ideation and innovation, develop ideas from concepts to minimum viable products via the ideate - build - learn cycle, and recognize and understand prototyping methods.",
+    "credit_hours": "4",
+    "prerequisites_raw": "( MANE 1960 or ENGR 1100 or ECSE 1010 or MANE 1010 ) ; and either CIVL 1200 or ENGR 1200 or ENGR 1400 Prerequisite or Corequisite: PHYS 1200 or PHYS 1250",
+    "prerequisites": [
+      "MANE 1960",
+      "ENGR 1100",
+      "ECSE 1010",
+      "MANE 1010",
+      "CIVL 1200",
+      "ENGR 1200",
+      "ENGR 1400",
+      "PHYS 1200",
+      "PHYS 1250"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        {
+          "type": "OR",
+          "items": [
+            "MANE 1960",
+            "ENGR 1100",
+            "ECSE 1010",
+            {
+              "type": "AND",
+              "items": [
+                "MANE 1010",
+                "CIVL 1200"
+              ]
+            },
+            "ENGR 1200",
+            "ENGR 1400"
+          ]
+        },
+        {
+          "type": "OR",
+          "items": [
+            "PHYS 1200",
+            "PHYS 1250"
+          ]
+        }
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Cross Listed: ENGR 2050 ; Students cannot obtain credit for both this course and the cross-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83682"
+  },
+  {
+    "course_id": "MANE 2400",
+    "prefix": "MANE",
+    "number": "2400",
+    "title": "Fundamentals of Nuclear Engineering",
+    "description": "Nuclear reactor systems and types; basic reactor physics, criticality calculations; fuel cycles; reactivity changes; reactor kinetics. Instrumentation and control; radiation protection. Reactor materials; shielding; energy removal. Reactor safety; economics. Waste management. Reactor design.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 2830 , or permission of the instructor.",
+    "prerequisites": [
+      "MANE 2830"
+    ],
+    "prerequisite_logic": "MANE 2830",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82906"
+  },
+  {
+    "course_id": "MANE 2710",
+    "prefix": "MANE",
+    "number": "2710",
+    "title": "Thermodynamics",
+    "description": "Introduction to the First and Second Laws of Thermodynamics for open and closed systems. Thermodynamic properties of solids, liquids, and gases. Elementary power and refrigeration cycles.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MATH 1020 and ( PHYS 1100 or PHYS 1150 or PHYS 1110 )",
+    "prerequisites": [
+      "MATH 1020",
+      "PHYS 1100",
+      "PHYS 1150",
+      "PHYS 1110"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MATH 1020",
+            "PHYS 1100"
+          ]
+        },
+        "PHYS 1150",
+        "PHYS 1110"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83796"
+  },
+  {
+    "course_id": "MANE 2720",
+    "prefix": "MANE",
+    "number": "2720",
+    "title": "Fluid Mechanics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "MANE 1960 or ENGR 1100 or MANE 1010 ; and ( PHYS 1100 or PHYS 1110 or PHYS 1150",
+    "prerequisites": [
+      "MANE 1960",
+      "ENGR 1100",
+      "MANE 1010",
+      "PHYS 1100",
+      "PHYS 1110",
+      "PHYS 1150"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MANE 1960",
+        "ENGR 1100",
+        {
+          "type": "AND",
+          "items": [
+            "MANE 1010",
+            "PHYS 1100"
+          ]
+        },
+        "PHYS 1110",
+        "PHYS 1150"
+      ]
+    },
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83797"
+  },
+  {
+    "course_id": "MANE 2830",
+    "prefix": "MANE",
+    "number": "2830",
+    "title": "Nuclear Phenomena for Engineering Applications",
+    "description": "A survey of atomic and nuclear phenomena and their application in various engineering disciplines. Systematics of atoms and nuclei; nuclear reactions and their characterization; radioactive decay; fission and fusion energy release; radiation effects on materials and biological systems; radiation production, detection, and protection. Applications include energy production, manufacturing, and medicine.",
+    "credit_hours": "4",
+    "prerequisites_raw": "PHYS 1100 , PHYS 1150 or PHYS 1110 and CHEM 1100 , CHEM 1110 or CHEM 1120",
+    "prerequisites": [
+      "PHYS 1100",
+      "PHYS 1150",
+      "PHYS 1110",
+      "CHEM 1100",
+      "CHEM 1110",
+      "CHEM 1120"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "PHYS 1100",
+            "PHYS 1150"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "PHYS 1110",
+            "CHEM 1100",
+            "CHEM 1110"
+          ]
+        },
+        "CHEM 1120"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82907"
+  },
+  {
+    "course_id": "MANE 2940",
+    "prefix": "MANE",
+    "number": "2940",
+    "title": "Readings in Mechanical Engineering, Aerospace Engineering, or Nuclear Engineering",
+    "description": "Independent study of selected readings in the fields of mechanical, aerospace, or nuclear engineering, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82908"
+  },
+  {
+    "course_id": "MANE 2960",
+    "prefix": "MANE",
+    "number": "2960",
+    "title": "Topics in Mechanical Engineering, Aerospace Engineering, or Nuclear Engineering",
+    "description": "",
+    "credit_hours": "1-4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82909"
+  },
+  {
+    "course_id": "MANE 4030",
+    "prefix": "MANE",
+    "number": "4030",
+    "title": "Elements of Mechanical Design",
+    "description": "Introduction to the design of mechanical components and integrated assemblies. Loads, stresses, and strains. Failure phenomena and material selection. Mechanical components including shafts, couplings, bearings, gears, springs, clutches, brakes, screws and fasteners, and bonded joints.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 2400 and ( MANE 2010 , or MANE 2960 or ENGR 2530 or BMED 2540 )",
+    "prerequisites": [
+      "MATH 2400",
+      "MANE 2010",
+      "MANE 2960",
+      "ENGR 2530",
+      "BMED 2540"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2400",
+            "MANE 2010"
+          ]
+        },
+        "MANE 2960",
+        "ENGR 2530",
+        "BMED 2540"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82911"
+  },
+  {
+    "course_id": "MANE 4040",
+    "prefix": "MANE",
+    "number": "4040",
+    "title": "Mechanical Systems Laboratory",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: MANE 4030",
+    "prerequisites": [
+      "MANE 4030"
+    ],
+    "prerequisite_logic": "MANE 4030",
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82912"
+  },
+  {
+    "course_id": "MANE 4060",
+    "prefix": "MANE",
+    "number": "4060",
+    "title": "Aerospace Structures and Materials",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "( ENGR 2530 or MANE 2010 or MANE 2960); and MANE 2110 and MANE 4070*",
+    "prerequisites": [
+      "ENGR 2530",
+      "MANE 2010",
+      "MANE 2960",
+      "MANE 2110",
+      "MANE 4070"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ENGR 2530",
+        "MANE 2010",
+        {
+          "type": "AND",
+          "items": [
+            "MANE 2960",
+            "MANE 2110",
+            "MANE 4070"
+          ]
+        }
+      ]
+    },
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82914"
+  },
+  {
+    "course_id": "MANE 4070",
+    "prefix": "MANE",
+    "number": "4070",
+    "title": "Aerodynamics",
+    "description": "Introduction to fixed-wing flight mechanics. Lift generation, thin-airfoil, and wing theories. Boundary layers and applications to wings. One and two-dimensional compressible flow and applications to aircraft and rocket engines.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MANE 2710 and MANE 2720",
+    "prerequisites": [
+      "MANE 2710",
+      "MANE 2720"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MANE 2710",
+        "MANE 2720"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82915"
+  },
+  {
+    "course_id": "MANE 4080",
+    "prefix": "MANE",
+    "number": "4080",
+    "title": "Propulsion Systems",
+    "description": "Analysis of thrust generation from rockets, gas turbines, and propellers. Applications of one- and two-dimensional compressible flow to analysis of propulsion systems. Gas turbine component performance including diffusers and nozzles, turbomachinery, and combustors.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 2710 and MANE 2720 ; or permission of instructor.",
+    "prerequisites": [
+      "MANE 2710",
+      "MANE 2720"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MANE 2710",
+        "MANE 2720"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82916"
+  },
+  {
+    "course_id": "MANE 4090",
+    "prefix": "MANE",
+    "number": "4090",
+    "title": "Flight Mechanics",
+    "description": "Performance, stability, and control of airplanes. General equations of motion for rigid aircraft, aerodynamic forces and moments, quasi-steady and nonsteady flight paths. Generalized performance methods, flight envelope. Small disturbance theory, stability derivatives, longitudinal and lateral static stability. Basic airplane motion, response to control actions and to atmospheric disturbances. Automatic flight control. Simulation of aircraft performance and dynamics.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MANE 4070",
+    "prerequisites": [
+      "MANE 4070"
+    ],
+    "prerequisite_logic": "MANE 4070",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82917"
+  },
+  {
+    "course_id": "MANE 4100",
+    "prefix": "MANE",
+    "number": "4100",
+    "title": "Spaceflight Mechanics",
+    "description": "Introduction to spatial (3D) dynamics. Particle kinetics, Orbital kinematics, Reference frames for Astrodynamics, Frame transformation. 2-Body Problem, Kepler’s Laws and Kepler Equation, Circular Restricted 3-Body Problem, Lagrange Points, Stability. Orbit determination (Lambert’s Problem, Gibbs’ Method). Orbital Maneuvers (Plane-change maneuver, Hohmann Transfer, Rendezvous Transfer). Rocket Thrust, Rocket Design and Staging. Rigid Body Attitude Parametrization. Introduction to Analytical Mechanics. MATLAB/Simulink is used as a simulation-visualization aid.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ENGR 2090 , MATH 2400 , and MANE 2110",
+    "prerequisites": [
+      "ENGR 2090",
+      "MATH 2400",
+      "MANE 2110"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ENGR 2090",
+        "MATH 2400",
+        "MANE 2110"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82918"
+  },
+  {
+    "course_id": "MANE 4120",
+    "prefix": "MANE",
+    "number": "4120",
+    "title": "Helicopter Aerodynamics and Performance",
+    "description": "Aerodynamic analysis of rotocraft in hover, axial, and edgewise flight. Rotor blade flapping, and response to rotor pitch controls. Rotor hub loads and aircraft equilibrium procedures. Helicopter performance calculations. Effect of rotor design on rotor aerodynamic performance.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MANE 4070",
+    "prerequisites": [
+      "MANE 4070"
+    ],
+    "prerequisite_logic": "MANE 4070",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: MANE 6060 . Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83911"
+  },
+  {
+    "course_id": "MANE 4130",
+    "prefix": "MANE",
+    "number": "4130",
+    "title": "Multirotor Aerial Vehicles",
+    "description": "Aerodynamic analysis of multi-rotor aerial vehicles. Multi-rotor coordinates and controls for multicopters. Multicopter failure and recovery. Comparison of rotor speed and pitch control. Trim and performance analysis of different multirotor archetypes.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MANE 4070",
+    "prerequisites": [
+      "MANE 4070"
+    ],
+    "prerequisite_logic": "MANE 4070",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: MANE 6070 ;Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83921"
+  },
+  {
+    "course_id": "MANE 4140",
+    "prefix": "MANE",
+    "number": "4140",
+    "title": "Introduction to Computational Fluid Dynamics",
+    "description": "This is a course on introduction to computational fluid dynamics. This course provides knowledge necessary to model engineering applications consistent with energy and fluid dynamic physical laws. Discretization models include: overview of finite difference, finite element, and finite volume discretization approaches, physical problem classification, discretization techniques, and numerical guidelines. Applications include: incompressible and compressible flows, laminar and turbulence flows, with introduction to computational fluid dynamics turbulence modeling, followed by boundary layer, and parabolized flow simplifications.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 2110 , MANE 2720 , and ( MATH 2010 or ( MATH 2011 and MATH 2012)).",
+    "prerequisites": [
+      "MANE 2110",
+      "MANE 2720",
+      "MATH 2010",
+      "MATH 2011",
+      "MATH 2012"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MANE 2110",
+            "MANE 2720",
+            "MATH 2010"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2011",
+            "MATH 2012"
+          ]
+        }
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Co-Listed: MANE 6140 ;Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83684"
+  },
+  {
+    "course_id": "MANE 4150",
+    "prefix": "MANE",
+    "number": "4150",
+    "title": "Acoustics Engineering",
+    "description": "Introductory materials of engineering acoustics for students with basic knowledge in mathematics (at least one level of first-year college). Much of the course material is taken from the textbook “Acoustics for Engineers” by Blauert and Xiang (2nd Ed.). The course includes mechanic and acoustic oscillations, the wave equations in fluids, governing equations for horns and ducts, spherical sound sources and arrays, piston membranes, diffraction and scattering, dissipation, reflection, refraction and absorption, isolation of air- and structure-borne sounds, noise propagation and noise control. B.S. and B.Arch. students can only register for the 4000 level of this course and M.S.Arch. Acoustics students must register only for the 6000 level of this course",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENGR 2090 and MATH 2400",
+    "prerequisites": [
+      "ENGR 2090",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ENGR 2090",
+        "MATH 2400"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ARCH 4890 , ARCH 6840 ; students cannot obtain credit for both this course and the cross-listed or co-listed courses. Co-Listed: MANE 6150",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82919"
+  },
+  {
+    "course_id": "MANE 4160",
+    "prefix": "MANE",
+    "number": "4160",
+    "title": "Vibrations",
+    "description": "Free and forced linear vibrations of damped and undamped mechanical and electrical systems of n degrees of freedom. Continuous system vibration. Manual and computer methods of finding natural frequencies, mode shapes, and final solutions. Self-and nonself-adjoint problems. Eigenfunction expansion. Integral transforms. Methods of approximating natural frequencies: Rayleigh quotient, Rayleigh Energy, Rayleigh-Ritz, Ritz-Galerkin, Holzer, Matrix iteration. Perturbation techniques. Stability criteria.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENGR 2090 and MATH 2400",
+    "prerequisites": [
+      "ENGR 2090",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ENGR 2090",
+        "MATH 2400"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82942"
+  },
+  {
+    "course_id": "MANE 4170",
+    "prefix": "MANE",
+    "number": "4170",
+    "title": "Machine Dynamics",
+    "description": "The principles of dynamics as applied to the analysis of the accelerations and dynamic forces in machines and machine components such as linkages, cams, and gears. The effect these dynamic forces have on the dynamic balance and operation of the machines and the attending stresses in the individual components of the machines.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENGR 2090 and MATH 2400",
+    "prerequisites": [
+      "ENGR 2090",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ENGR 2090",
+        "MATH 2400"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82920"
+  },
+  {
+    "course_id": "MANE 4180",
+    "prefix": "MANE",
+    "number": "4180",
+    "title": "Mechanisms",
+    "description": "The displacement, velocity, and acceleration analysis of planar mechanisms, four bar linkages, slider, cranks, cams, and gear systems. Some synthesis techniques. Explore the use of existing large and small computer graphics programs.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENGR 2090",
+    "prerequisites": [
+      "ENGR 2090"
+    ],
+    "prerequisite_logic": "ENGR 2090",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82921"
+  },
+  {
+    "course_id": "MANE 4190",
+    "prefix": "MANE",
+    "number": "4190",
+    "title": "Bio-Fluid Mechanics",
+    "description": "This course introduces the fundamental circulatory bio-fluid mechanics, blood rheology, and governing laws of physiological blood flows. The course emphasizes theoretical and numerical modeling, analysis and simulation, and demonstrates these methods through application of study cases and research in clinical applications. The topics will cover fundamentals of fluid mechanics and physical principles of circulation, blood rheology: properties of flowing blood, blood flow in vessels, veins, coronary arteries, microcirculation, models of biofluids, computational biofluid mechanics, and fluid in the lung.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 2720",
+    "prerequisites": [
+      "MANE 2720"
+    ],
+    "prerequisite_logic": "MANE 2720",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: MANE 6190 ; students cannot obtain credit for this course and co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83652"
+  },
+  {
+    "course_id": "MANE 4210",
+    "prefix": "MANE",
+    "number": "4210",
+    "title": "VTOL Aircraft Design",
+    "description": "Aerodynamics and dynamics of lifting rotors in Vertical Take-Off and Landing (VTOL) applications. Design concepts by which rotor weight and stress are minimized and vehicle control is provided. Weight and engine power trends for configuration definition. Center of gravity and aerodynamic lift and moment for equilibrium and desired aircraft attitude. Methods for determining size, weight, and cost for a given payload, useful volume, and specified performance. This is a communication-intensive course.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 4120 , MANE 4130 or MANE 4090 ; or permission of the instructor.",
+    "prerequisites": [
+      "MANE 4120",
+      "MANE 4130",
+      "MANE 4090"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MANE 4120",
+            "MANE 4130"
+          ]
+        },
+        "MANE 4090"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: MANE 6210 . Students cannot obtain credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83912"
+  },
+  {
+    "course_id": "MANE 4220",
+    "prefix": "MANE",
+    "number": "4220",
+    "title": "Inventors Studio 2",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82922"
+  },
+  {
+    "course_id": "MANE 4230",
+    "prefix": "MANE",
+    "number": "4230",
+    "title": "Air Vehicle Design",
+    "description": "Conceptual and preliminary design of manned and unmanned air vehicles to satisfy given mission requirements and aircraft specifications. Includes elements of initial sizing and weights, geometry selection, aerodynamic design, propulsion integration, stability and control, loads, structural design, materials, manufacturability, and cost analysis. This is a communication-intensive course.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 4060 , MANE 4070 or MANE 4090 ; or permission of instructor. Restricted to MANE majors with senior standing.",
+    "prerequisites": [
+      "MANE 4060",
+      "MANE 4070",
+      "MANE 4090"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MANE 4060",
+            "MANE 4070"
+          ]
+        },
+        "MANE 4090"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82923"
+  },
+  {
+    "course_id": "MANE 4240",
+    "prefix": "MANE",
+    "number": "4240",
+    "title": "Finite Element Method",
+    "description": "This course introduces the methods upon which finite element software is built. Methods covered include construction of weak forms, discretization of the weak forms, the local/global linkage, construction of element shape functions, element mapping and numerical integration. The course will also cover the application of finite elements methods employing software tools. This will include open-source tools for the efficient implementation of finite elements and commercial software commonly applied in industry.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MATH 2400 , and MANE 2110 , and ( MANE 2010 ,or ENGR 2530 or BMED 2540 or MANE 2960)",
+    "prerequisites": [
+      "MATH 2400",
+      "MANE 2110",
+      "MANE 2010",
+      "ENGR 2530",
+      "BMED 2540",
+      "MANE 2960"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2400",
+            "MANE 2110",
+            "MANE 2010",
+            "ENGR 2530"
+          ]
+        },
+        "BMED 2540",
+        "MANE 2960"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Cross Listed: CIVL 4240 . Students cannot obtain credit for both this course and the cross-listed course. Co-Listed: MANE 6660 Students can not receive credit for this course and MANE 4240.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82924"
+  },
+  {
+    "course_id": "MANE 4250",
+    "prefix": "MANE",
+    "number": "4250",
+    "title": "Space Vehicle Design",
+    "description": "This course introduces all elements of the spacecraft system design process from proposal preparation through detailed specification. Students are organized into design teams associated with different subsystems and tasks, to develop a solution to a space vehicle system problem of practical interest, by drawing on their background in aerospace engineering science and design. Topics include problem definition and requirement analysis, design specifications, concept development, reliability, materials considerations of alternative solutions, materials considerations, risk assessment and mitigation, manufacturability, mission analysis, and presentation skills. This is a communication-intensive course.",
+    "credit_hours": "3",
+    "prerequisites_raw": "None. However, MANE 4100 is strongly recommended. This course is restricted to AERO and ASPC majors with senior standing; other majors are encouraged to request permission of the instructor based on interest and applicable background.",
+    "prerequisites": [
+      "MANE 4100"
+    ],
+    "prerequisite_logic": "MANE 4100",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82948"
+  },
+  {
+    "course_id": "MANE 4260",
+    "prefix": "MANE",
+    "number": "4260",
+    "title": "Multidisciplinary Capstone Design",
+    "description": "A capstone design experience that engages students from biomedical, computer systems, electrical, industrial, materials, and mechanical engineering on teams in an open-ended engineering design problem in preparation for professional practice. With the guidance of a multidisciplinary team of faculty members and instructional support staff, students apply knowledge and skills from prior coursework. This is a communication-intensive course.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENGR 2050 or MANE 2220 ; restricted to MECL majors with senior standing.",
+    "prerequisites": [
+      "ENGR 2050",
+      "MANE 2220"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ENGR 2050",
+        "MANE 2220"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Cross Listed: ECSE 4900 , ISYE 4270 , and MTLE 4920 ; students cannot obtain credit for both this course and any of the cross listed courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82925"
+  },
+  {
+    "course_id": "MANE 4280",
+    "prefix": "MANE",
+    "number": "4280",
+    "title": "Numerical Design Optimization",
+    "description": "This course introduces the theory and practical use of numerical design optimization methods. Topics include: gradient-based methods for unconstrained and constrained nonlinear optimization; numerical evaluation of derivatives; polynomial- and kriging-based surrogate models; gradient-free optimization methods; optimization under uncertainty; multi-objective and multi-disciplinary optimization. Projects require the use of computer programs to generate numerical results; therefore, experience with programming is highly recommended.",
+    "credit_hours": "3",
+    "prerequisites_raw": "( MATH 2010 or ( MATH 2011 and MATH 2012 )) and ( MANE 2110 or CSCI 1100 ).",
+    "prerequisites": [
+      "MATH 2010",
+      "MATH 2011",
+      "MATH 2012",
+      "MANE 2110",
+      "CSCI 1100"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MATH 2010",
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2011",
+            "MATH 2012",
+            "MANE 2110"
+          ]
+        },
+        "CSCI 1100"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: MANE 6710 ; Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82926"
+  },
+  {
+    "course_id": "MANE 4290",
+    "prefix": "MANE",
+    "number": "4290",
+    "title": "Radiation Transport Methods",
+    "description": "This course will present the foundations of numerical (deterministic) and Monte Carlo methods that are widely used in the modeling and analysis of nuclear reactor design, radiation dosimetry, and radiation shielding. Emphasis will be placed on the three fundamental aspects of computation methods: (i) discretization methods for the transport and diffusion equations; (ii) iterative methods for solving the system of discretized equations; and (iii) Monte Carlo methods for solving general fixed-source and eigenvalue problems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 2110 and MANE 4480",
+    "prerequisites": [
+      "MANE 2110",
+      "MANE 4480"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MANE 2110",
+        "MANE 4480"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: MANE 6290 ; Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83997"
+  },
+  {
+    "course_id": "MANE 4330",
+    "prefix": "MANE",
+    "number": "4330",
+    "title": "Inventor’s Studio 3",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "MANE 2220 or ENGR 2050 ; or permission of instructor.",
+    "prerequisites": [
+      "MANE 2220",
+      "ENGR 2050"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MANE 2220",
+        "ENGR 2050"
+      ]
+    },
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83683"
+  },
+  {
+    "course_id": "MANE 4340",
+    "prefix": "MANE",
+    "number": "4340",
+    "title": "Physics of Radiology",
+    "description": "An introductory course on physical principles behind the creation of diagnostic medical images. Medical imaging is one of the most exciting and technologically demanding fields of medicine. Topics include radiation interaction, radiation dosimetry, formation and quality of X-ray images, computed tomography (CT), nuclear medicine, magnetic resonance imaging (MRI), ultrasound imaging, and radiation detection and safety. Current research on image quality optimization, image-guided radio-surgery, 3D/4D ultrasound imaging, and Monte Carlo simulations are reviewed.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 2830",
+    "prerequisites": [
+      "MANE 2830"
+    ],
+    "prerequisite_logic": "MANE 2830",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82927"
+  },
+  {
+    "course_id": "MANE 4350",
+    "prefix": "MANE",
+    "number": "4350",
+    "title": "Nuclear Instrumentation and Measurement",
+    "description": "Nuclear instrumentation and radiation detector systems for the collection, processing and displaying of signals related to photons, electrons, alpha particles, and neutrons. Topics include: radiation interactions, counting statistics, ionization chambers, proportional counters, Geiger counters, scintillators, gamma-ray spectroscopy, semiconductor detectors, slow and fast neutron detection, liquid scintillation and TLD, and background and shielding. Students will tour a 100-MeV electron accelerator facility and learn to use MCNP code to simulate an HPGe gamma spectrometer.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 2830",
+    "prerequisites": [
+      "MANE 2830"
+    ],
+    "prerequisite_logic": "MANE 2830",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82928"
+  },
+  {
+    "course_id": "MANE 4360",
+    "prefix": "MANE",
+    "number": "4360",
+    "title": "Reactor Reliability and Safety",
+    "description": "Theory and applications of reliability and risk assessment. Boolean algebra, logic diagrams, redundancy and majority-vote configurations. System synthesis by reliability and fault tree techniques, quantitative evaluation, uncertainty analysis. Common cause events, failure data, and failure models. Allocation of risk to subsystems. Availability, repair policies, renewal theory. Operational reliability methods.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENGR 2600 ; or permission of the instructor.",
+    "prerequisites": [
+      "ENGR 2600"
+    ],
+    "prerequisite_logic": "ENGR 2600",
+    "when_offered": "FALL OR SPRING ANNUALLY Co-Listed: MANE 6360 ; students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83996"
+  },
+  {
+    "course_id": "MANE 4370",
+    "prefix": "MANE",
+    "number": "4370",
+    "title": "Nuclear Engineering Laboratory",
+    "description": "A laboratory course covering topics applied physics, fluid dynamics, radiation spectroscopy and instrumentations, computer-controlled instrument interfacing and data acquisition. Estimation and reporting of measurement errors is emphasized. Lab attendance is required along with formal written lab reports",
+    "credit_hours": "4",
+    "prerequisites_raw": "ENGR 2600 and MANE 2830",
+    "prerequisites": [
+      "ENGR 2600",
+      "MANE 2830"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ENGR 2600",
+        "MANE 2830"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82929"
+  },
+  {
+    "course_id": "MANE 4380",
+    "prefix": "MANE",
+    "number": "4380",
+    "title": "Nuclear Engineering Senior Design Project I",
+    "description": "This is the first of a two-semester sequence for seniors intended to be a “capstone” design project where students have the opportunity to utilize the broad range of their undergraduate experience in an interdisciplinary design project. Projects are selected to provide interaction between nuclear engineering and engineering physics majors to provide exposure to cross-fertilization of ideas and team interaction, which simulates anticipated future professional experience. The product of each design project is a comprehensive report or design proposal having both global and detail completeness. Under some circumstances, the project may involve development of cost information necessary to effect construction and may actually involve construction and commissioning of the designed apparatus. This is a communication-intensive course.",
+    "credit_hours": "1",
+    "prerequisites_raw": "or Corequisite: Senior standing or permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82930"
+  },
+  {
+    "course_id": "MANE 4390",
+    "prefix": "MANE",
+    "number": "4390",
+    "title": "Nuclear Engineering Senior Design Project II",
+    "description": "This is a required continuation of MANE 4380 . This is a communication-intensive course.",
+    "credit_hours": "2",
+    "prerequisites_raw": "MANE 4380",
+    "prerequisites": [
+      "MANE 4380"
+    ],
+    "prerequisite_logic": "MANE 4380",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82931"
+  },
+  {
+    "course_id": "MANE 4400",
+    "prefix": "MANE",
+    "number": "4400",
+    "title": "Nuclear Power Systems Engineering",
+    "description": "Application of thermodynamics, heat transfer, and fluid flow principles to nuclear energy generation systems, including nuclear reactors, nuclear fusion devices and systems, and radiation technology. Engineering aspects of 1st and 2nd Laws of Thermodynamics will be emphasized. Characteristics and safety aspects of nuclear power equipment will be discussed.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 2720 and MANE 4730",
+    "prerequisites": [
+      "MANE 2720",
+      "MANE 4730"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MANE 2720",
+        "MANE 4730"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82932"
+  },
+  {
+    "course_id": "MANE 4410",
+    "prefix": "MANE",
+    "number": "4410",
+    "title": "Applied Atomic and Nuclear Physics",
+    "description": "Review of atomic and nuclear physics and quantum mechanics; application to atomic, molecular and nuclear systems; particle and photon emissions; photon/particle interactions; quantum statistics; applications of nuclear physics to nuclear data, medical physics, accelerators, fusion systems, nuclear reactors; key measurements and databases; basic level of technical writing and presentation.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 2830",
+    "prerequisites": [
+      "MANE 2830"
+    ],
+    "prerequisite_logic": "MANE 2830",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: MANE 6410 ; Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82933"
+  },
+  {
+    "course_id": "MANE 4420",
+    "prefix": "MANE",
+    "number": "4420",
+    "title": "Radiation Technology",
+    "description": "An introductory course on the generation, distribution, and interaction of ionizing radiation. Radiation sources such as radioisotopes, accelerators, focused ion beams, and cosmic rays are studied. Applications to semiconductor electronic devices, chemical polymerization, food preservation, sterilization, material modification, industrial and medical radiography, and radiation damage are presented.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 2830",
+    "prerequisites": [
+      "MANE 2830"
+    ],
+    "prerequisite_logic": "MANE 2830",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: MANE 6260 ; Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82934"
+  },
+  {
+    "course_id": "MANE 4430",
+    "prefix": "MANE",
+    "number": "4430",
+    "title": "Linear Accelerator Laboratory",
+    "description": "Linear Accelerator Laboratory will provide an introduction to measurements of experimental systems utilizing neutron sources. It will focus on measurements relating to the detection of neutrons through interactions in materials, neutron reaction cross-sections neutron diffusion and slowing down, Doppler broadening of cross-sections and how this applies to nuclear reactors, both neutron and photon activation analysis and its applications, and the fission process and measurement of delayed fission gammas. The course will utilize the unique abilities of the Gaerttner Linear Accelerator Center to provide real world neutron experiments to supplement the theory learned in previous courses at RPI.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 4350 and MANE 4480",
+    "prerequisites": [
+      "MANE 4350",
+      "MANE 4480"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MANE 4350",
+        "MANE 4480"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82935"
+  },
+  {
+    "course_id": "MANE 4440",
+    "prefix": "MANE",
+    "number": "4440",
+    "title": "Critical Reactor Laboratory",
+    "description": "Theory and operation of a low-power critical reactor facility: reactor layout, instrumentation, shielding, controls, hazards, problems of start-up and shutdown, and operating parameters. Approach to criticality, operating procedures, kinetics. Measurements are made of neutron flux, fuel rod worth, radiation, and various reactivity effects.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 4480",
+    "prerequisites": [
+      "MANE 4480"
+    ],
+    "prerequisite_logic": "MANE 4480",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82936"
+  },
+  {
+    "course_id": "MANE 4450",
+    "prefix": "MANE",
+    "number": "4450",
+    "title": "Nuclear Fuel Management",
+    "description": "Sources of nuclear fuel. Mining, milling, and purification. Principles of isotope enrichment; specific methods with emphasis on gaseous diffusion. Fuel fabrication. Transport and reprocessing of spent fuel. In-core fuel management. Linear reactivity, batch, nodal, and pincell methods. Power shape and control management. Partial core reloading. Fuel depletion. Poison management and Haling strategy. Breeding and fast reactors. Economics of the fuel cycle. Computation of fuel cycle costs.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 2400",
+    "prerequisites": [
+      "MANE 2400"
+    ],
+    "prerequisite_logic": "MANE 2400",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82937"
+  },
+  {
+    "course_id": "MANE 4460",
+    "prefix": "MANE",
+    "number": "4460",
+    "title": "Engineering Materials for Nuclear Application",
+    "description": "Materials selection for nuclear applications in current and next generation nuclear systems. specific topics include: crystal structure; atomic bonds; defects in solids; thermodynamics; phase diagrams; kinetic processes in materials diffusion; phase transformation; mechanical properties of materials; thermal transport behavior of nuclear materials; corrosion in nuclear systems; radiation interaction of materials with neutron and charged particles; microstructural evolution of materials; properties of fuel clad; fuel chemistry; high burn-up and accident tolerant fuels; and nuclear waste management.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: MANE 6380 ; Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83569"
+  },
+  {
+    "course_id": "MANE 4470",
+    "prefix": "MANE",
+    "number": "4470",
+    "title": "Radiological Engineering",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "( MANE 2110 or CSCI 1100 ) and MANE 2830 .",
+    "prerequisites": [
+      "MANE 2110",
+      "CSCI 1100",
+      "MANE 2830"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MANE 2110",
+        {
+          "type": "AND",
+          "items": [
+            "CSCI 1100",
+            "MANE 2830"
+          ]
+        }
+      ]
+    },
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82938"
+  },
+  {
+    "course_id": "MANE 4480",
+    "prefix": "MANE",
+    "number": "4480",
+    "title": "Physics of Nuclear Reactors",
+    "description": "Basic nuclear reactor theory; fuel cycles. Neutron diffusion and slowing down; criticality analyses for homogeneous and heterogeneous systems; reactor kinetics and control; reactivity coefficients; fuel management. Reactor systems and types; reactor design. Power plant safety.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MANE 2110 , MANE 2400 , ( MATH 2010 or ( MATH 2011 and MATH 2012 )",
+    "prerequisites": [
+      "MANE 2110",
+      "MANE 2400",
+      "MATH 2010",
+      "MATH 2011",
+      "MATH 2012"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MANE 2110",
+            "MANE 2400",
+            "MATH 2010"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2011",
+            "MATH 2012"
+          ]
+        }
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82939"
+  },
+  {
+    "course_id": "MANE 4500",
+    "prefix": "MANE",
+    "number": "4500",
+    "title": "Modeling and Control of Dynamic Systems",
+    "description": "Introduction to modeling, analysis, and control of dynamic systems. Modeling of mechanical, electrical, and electromechanical systems. Time-domain and Laplace-Transform solutions. Block diagrams and transfer functions. Analysis and design of feedback control systems. Control system representation and characteristics. System performance specifications. Absolute stability criteria. Root-Locus and frequency response analysis and design methods. Systems compensation and controller design.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MATH 2400 and ( PHYS 1200 or PHYS 1250 )",
+    "prerequisites": [
+      "MATH 2400",
+      "PHYS 1200",
+      "PHYS 1250"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2400",
+            "PHYS 1200"
+          ]
+        },
+        "PHYS 1250"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82913"
+  },
+  {
+    "course_id": "MANE 4510",
+    "prefix": "MANE",
+    "number": "4510",
+    "title": "Control Systems Laboratory",
+    "description": "Laboratory introduction to the design, analysis and interpretation of key components of an intelligent physical system: sensing, communication, computation, simulation, programming, and control. Modeling and simulation of physical phenomena. Design of control algorithms (e.g., PID, state feedback) applied to a variety of physical systems. Modeling systems from data. Analysis of data, algorithm development, and implementation in hardware, including nonlinear and hardware effects of discretization, delays, saturation, and sampling. Extensive use of METLAB and Simulink.",
+    "credit_hours": "2",
+    "prerequisites_raw": "or Corequisite: MANE 4500 Attributes Data Intensive 2",
+    "prerequisites": [
+      "MANE 4500"
+    ],
+    "prerequisite_logic": "MANE 4500",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83799"
+  },
+  {
+    "course_id": "MANE 4520",
+    "prefix": "MANE",
+    "number": "4520",
+    "title": "Mechatronics",
+    "description": "The synergistic combination of mechanical engineering, electronics, control engineering, and computer science in the design process. The key areas of mechatronics studied in depth are control sensors and actuators, interfacing sensors and actuators to a microcomputer, discrete controller design, and real-time programming for control using the C programming language. The unifying theme for this heavily laboratory-based course is the integration of the key areas into a successful mechatronic design.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 4500 or ECSE 2410",
+    "prerequisites": [
+      "MANE 4500",
+      "ECSE 2410"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MANE 4500",
+        "ECSE 2410"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Cross Listed: ECSE 4090 ;Students cannot obtain credit for both this course and the cross-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82940"
+  },
+  {
+    "course_id": "MANE 4530",
+    "prefix": "MANE",
+    "number": "4530",
+    "title": "Control Systems Engineering",
+    "description": "Application of linear feedback theory to the design of large-scale, integrated control systems. Derivation of complex mathematical models of physical systems. Synthesis of appropriate control laws to provide stability. Simulation of complex systems on digital computers.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2410 or MANE 4500 ; knowledge of MATLAB highly encouraged.",
+    "prerequisites": [
+      "ECSE 2410",
+      "MANE 4500"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECSE 2410",
+        "MANE 4500"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ECSE 4440 ;Students cannot obtain credit for both this course and the cross-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83792"
+  },
+  {
+    "course_id": "MANE 4540",
+    "prefix": "MANE",
+    "number": "4540",
+    "title": "Digital Control Systems",
+    "description": "Sampling, quantization, and reconstruction of signals. Mathematical tools used in the modeling, analysis, and synthesis of discrete-time control systems. Analysis tools include z-transforms, difference equation solutions, state variables, and transfer function techniques. Design tools digital PID controller, root locus, bilinear transformations, compensation techniques and full-state feedback. Applications to sampled-data control.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 2410 or MANE 4500",
+    "prerequisites": [
+      "ECSE 2410",
+      "MANE 4500"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECSE 2410",
+        "MANE 4500"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ECSE 4510 ;Students cannot obtain credit for both this course and the cross-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83793"
+  },
+  {
+    "course_id": "MANE 4550",
+    "prefix": "MANE",
+    "number": "4550",
+    "title": "Introduction to Robot Programming",
+    "description": "This course provides an introduction to Robot Operating System (ROS), a widely used middleware for robot programming. Students will learn the basic components of ROS, how to utilize and write ROS packages, gain experience utilizing simulation software, and apply the concepts to physical platforms.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CSCI 1100 or MANE 2110",
+    "prerequisites": [
+      "CSCI 1100",
+      "MANE 2110"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CSCI 1100",
+        "MANE 2110"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ECSE 4470 ; students cannot obtain credit for both this course and the cross-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90407"
+  },
+  {
+    "course_id": "MANE 4560",
+    "prefix": "MANE",
+    "number": "4560",
+    "title": "Robotics I",
+    "description": "A survey of the fundamental issues necessary for the design, analysis, control, and implementation of robotic systems. The mathematical description of robot manipulators in terms of kinematics and dynamics. Hardware components of a typical robot arm. Path following, control, and sensing. Examples of several currently available manipulators.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MATH 2400 and ( MATH 2010 or ( MATH 2011 and MATH 2012 )); and knowledge of MATLAB and Python.",
+    "prerequisites": [
+      "MATH 2400",
+      "MATH 2010",
+      "MATH 2011",
+      "MATH 2012"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2400",
+            "MATH 2010"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2011",
+            "MATH 2012"
+          ]
+        }
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ECSE 4480 / ECSE 6470 , CSCI 4480 ; Students cannot obtain credit for both this course and any of the cross-listed courses. Co-Listed: MANE 6120",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83930"
+  },
+  {
+    "course_id": "MANE 4610",
+    "prefix": "MANE",
+    "number": "4610",
+    "title": "Manufacturing Processes and Systems Lab I",
+    "description": "Manufacturing theory, laboratory experimentation, and manufacturing systems design and development comprised of select modern manufacturing technologies. Technologies include robotics and automation, injection molding, computer numerically controlled (CNC) machining, metal forming, inspection, rapid prototyping, and advanced manufacturing topics. Student teams apply lessons to develop a proposal to produce a product requiring multiple coordinated manufacturing processes. Students prepare technical documentation for communicating key engineering and management aspects of the developed manufacturing system to a separate fabrication group.",
+    "credit_hours": "",
+    "prerequisites_raw": "None; however, both ENGR 1300 and ENGR 2710 are suggested, not required.",
+    "prerequisites": [
+      "ENGR 1300",
+      "ENGR 2710"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ENGR 1300",
+        "ENGR 2710"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ENGR 4710 ; Students cannot obtain credit for both this course and the cross-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83850"
+  },
+  {
+    "course_id": "MANE 4620",
+    "prefix": "MANE",
+    "number": "4620",
+    "title": "Manufacturing Processes and Systems Lab II",
+    "description": "Student teams finalize manufacturing system plans from select ENGR 4710 projects, build a manufacturing system to complete several hundred units of a product, optimize the system, manage a project budget, modify manufacturing packaging plans, and conform to a project schedule as proposed in the associated project Technical Data Packages produced by ENGR 4710 teams. In addition, students will learn new advanced manufacturing topics to increase their breath and depth of manufacturing.",
+    "credit_hours": "",
+    "prerequisites_raw": "ENGR 4710 or MANE 4610",
+    "prerequisites": [
+      "ENGR 4710",
+      "MANE 4610"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ENGR 4710",
+        "MANE 4610"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Cross Listed: ENGR 4720 ; Students cannot obtain credit for both this course and the cross-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83851"
+  },
+  {
+    "course_id": "MANE 4640",
+    "prefix": "MANE",
+    "number": "4640",
+    "title": "Analysis of Manufacturing Processes",
+    "description": "Review of basic aspects of manufacturing engineering including driving forces, quality attributes, tolerances, etc. Examination of basic principles of mechanics, engineering materials, analysis of both bulk-forming (forging, extrusion, rolling, etc.) and sheet-forming processes, metal cutting, and other related manufacturing processes. Discussion and role of computer-aided manufacturing in these areas.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 4030",
+    "prerequisites": [
+      "MANE 4030"
+    ],
+    "prerequisite_logic": "MANE 4030",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82941"
+  },
+  {
+    "course_id": "MANE 4670",
+    "prefix": "MANE",
+    "number": "4670",
+    "title": "Mechanical Behavior of Materials",
+    "description": "Stress, strain, balance equations, elementary constitutive models. Elements of plasticity. Effect of temperature and deformation rate on mechanical behavior of engineering materials. Theory of dislocations. Deformation of metals and strengthening mechanisms. Creep behavior and viscoelastic models of material behavior.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ENGR 2530 , or BMED 2540 , or MANE 2010",
+    "prerequisites": [
+      "ENGR 2530",
+      "BMED 2540",
+      "MANE 2010"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ENGR 2530",
+        "BMED 2540",
+        "MANE 2010"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82943"
+  },
+  {
+    "course_id": "MANE 4730",
+    "prefix": "MANE",
+    "number": "4730",
+    "title": "Heat Transfer",
+    "description": "Comprehensive treatment of conduction, convection (including boiling and condensation), and radiation heat transfer. Thermal system design and performance (including heat exchangers). Emphasis is on physical and mathematical modeling of engineering systems for application of modern analytical and computational solution methods.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 2710",
+    "prerequisites": [
+      "MANE 2710"
+    ],
+    "prerequisite_logic": "MANE 2710",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82944"
+  },
+  {
+    "course_id": "MANE 4740",
+    "prefix": "MANE",
+    "number": "4740",
+    "title": "Thermal and Fluids Engineering Laboratory",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "MANE 2710 and MANE 2720 Prerequisite or Corequisite: MANE 4730",
+    "prerequisites": [
+      "MANE 2710",
+      "MANE 2720",
+      "MANE 4730"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MANE 2710",
+            "MANE 2720"
+          ]
+        },
+        "MANE 4730"
+      ]
+    },
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82910"
+  },
+  {
+    "course_id": "MANE 4750",
+    "prefix": "MANE",
+    "number": "4750",
+    "title": "Combustion Systems",
+    "description": "Introduction to elementary theory of combustion and applications to energy sources, fires, and explosions. Discussion of internal and external combustion piston and turbine engines, solid-and liquid-propellant rockets, fire and explosion hazards of gaseous fuels, propellant and explosive performance.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 4080 or MANE 4730",
+    "prerequisites": [
+      "MANE 4080",
+      "MANE 4730"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MANE 4080",
+        "MANE 4730"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Cross Listed: CHME 6830 ; Students cannot obtain credit for both this course and any of the co-listed or cross listed courses. Co-Listed: MANE 6830",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82946"
+  },
+  {
+    "course_id": "MANE 4760",
+    "prefix": "MANE",
+    "number": "4760",
+    "title": "Heating, Ventilation, and Air Conditioning",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "MANE 2710 and MANE 2720",
+    "prerequisites": [
+      "MANE 2710",
+      "MANE 2720"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MANE 2710",
+        "MANE 2720"
+      ]
+    },
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82947"
+  },
+  {
+    "course_id": "MANE 4770",
+    "prefix": "MANE",
+    "number": "4770",
+    "title": "Design and Analysis of Energy Systems",
+    "description": "The course focuses on design and analysis of energy systems from accessibility (cost), availability (security/reliability) and acceptability (Environmental, health impacts etc). The course discusses various forms of energy sources, various forms of energy consumption. The life cycle analyses build on first principles and thermo-economic considerations. Methods of life cycle analyses from net energy, economics, and impact will be studied.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 2710 and MANE 2720",
+    "prerequisites": [
+      "MANE 2710",
+      "MANE 2720"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MANE 2710",
+        "MANE 2720"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82945"
+  },
+  {
+    "course_id": "MANE 4780",
+    "prefix": "MANE",
+    "number": "4780",
+    "title": "Wind Energy Engineering",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "ENGR 1600 (or equivalent), ENGR 2530 , ENGR 2600 , MANE 2720 , and ENGR 2350 or MANE 4500 Prerequisite or Corequisite:",
+    "prerequisites": [
+      "ENGR 1600",
+      "ENGR 2530",
+      "ENGR 2600",
+      "MANE 2720",
+      "ENGR 2350",
+      "MANE 4500"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "ENGR 1600",
+            "ENGR 2530",
+            "ENGR 2600",
+            "MANE 2720",
+            "ENGR 2350"
+          ]
+        },
+        "MANE 4500"
+      ]
+    },
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84026"
+  },
+  {
+    "course_id": "MANE 4790",
+    "prefix": "MANE",
+    "number": "4790",
+    "title": "Advanced Heat Transfer",
+    "description": "Comprehensive treatment of conduction and convection heat transfer. Emphasis is on physical and mathematical modeling of heat transfer phenomena with applications in engineering systems. Analytical and computational solution methods are discussed. The class is centered around a semester long project.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 4730",
+    "prerequisites": [
+      "MANE 4730"
+    ],
+    "prerequisite_logic": "MANE 4730",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MANE 6790 ; Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83992"
+  },
+  {
+    "course_id": "MANE 4860",
+    "prefix": "MANE",
+    "number": "4860",
+    "title": "Introduction to Nonlinear Finite Elements",
+    "description": "Review of linear finite element concepts. Nonlinear continuum mechanics of solids: finite strain and stress measures, total and updated Lagrangian approaches, variational methods - virtural work principle. Non-linear finite element procedures: incremental solution of nonlinear equations, Newton-Raphson method. Finite elements for elastro-plasticity. Finite elements for hyper-elasticity. Contact of solids using finite elements. Finite elements in dynamics.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 4240 or permission of the instructor.",
+    "prerequisites": [
+      "MANE 4240"
+    ],
+    "prerequisite_logic": "MANE 4240",
+    "when_offered": "SPRING ALTERNATE YEARS Co-Listed: MANE 6860 . Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84135"
+  },
+  {
+    "course_id": "MANE 4900",
+    "prefix": "MANE",
+    "number": "4900",
+    "title": "Aeroelasticity and Structural Vibrations",
+    "description": "Basic concepts in static and dynamic aeroelasticity. Structural vibrations, free and forced motion of discrete and continuous structures, introduction to modal analysis, and use of materials for dynamics tailoring. Aeroelastic behavior of complex structures, dynamic aeroelasticity. The phenomena of divergence, control surface effectiveness, and flutter and the use of composite materials for aeroelastic tailoring. The role of numerical methods will be emphasized.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 4060 and MATH 2400",
+    "prerequisites": [
+      "MANE 4060",
+      "MATH 2400"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MANE 4060",
+        "MATH 2400"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82949"
+  },
+  {
+    "course_id": "MANE 4910",
+    "prefix": "MANE",
+    "number": "4910",
+    "title": "Fluid Dynamics Laboratory",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82950"
+  },
+  {
+    "course_id": "MANE 4920",
+    "prefix": "MANE",
+    "number": "4920",
+    "title": "Aerospace Structures Laboratory",
+    "description": "Laboratory experiments with emphasis on the static and dynamic response of lightweight and flexible structures, that are used in aircraft, spacecraft, and rotorcraft. Experiments include tensile testing, buckling characterization, free and forced vibration testing, damping measurement, and high strain-rate impact loading of fiber-reinforced composite materials.",
+    "credit_hours": "2",
+    "prerequisites_raw": "MANE 4060",
+    "prerequisites": [
+      "MANE 4060"
+    ],
+    "prerequisite_logic": "MANE 4060",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82951"
+  },
+  {
+    "course_id": "MANE 4940",
+    "prefix": "MANE",
+    "number": "4940",
+    "title": "Mechanical Engineering, Aerospace Engineering or Nuclear Engineering Independent Study",
+    "description": "Independent study of selected readings in the fields of mechanical, aerospace, and nuclear engineering, supervised by a faculty member.",
+    "credit_hours": "1-4",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82952"
+  },
+  {
+    "course_id": "MANE 4960",
+    "prefix": "MANE",
+    "number": "4960",
+    "title": "Topics in Mechanical Engineering, Aerospace Engineering, or Nuclear Engineering",
+    "description": "",
+    "credit_hours": "1-4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82953"
+  },
+  {
+    "course_id": "MANE 5000",
+    "prefix": "MANE",
+    "number": "5000",
+    "title": "Advanced Engineering Mathematics I",
+    "description": "A presentation of mathematical methods useful in engineering practice. The course covers analytical and numerical techniques used in linear algebra, the numerical solution of nonlinear equations, the foundations of vector and tensor algebra and an introduction to vector operators. Also covered are methods of polynomial and trigonometric interpolation and approximation, numerical solution methods for initial and boundary value problems for ordinary differential equations and an overview of the fundamentals of probability and statistics including random variables, density and distribution functions and hypothesis testing. Symbolic manipulation and scientific computation software used extensively. Emphasis on reliable computing is made throughout.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82954"
+  },
+  {
+    "course_id": "MANE 5060",
+    "prefix": "MANE",
+    "number": "5060",
+    "title": "Introduction to Compressible Flow",
+    "description": "One-dimensional isentropic compressible flow. Normal stationary and moving shock waves. Design on inlet and ducted diffusers, steady flow wind tunnels and shock tubes. Flow in ducts with friction and heat transfer.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82955"
+  },
+  {
+    "course_id": "MANE 5080",
+    "prefix": "MANE",
+    "number": "5080",
+    "title": "Turbomachinery",
+    "description": "Representation of performance of turbomachines; mechanism of energy transfer; factors limiting design and performance including surge, choking, and cavitation; two-and three-dimensional flow phenomena; performance analysis including multistage effects and off-design performance.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82956"
+  },
+  {
+    "course_id": "MANE 5100",
+    "prefix": "MANE",
+    "number": "5100",
+    "title": "Mechanical Engineering Foundations I",
+    "description": "A presentation of the principles of macroscopic transport useful in the analysis of mechanical engineering systems. The course covers the formulation energy mass and momentum balances in continua; the development of mathematical models of heat conduction and mass diffusion in solids and of flow in ideal and Newtonian fluids. Models are illustrated using examples from mechanical engineering. Particular attention throughout is devoted to the development of the ability to create realistic and reliable models.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82957"
+  },
+  {
+    "course_id": "MANE 6060",
+    "prefix": "MANE",
+    "number": "6060",
+    "title": "Helicopter Aerodynamics and Performance",
+    "description": "Aerodynamic analysis of rotocraft in hover, axial, and edgewise flight. Rotor blade flapping, and response to rotor pitch controls. Rotor hub loads and aircraft equilibrium procedures. Helicopter performance calculations. Effect of rotor design on rotor aerodynamic performance.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of MANE 4070 required.",
+    "prerequisites": [
+      "MANE 4070"
+    ],
+    "prerequisite_logic": "MANE 4070",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: MANE 4120 Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82958"
+  },
+  {
+    "course_id": "MANE 6070",
+    "prefix": "MANE",
+    "number": "6070",
+    "title": "Multirotor Aerial Vehicles",
+    "description": "Aerodynamic analysis of multi-rotor aerial vehicles. Multi-rotor coordinates and controls for multicopters. Multicopter failure and recovery. Comparison of rotor speed and pitch control. Trim and performance analysis of different multirotor archetypes.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of MANE 4070 required.",
+    "prerequisites": [
+      "MANE 4070"
+    ],
+    "prerequisite_logic": "MANE 4070",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: MANE 4130 Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83922"
+  },
+  {
+    "course_id": "MANE 6080",
+    "prefix": "MANE",
+    "number": "6080",
+    "title": "VTOL Aircraft Flight Mechanics",
+    "description": "Theory and Application of VTOL vehicle dynamics, simulation, and control system design. Coordinate systems, nonlinear dynamics, inflow dynamics, eigenanalysis and linear control design. Control system design using model following and dynamic inversion.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 6060 or MANE 6070",
+    "prerequisites": [
+      "MANE 6060",
+      "MANE 6070"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MANE 6060",
+        "MANE 6070"
+      ]
+    },
+    "when_offered": "SPRING TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83925"
+  },
+  {
+    "course_id": "MANE 6090",
+    "prefix": "MANE",
+    "number": "6090",
+    "title": "VTOL Aircraft Dynamics and Aeroelasticity",
+    "description": "Analysis of coupled rotor blade elastic deformations, support elastic deformations, rotor loads and vibrations, and aeroelastic and aeromechanical stability of VTOL aircraft. Methods to mitigate dynamic loads and aeroelastic/aeromechanical instability.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 6060 or MANE 6070",
+    "prerequisites": [
+      "MANE 6060",
+      "MANE 6070"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MANE 6060",
+        "MANE 6070"
+      ]
+    },
+    "when_offered": "SPRING TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83926"
+  },
+  {
+    "course_id": "MANE 6110",
+    "prefix": "MANE",
+    "number": "6110",
+    "title": "Kinematic Synthesis",
+    "description": "Analytical and geometrical theories of function, path, and motion generation of four bar linkages. Consists of 3, 4, and 5 accuracy points. Review of recent developments and use of computer graphic methods.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82959"
+  },
+  {
+    "course_id": "MANE 6120",
+    "prefix": "MANE",
+    "number": "6120",
+    "title": "Robotics I",
+    "description": "A survey of the fundamental issues necessary for the design, analysis, control, and implementation of robotic systems. The mathematical description of robot manipulators in terms of kinematics and dynamics. Hardware components of a typical robot arm. Path following, control, and sensing. Examples of several currently available manipulators.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ECSE 4480 / ECSE 6470 , CSCI 4480 , Students cannot obtain credit for both this course and any of the cross-listed courses. Co-Listed: MANE 4560",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82960"
+  },
+  {
+    "course_id": "MANE 6140",
+    "prefix": "MANE",
+    "number": "6140",
+    "title": "Introduction to Computational Fluid Dynamics",
+    "description": "This is a course on introduction to computational fluid dynamics. This course provides knowledge necessary to model engineering applications consistent with energy and fluid-dynamic physical laws. Discretization models include: overview of finite difference, finite element, and finite volume discretization approaches, physical problem classification, discretization techniques, and numerical guidelines. Applications include: incompressible and compressible flows, laminar and turbulence flows, with introduction to computational fluid dynamics turbulence modeling, followed by boundary layer, and parabolized flow simplifications.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of MANE 2110 , MANE 2720 , and ( MATH 2010 or ( MATH 2011 and MATH 2012 )) or equivalents required.",
+    "prerequisites": [
+      "MANE 2110",
+      "MANE 2720",
+      "MATH 2010",
+      "MATH 2011",
+      "MATH 2012"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MANE 2110",
+            "MANE 2720",
+            "MATH 2010"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2011",
+            "MATH 2012"
+          ]
+        }
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Co-Listed: MANE 4140 ; Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83794"
+  },
+  {
+    "course_id": "MANE 6150",
+    "prefix": "MANE",
+    "number": "6150",
+    "title": "Acoustics Engineering",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84157"
+  },
+  {
+    "course_id": "MANE 6170",
+    "prefix": "MANE",
+    "number": "6170",
+    "title": "Mechanics of Solids",
+    "description": "This course provides an introduction to the mechanics of solids from a continuum perspective. Topics covered in this course include: vector and tensor analysis, coordinate systems and calculus in curvilinear coordinate systems, kinematics (motion, deformation and strain), stress and momentum balance, energy principles and balance laws, linear isotropic and anisotropic elasticity, thermoelasticity, method of solutions for 2D and 3D linear elastic boundary value problems, applications to simple structures.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: CIVL 6170 Students cannot obtain credit for both this course and the cross-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82961"
+  },
+  {
+    "course_id": "MANE 6180",
+    "prefix": "MANE",
+    "number": "6180",
+    "title": "Mechanics of Composite Materials",
+    "description": "Mechanics of elastic heterogeneous solids. Plasticity of composite materials. Thermoelastic and thermoplastic behavior. Mechanics of distributed damage. Mechanical behavior.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 6170 or MANE 6170",
+    "prerequisites": [
+      "CIVL 6170",
+      "MANE 6170"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CIVL 6170",
+        "MANE 6170"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Cross Listed: CIVL 6180 ;Students cannot obtain credit for both this course and the cross-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82962"
+  },
+  {
+    "course_id": "MANE 6190",
+    "prefix": "MANE",
+    "number": "6190",
+    "title": "Bio-Fluid Mechanics",
+    "description": "This course introduces the fundamental circulatory bio-fluid mechanics, blood rheology, and governing laws of physiological blood flows. The course involves theoretical and numerical modeling of simple study cases and research in clinical applications. The main topics will cover fundamentals of fluid mechanics and physical principles of circulation, blood rheology: properties of flowing blood, blood flows in vessels, veins, coronary arteries, microcirculation, models of biofluids, computational biofluid mechanics, and fluid in the lung.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: none.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: MANE 4910 ; student cannot receive credit for this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83668"
+  },
+  {
+    "course_id": "MANE 6210",
+    "prefix": "MANE",
+    "number": "6210",
+    "title": "VTOL Aircraft Design",
+    "description": "Aerodynamics and dynamics of lifting rotors. Design concepts by which rotor weight and stress are minimized and vehicle control is provided. Weight and engine power trends for configuration definition. Center of gravity and aerodynamic lift and moment for equilibrium and desired aircraft attitude. Methods for determining size weight, and cost for a given payload, useful volume, and specified performance. This is a communication-intensive course.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 4120 , MANE 4130 or MANE 4090 ; or permission of the instructor.",
+    "prerequisites": [
+      "MANE 4120",
+      "MANE 4130",
+      "MANE 4090"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MANE 4120",
+            "MANE 4130"
+          ]
+        },
+        "MANE 4090"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: MANE 4210 . Students cannot obtain credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83923"
+  },
+  {
+    "course_id": "MANE 6230",
+    "prefix": "MANE",
+    "number": "6230",
+    "title": "Advanced Manufacturing Processes and Systems",
+    "description": "Advanced Manufacturing Processes and Systems (AMP) is a project-based lecture/laboratory course that teaches graduate engineering students how to develop new manufacturing processes and systems.",
+    "credit_hours": "4",
+    "prerequisites_raw": "Previous knowledge of MANE 4640 (or equivalent), and ENGR 4710 (or equivalent); B.S. in Engineering is required.",
+    "prerequisites": [
+      "MANE 4640",
+      "ENGR 4710"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MANE 4640",
+        "ENGR 4710"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ENGR 6120 . Students cannot obtain credit for both this course and ENGR 6120 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83654"
+  },
+  {
+    "course_id": "MANE 6240",
+    "prefix": "MANE",
+    "number": "6240",
+    "title": "Introduction to Neural Networks",
+    "description": "Neural networks are program and memory at once, useful where traditional techniques fail, i.e., for artificial speech and image recognition. Emphasis on existing and emerging engineering applications. Parallel distributed processing, Hebb’s rule, Hopfield net, back-propagation algorithm, perceptrons, unsupervised learning, Kohenen self-organizing map, genetic algorithms, neocognitron, adaline. Illustrated with computer programs and lectures.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Cross Listed: ISYE 6870 ; students cannot obtain credit for both this course and ISYE 6870 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82963"
+  },
+  {
+    "course_id": "MANE 6250",
+    "prefix": "MANE",
+    "number": "6250",
+    "title": "Continuum Mechanics",
+    "description": "Vector and tensor calculus. Description of finite deformation, kinematics. Calculus of variations, Hamiltonian, Lagrangian, conservation equations, Cauchy and Piola- Kirchhoff stress tensors, path independent integrals. Thermodynamics of continua, invariance principles, Clausius-Duhem inequality. Constitutive equations, linear and nonlinear elasticity, thermoelasticity, heat conducting fluids.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM EVERY TWO TO THREE YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82964"
+  },
+  {
+    "course_id": "MANE 6260",
+    "prefix": "MANE",
+    "number": "6260",
+    "title": "Radiation Technology and Applications",
+    "description": "An introductory course on the generation, distribution, and interaction of ionizing radiation. Radiation sources such as radioisotopes, accelerators, focused ion beams, and cosmic rays are studied. Applications to semiconductor electronic devices, chemical polymerization, food preservation, sterilization, material modification, industrial and medical radiography, and radiation damage are presented.",
+    "credit_hours": "3",
+    "prerequisites_raw": "None. However, MANE 4480 or equivalent is strongly recommended.",
+    "prerequisites": [
+      "MANE 4480"
+    ],
+    "prerequisite_logic": "MANE 4480",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: MANE 4420 Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83509"
+  },
+  {
+    "course_id": "MANE 6280",
+    "prefix": "MANE",
+    "number": "6280",
+    "title": "Nuclear Reactor Analysis II",
+    "description": "Reactor kinetics, stability, and control. Perturbation methods, reactivity coefficients; feedback mechanisms, long-term reactivity changes. Fission product effects on reactor startup and spatial stability. Fuel depletion. Theory of control and burnable poisons.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82965"
+  },
+  {
+    "course_id": "MANE 6290",
+    "prefix": "MANE",
+    "number": "6290",
+    "title": "Radiation Transport Methods",
+    "description": "This course will present the foundations of numerical (deterministic) and Monte Carlo methods that are widely used in the modeling and analysis of nuclear reactor design, radiation dosimetry, and radiation shielding. Emphasis will be placed on the three fundamental aspects of computation methods: (i) discretization methods for the transport and diffusion equations; (ii) iterative methods for solving the system of discretized equations; and (iii) Monte Carlo methods for solving general fixed-source and eigenvalue problems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: MANE 4290 . Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82966"
+  },
+  {
+    "course_id": "MANE 6300",
+    "prefix": "MANE",
+    "number": "6300",
+    "title": "Numerical Methods in Reactor Analysis",
+    "description": "Difference equations; matrix operation, linear systems, matrix eigenvalue problems, multi-group diffusion, and transport theory methods. Sn calculations, Monte Carlo methods. Application to nuclear engineering calculations, such as flux and power distributions, heat conduction, programming reactor problems for digital computers, codes, etc.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of MANE 4290 or MANE 6290 required.",
+    "prerequisites": [
+      "MANE 4290",
+      "MANE 6290"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MANE 4290",
+        "MANE 6290"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82967"
+  },
+  {
+    "course_id": "MANE 6310",
+    "prefix": "MANE",
+    "number": "6310",
+    "title": "Reactor Design",
+    "description": "The reactor design problem is studied using current methods. Emphasis is placed on thermal and hydraulic analyses of power reactors, neutronics, fuel cycles, economics, nuclear analysis, control, siting, and safety. Complete reactor systems are analyzed. Standard reactor design codes are utilized.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of MANE 2400 required.",
+    "prerequisites": [
+      "MANE 2400"
+    ],
+    "prerequisite_logic": "MANE 2400",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82968"
+  },
+  {
+    "course_id": "MANE 6320",
+    "prefix": "MANE",
+    "number": "6320",
+    "title": "Radioactive Waste Management",
+    "description": "Fundamental knowledge with a broad view on radioactive waste. Generation of sources, classification, management including treatment, conditioning, storage, transportation, and disposal. Environmental impact of nuclear waste management activities, risk and safety assessment, and regulatory aspects. Use of modern software (such as GoldSim) for risk and safety assessment through homework, project, and/or exams.",
+    "credit_hours": "3",
+    "prerequisites_raw": "None. MANE 4470 is recommended.",
+    "prerequisites": [
+      "MANE 4470"
+    ],
+    "prerequisite_logic": "MANE 4470",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82969"
+  },
+  {
+    "course_id": "MANE 6350",
+    "prefix": "MANE",
+    "number": "6350",
+    "title": "Radiation Shielding",
+    "description": "Design, analysis, and confirmation of radiation shields. Point kernel, removal-diffusion, P-N, discrete ordinates, and Monte Carlo computation method. Photon, neutron, and charged particle transport data, applications, and tests. Shield materials and behavior. Dosimetry in shield confirmation.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of MANE 4480 required.",
+    "prerequisites": [
+      "MANE 4480"
+    ],
+    "prerequisite_logic": "MANE 4480",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82970"
+  },
+  {
+    "course_id": "MANE 6360",
+    "prefix": "MANE",
+    "number": "6360",
+    "title": "Reactor Reliability and Safety",
+    "description": "Theory and applications of reliability and risk assessment. Boolean algebra, logic diagrams, redundancy, and majority-vote configurations. System synthesis by reliability and fault tree techniques, quantitative evaluation, uncertainty analysis. Common cause events, failure data, and failure models. Allocation of risk to subsystems. Availability, repair policies, renewal theory. Operational reliability methods.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL OR SPRING TERM ANNUALLY Co-Listed: MANE 4360 ; Students cannot obtain credit for both this course and the cross-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82971"
+  },
+  {
+    "course_id": "MANE 6370",
+    "prefix": "MANE",
+    "number": "6370",
+    "title": "Thermal-Hydraulic Design of Nuclear Reactors",
+    "description": "An introduction to the principles underlying the thermal-hydraulic design of nuclear power reactors. Topics include plant thermal limits, sub-channel analysis, thermal-hydraulic stability analysis, and reactor system response during both normal and postulated accident conditions.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 6840 or equivalent.",
+    "prerequisites": [
+      "MANE 6840"
+    ],
+    "prerequisite_logic": "MANE 6840",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82972"
+  },
+  {
+    "course_id": "MANE 6380",
+    "prefix": "MANE",
+    "number": "6380",
+    "title": "Nuclear Reactor Materials",
+    "description": "The physical metallurgy and associated physical chemistry of problems encountered in the application of materials in nuclear reactors is discussed. Specifically, the metallurgy and physical chemistry of ceramic fuels (e.g., oxygen potentials), the primary fuel densification and pellet-clad interaction mechanisms, irradiation-induced creep, hardening, and embrittlement mechanisms, and the properties of zircaloy are covered.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of MANE 4480 required.",
+    "prerequisites": [
+      "MANE 4480"
+    ],
+    "prerequisite_logic": "MANE 4480",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MANE 4460 ; Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82973"
+  },
+  {
+    "course_id": "MANE 6400",
+    "prefix": "MANE",
+    "number": "6400",
+    "title": "Analytical Dynamics",
+    "description": "A fundamental course in dynamics of rigid and flexible bodies. Review of kinematics and Newtonian dynamics; virtual variations and fundamentals of calculus of variations; generalized coordinates, velocities and momenta; constraints; generalized Hamilton’s principle and Lagrangean dynamics; rotational dynamics, orientation angles and Euler parameters; brief introduction to the analysis of nonlinear systems and stability of motion. Applications to the motion of rigid and flexible bodies. The role of symbolic manipulation in dynamics is introduced.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82974"
+  },
+  {
+    "course_id": "MANE 6410",
+    "prefix": "MANE",
+    "number": "6410",
+    "title": "Applied Atomic and Nuclear Physics",
+    "description": "Review of atomic and nuclear physics and quantum mechanics; application to atomic, molecular and nuclear systems; particle and photon emissions; photon/particle interactions; quantum statistics; applications of nuclear physics to nuclear data, medical physics, accelerators, fusion systems, nuclear reactors; accelerators, fusion systems, nuclear reactors; key measurements and databases; advanced level of technical writing and presentation.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: MANE 4410 ; students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82975"
+  },
+  {
+    "course_id": "MANE 6420",
+    "prefix": "MANE",
+    "number": "6420",
+    "title": "Multibody Dynamics",
+    "description": "Analytical and numerical analysis of dynamic behavior of multibody mechanical systems. Emphasis on understanding all aspects of modeling and analysis process associated with real (spacecraft, automotive, biomechanical, etc.) systems. Review of traditional dynamic analysis methods (Newtonian-Euler, Lagrange, etc.), presentation of more efficient, powerful, recently developed methods (including Kane’s method). Comparison of the different formulations and their applicability to computer simulation. Treatment of constraints, extraction of data from equations of motion, and computational issues.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82976"
+  },
+  {
+    "course_id": "MANE 6430",
+    "prefix": "MANE",
+    "number": "6430",
+    "title": "Nonlinear Vibrations",
+    "description": "A fundamental course in nonlinear vibrations and stability. Basic concepts about linear and nonlinear systems; Routh-Hurwitz and Liapunov’s stability criteria; systems with periodic coefficients and Floquet theory; effects of nonlinearities; limit cycles, jump, saturation, nonlinear resonances, modal energy exchange, etc.; perturbation methods: straightforward perturbations, Lindstedt-Poincare, harmonic balancing, multiple time scales; steady-state and transient responses of nonlinear systems. Applications to discrete and structural systems. Use of symbolic manipulation to analyze problems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82977"
+  },
+  {
+    "course_id": "MANE 6450",
+    "prefix": "MANE",
+    "number": "6450",
+    "title": "Mechanics of Materials Processing",
+    "description": "Modeling and analysis of common manufacturing processes. Topics include bulk-forming, sheet-forming, and casting processes. Classical analysis techniques, upper bound analysis, slip-line field theory, asymptotic methods, and the finite element method are investigated.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 6170 or equivalent.",
+    "prerequisites": [
+      "MANE 6170"
+    ],
+    "prerequisite_logic": "MANE 6170",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82978"
+  },
+  {
+    "course_id": "MANE 6460",
+    "prefix": "MANE",
+    "number": "6460",
+    "title": "Fracture Mechanics and Fatigue of Materials",
+    "description": "Fracture mechanics: linear elastic fracture, elastic crack boundary value problems, path independent integrals, stress concentration and crack nucleation, statistical approach to brittle fracture, toughening mechanisms, elastic-plastic fracture mechanics, elements of dynamic fracture. Fatigue of materials: response of materials under cyclic stress, micromechanical aspects of fatigue, phenomenological approach to fatigue life prediction, fracture mechanics approaches, fatigue crack initiation and propagation, variable amplitude, and overstress effects.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM EVERY TWO TO THREE YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82979"
+  },
+  {
+    "course_id": "MANE 6480",
+    "prefix": "MANE",
+    "number": "6480",
+    "title": "Health Physics and Medical Aspects of Radiation",
+    "description": "Use of radioisotopes and radiation in nuclear medicine, radiation chemistry, basis of dosimetry, ionizing and nonionizing energy transfer processes in living tissue and cells. Radiation effects on the structure of nucleic acids, proteins, and cell membranes with emphasis on mechanisms by which cell viability is lost. Background in radiation chemistry is developed in particular for engineering majors. Applications are given in nuclear medicine, cancer therapy, and radiation in the environment.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82980"
+  },
+  {
+    "course_id": "MANE 6490",
+    "prefix": "MANE",
+    "number": "6490",
+    "title": "Plasticity",
+    "description": "Stress invariants. Polyaxial stress-strain relation for strain-hardening materials. Ideal plasticity, various yield conditions, and associated flow rules. Variational principles. Limit analysis. Applications in elastic-plastic stress analysis, metal forming, plastic collapse, and plastic instability.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82981"
+  },
+  {
+    "course_id": "MANE 6500",
+    "prefix": "MANE",
+    "number": "6500",
+    "title": "Non-Newtonian Fluid Mechanics",
+    "description": "Flow of non-Newtonian fluids such as polymeric liquids, granular mixtures, etc. Flow phenomena and material functions. Integral and differential constitutive equations for generalized Newtonian, linear viscoelastic, and ordered fluids.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82982"
+  },
+  {
+    "course_id": "MANE 6520",
+    "prefix": "MANE",
+    "number": "6520",
+    "title": "Fluid Mechanics",
+    "description": "An introductory graduate course in fluid mechanics. Topics include: continuum hypothesis; perfect gas and departures from perfect gas; vectors and tensors; conservation laws for a continuum: mass momentum and energy; constitutive theory for fluids; viscosity and molecular transport; compressible Navier-Stokes equations; kinematics of the flow field: vorticity, streamlines; incompressible Navier-Stokes equations and their applications: Poiseuille flow, low Reynolds number flows, flows at large Reynolds number, boundary layers, external flows: flow stability and introduction to the theory of turbulence.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83667"
+  },
+  {
+    "course_id": "MANE 6530",
+    "prefix": "MANE",
+    "number": "6530",
+    "title": "Turbulence",
+    "description": "Navier-Stokes equations, linear stability, vorticity and its origin, transition in wall-bounded and free-shear flows, statistics and Reynolds averaging, homogeneous turbulence, coherent structures, laboratory methods for study of turbulence, including turbulence measurements and turbulence modeling.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 6520",
+    "prerequisites": [
+      "MANE 6520"
+    ],
+    "prerequisite_logic": "MANE 6520",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82983"
+  },
+  {
+    "course_id": "MANE 6540",
+    "prefix": "MANE",
+    "number": "6540",
+    "title": "Advanced Thermodynamics",
+    "description": "General principles and applications of equilibrium thermodynamics. Second law analysis of energy systems. Thermodynamic relations, equations of state, properties of single and multiphase systems. Elementary statistical thermodynamics. Fundamentals of nonequilibrium thermodynamics.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82984"
+  },
+  {
+    "course_id": "MANE 6550",
+    "prefix": "MANE",
+    "number": "6550",
+    "title": "Theory of Compressible Flow",
+    "description": "General equations of compressible flow. Specialization to inviscid flows in two space dimensions. Linearized solutions in subsonic and supersonic flow. Characteristic equations for supersonic flow with applications in external and internal flow. One-dimensional nonsteady compressible flow. Introduction to transonic flow.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 6520",
+    "prerequisites": [
+      "MANE 6520"
+    ],
+    "prerequisite_logic": "MANE 6520",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82985"
+  },
+  {
+    "course_id": "MANE 6560",
+    "prefix": "MANE",
+    "number": "6560",
+    "title": "Incompressible Flow",
+    "description": "Graduate fluid mechanics course on classical and modern approaches to hydrodynamics. Topics cover three areas, (1) surface waves, (2) flow instability, and (3) vortex dynamics. Wave topics include linear dispersive and nondispersive waves, weakly nonlinear waves, and viscous effects, with special attention to surface tension phenomena. Flow instabilities include gravitational, capillary, thermal, centrifugal, and viscous instabilities. Topics in vortex dynamics include vortex laws and flow invariants, generation and decay of vorticity, and vortex-boundary interaction.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82986"
+  },
+  {
+    "course_id": "MANE 6570",
+    "prefix": "MANE",
+    "number": "6570",
+    "title": "Aerodynamic Flow Control",
+    "description": "This is a graduate level course. It aims to provide students with the familiarity of traditional and modern flow control techniques. It also introduces the students to the subject of laminar-to-turbulent transition and flow separation using hydrodynamic stability analysis, which is a crucial component in design and implementation of intelligent flow control strategies.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83651"
+  },
+  {
+    "course_id": "MANE 6600",
+    "prefix": "MANE",
+    "number": "6600",
+    "title": "Systems Analysis Techniques",
+    "description": "Methods of analysis for continuous and discrete-time linear systems. Convolution, classical solution of dynamic equations, transforms and matrices are reviewed. Emphasis is on the concept of state space. Linear spaces, concept of state, modes, controllability, observability, state transition matrix. State variable feedback, compensation, decoupling.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of MANE 4500 or ECSE 2410 required.",
+    "prerequisites": [
+      "MANE 4500",
+      "ECSE 2410"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MANE 4500",
+        "ECSE 2410"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Cross Listed: ECSE 6400 Systems Analysis Techniques. Students cannot obtain credit for both this course and the cross-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83508"
+  },
+  {
+    "course_id": "MANE 6610",
+    "prefix": "MANE",
+    "number": "6610",
+    "title": "Nonlinear Control Systems",
+    "description": "Phenomena peculiar to nonlinear systems. Linearization, iteration, and perturbation procedures. Describing function stability analysis. Phase plane methods. Relaxation oscillations and limit cycles. Stability analysis by Lyapunov’s method. Popov’s theorem. Adaptive control systems. Sensitivity analysis.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 6400 or MANE 6600",
+    "prerequisites": [
+      "ECSE 6400",
+      "MANE 6600"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECSE 6400",
+        "MANE 6600"
+      ]
+    },
+    "when_offered": "SPRING TERM, ODD YEARS Cross Listed: ECSE 6420 ; students cannot receive credit for both this course and ECSE 6420 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82987"
+  },
+  {
+    "course_id": "MANE 6620",
+    "prefix": "MANE",
+    "number": "6620",
+    "title": "Optimal Control Theory",
+    "description": "The concepts, techniques, and tools related to optimal control for dynamical systems. Major topics include calculus of variation, minimum principle, dynamic programming, optimal estimation, and differential games. Both discrete time systems and continuous times are addressed. Particular consideration is given to linear time invariant systems in terms of linear quadratic regulator and Kalman filter.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECSE 6400 or MANE 6600",
+    "prerequisites": [
+      "ECSE 6400",
+      "MANE 6600"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECSE 6400",
+        "MANE 6600"
+      ]
+    },
+    "when_offered": "SPRING TERM, EVEN YEARS Cross Listed: ECSE 6440 ; students cannot receive credit for both this course and ECSE 6440 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83795"
+  },
+  {
+    "course_id": "MANE 6630",
+    "prefix": "MANE",
+    "number": "6630",
+    "title": "Conduction Heat Transfer",
+    "description": "An introduction to the mathematics of conduction heat transfer. Applications of results illustrated by examples from furnace design, cooling of electric components, building design, heat exchanger design.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM, ODD YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82988"
+  },
+  {
+    "course_id": "MANE 6640",
+    "prefix": "MANE",
+    "number": "6640",
+    "title": "Radiation Heat Transfer",
+    "description": "An introduction to radiation heat transfer in diathermanous media and participating media. Selected applications from spacecraft design, furnace design, meteorology, temperature measurement, environmental control.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82989"
+  },
+  {
+    "course_id": "MANE 6650",
+    "prefix": "MANE",
+    "number": "6650",
+    "title": "Convective Heat Transfer",
+    "description": "Fundamental study of convection heat transfer in laminar and turbulent internal and external flows. Unsteady flows, combined heat and mass transfer, conjugated unsteady heat transfer, and buoyancy induced convection. Selected applications from aeronautics and heat exchanger design.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 6520 Prerequisite or Corequisite: Prerequisite: MANE 6520 Fluid Mechanics is recommended.",
+    "prerequisites": [
+      "MANE 6520"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MANE 6520",
+        "MANE 6520"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82990"
+  },
+  {
+    "course_id": "MANE 6660",
+    "prefix": "MANE",
+    "number": "6660",
+    "title": "Finite Element Method",
+    "description": "This course introduces the methods upon which finite element software is built. Methods covered include construction of weak forms, discretization of the weak forms, the local/global linkage, construction of element shape functions, element mapping and numerical integration. The course will also cover the application of finite elements methods employing software tools. This will include open-source tools for the efficient implementation of finite elements and commercial software commonly applied in industry.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of MATH 2400 and MANE 2110 is required",
+    "prerequisites": [
+      "MATH 2400",
+      "MANE 2110"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 2400",
+        "MANE 2110"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Cross Listed: CIVL 6660 . Students cannot obtain credit for both this course and CIVL 6660 . Co-Listed: MANE 4240 Students cannot obtain credit for both MANE 4240 and MANE 6660.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82991"
+  },
+  {
+    "course_id": "MANE 6680",
+    "prefix": "MANE",
+    "number": "6680",
+    "title": "Finite Element Programming",
+    "description": "Examines the implementation of finite element methods. Consideration is first given to the techniques used in classic finite element programs. Attention then focuses on development of a general geometry-based code which effectively supports higher order adaptive technique. Technical areas covered include: effective construction of element matrices for p-version finite elements, ordering of unknowns, automatic mesh generation, adaptive mesh improvement, program and database structures. Implementation of automated adaptive techniques on parallel computers is also covered.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 6660 , or CIVL 6660 , or MATH 6860 , or CSCI 6860",
+    "prerequisites": [
+      "MANE 6660",
+      "CIVL 6660",
+      "MATH 6860",
+      "CSCI 6860"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MANE 6660",
+        "CIVL 6660",
+        "MATH 6860",
+        "CSCI 6860"
+      ]
+    },
+    "when_offered": "SPRING TERM, ODD YEARS Cross Listed: CIVL 6680 . Students cannot obtain credit for both this course and CIVL 6680 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82992"
+  },
+  {
+    "course_id": "MANE 6700",
+    "prefix": "MANE",
+    "number": "6700",
+    "title": "Finite Element Methods in Structural Dynamics",
+    "description": "Solutions to the free vibration and transient dynamic responses of two-and three-dimensional structures by the finite element method are considered. The governing finite element matrix equations are derived and numerical aspects of solving these time-dependent equations considered. Topics include the formulation of the eigenvalue problem, algorithms for eigenvalue extraction, time integration methods including stability and accuracy analysis, and finite elements in time. Modal analysis and direct time integration techniques are compared for a variety of two-and three-dimensional problems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "CIVL 6660 or MANE 6660",
+    "prerequisites": [
+      "CIVL 6660",
+      "MANE 6660"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "CIVL 6660",
+        "MANE 6660"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Cross Listed: CIVL 6700 . Students cannot obtain credit for both this course and CIVL 6700 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82993"
+  },
+  {
+    "course_id": "MANE 6710",
+    "prefix": "MANE",
+    "number": "6710",
+    "title": "Numerical Design Optimization",
+    "description": "This course introduces the theory and practical use of numerical design optimization methods. Topics include: gradient-based methods for unconstrained and constrained nonlinear optimization; numerical evaluation of derivatives; polynomial and kriging-based surrogate models; gradient-free optimization methods; optimization under uncertainty; multi-objective and multi-disciplinary optimization. Projects require the use of computer programs to generate numerical results; therefore, experience with programming is highly recommended.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: MANE 4280 ; Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83822"
+  },
+  {
+    "course_id": "MANE 6720",
+    "prefix": "MANE",
+    "number": "6720",
+    "title": "Advanced Computational Fluid Dynamics",
+    "description": "Course focuses on computational approaches to solve the Navier-Stokes equations. Course assumes knowledge of numerical methods and therefore directly attacks the obstacles to applying these methods to the Navier-Stokes equations. Issues concerning implementation of finite difference methods (FDM), finite volume methods (FVM) and finite element methods (FEM) will be discussed. These issues include: the discrete formulation, nonlinear equation iterator (steady)/marcher (time-accurate), linear equation formation, boundary condition prescription, and linear equation solution.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 6660 or CIVL 6660",
+    "prerequisites": [
+      "MANE 6660",
+      "CIVL 6660"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MANE 6660",
+        "CIVL 6660"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82994"
+  },
+  {
+    "course_id": "MANE 6730",
+    "prefix": "MANE",
+    "number": "6730",
+    "title": "Tribology",
+    "description": "A basic course in tribology that covers both the fundamental and applied aspects of the subject. Content includes viscometry, the Reynolds equation, thrust and journal bearings (including design), thermal effects, dynamic loading and instability of bearings, rolling contact bearings, dry bearings, and theories of wear. This course includes design principles and data and is basic to other courses offered in tribology.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM, EVEN YEARS",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82995"
+  },
+  {
+    "course_id": "MANE 6750",
+    "prefix": "MANE",
+    "number": "6750",
+    "title": "Generalized Finite Element Methods",
+    "description": "Fundamentals of modern numerical techniques (e.g., partition of unity methods) which overcome longstanding difficulties associated with traditional FEM (e.g., mesh generation and resolution of singularities). Topics include scattered data interpolation, weighted residual methods, integral equation methods for exterior problems (applications to MEMS modeling), multiscale solution techniques using wavelets.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of MANE 4240 or CIVL 4240 ; or equivalent.",
+    "prerequisites": [
+      "MANE 4240",
+      "CIVL 4240"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MANE 4240",
+        "CIVL 4240"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82996"
+  },
+  {
+    "course_id": "MANE 6760",
+    "prefix": "MANE",
+    "number": "6760",
+    "title": "Finite Element Methods for Fluid Dynamics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: MANE 6660 or CIVL 6660",
+    "prerequisites": [
+      "MANE 6660",
+      "CIVL 6660"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MANE 6660",
+        "CIVL 6660"
+      ]
+    },
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82997"
+  },
+  {
+    "course_id": "MANE 6770",
+    "prefix": "MANE",
+    "number": "6770",
+    "title": "Multiscale Computational Modeling",
+    "description": "This course will introduce a unified approach of modeling in science and engineering across spatial and temporal scales using particles as well as continuum fields, specifically focusing on methods and algorithms that will facilitate this bridging. Topics include two categories of multiscale approaches: information-passing and concurrent-bridging approaches. The goal is to algorithmically develop these methods, and in the process teach the underlying simulation techniques. Applications to realistic problems will highlight the strengths of these approaches, while stressing the challenges that still need to be surmounted.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of MANE 4240 or CIVL 4240 is required.",
+    "prerequisites": [
+      "MANE 4240",
+      "CIVL 4240"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MANE 4240",
+        "CIVL 4240"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82998"
+  },
+  {
+    "course_id": "MANE 6780",
+    "prefix": "MANE",
+    "number": "6780",
+    "title": "Numerical Modeling of Failure Processes in Materials",
+    "description": "State of the art in computational modeling of failure processes in materials. Topics include numerical modeling of discrete defects, distributed damage and multiscale computational techniques including multiple scale perturbation techniques, boundary layer techniques, and various global-local approaches.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 6660 or CIVL 6660 ; or equivalent.",
+    "prerequisites": [
+      "MANE 6660",
+      "CIVL 6660"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MANE 6660",
+        "CIVL 6660"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Cross Listed: CIVL 6780 . Students cannot obtain credit for both this course and CIVL 6780 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82999"
+  },
+  {
+    "course_id": "MANE 6790",
+    "prefix": "MANE",
+    "number": "6790",
+    "title": "Advanced Heat Transfer",
+    "description": "Comprehensive treatment of conduction and convection heat transfer. Emphasis is on physical and mathematical modeling of heat transfer phenomena with applications in engineering systems. Analytical and computational solution methods are discussed. The class is centered around a semester long project.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of MANE 4730 required.",
+    "prerequisites": [
+      "MANE 4730"
+    ],
+    "prerequisite_logic": "MANE 4730",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MANE 4790 ; Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83993"
+  },
+  {
+    "course_id": "MANE 6800",
+    "prefix": "MANE",
+    "number": "6800",
+    "title": "Manufacturing Systems Integration",
+    "description": "Examination of the basic elements that are used to integrate the design and manufacture of capital and consumer products; manufacturing information systems, CAD/CAM systems, and manufacturability considerations when integrating unit process operations.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83000"
+  },
+  {
+    "course_id": "MANE 6830",
+    "prefix": "MANE",
+    "number": "6830",
+    "title": "Combustion Systems",
+    "description": "Review of fundamentals of thermodynamics, chemical kinetics, fluid mechanics, and modern diagnostics. Discussion of flame propagation, thermal and chain explosions, stirred reactors, detonations, droplet combustion, and turbulent jet flames. Introduction to computational tools for complex equilibrium and kinetic calculations. Application to problems such as pollutant formation.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Cross Listed: CHME 6830 ; Students cannot obtain credit for both this course and any of the cross listed or co-listed courses. Co-Listed: MANE 4750",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83001"
+  },
+  {
+    "course_id": "MANE 6840",
+    "prefix": "MANE",
+    "number": "6840",
+    "title": "An Introduction to Multiphase Flow and Heat Transfer I",
+    "description": "This course is intended to give students a state-of-the-art understanding about single and multicomponent boiling and condensation heat transfer phenomena. Applications include the analysis of nuclear reactors, oil wells, and chemical process equipment. Students satisfactorily completing this course are expected to thoroughly understand the current thermal-hydraulics literature on multiphase heat and mass transfer and be able to conduct independent research in this field.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Prerequisite: a working knowledge of fluid mechanics and heat transfer.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING ALTERNATE YEARS Cross Listed: CHME 6840 An Introduction to Multiphase Flow and Heat Transfer I. Students cannot obtain credit for both this course and the cross-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83002"
+  },
+  {
+    "course_id": "MANE 6850",
+    "prefix": "MANE",
+    "number": "6850",
+    "title": "An Introduction to Multiphase Flow and Heat Transfer II",
+    "description": "This course is intended to give students a state-of-the-art understanding in multicomponent flow phenomena. Applications in the chemical process, petroleum recovery, and fossil/nuclear power industries are given. Specific areas of coverage include two-phase: fluid mechanics, pressure drop, modeling and analysis, stability analysis, critical flow and dynamic waves, flow regime analysis, and phase separation and distribution phenomena.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MANE 6840 or CHME 6840",
+    "prerequisites": [
+      "MANE 6840",
+      "CHME 6840"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MANE 6840",
+        "CHME 6840"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Cross Listed: CHME 6850 . Students cannot obtain credit for both this course and CHME 6850 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83003"
+  },
+  {
+    "course_id": "MANE 6860",
+    "prefix": "MANE",
+    "number": "6860",
+    "title": "Introduction to Nonlinear Finite Elements",
+    "description": "Review of linear finite element concepts. Nonlinear continuum mechanics of solids: finite strain and stress measures, total and updated Lagrangian approaches, variational methods - virtual work principle. Non-linear finite element procedures: Incremental solution of nonlinear equations, Newton-Rephson method. Finite elements for elasto-plasticity. Finite elements for hyper-elasticity. Contact of solids using finite elements. Finite elements in dynamics.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of Finite Elements is necessary.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING ALTERNATE YEARS Co-Listed: MANE 4860 . Students cannot obtain credit for both this course and the co-listed course.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84136"
+  },
+  {
+    "course_id": "MANE 6880",
+    "prefix": "MANE",
+    "number": "6880",
+    "title": "Product Realization",
+    "description": "Concepts and tools that enable engineers and business leaders to jointly make sound business/technology decisions in moving from ideas and designs to real products will be taught using lectures, cases, and a major project that will enhance the change of success of a new venture business. Topics: disciplined toll-gate processes, customer contract, technical risk management, design decisions, quality management, sourcing, product launch.",
+    "credit_hours": "3",
+    "prerequisites_raw": "B.S. in Engineering or prior knowledge of course MGMT 6620",
+    "prerequisites": [
+      "MGMT 6620"
+    ],
+    "prerequisite_logic": "MGMT 6620",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83004"
+  },
+  {
+    "course_id": "MANE 6900",
+    "prefix": "MANE",
+    "number": "6900",
+    "title": "Seminar",
+    "description": "",
+    "credit_hours": "0",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83005"
+  },
+  {
+    "course_id": "MANE 6940",
+    "prefix": "MANE",
+    "number": "6940",
+    "title": "Individual Projects in Mechanical Engineering, Aeronautical Engineering, Nuclear Engineering, or Engineering Physics",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83006"
+  },
+  {
+    "course_id": "MANE 6960",
+    "prefix": "MANE",
+    "number": "6960",
+    "title": "Topics in Mechanical Engineering, Aeronautical Engineering, Nuclear Engineering, or Engineering Physics",
+    "description": "",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83007"
+  },
+  {
+    "course_id": "MANE 6970",
+    "prefix": "MANE",
+    "number": "6970",
+    "title": "Professional Project",
+    "description": "Active participation in a semester-long project, under the supervision of a faculty adviser. A Professional Project often serves as a culminating experience for a Professional Master’s program but, with departmental or school approval, can be used to fulfill other program requirements. With approval, students may register for more than one Professional Project. Professional Projects must result in documentation established by each department or school, but are not submitted to the Office of Graduate Education and are not archived in the library. Grades of A,B,C, or F are assigned by the faculty adviser at the end of the semester. If not completed on time, a formal Incomplete grade may be assigned by the faculty adviser, listing the work remaining to be completed and the time limit for completing this work.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83008"
+  },
+  {
+    "course_id": "MANE 6980",
+    "prefix": "MANE",
+    "number": "6980",
+    "title": "Master’s Project",
+    "description": "Active participation in a master’s-level project, under the supervision of a faculty adviser, leading to a master’s project report. Grades S or U are assigned at the end of the semester. If recommended by the adviser, the master’s project may be accepted by the Office of Graduate Education to be archived in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83009"
+  },
+  {
+    "course_id": "MANE 6990",
+    "prefix": "MANE",
+    "number": "6990",
+    "title": "Master’s Thesis",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a master’s thesis. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83010"
+  },
+  {
+    "course_id": "MANE 7000",
+    "prefix": "MANE",
+    "number": "7000",
+    "title": "Advanced Engineering Mathematics II",
+    "description": "A continuation of the advanced presentation of mathematical methods useful in engineering practice. The course covers the Frobenius method for the solution of boundary value problems; the representation of arbitrary functions by characteristic functions; calculus of functions of more than one variable including the study of extreme; overview of calculus of variations; principles of vector and tensor analysis; analytical and numerical techniques for the solution of initial and boundary value problems in partial differential equations. Symbolic manipulation and scientific computation software used extensively. Emphasis on reliable computing is made throughout.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83011"
+  },
+  {
+    "course_id": "MANE 7100",
+    "prefix": "MANE",
+    "number": "7100",
+    "title": "Mechanical Engineering Foundations II",
+    "description": "A presentation of the most common physical and mathematical modes used in the description of the mechanical behavior of materials. The course covers the microstructural and thermodynamic foundations of constitutive material behavior of interest in mechanical engineering applications; overview of elasticity and plasticity and their relationship to microstructural features; principles of rheology; viscoelasticity and creep; failure mechanisms including fracture crack propagation and fatigue crack growth. Particular attention throughout is given to the development of the ability to utilize the mathematical models to assess the reliability and life of mechanical engineering components at the design state.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83012"
+  },
+  {
+    "course_id": "MANE 9990",
+    "prefix": "MANE",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83013"
+  }
+]

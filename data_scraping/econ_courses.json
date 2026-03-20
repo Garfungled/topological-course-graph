@@ -1,0 +1,1552 @@
+[
+  {
+    "course_id": "ECON 1200",
+    "prefix": "ECON",
+    "number": "1200",
+    "title": "Introductory Economics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83898"
+  },
+  {
+    "course_id": "ECON 2010",
+    "prefix": "ECON",
+    "number": "2010",
+    "title": "Intermediate Microeconomic Theory",
+    "description": "This course combines demand, derived from consumer preferences, and supply, based on firms’ production functions, to establish market prices for goods and services. The course applies the microeconomic theory of the firm to price, cost, and output decisions of business enterprises under different market structures. Product pricing strategies are examined. Calculus-based techniques are used to minimize costs and maximize utility and profits across differing industry structures. The course also introduces topics such as game theory, externalities, public goods, asymmetric information, and behavioral economics.",
+    "credit_hours": "4",
+    "prerequisites_raw": "INQR 1200 or ECON 1200 ; and MATH 1010 or MATH 1500 , or permission of instructor.",
+    "prerequisites": [
+      "INQR 1200",
+      "ECON 1200",
+      "MATH 1010",
+      "MATH 1500"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "INQR 1200",
+        {
+          "type": "AND",
+          "items": [
+            "ECON 1200",
+            "MATH 1010"
+          ]
+        },
+        "MATH 1500"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82593"
+  },
+  {
+    "course_id": "ECON 2020",
+    "prefix": "ECON",
+    "number": "2020",
+    "title": "Intermediate Macroeconomic Theory",
+    "description": "Attention is directed primarily to variations in the aggregate volume of output, income, and employment. Cyclical fluctuations and long-term economic trends are examined and the interrelations of business and government policies are analyzed. The applicability of economic theory to the problems of business forecasting is discussed.",
+    "credit_hours": "4",
+    "prerequisites_raw": "INQR 1200 or ECON 1200 ; and MATH 1010 or MATH 1500 , or permission of instructor.",
+    "prerequisites": [
+      "INQR 1200",
+      "ECON 1200",
+      "MATH 1010",
+      "MATH 1500"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "INQR 1200",
+        {
+          "type": "AND",
+          "items": [
+            "ECON 1200",
+            "MATH 1010"
+          ]
+        },
+        "MATH 1500"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82594"
+  },
+  {
+    "course_id": "ECON 2100",
+    "prefix": "ECON",
+    "number": "2100",
+    "title": "Economic Data Analysis and Applications",
+    "description": "This course provides an introduction to economic data and analysis. There will be an emphasis on applications using data that pertain to various areas of economics, such as labor market, technology-related markets, economics of climate change, and healthcare sector. Students will learn basic statistical methods to analyze data and interpret current economic and policy issues.",
+    "credit_hours": "4",
+    "prerequisites_raw": "INQR 1200 or ECON 1200",
+    "prerequisites": [
+      "INQR 1200",
+      "ECON 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "INQR 1200",
+        "ECON 1200"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84033"
+  },
+  {
+    "course_id": "ECON 2940",
+    "prefix": "ECON",
+    "number": "2940",
+    "title": "Readings in Economics",
+    "description": "Independent study of selected readings in the field of economics, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82595"
+  },
+  {
+    "course_id": "ECON 2960",
+    "prefix": "ECON",
+    "number": "2960",
+    "title": "Topics in Economics",
+    "description": "Selected topics in economics designed to acquaint students with modern economic problems and analysis in special areas beyond the introductory level.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ECON 1200 or INQR 1200",
+    "prerequisites": [
+      "ECON 1200",
+      "INQR 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECON 1200",
+        "INQR 1200"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82596"
+  },
+  {
+    "course_id": "ECON 4010",
+    "prefix": "ECON",
+    "number": "4010",
+    "title": "Applied Microeconomics and Public Policy",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83953"
+  },
+  {
+    "course_id": "ECON 4110",
+    "prefix": "ECON",
+    "number": "4110",
+    "title": "Economics of Innovation and New Technologies",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82597"
+  },
+  {
+    "course_id": "ECON 4120",
+    "prefix": "ECON",
+    "number": "4120",
+    "title": "Mathematical Methods in Economics",
+    "description": "Application of mathematical techniques to economic modeling and analysis. Construction of models to describe aspects of the economy and to analyze potential policies. Solution methods for issues including optimal choice with and without constraints, equilibria among multiple actors, marginal effects of policies, and dynamic economic models. Some mathematical maturity is assumed, and mathematical skills are taught throughout the course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ECON 2010 or permission of instructor.",
+    "prerequisites": [
+      "ECON 2010"
+    ],
+    "prerequisite_logic": "ECON 2010",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: ECON 6120 ; students cannot obtain credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82598"
+  },
+  {
+    "course_id": "ECON 4130",
+    "prefix": "ECON",
+    "number": "4130",
+    "title": "Money and Banking",
+    "description": "Financial institutions, especially commercial banking and the Federal Reserve System, are considered from three perspectives: their monetary roles; trends in the economic, organizational, and technological aspects of their operations; and their other economic roles-a critical view. Also, the role of money in macroeconomic theory is considered along with the role of monetary policies in relation to the problems of inflation and unemployment.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ECON 1200 or INQR 1200 ; or permission of instructor.",
+    "prerequisites": [
+      "ECON 1200",
+      "INQR 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECON 1200",
+        "INQR 1200"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82599"
+  },
+  {
+    "course_id": "ECON 4140",
+    "prefix": "ECON",
+    "number": "4140",
+    "title": "Structure of Industry: Competition, Innovation, Entrepreneurship, Policy",
+    "description": "Acquaints students with the structural characteristics and philosophical foundations of enterprise and industry. Several important industries are considered from the viewpoint of market structure, conduct, and performance. Such concepts as the corporation, entrepreneurial outcomes, technological innovation, private property, and public policy toward business are examined to orient the student to contemporary industrial activity.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: Prerequisite: ECON 2010 or permission of instructor.",
+    "prerequisites": [
+      "ECON 2010"
+    ],
+    "prerequisite_logic": "ECON 2010",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ECON 6140 ; students cannot obtain credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82600"
+  },
+  {
+    "course_id": "ECON 4150",
+    "prefix": "ECON",
+    "number": "4150",
+    "title": "Economics of Government Regulation and Firm Strategy",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82601"
+  },
+  {
+    "course_id": "ECON 4160",
+    "prefix": "ECON",
+    "number": "4160",
+    "title": "Public Finance",
+    "description": "Emphasis is placed on the analysis of efficient resource use in the public sector at the federal level. Expenditure theory, tax incidence, and income distribution policies are discussed. The effects of personal income, corporation, sales, payroll, and property taxes on resource allocation, equity, and growth are considered.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ECON 2010 or permission of instructor.",
+    "prerequisites": [
+      "ECON 2010"
+    ],
+    "prerequisite_logic": "ECON 2010",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82602"
+  },
+  {
+    "course_id": "ECON 4170",
+    "prefix": "ECON",
+    "number": "4170",
+    "title": "Health Economics and Policy",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83818"
+  },
+  {
+    "course_id": "ECON 4180",
+    "prefix": "ECON",
+    "number": "4180",
+    "title": "Development of Economic Thought",
+    "description": "A critical examination in which comparisons are made and contrasts emphasized between different schools of economic thinking such as classicism, marginalism, socialism, institutionalism, neoclassicism, and Keynesianism. Special attention is given to historical theories and attitudes of economists toward technological change and its impact on human welfare.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ECON 1200 or INQR 1200 ; or permission of instructor.",
+    "prerequisites": [
+      "ECON 1200",
+      "INQR 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECON 1200",
+        "INQR 1200"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82603"
+  },
+  {
+    "course_id": "ECON 4190",
+    "prefix": "ECON",
+    "number": "4190",
+    "title": "International Economics and Globalization",
+    "description": "This course investigates the significance of economic globalization, covering the following topics: international trade and financial flows, technological innovation and intellectual property, technology transfer, national government and transnational corporations, natural resources, health and the environment, impacts on selected industries and countries, and roles of the world trade organization and international monetary fund. The major controversies surroundin globalization are identified, and alternative arguments are evaluated based on available evidence.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ECON 1200 or INQR 1200 ; or permission of instructor.",
+    "prerequisites": [
+      "ECON 1200",
+      "INQR 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECON 1200",
+        "INQR 1200"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82604"
+  },
+  {
+    "course_id": "ECON 4200",
+    "prefix": "ECON",
+    "number": "4200",
+    "title": "Open Economy Macroeconomics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83709"
+  },
+  {
+    "course_id": "ECON 4210",
+    "prefix": "ECON",
+    "number": "4210",
+    "title": "Cost-Benefit Analysis",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82605"
+  },
+  {
+    "course_id": "ECON 4220",
+    "prefix": "ECON",
+    "number": "4220",
+    "title": "Applied Game Theory",
+    "description": "Game theory has been emerging as a branch of mathematical economics and applied to analyze situations where each decision-maker needs to think strategically about others’ perspectives and actions in order to determine ones’ own optimal choice. This course provides an introduction and presents selected topics in game theory. It will look into basic definitions and equilibrium concepts and develop a wide range of applications in Economics, Biology, sports, health care, and various fields. The goal of the lecture is to improve understanding of strategic interaction in economic, business, and social situations.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ECON 1200 or INQR 1200 ; and MATH 2010 .",
+    "prerequisites": [
+      "ECON 1200",
+      "INQR 1200",
+      "MATH 2010"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECON 1200",
+        {
+          "type": "AND",
+          "items": [
+            "INQR 1200",
+            "MATH 2010"
+          ]
+        }
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Co-Listed: ECON 6220",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83883"
+  },
+  {
+    "course_id": "ECON 4230",
+    "prefix": "ECON",
+    "number": "4230",
+    "title": "Environmental Economics",
+    "description": "Develops a critical understanding of environmental issues and policy from an interdisciplinary economics perspective. Covers the economics of environmental quality including the links between the economy and the environment, the causes of environmental problems, evaluation of environmental projects and policies, and policies to address environmental issues with an emphasis on efficiency, equity, and sustainability, and the international dimensions of environmental issues.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ECON 1200 or INQR 1200 ; permission of instructor. ECON 2010 recommended.",
+    "prerequisites": [
+      "ECON 1200",
+      "INQR 1200",
+      "ECON 2010"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECON 1200",
+        {
+          "type": "AND",
+          "items": [
+            "INQR 1200",
+            "ECON 2010"
+          ]
+        }
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82606"
+  },
+  {
+    "course_id": "ECON 4240",
+    "prefix": "ECON",
+    "number": "4240",
+    "title": "Natural Resource Economics",
+    "description": "Addresses the allocation of natural resources through applied study of fisheries, forestry, oil, minerals, water, and biodiversity resources. Mathematical analysis will be done using Microsoft Excel with Solver. Social and policy dynamics of allocation decisions will be explored through case studies. Field trips will address ecological and physical aspects of resource management. The intent is to develop a balanced perspective and tools to address resource management decisions across their diverse economic, social, and environmental dimensions.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ECON 1200 or INQR 1200 or permission of instructor.",
+    "prerequisites": [
+      "ECON 1200",
+      "INQR 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECON 1200",
+        "INQR 1200"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82607"
+  },
+  {
+    "course_id": "ECON 4250",
+    "prefix": "ECON",
+    "number": "4250",
+    "title": "Economy, Technology, and Sustainability",
+    "description": "This course explores the relationships between the economy and the material world. It identifies the most critical challenges to sustainable economic development on local to global scales and ways of addressing them. The course examines options surrounding material and energy flows, technological alternatives, livelihoods, consumption behavior, public policy, civil society institutions, and social movements as avenues for meeting the major challenges to sustainability.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ECON 1200 or INQR 1200 ; or permission of instructor.",
+    "prerequisites": [
+      "ECON 1200",
+      "INQR 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECON 1200",
+        "INQR 1200"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82608"
+  },
+  {
+    "course_id": "ECON 4260",
+    "prefix": "ECON",
+    "number": "4260",
+    "title": "Environmental and Resource Economics",
+    "description": "Introduces students to the basic analytical approaches to environmental issues and natural resource use. Emphasis is on economic valuation and public policy. Covers traditional approaches based on assumptions of economic rationality and market efficiency as well as current approaches from the fields of environmental science behavioral economics. Emphasis is on active student participation and examination of current environmental controversies.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ECON 2010 or equivalent or permission of instructor.",
+    "prerequisites": [
+      "ECON 2010"
+    ],
+    "prerequisite_logic": "ECON 2010",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82609"
+  },
+  {
+    "course_id": "ECON 4270",
+    "prefix": "ECON",
+    "number": "4270",
+    "title": "Behavioral Economics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83886"
+  },
+  {
+    "course_id": "ECON 4280",
+    "prefix": "ECON",
+    "number": "4280",
+    "title": "Econometric Methods for Big Data",
+    "description": "Examine advanced econometric and statistical methods for the analysis of high-dimensional data, otherwise known as “Big Data.” In this setting, detailed information for each unit of observation informs machine learning techniques such as classification and regression trees; random forests; penalized regressions; and boosted estimation. These prediction methods are then utilized to improve causal modeling, with applications in the study of healthcare demand and supply modeling, and behavior of consumers and businesses.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ECON 1200 or INQR 1200 ; and MATH 1500 or MATH 1010 ; and ENGR 2600 , MGMT 2100 , MATP 4600 , or PSYC 2310 .",
+    "prerequisites": [
+      "ECON 1200",
+      "INQR 1200",
+      "MATH 1500",
+      "MATH 1010",
+      "ENGR 2600",
+      "MGMT 2100",
+      "MATP 4600",
+      "PSYC 2310"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECON 1200",
+        {
+          "type": "AND",
+          "items": [
+            "INQR 1200",
+            "MATH 1500"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "MATH 1010",
+            "ENGR 2600",
+            "MGMT 2100",
+            "MATP 4600"
+          ]
+        },
+        "PSYC 2310"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Co-Listed: ECON 6280",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83888"
+  },
+  {
+    "course_id": "ECON 4290",
+    "prefix": "ECON",
+    "number": "4290",
+    "title": "Economics of Biotech and Medical Innovations",
+    "description": "Students will learn about markets related to healthcare, insurance, biopharmaceuticals, and medical devices. Examine economic issues, models and quantitative analysis related to firms’ activities in areas such as innovation, R&D expenditures, patenting, pricing, mergers and acquisitions, and competition in markets. Examine the role played by health insurance systems. Study the economic implications of regulations, such as those by the U.S. FDA. Economic and policy aspects will be examined within the context of the U.S. healthcare sector, along with selected comparisons to European national healthcare systems.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ECON 1200 or INQR 1200",
+    "prerequisites": [
+      "ECON 1200",
+      "INQR 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECON 1200",
+        "INQR 1200"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ECON 6290",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83867"
+  },
+  {
+    "course_id": "ECON 4310",
+    "prefix": "ECON",
+    "number": "4310",
+    "title": "Law and Economics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83746"
+  },
+  {
+    "course_id": "ECON 4320",
+    "prefix": "ECON",
+    "number": "4320",
+    "title": "Economic Models of Decision-Making",
+    "description": "An exploration of models of decision-making under alternative assumptions, expanding on “rational” models of introductory economics. The course will discuss the assumptions of these standard models and their shortcomings. The shortcomings will be addressed through the exploration of limited attention and considerations of fairness, uncertainty, and strategic interaction. Applications in areas such as consumer and household finance, marketing, and public policy will be emphasized throughout.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ECON 1200 or INQR 1200",
+    "prerequisites": [
+      "ECON 1200",
+      "INQR 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECON 1200",
+        "INQR 1200"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Co-Listed: ECON 6320",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83866"
+  },
+  {
+    "course_id": "ECON 4330",
+    "prefix": "ECON",
+    "number": "4330",
+    "title": "Economics of Financial Institutions and Markets",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83745"
+  },
+  {
+    "course_id": "ECON 4340",
+    "prefix": "ECON",
+    "number": "4340",
+    "title": "Behavioral Financial Economics",
+    "description": "This course describes how individuals and firms make financial decisions, and how those decisions might deviate from those predicted by traditional financial or economic theory. The course examines how the insights of behavioral economics complement the traditional finance paradigm by introducing some of the main psychological biases in financial decision-making and examining the impacts of these biases in financial markets and other financial settings. It will also introduce students to behavioral and experimental methodologies in finance, economics, and other disciplines.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ECON 1200 or INQR 1200",
+    "prerequisites": [
+      "ECON 1200",
+      "INQR 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECON 1200",
+        "INQR 1200"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ECON 6340",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83864"
+  },
+  {
+    "course_id": "ECON 4350",
+    "prefix": "ECON",
+    "number": "4350",
+    "title": "Microeconomics of Decision-Making",
+    "description": "This course will examine alternative models of economic and non-economic decision-making. The course will cover models of rational decision-making under certainty and uncertainty, bounded rationality, preference-based approaches (e.g., loss aversion, ambiguity aversion, disappointment aversion), and heuristic decision-making. The emphasis throughout will be on the proper interpretation of more general models of decision-making as well as real-world applications.",
+    "credit_hours": "",
+    "prerequisites_raw": "ECON 2010 or ECON 2020 ; and MATH 2010 .",
+    "prerequisites": [
+      "ECON 2010",
+      "ECON 2020",
+      "MATH 2010"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECON 2010",
+        {
+          "type": "AND",
+          "items": [
+            "ECON 2020",
+            "MATH 2010"
+          ]
+        }
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ECON 6350",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83872"
+  },
+  {
+    "course_id": "ECON 4360",
+    "prefix": "ECON",
+    "number": "4360",
+    "title": "Experimental Economics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83870"
+  },
+  {
+    "course_id": "ECON 4370",
+    "prefix": "ECON",
+    "number": "4370",
+    "title": "Globalization and the Environment",
+    "description": "In this course, we will examine the various ways in which globalization affects our natural environment. We will uncover the role of international trade in air pollution, shifting dirtier industries to countries with lax environmental regulations, creating a cleaner environment via more efficient production, natural resource depletion, alleviating water scarcity, and waste management. With the aid of theory and empirical findings, we will examine the causes and consequences of international trade in the presence of harmful environmental externalities. Finally, we will examine how trade policy, environmental policy, and international environmental agreements can help correct such market failures.",
+    "credit_hours": "4",
+    "prerequisites_raw": "INQR 1200 or ECON 1200",
+    "prerequisites": [
+      "INQR 1200",
+      "ECON 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "INQR 1200",
+        "ECON 1200"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Co-Listed: ECON 6370",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84034"
+  },
+  {
+    "course_id": "ECON 4380",
+    "prefix": "ECON",
+    "number": "4380",
+    "title": "Economics of Labor Markets and Discrimination",
+    "description": "This course examines how the US labor market works, addressing topics of labor supply and labor demand, theories of wage determination, employment benefits and regulations, how wage differentials develop and evolve, and the growing role of technology, automation, and artificial intelligence. We will pay special attention to the effects of discrimination, using economic theory and empirical methods to help us understand how gender, racial, and sexual minority discrimination affect earnings and employment. We will also examine the effects of education and skills training on wages and employment prospects, focusing on the effects of training in Science, Technology, Engineering, and Mathematics (STEM).",
+    "credit_hours": "4",
+    "prerequisites_raw": "INQR 1200 or ECON 1200",
+    "prerequisites": [
+      "INQR 1200",
+      "ECON 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "INQR 1200",
+        "ECON 1200"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Co-Listed: ECON 6380",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84035"
+  },
+  {
+    "course_id": "ECON 4390",
+    "prefix": "ECON",
+    "number": "4390",
+    "title": "Energy Economics & Policy",
+    "description": "This course applies economic analysis to explore the intersection of energy systems and societal values, investigating global energy consumption, climate change impacts, energy poverty and inequality, and strategies for decarbonization. We will explore the dynamics of nonrenewable and renewable energy markets, the implications of market failures, the role of policy interventions, and the evaluation of energy policies through cost-benefit analyses.",
+    "credit_hours": "4",
+    "prerequisites_raw": "INQR 1200 or ECON 1200",
+    "prerequisites": [
+      "INQR 1200",
+      "ECON 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "INQR 1200",
+        "ECON 1200"
+      ]
+    },
+    "when_offered": "YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90445"
+  },
+  {
+    "course_id": "ECON 4430",
+    "prefix": "ECON",
+    "number": "4430",
+    "title": "Economics of Growth & Innovation",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83954"
+  },
+  {
+    "course_id": "ECON 4520",
+    "prefix": "ECON",
+    "number": "4520",
+    "title": "Applied Economic and Financial Forecasting",
+    "description": "Forecasts play a crucial role in the formation of economic policy and financial decisions. As a result, accurate predictions of the future are critical for the public and private sector alike. This course introduces students to the empirical techniques used by professional economists in business , government and financial sectors to model the complex processes generating data through time and to make real world forecasts. The steps and methods required to develop a forecast-from understanding the properties of time-series data to forecast evaluation-are defined. Topics include modeling trends, seasonality and cycles, ARMA and ARIMA models, forecast combination, vector-autoregression, and nonlinear methods. All these topics and the relevant techniques will be illustrated using economic and financial data.",
+    "credit_hours": "",
+    "prerequisites_raw": "ECON 1200 or INQR 1200 ; and MATH 1010 or MATH 1500 ; and any of ENGR 2600 , MGMT 2100 , MATP 4600 , or PSYC 2310 ; or with permission of instructor.",
+    "prerequisites": [
+      "ECON 1200",
+      "INQR 1200",
+      "MATH 1010",
+      "MATH 1500",
+      "ENGR 2600",
+      "MGMT 2100",
+      "MATP 4600",
+      "PSYC 2310"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECON 1200",
+        {
+          "type": "AND",
+          "items": [
+            "INQR 1200",
+            "MATH 1010"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "MATH 1500",
+            "ENGR 2600",
+            "MGMT 2100",
+            "MATP 4600"
+          ]
+        },
+        "PSYC 2310"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY Co-Listed: ECON 6520",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84130"
+  },
+  {
+    "course_id": "ECON 4570",
+    "prefix": "ECON",
+    "number": "4570",
+    "title": "Econometrics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "MATH 2010 and ENGR 2600 , MGMT 2100 , MATP 4600 , PSYC 2310 , or BIOL 4200 ; or permission of instructor Prerequisite or Corequisite:",
+    "prerequisites": [
+      "MATH 2010",
+      "ENGR 2600",
+      "MGMT 2100",
+      "MATP 4600",
+      "PSYC 2310",
+      "BIOL 4200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MATH 2010",
+            "ENGR 2600",
+            "MGMT 2100",
+            "MATP 4600",
+            "PSYC 2310"
+          ]
+        },
+        "BIOL 4200"
+      ]
+    },
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82610"
+  },
+  {
+    "course_id": "ECON 4580",
+    "prefix": "ECON",
+    "number": "4580",
+    "title": "Data Analysis in Economics and Finance",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83951"
+  },
+  {
+    "course_id": "ECON 4590",
+    "prefix": "ECON",
+    "number": "4590",
+    "title": "Advanced Data Analytics & Policy Evaluation",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83952"
+  },
+  {
+    "course_id": "ECON 4940",
+    "prefix": "ECON",
+    "number": "4940",
+    "title": "Economics Independent Study",
+    "description": "Independent study of selected readings in the field of economics, supervised by a faculty member.",
+    "credit_hours": "1-4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82611"
+  },
+  {
+    "course_id": "ECON 4960",
+    "prefix": "ECON",
+    "number": "4960",
+    "title": "Topics in Economics",
+    "description": "Selected topics in economic analysis and problems to meet the special needs of upper-division students in various curricula throughout the Institute. This allows students to pursue more in-depth work in their areas of study.",
+    "credit_hours": "4",
+    "prerequisites_raw": "ECON 1200 or INQR 1200 ; or permission of instructor.",
+    "prerequisites": [
+      "ECON 1200",
+      "INQR 1200"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECON 1200",
+        "INQR 1200"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82612"
+  },
+  {
+    "course_id": "ECON 6010",
+    "prefix": "ECON",
+    "number": "6010",
+    "title": "Applied Microeconomics and Public Policy",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83816"
+  },
+  {
+    "course_id": "ECON 6030",
+    "prefix": "ECON",
+    "number": "6030",
+    "title": "Data Analysis in Economics and Finance",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83815"
+  },
+  {
+    "course_id": "ECON 6040",
+    "prefix": "ECON",
+    "number": "6040",
+    "title": "Advanced Data Analytics and Policy Evaluation",
+    "description": "Covers advanced estimation and inference techniques for data analysis and policy evaluation. Topics will vary from year to year to introduce advanced statistical methods used in recent literature. Topics may include visualization techniques to summarize and display high dimensional data, selected topics in discrete choice models, spatial analysis, and analysis of panel data. Particularly, methods for panel data will be emphasized. This includes fixed, random, mixed, and multi-level effects models to control for or account for variation from individual characteristics. Dynamic panel data models consider lagged dependent variables as regressors…..",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECON 6030 or permission of instructor.",
+    "prerequisites": [
+      "ECON 6030"
+    ],
+    "prerequisite_logic": "ECON 6030",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ECON 4590",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83869"
+  },
+  {
+    "course_id": "ECON 6110",
+    "prefix": "ECON",
+    "number": "6110",
+    "title": "Economics of Innovation and New Technologies",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83863"
+  },
+  {
+    "course_id": "ECON 6120",
+    "prefix": "ECON",
+    "number": "6120",
+    "title": "Advanced Mathematical Methods in Economics",
+    "description": "Mathematical techniques applied to theoretical models in economics. Reviews and introduces core mathematical topics at the graduate economics level, applied to topics such as optimal behaviors of economics agents, equilibria among multiple interacting agents, economics growth processes and inter-temporal decision making, decision making in stochastic environments, and techniques to develop and work with economic models. Assumes thorough knowledge of calculus and some familiarity with linear algebra and probability theory.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: ECON 4120 ; students cannot obtain credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82613"
+  },
+  {
+    "course_id": "ECON 6130",
+    "prefix": "ECON",
+    "number": "6130",
+    "title": "Economics of Growth and Innovation",
+    "description": "Dynamic models of national and international economic growth are introduced and analyzed. Technological innovation is central to growth, and models consider the endogenous determinants of technological innovation and diffusion. National institutions that affect growth, such as law, education, and infrastructure, are considered. Variation in intellectual property rights across countries are examined, together with their effects on economic growth and development. Theories of growth are compared to empirical fact.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Graduate student status or permission of instructor",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ECON 4430",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83890"
+  },
+  {
+    "course_id": "ECON 6140",
+    "prefix": "ECON",
+    "number": "6140",
+    "title": "Advanced Structure of Industry",
+    "description": "An advanced analysis of current problems confronting major American industries, regulated and unregulated. Recent changes in growth patterns, market structures, and pricing policies are examined. Considerable emphasis is placed on emerging trends in technology and public policy, which are likely to affect significantly the future of these industries.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Previous knowledge of ECON 2010 is required.",
+    "prerequisites": [
+      "ECON 2010"
+    ],
+    "prerequisite_logic": "ECON 2010",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: ECON 4140 ; students cannot obtain credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82614"
+  },
+  {
+    "course_id": "ECON 6150",
+    "prefix": "ECON",
+    "number": "6150",
+    "title": "Advanced Economics of Government Regulation and Firm Strategy",
+    "description": "Can government intervention improve the performance of private markets and if so, when and how? How is regulatory policy actually made, and what effects has it had? These questions are applied to the experience in the U.S. and elsewhere with telecommunications, electricity, transportation, financial services, job safety, health, and environmental regulation.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of INQR 1200 or ECON 2010 is required.",
+    "prerequisites": [
+      "INQR 1200",
+      "ECON 2010"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "INQR 1200",
+        "ECON 2010"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82615"
+  },
+  {
+    "course_id": "ECON 6160",
+    "prefix": "ECON",
+    "number": "6160",
+    "title": "Advanced Public Finance",
+    "description": "Emphasis is placed on the analysis of efficient resource use in the public sector at the federal level. Expenditure theory and tax incidence are discussed. The effects of personal income, corporation, sales, payroll, and property taxes on resource allocation, equity, growth, and technological change are considered.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of ECON 2010 is required.",
+    "prerequisites": [
+      "ECON 2010"
+    ],
+    "prerequisite_logic": "ECON 2010",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82616"
+  },
+  {
+    "course_id": "ECON 6170",
+    "prefix": "ECON",
+    "number": "6170",
+    "title": "Health Economics and Policy",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83819"
+  },
+  {
+    "course_id": "ECON 6190",
+    "prefix": "ECON",
+    "number": "6190",
+    "title": "Advanced International Economics and Globalization",
+    "description": "This course investigates the significance of economic globalization, covering the following topics: international trade and financial flows, technological innovation and intellectual property, technology transfer, national governments and transnational corporations, natural resources, health and the environment, impacts on selected industries and countries, and roles of the World Trade Organization and International Monetary Fund. The major controversies surrounding globalization are identified, and alternative arguments are evaluated based on available evidence.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82617"
+  },
+  {
+    "course_id": "ECON 6210",
+    "prefix": "ECON",
+    "number": "6210",
+    "title": "Advanced Cost-Benefit Analysis",
+    "description": "The techniques necessary to appraise the economic desirability and private-sector impact of various public projects and policies are studied. Concepts such as discounting, capital rationing, project selection, shadow pricing, risk assessment, unpriced goods, and economic surplus are developed. Among the topics from which illustrative case studies are drawn are urban and transport planning, energy, water resources, government regulation, and the environment. Suitable for graduate students in professional programs.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Co-Listed: ECON 4210",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82618"
+  },
+  {
+    "course_id": "ECON 6220",
+    "prefix": "ECON",
+    "number": "6220",
+    "title": "Applied Game Theory",
+    "description": "Game theory has been emerging as a branch of mathematical economics and applied to analyze situations where each decision-maker needs to think strategically about others’ perspectives and actions in order to determine ones’ own optimal choice. This course provides an introduction and presents selected topics in game theory. Students will look into basic definitions and equilibrium concepts and develop a wide range of applications in Economics, Biology, sports, health care, and various fields. The goal of the lecture is to improve understanding of strategic interaction in economic, business, and social situations.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Co-Listed: ECON 4220",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83884"
+  },
+  {
+    "course_id": "ECON 6240",
+    "prefix": "ECON",
+    "number": "6240",
+    "title": "Advanced Natural Resource Economics",
+    "description": "Addresses the allocation of natural resources through applied study of fisheries, forestry, oil, minerals, water, and biodiversity resources. Mathematical analysis will be done using Microsoft Excel with Solver. Social and policy dynamics of allocation decisions will be explored through case studies. Field trips will address ecological and physical aspects of resource management. The intent is to develop a balanced perspective and tools to address resource management decisions across their diverse economic, social, and environmental dimensions.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82619"
+  },
+  {
+    "course_id": "ECON 6270",
+    "prefix": "ECON",
+    "number": "6270",
+    "title": "Behavioral Economics",
+    "description": "Integrates theory from psychology, neuroscience, and other social sciences into traditional economic models of human behavior. By relaxing the standard assumptions of perfect rationality and selfishness, more realistic modeling features such as loss aversion, present-bias, social norms, and habit formation improve economic analyses. These techniques are used to analyze individuals’ health behaviors, health insurance markets, and healthcare policy.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Co-Listed: ECON 4270",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83887"
+  },
+  {
+    "course_id": "ECON 6280",
+    "prefix": "ECON",
+    "number": "6280",
+    "title": "Econometric Methods for Big Data",
+    "description": "Examine advanced econometric and statistical methods for the analysis of high-dimensional data, otherwise known as “Big Data.” In this setting, detailed information for each unit of observation informs machine learning techniques such as classification and regression trees; rECandom forests; penalized regressions; and boosted estimation. These prediction methods are then utilized to improve causal modeling, with applications in the study of healthcare demand and supply modeling, and behavior of consumers and businesses.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Co-Listed: ECON 4280",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83889"
+  },
+  {
+    "course_id": "ECON 6290",
+    "prefix": "ECON",
+    "number": "6290",
+    "title": "Economics of Biotech and Medical Innovations",
+    "description": "Students will learn about markets related to healthcare, insurance, biopharmaceuticals, and medical devices. Examine economic issues, models and quantitative analysis related to firms’ activities in areas such as innovation, R&D expenditures, patenting, pricing, mergers and acquisitions, and competition in markets. Examine the role played by health insurance systems. Study the economic implications of regulations, such as those by the U.S. FDA. Economic and policy aspects will be examined within the context of the U.S. healthcare sector, along with selected comparisons to European national healthcare systems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ECON 4290",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83868"
+  },
+  {
+    "course_id": "ECON 6320",
+    "prefix": "ECON",
+    "number": "6320",
+    "title": "Economic Models of Decision-Making",
+    "description": "An exploration of models of decision-making under alternative assumptions, expanding on “rational” models of introductory economics. The course will discuss the assumptions of these standard models and their shortcomings. The shortcomings will be addressed through exploration of limited attention and considerations of fairness, uncertainty, and strategic interaction. Applications in areas such as consumer and household finance, marketing, and public policy will be emphasized throughout.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Co-Listed: ECON 4320",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83955"
+  },
+  {
+    "course_id": "ECON 6340",
+    "prefix": "ECON",
+    "number": "6340",
+    "title": "Behavioral Financial Economics",
+    "description": "This course describes how individuals and firms make financial decisions, and how those decisions might deviate from those predicted by traditional financial or economic theory. The course examines how the insights of behavioral economics complement the traditional finance paradigm by introducing some of the main psychological biases in financial decision-making and examining the impacts of these biases in financial markets and other financial settings. It will also introduce students to behavioral and experimental methodologies in finance, economics, and other disciplines.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ECON 4340",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83865"
+  },
+  {
+    "course_id": "ECON 6350",
+    "prefix": "ECON",
+    "number": "6350",
+    "title": "Microeconomics of Decision-Making",
+    "description": "This course will examine alternative models of economic and non-economic decision-making. The course will cover models of rational decision-making under certainty and uncertainty, bounded rationality, preference-based approaches (e.g., loss aversion, ambiguity aversion, disappointment aversion), and heuristic decision-making. The emphasis throughout will be on the proper interpretation of more general models of decision-making as well as real-world applications.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: ECON 4350",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83873"
+  },
+  {
+    "course_id": "ECON 6360",
+    "prefix": "ECON",
+    "number": "6360",
+    "title": "Experimental Economics",
+    "description": "This course provides an introduction to experimental methods in economics. It teaches students how to test economic theories, as well as introducing them to the experimental methods that are used to investigate questions that may not be possible to study using existing data sets. Students are introduced to state-of-the-art research methodology in experimental economics. It also prepares students to design, implement and analyze their own economics experiments.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Co-Listed: ECON 4360",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83871"
+  },
+  {
+    "course_id": "ECON 6370",
+    "prefix": "ECON",
+    "number": "6370",
+    "title": "Globalization and the Environment",
+    "description": "In this course, we will examine the various ways in which globalization affects our natural environment. We will uncover the role of international trade in air pollution, shifting dirtier industries to countries with lax environmental regulations, creating a cleaner environment via more efficient production, natural resource depletion, alleviating water scarcity, and waste management. With the aid of theory and empirical findings, we will examine the causes and consequences of international trade in the presence of harmful environmental externalities. Finally, we will examine how trade policy, environmental policy, and international environmental agreements can help correct such market failures",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Co-Listed: ECON 4370",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84147"
+  },
+  {
+    "course_id": "ECON 6380",
+    "prefix": "ECON",
+    "number": "6380",
+    "title": "Labor Markets and Discrimination",
+    "description": "This course examines how the US labor market works, addressing topics of labor supply and labor demand, theories of wage determination, employment benefits and regulations, how wage differentials develop and evolve, and the growing role of technology, automation, and artificial intelligence. We will pay special attention to the effects of discrimination, using economic theory and empirical methods to help us understand how gender, racial, and sexual minority discrimination affect earnings and employment. We will also examine the effects of education and skills training on wages and employment prospects, focusing on the effects of training in Science, Technology, Engineering, and Mathematics (STEM).",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Co-Listed: ECON 4380",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84148"
+  },
+  {
+    "course_id": "ECON 6490",
+    "prefix": "ECON",
+    "number": "6490",
+    "title": "Introduction to Economic Theory",
+    "description": "The course examines the basic concepts and techniques of economic analysis and their applications to economics problems at the level of the firm, industry, and economy as a whole. Topics include theory of product and factor pricing, national income and employment theory, monetary and fiscal theories, economic growth and fluctuations.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82620"
+  },
+  {
+    "course_id": "ECON 6520",
+    "prefix": "ECON",
+    "number": "6520",
+    "title": "Applied Economic and Financial Forecasting",
+    "description": "Forecasts play a crucial role in the formation of economic policy and financial decisions. As a result, accurate predictions of the future are critical for the public and private sector alike. This course introduces students to the empirical techniques used by professional economists in business , government and financial sectors to model the complex processes generating data through time and to make real world forecasts. The steps and methods required to develop a forecast-from understanding the properties of time-series data to forecast evaluation-are defined. Topics include modeling trends, seasonality and cycles, ARMA and ARIMA models, forecast combination, vector-autoregression, and nonlinear methods. All these topics and the relevant techniques will be illustrated using economic and financial data.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Co-Listed: ECON 4520",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84131"
+  },
+  {
+    "course_id": "ECON 6580",
+    "prefix": "ECON",
+    "number": "6580",
+    "title": "Topics in Applied Econometrics",
+    "description": "Applications of advanced econometric techniques such as two-and three-stage least squares, maximum likelihood, seemingly unrelated regression, full information likelihood, distributed lags, and autocorrelation correction to a variety of business and economic problems, including the capital asset pricing model, learning curve, economies of scale, hedonic price indexes, investment, production, and limited dependent variable models.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82623"
+  },
+  {
+    "course_id": "ECON 6590",
+    "prefix": "ECON",
+    "number": "6590",
+    "title": "Advanced Macroeconomic Analysis",
+    "description": "This course examines theory of national income determination, the role of monetary and nonmonetary factors in this economic system as described by various schools of macroeconomics. Alternative perspectives on monetary and fiscal policies are critically examined.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of ECON 2020 or ECON 6490 is required.",
+    "prerequisites": [
+      "ECON 2020",
+      "ECON 6490"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "ECON 2020",
+        "ECON 6490"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82624"
+  },
+  {
+    "course_id": "ECON 6710",
+    "prefix": "ECON",
+    "number": "6710",
+    "title": "Microeconomics I",
+    "description": "The central propositions of contemporary economic analysis are discussed. Topics include individual decision-making, consumption, production, the interaction of firms and households, competitive equilibrium, general equilibrium theory, welfare theorems, externalities, uncertainty, and the implications for economic policy.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Ph.D. student status or permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82621"
+  },
+  {
+    "course_id": "ECON 6720",
+    "prefix": "ECON",
+    "number": "6720",
+    "title": "Microeconomics II",
+    "description": "Topics include market power, adverse selection, moral hazard, signaling, screening, mechanism design, externalities, public goods, information economics, and principal-agent problems. Implications for economic policy are also considered.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83899"
+  },
+  {
+    "course_id": "ECON 6730",
+    "prefix": "ECON",
+    "number": "6730",
+    "title": "Econometrics I",
+    "description": "Theoretical treatment of economic statistics. Topics include a rigorous treatment of set theory and fundamentals of probability theory, statistical estimation and hypothesis testing, analysis of variance, and regression. Also includes advanced topics such as maximum likelihood, generalized method of moments, empirical likelihood, and bootstrap, as well as finite-sample analysis and large-sample asymptotics.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Ph.D. student status or permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82622"
+  },
+  {
+    "course_id": "ECON 6740",
+    "prefix": "ECON",
+    "number": "6740",
+    "title": "Econometrics II",
+    "description": "Statistical methods are developed for classic linear and non-linear regression analysis. Econometric tools such as instrumental variables, regression discontinuity, and difference-in-differences are emphasized for causal identification. Extensions are made to new topics such as simulation-based methods including bootstrap, nonparametric and semiparametricestimators, and quantileregression methods.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECON 6730 or permission of instructor.",
+    "prerequisites": [
+      "ECON 6730"
+    ],
+    "prerequisite_logic": "ECON 6730",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83900"
+  },
+  {
+    "course_id": "ECON 6750",
+    "prefix": "ECON",
+    "number": "6750",
+    "title": "Economic Data Analytics and Modeling I",
+    "description": "Develops econometric models for causal inference using tools for big data. Machine learning and other resource-intensive modeling techniques are integrated into traditional economic approaches. Also covers procedures for the development, processing, and combination of novel data sources; methods to process extremely large datasets; data exploration and development tools; nonparametric methods. Economics applications are considered throughout.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECON 6740 or permission of instructor.",
+    "prerequisites": [
+      "ECON 6740"
+    ],
+    "prerequisite_logic": "ECON 6740",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83903"
+  },
+  {
+    "course_id": "ECON 6760",
+    "prefix": "ECON",
+    "number": "6760",
+    "title": "Economic Data Analytics and Modeling II",
+    "description": "Covers advanced topics in the theory and application of econometrics and data modeling. Topics emphasized include causal identification, advanced instrumental variable models, dynamic models, panel data models, model selection, simulation-based inference methods, survival analysis models, censoring, quantile regression, non-linear models, and discrete choice models.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECON 6740 or permission of instructor.",
+    "prerequisites": [
+      "ECON 6740"
+    ],
+    "prerequisite_logic": "ECON 6740",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83904"
+  },
+  {
+    "course_id": "ECON 6770",
+    "prefix": "ECON",
+    "number": "6770",
+    "title": "Economics of Innovation I",
+    "description": "Core issues in the economics of technology and innovation are covered along with policy ramifications. Topics include models of strategic R&D and patenting, quality and price measures, drivers of innovation in firms and fields of knowledge, technology adoption and diffusion, and regional innovation.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Ph.D. student status or permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83901"
+  },
+  {
+    "course_id": "ECON 6780",
+    "prefix": "ECON",
+    "number": "6780",
+    "title": "Economics of Innovation II",
+    "description": "Analyzes theories and findings on how regional and national economic growth relates to innovation. Contrasting theories and empirical evidence regarding agglomeration impacts on innovation, local effects of universities and government laboratories, employment, and trade flows. Regional impacts of corporations, entrepreneurship, labor force, education, and policy.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECON 6770 or permission of instructor.",
+    "prerequisites": [
+      "ECON 6770"
+    ],
+    "prerequisite_logic": "ECON 6770",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83902"
+  },
+  {
+    "course_id": "ECON 6800",
+    "prefix": "ECON",
+    "number": "6800",
+    "title": "Behavioral and Experimental Economics I",
+    "description": "This course introduces experimental methods in economics and related social sciences, with a focus on choice behavior experiments, field experiments, and survey methods. It also covers econometric techniques commonly applied to experimental data. Students gain a comprehensive understanding of the research landscape in experimental and behavioral economics. By the end of the course, students will have the skills and knowledge required to design their own experiments and conduct high-quality research using experimental methods.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECON 6720 and ECON 6740 ; or permission of instructor.",
+    "prerequisites": [
+      "ECON 6720",
+      "ECON 6740"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ECON 6720",
+        "ECON 6740"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83913"
+  },
+  {
+    "course_id": "ECON 6810",
+    "prefix": "ECON",
+    "number": "6810",
+    "title": "Behavioral and Experimental Economics II",
+    "description": "This course expands on material covered in Behavioral Economics I by studying the latest and more advanced modeling and experimental approaches for individuals’ decision-making and empirical applications. Specific advanced topics include the role of habit formation on intertemporal choice and limited attention models for complex decisions. The course will additionally cover recent literature and findings from cognitive and computational psychology.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECON 6800",
+    "prerequisites": [
+      "ECON 6800"
+    ],
+    "prerequisite_logic": "ECON 6800",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83914"
+  },
+  {
+    "course_id": "ECON 6820",
+    "prefix": "ECON",
+    "number": "6820",
+    "title": "Health Economics and Policy I",
+    "description": "Study the economic theory of health and health care, and its applications. Topics include the measurement and determinants of health; economics of uncertainty, adverse selection, and moral hazard; economic models of demand for healthcare and demand for insurance; key markets in the healthcare sector such as physicians, hospitals, and insurance companies; policy effects on the matching between health care demand and supply; and political economy and organizational reform in medical care.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECON 6720 and ECON 6740 ; or permission of instructor.",
+    "prerequisites": [
+      "ECON 6720",
+      "ECON 6740"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ECON 6720",
+        "ECON 6740"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83915"
+  },
+  {
+    "course_id": "ECON 6830",
+    "prefix": "ECON",
+    "number": "6830",
+    "title": "Health Economics and Policy II",
+    "description": "Study topics such as markets for pharmaceuticals, medical devices, medical technology, and health innovation; FDA and other types of regulations in pharmaceuticals and medical devices; models of hospital competition and provider incentives; health information technologies and their adoption and diffusion; advances in personalized healthcare; and externalities in health.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECON 6820",
+    "prerequisites": [
+      "ECON 6820"
+    ],
+    "prerequisite_logic": "ECON 6820",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83916"
+  },
+  {
+    "course_id": "ECON 6840",
+    "prefix": "ECON",
+    "number": "6840",
+    "title": "International Economics and Development I",
+    "description": "Study classical models of international trade that consider factor endowments, comparative advantage, labor capabilities, strategic use of trade barriers, and multilateral trade agreements. Examine contemporary models which explore increasing returns, heterogeneity in firm productivity and products, product mix, firm size distributions, globalization, multinationals, and offshoring.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECON 6720 and ECON 6740 ; or permission of instructor.",
+    "prerequisites": [
+      "ECON 6720",
+      "ECON 6740"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ECON 6720",
+        "ECON 6740"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83917"
+  },
+  {
+    "course_id": "ECON 6850",
+    "prefix": "ECON",
+    "number": "6850",
+    "title": "International Economics and Development II",
+    "description": "Covers topics such as the impact of foreign trade and investment on labor markets, job creation and destruction, income inequality, production location and agglomeration, international technology transfer, and regional economic development.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECON 6840",
+    "prerequisites": [
+      "ECON 6840"
+    ],
+    "prerequisite_logic": "ECON 6840",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83918"
+  },
+  {
+    "course_id": "ECON 6860",
+    "prefix": "ECON",
+    "number": "6860",
+    "title": "Energy and Environmental Economics I",
+    "description": "Covers the economics of conventional and alternative energy sources. Topics in energy economics such as the demand for energy, supply of energy, evolving alternative energy sources, consumption, efficiency, adoption, and diffusion of new energy technologies, externalities, and the economics of climate change. The course will examine environmental impacts and their analysis, and introduce models and methods of analysis including cost-benefit analysis, discounting, the value of a statistical life, and health as human capital.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECON 6720 and ECON 6740 ; or permission of instructor.",
+    "prerequisites": [
+      "ECON 6720",
+      "ECON 6740"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "ECON 6720",
+        "ECON 6740"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83919"
+  },
+  {
+    "course_id": "ECON 6870",
+    "prefix": "ECON",
+    "number": "6870",
+    "title": "Energy and Environmental Economics II",
+    "description": "Study environmental economics and its relation to energy systems. Analyzes environmental externalities and regulatory solutions through theoretical models and empirical evidence. Study government responses related to regulations, taxes, and subsidies to address problems of market failure, and tools to evaluate the costs and benefits of environmental policies. Examine optimal environmental regulations and the trade-offs between market and regulatory imperfections. Methods are developed with applications to topics including health and climate impacts of emissions and their regulatory policies.",
+    "credit_hours": "3",
+    "prerequisites_raw": "ECON 6860",
+    "prerequisites": [
+      "ECON 6860"
+    ],
+    "prerequisite_logic": "ECON 6860",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83920"
+  },
+  {
+    "course_id": "ECON 6940",
+    "prefix": "ECON",
+    "number": "6940",
+    "title": "Readings in Economics",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82625"
+  },
+  {
+    "course_id": "ECON 6960",
+    "prefix": "ECON",
+    "number": "6960",
+    "title": "Topics in Economic Theory",
+    "description": "Selected topics in economic analysis and problems to meet the special needs of graduate students in various curricula throughout the Institute. This allows students to pursue more in-depth work in their areas of study.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of ECON 2010 is required.",
+    "prerequisites": [
+      "ECON 2010"
+    ],
+    "prerequisite_logic": "ECON 2010",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82626"
+  },
+  {
+    "course_id": "ECON 6970",
+    "prefix": "ECON",
+    "number": "6970",
+    "title": "Professional Project",
+    "description": "Active participation in a semester-long project, under the supervision of a faculty adviser. A Professional Project often serves as a culminating experience for a Professional Master’s program but, with departmental or school approval, can be used to fulfill other program requirements. With approval, students may register for more than one Professional Project. Professional Projects must result in documentation established by each department or school, but are not submitted to the Office of Graduate Education and are not archived in the library. Grades of A,B,C, or F are assigned by the faculty adviser at the end of the semester. If not completed on time, a formal Incomplete grade may be assigned by the faculty adviser, listing the work remaining to be completed and the time limit for completing this work.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82627"
+  },
+  {
+    "course_id": "ECON 6990",
+    "prefix": "ECON",
+    "number": "6990",
+    "title": "Master’s Thesis",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a master’s thesis. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82628"
+  },
+  {
+    "course_id": "ECON 9990",
+    "prefix": "ECON",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "1-16",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=82629"
+  }
+]

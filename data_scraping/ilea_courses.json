@@ -1,0 +1,15 @@
+[
+  {
+    "course_id": "ILEA 4400",
+    "prefix": "ILEA",
+    "number": "4400",
+    "title": "Independent Learning Experience",
+    "description": "",
+    "credit_hours": "0",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84200"
+  }
+]

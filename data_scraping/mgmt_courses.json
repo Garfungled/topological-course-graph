@@ -1,0 +1,2427 @@
+[
+  {
+    "course_id": "MGMT 1100",
+    "prefix": "MGMT",
+    "number": "1100",
+    "title": "Management in the Digital Age",
+    "description": "This is a required first course for management majors and minors. In a case-based format, it emphasizes broad, basic principles of managerial functions and processes using an interdisciplinary approach to goal-oriented situations of private and public organizations.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83083"
+  },
+  {
+    "course_id": "MGMT 1240",
+    "prefix": "MGMT",
+    "number": "1240",
+    "title": "Management Professional Development 1",
+    "description": "The course is the first in a two-part series of Professional Development Workshops that teach practical skills to enhance business students’ readiness to enter the professional world and achieve workplace success and a high degree of professionalism. The course emphasizes the following themes: personal values and self-awareness, leadership and followership, ethics, basic oral presentation skills.",
+    "credit_hours": "2",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83084"
+  },
+  {
+    "course_id": "MGMT 1250",
+    "prefix": "MGMT",
+    "number": "1250",
+    "title": "Management Professional Development 2",
+    "description": "The course is the second in a two-part series of Professional Development Workshops that teach practical skills to enhance business students’ readiness to enter the professional world and achieve workplace success and a high degree of professionalism. The course emphasizes the following themes: professional oral and written presentation, professional goal setting, feedback giving and receiving, conflict and business ethics, networking, and meeting management.",
+    "credit_hours": "2",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83085"
+  },
+  {
+    "course_id": "MGMT 1260",
+    "prefix": "MGMT",
+    "number": "1260",
+    "title": "Business Ethics and Law",
+    "description": "This undergraduate course is an introduction to ethical and legal frameworks currently being applied in the business environment in the United States. The course looks to engage with moral and legal challenges that businesses currently face and may face in the future, such as threats to data privacy and security, issues pertaining to climate justice and environmental sustainability, employee surveillance mediated through digitization, among others.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Cross Listed: IHSS 1260",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83086"
+  },
+  {
+    "course_id": "MGMT 2100",
+    "prefix": "MGMT",
+    "number": "2100",
+    "title": "Statistical Methods",
+    "description": "This course develops an understanding of concepts in business statistics and focuses on application of concepts in problem-solving situations. In particular, students learn to present and describe data, analyze probability distributions, make statistical inferences based on data samples, and develop models for prediction and forecasting.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None. Attributes Data Intensive 2",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83087"
+  },
+  {
+    "course_id": "MGMT 2150",
+    "prefix": "MGMT",
+    "number": "2150",
+    "title": "Accelerated Business Statistics",
+    "description": "This course develops an understanding of concepts in business statistics and the application of concepts in problem-solving situations. Students learn to present and describe data, make statistical inferences, and develop models for prediction and forecasting. Work is accompanied by use of software (Excel) and a course project ensures that concepts are properly applied. This fast-paced course assumes students have a good understanding of foundational mathematics and the ability to quickly grasp quantitative content. Students cannot earn credit for both MGMT 2100 and MGMT 2150.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MATH 1500 and MATH 1520",
+    "prerequisites": [
+      "MATH 1500",
+      "MATH 1520"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MATH 1500",
+        "MATH 1520"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83649"
+  },
+  {
+    "course_id": "MGMT 2220",
+    "prefix": "MGMT",
+    "number": "2220",
+    "title": "The Wealth Compass",
+    "description": "This course introduces a range of ideas in personal and investment finance and provides solid grounding in the principles and practice of financial decision making. The course will focus on financial/retirement planning, credit budgeting, debt, banking facilities, income tax, investment management, wealth protection, home ownership, and trading strategies. These topics will enable students to intelligently navigate through the myriad of financial concerns that will be encountered over the coming years and help build financial confidence.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SUMMER TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84189"
+  },
+  {
+    "course_id": "MGMT 2300",
+    "prefix": "MGMT",
+    "number": "2300",
+    "title": "Financial Accounting in the Digital Age",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83088"
+  },
+  {
+    "course_id": "MGMT 2320",
+    "prefix": "MGMT",
+    "number": "2320",
+    "title": "Managerial Finance",
+    "description": "An introduction to corporate financial analysis and decision making. This course covers the following topics: financial statement analysis, valuation principles, risk and return analysis, working capital management, capital budgeting, cost of capital, capital structure, and dividend policy.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MGMT 2300",
+    "prerequisites": [
+      "MGMT 2300"
+    ],
+    "prerequisite_logic": "MGMT 2300",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83089"
+  },
+  {
+    "course_id": "MGMT 2430",
+    "prefix": "MGMT",
+    "number": "2430",
+    "title": "Marketing Principles",
+    "description": "This course provides students with an understanding of marketing principles and the role of the marketing discipline. The course is intended to help students learn the basic concepts and practices of marketing and to familiarize them with the terminology and techniques for properly framing and analyzing marketing problems. In addition to marketing concepts, processes, and strategy, issues such as the social consequences of marketing are discussed.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83108"
+  },
+  {
+    "course_id": "MGMT 2510",
+    "prefix": "MGMT",
+    "number": "2510",
+    "title": "Introduction to Data Management and Analytics",
+    "description": "An introduction to the fundamentals of data management and analysis. The course will survey and cover methods ranging from spreadsheets to relational databases. Learning is supported with hands-on exercises, helping students develop competencies in working with data. Topics include foundational concepts in information systems, spreadsheets, data modeling, and database design.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: None. Restricted to MGMT majors.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83090"
+  },
+  {
+    "course_id": "MGMT 2600",
+    "prefix": "MGMT",
+    "number": "2600",
+    "title": "International Business",
+    "description": "The course provides an introduction and an overview of international business. Topics in the course include (1) globalization of markets and firms, (2) political, economic, and cultural differences across countries, (3) theories and trends in international trade and investment, (4) strategies and operations of firms in international markets, and (5) global aspects of marketing, R&D, human resource management, accounting, and finance.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83574"
+  },
+  {
+    "course_id": "MGMT 2940",
+    "prefix": "MGMT",
+    "number": "2940",
+    "title": "Studies in Management",
+    "description": "Student plans a course of selected topics in management theory or practice not listed in this catalog. The instructor who will supervise and grade the student must approve the plan. Lectures, discussions, conferences, or seminars may be used in conjunction with the independent study.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: Prerequisite: permission of instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83091"
+  },
+  {
+    "course_id": "MGMT 2960",
+    "prefix": "MGMT",
+    "number": "2960",
+    "title": "Topics in Management",
+    "description": "",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83092"
+  },
+  {
+    "course_id": "MGMT 4080",
+    "prefix": "MGMT",
+    "number": "4080",
+    "title": "Networks and Value Creation",
+    "description": "Increasingly the competitive landscape in many industries is shaped not only by individual firm competencies but more by those of the extended value networks that organizations are part of. The course focuses on how value networks for demand fulfillment can be designed and managed. Key concepts related to how inter-enterprise integration and value chain constellations can be deployed to effectively detect and fulfill customer needs in a cost-efficient manner. The course will also examine several sourcing strategies and their suitability and economics for different types of products and services.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MGMT 4100",
+    "prerequisites": [
+      "MGMT 4100"
+    ],
+    "prerequisite_logic": "MGMT 4100",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: MGMT 6080 . Students cannot receive credit for both MGMT 4080 and MGMT 6080",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83693"
+  },
+  {
+    "course_id": "MGMT 4090",
+    "prefix": "MGMT",
+    "number": "4090",
+    "title": "Negotiations",
+    "description": "This course is designed to help develop essential expertise in managing negotiations that occur in a broad array of business settings. The goal is for students to be better able to recognize types of negotiation situations, understand the spectrum of choices available, develop a realistic set of options for inclusion in the negotiation, and gain proficiency in helping to shape beneficial outcomes of the negotiation. The course allows students to develop negotiation skills experientially using a variety of exercises and case studies while implementing useful analytical frameworks. A variety of negotiation situations are covered so that students can gain insight and skill in addressing a wide spectrum of negotiation situations.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 6690 . Students cannot receive credit for both MGMT 4090 and MGMT 6690 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83999"
+  },
+  {
+    "course_id": "MGMT 4100",
+    "prefix": "MGMT",
+    "number": "4100",
+    "title": "Quantitative Methods for Business",
+    "description": "This course introduces the student to the business management of production and operations systems. The concepts are related to inventory control, forecasting, scheduling, man-powers, and facilities planning. Computer usage includes specialized packages for quantitative analysis.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MGMT 2100",
+    "prerequisites": [
+      "MGMT 2100"
+    ],
+    "prerequisite_logic": "MGMT 2100",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83093"
+  },
+  {
+    "course_id": "MGMT 4110",
+    "prefix": "MGMT",
+    "number": "4110",
+    "title": "Operations Management",
+    "description": "This course introduces the student to the operations function in services and manufacturing-oriented firms. Students develop an appreciation of the concepts, principles, and techniques used for decision making in the operations function. The course takes a managerial perspective.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83094"
+  },
+  {
+    "course_id": "MGMT 4130",
+    "prefix": "MGMT",
+    "number": "4130",
+    "title": "Enterprise IT Integration",
+    "description": "This course explores a multitude of approaches to IT integration among the various departments of a corporation as well as between the corporation and entities in its external environment. It explores multiple integration methods at the data level, the process level, and the application level. Once the student acquires a strong understanding of these basic methods then the course continues with advanced methods of IT integration. Such methods include Service Oriented Architectures (SOA), Fast Business to Business methods, Middleware methods, Cloud Computing, Supply Chain, and Portal based integration. The course is case study taught using the latest case studies from various consulting companies as they have actually implemented solutions for their corporate customers. A student cannot receive credit for both the graduate and undergraduate versions of this course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: MGMT 6090",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83095"
+  },
+  {
+    "course_id": "MGMT 4140",
+    "prefix": "MGMT",
+    "number": "4140",
+    "title": "Computer Information Systems",
+    "description": "This course surveys and introduces the concepts and components of computer-based “management information systems” (MIS) and their optimal integration into organizational processes. To that end, the course examines approaches for developing and using information systems in support of organizational processes and objective. Topics include the impact of computer-based information systems on organizations; the fundamental technology components of modern information systems; the process by which information systems are created and changed; and potential management and technology issues.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83096"
+  },
+  {
+    "course_id": "MGMT 4150",
+    "prefix": "MGMT",
+    "number": "4150",
+    "title": "IT Project Management",
+    "description": "This capstone concentration course provides the student with conceptual and applied material focusing on the effective implementation of information. A central theme underlying this course is that information system implementation is best thought of as a bridge between systems design and utilization and that it must be understood in the context of the development process as a whole. The course examines a wide array of interrelated issues not generally covered in a systems analysis and design course including: process development life cycle; project management and systems engineering; process reengineering and maturity; organizational learning and evaluation.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83097"
+  },
+  {
+    "course_id": "MGMT 4160",
+    "prefix": "MGMT",
+    "number": "4160",
+    "title": "Applied Analytics and Predictive Modeling",
+    "description": "Business analytics enables organizations to leverage large volumes of data in order to make more informed decisions. It encompasses a range of approaches to integrating, organizing, and applying data in various settings. This course develops an understanding of concepts in business analytics and data manipulation. In particular, through hands-on experience with a range of techniques students will learn to work with large data sets, analyze trends and segmentations, and develop models for prediction and forecasting.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MGMT 4100",
+    "prerequisites": [
+      "MGMT 4100"
+    ],
+    "prerequisite_logic": "MGMT 4100",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 6160 . Students cannot receive credit for both MGMT 4160 and MGMT 6160",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83855"
+  },
+  {
+    "course_id": "MGMT 4170",
+    "prefix": "MGMT",
+    "number": "4170",
+    "title": "Data Resource Management",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83979"
+  },
+  {
+    "course_id": "MGMT 4175",
+    "prefix": "MGMT",
+    "number": "4175",
+    "title": "Supply Chain Analytics",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83856"
+  },
+  {
+    "course_id": "MGMT 4180",
+    "prefix": "MGMT",
+    "number": "4180",
+    "title": "Marketing Analytics",
+    "description": "The objective of this course is to apply a systematic and analytical approach to marketing decision-making, and to build skills and confidence in undertaking such analyses on your own. We will study tools for generating marketing insights from empirical data in such areas as segmentation, targeting, positioning, customer choice, new product design, and forecasting. This will be a hands-on course in which you apply the tools studied to actual business cases. We will cover analytical techniques typically bundled under “marketing analytics” such as regression, cluster analysis, discriminant analysis, logit model, conjoint analysis, bass model, etc. We will NOT be approaching these topics theoretically, that is, via equations or proofs. Instead, we’ll learn how and when to apply each model and what they tell marketers.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MGMT 2100 and MGMT 2430",
+    "prerequisites": [
+      "MGMT 2100",
+      "MGMT 2430"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MGMT 2100",
+        "MGMT 2430"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 6180 . Students cannot receive credit for both MGMT 4180 and MGMT 6180 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83857"
+  },
+  {
+    "course_id": "MGMT 4190",
+    "prefix": "MGMT",
+    "number": "4190",
+    "title": "Introduction to Machine Learning Applications",
+    "description": "The widespread proliferation of IT-influenced economic activity leaves behind a rich trail of micro-level data, enabling organizations to use analytics and experimentation in both strategy and operations. This course provides a hands-on introduction to the concepts, methods, and processes for machine learning from data, the foundation of artificial intelligence. Students will learn how to manipulate data and apply machine learning models to business context. Students will learn how to obtain data and draw business inferences from data by asking the right questions and using the appropriate tools.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Co-Listed: MGMT 6560 - Students cannot receive credit for both MGMT 4190 and MGMT 6560 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83679"
+  },
+  {
+    "course_id": "MGMT 4220",
+    "prefix": "MGMT",
+    "number": "4220",
+    "title": "Accounting Information Systems",
+    "description": "This course provides the background for understanding how the accounting system works and also how the accounting system fits into the overall information system of the firm.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MGMT 2300",
+    "prerequisites": [
+      "MGMT 2300"
+    ],
+    "prerequisite_logic": "MGMT 2300",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83098"
+  },
+  {
+    "course_id": "MGMT 4225",
+    "prefix": "MGMT",
+    "number": "4225",
+    "title": "Introduction to Sport Management",
+    "description": "The course is designed to introduce students to the discipline of sports management and provide a basic understanding of the principles and issues in the field. Different types of organizations in the sports industry will be studied, the role they play in the field and what differentiates them from each other. There will be a particular emphasis in the areas of professional and intercollegiate athletics. The role sports play in social issues will be discussed. The different functions in the sports industry will be discussed to provide information about career opportunities in the industry.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90380"
+  },
+  {
+    "course_id": "MGMT 4230",
+    "prefix": "MGMT",
+    "number": "4230",
+    "title": "Cost Accounting",
+    "description": "This course is the upper level of managerial accounting course. Cost accounting provides information for both managerial accounting and financial accounting. It is useful for managers for planning and controlling, as well as costing products, services, and customers.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MGMT 2300 with at least a grade of C.",
+    "prerequisites": [
+      "MGMT 2300"
+    ],
+    "prerequisite_logic": "MGMT 2300",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83416"
+  },
+  {
+    "course_id": "MGMT 4235",
+    "prefix": "MGMT",
+    "number": "4235",
+    "title": "Sports Marketing",
+    "description": "The course is designed to be discussion driven while introducing the students to strategies and techniques to market sports and sports products (teams, events, participants, businesses) and marketing through sports (sponsorships, co-branding). Various topics such as what drives affinity between fans and organizations, multi-media rights, licensing, emerging businesses relate to sports, etc. will be discussed. Revenue producing strategies to include in-venue revenue streams, cobranding and sponsorship relationships, and other forms of external revenue will be discussed.",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90381"
+  },
+  {
+    "course_id": "MGMT 4240",
+    "prefix": "MGMT",
+    "number": "4240",
+    "title": "Systems Analysis and Design",
+    "description": "This course presents conceptual material on the analysis and design of business information systems. The focus is on understanding business information processing requirements and developing information systems solutions to meet these requirements. Key stages of the systems development life cycle including planning, analysis, and design are the focus of this course. Models and procedures for understanding and modeling an organization’s existing and planned information systems are presented. Computer-aided software engineering tools are used to provide hands-on experience in designing information systems.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83099"
+  },
+  {
+    "course_id": "MGMT 4250",
+    "prefix": "MGMT",
+    "number": "4250",
+    "title": "Managerial Accounting",
+    "description": "This course focuses on the principles of managerial accounting, in three major areas: 1) how managerial behavior influences costs; 2) how managers use accounting information to make strategic decisions; and 3) how to evaluate and control managerial actions. A student cannot receive credit for both the graduate and undergraduate versions of this course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MGMT 2300",
+    "prerequisites": [
+      "MGMT 2300"
+    ],
+    "prerequisite_logic": "MGMT 2300",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: MGMT 6210 ; Students cannot earn credit for both.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83421"
+  },
+  {
+    "course_id": "MGMT 4260",
+    "prefix": "MGMT",
+    "number": "4260",
+    "title": "Financial Statement Analysis",
+    "description": "This course is designed to strengthen students’ ability to correctly analyze, interpret, and evaluate financial statements and their accompanying disclosures. The course is aimed at anyone whose career might involve working with accounting data, and should be especially useful for those interested in consulting and financial analysis. Throughout the semester the course will cover how to use financial accounting information for evaluating past performance and predicting future performance of a company or division. The course revolves around a number of topics of recent interest to the business community including accounting and financial analysis, performance forecasting, the quality of earnings, mergers and acquisitions, purchased R&D, post-employment benefits, executive compensation, and intangible assets. This course assumes that students have a basic knowledge of accounting, finance, economics, and business strategy. The focus is on integrating key concepts from each of these areas and applying them to financial decision-making. Half of the course time will be devoted to case analysis. Students are responsible for reading each case thoroughly and familiarizing themselves with the relevant accounting issues before the class.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: MGMT 2300 with minimum required grade of C, however, may be taken concurrently.",
+    "prerequisites": [
+      "MGMT 2300"
+    ],
+    "prerequisite_logic": "MGMT 2300",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 6430 . Students cannot receive credit for both MGMT 4260 and MGMT 6430 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83100"
+  },
+  {
+    "course_id": "MGMT 4270",
+    "prefix": "MGMT",
+    "number": "4270",
+    "title": "Intermediate Accounting I",
+    "description": "This is the first intermediate course on the theory and practice of accounting and financial reporting. Designed for both accounting and finance majors, this course combines a study of the theory, rationale, and objectives of corporate financial reporting with an examination of current reporting principles. The aim is to develop a realistic understanding of the strengths and weaknesses of corporate financial reporting, particularly from the viewpoint of the consumer of such financial information.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MGMT 2300 ; minimum grade of C.",
+    "prerequisites": [
+      "MGMT 2300"
+    ],
+    "prerequisite_logic": "MGMT 2300",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83417"
+  },
+  {
+    "course_id": "MGMT 4280",
+    "prefix": "MGMT",
+    "number": "4280",
+    "title": "Intermediate Accounting II",
+    "description": "As the second course in the Intermediate Accounting sequence, this course is designed for both accounting and finance majors. This course combines a study of the theory, rationale, and objectives of corporate financial reporting with an examination of current reporting principles. The aim is to develop a realistic understanding of the strengths and weaknesses of corporate financial reporting, particularly from the viewpoint of the consumer of such financial information.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MGMT 4270 ; minimum grade of C.",
+    "prerequisites": [
+      "MGMT 4270"
+    ],
+    "prerequisite_logic": "MGMT 4270",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83418"
+  },
+  {
+    "course_id": "MGMT 4310",
+    "prefix": "MGMT",
+    "number": "4310",
+    "title": "Financial Trading and Investing",
+    "description": "This course introduces interactive trading in financial instruments. Students learn the principles of asset price discovery through real-time trading in a variety of markets, including equities, bonds, options, derivatives. Topics addressed include asset valuation, portfolio management, and risk management in the context of real-time trading of financial instruments. The course uses the facilities of the Lally School’s Virtual Trading Room.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MGMT 2320",
+    "prerequisites": [
+      "MGMT 2320"
+    ],
+    "prerequisite_logic": "MGMT 2320",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: MGMT 6240 . Students cannot receive credit for both MGMT 4310 and MGMT 6240 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83101"
+  },
+  {
+    "course_id": "MGMT 4320",
+    "prefix": "MGMT",
+    "number": "4320",
+    "title": "Investments I",
+    "description": "Introduction to financial markets, financial instruments, and basic investment principles. The course provides students with an understanding of how to value securities, how to assess risk and return tradeoffs, how to make investment decisions, and how to measure investment performance. Topics include market microstructure and impact of technology on securities markets, principles of investment banking, valuation of stocks and bonds and hybrid instruments, portfolio theory, asset pricing models, bond portfolio management, and derivative securities.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: MGMT 2300 and MGMT 2320",
+    "prerequisites": [
+      "MGMT 2300",
+      "MGMT 2320"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MGMT 2300",
+        "MGMT 2320"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83102"
+  },
+  {
+    "course_id": "MGMT 4330",
+    "prefix": "MGMT",
+    "number": "4330",
+    "title": "Investments II",
+    "description": "Advanced course in investment decision making. Analysis of investment strategies in national and international equity markets including emerging markets. Other topics include arbitrage pricing principles, portfolio insurance, study of the term structure of interest rates and interest rate forecasts, duration analysis, and bond portfolio management, including immunization and active strategies. Principles of option and futures pricing and strategies in options and futures markets.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MGMT 4320",
+    "prerequisites": [
+      "MGMT 4320"
+    ],
+    "prerequisite_logic": "MGMT 4320",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: MGMT 7430",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83103"
+  },
+  {
+    "course_id": "MGMT 4340",
+    "prefix": "MGMT",
+    "number": "4340",
+    "title": "Advanced Corporate Finance",
+    "description": "Advanced topics in financial theory and corporate policy as they are applied to the modern corporation. Emphasis in blending theory with application. Case studies are used to illustrate relevance of theoretical concepts. Topics include corporate financial decision making under uncertainty, financial forecasting, application of option pricing principles to capital budgeting decision making, mergers and acquisitions, leveraged buyouts and takeovers, leasing, financial engineering.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: MGMT 2320",
+    "prerequisites": [
+      "MGMT 2320"
+    ],
+    "prerequisite_logic": "MGMT 2320",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: MGMT 6380 . Students cannot receive credit for both MGMT 4340 and MGMT 6380 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83104"
+  },
+  {
+    "course_id": "MGMT 4360",
+    "prefix": "MGMT",
+    "number": "4360",
+    "title": "International Financial Management",
+    "description": "The objective of this course is to provide a conceptual understanding of the international financial markets and instruments and how corporations and investors use them in their financial decision-making process. The course coverage includes the international financial environment, foreign exchange markets, offshore financial markets, derivative securities markets, and international capital markets. Class sessions will be devoted to lectures and case discussions on topics outlined in the class schedule. Equipped with the background provided in the classroom, students solve problems and analyze cases representing real-life situations. A student cannot receive credit for both the graduate and undergraduate versions of this course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MGMT 2320",
+    "prerequisites": [
+      "MGMT 2320"
+    ],
+    "prerequisite_logic": "MGMT 2320",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 6360 Students cannot earn credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83105"
+  },
+  {
+    "course_id": "MGMT 4370",
+    "prefix": "MGMT",
+    "number": "4370",
+    "title": "Risk Management",
+    "description": "Overview of risk management, and the concept and measurement of risk; types of risks (market, credit, liquidity, operational, business, strategic). Concepts, tools, and instruments available for risk management. Specific issues related with managing specific risk types — market, credit, interest-rate, liquidity risk, and operational risk. Securitization, asset-liability management. Concepts underlying insurance and role of insurance for risk management.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MGMT 2320 or permission of instructor.",
+    "prerequisites": [
+      "MGMT 2320"
+    ],
+    "prerequisite_logic": "MGMT 2320",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83106"
+  },
+  {
+    "course_id": "MGMT 4380",
+    "prefix": "MGMT",
+    "number": "4380",
+    "title": "Derivatives Markets",
+    "description": "This course introduces the institutional structure of the financial markets for derivatives. It also covers hedging and basis risk, interest rate, and stock-index derivatives with financial management applications. Other topics covered include an introduction to options, rational option pricing restrictions, binomial option pricing model, and put and call option strategies.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MGMT 2320 and MGMT 4320 ; or permission of instructor.",
+    "prerequisites": [
+      "MGMT 2320",
+      "MGMT 4320"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MGMT 2320",
+        "MGMT 4320"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 6370 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83107"
+  },
+  {
+    "course_id": "MGMT 4390",
+    "prefix": "MGMT",
+    "number": "4390",
+    "title": "International Project Management",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "MGMT 1100 Prerequisite or Corequisite:",
+    "prerequisites": [
+      "MGMT 1100"
+    ],
+    "prerequisite_logic": "MGMT 1100",
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83583"
+  },
+  {
+    "course_id": "MGMT 4420",
+    "prefix": "MGMT",
+    "number": "4420",
+    "title": "Student Managed Investment Fund",
+    "description": "The Student Managed Fund course will actively invest real capital using financial market principles. The goal of the fund is to produce excess returns consistent with the performance of long/short hedge funds through use of fundamental, technical, and quantitative strategies driven by economic analysis. The goal of the course is to directly apply the analytical financial skills developed within other Lally courses and provide students with both instructor and peer real-time feedback for their work.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MGMT 2320 or permission of instructor.",
+    "prerequisites": [
+      "MGMT 2320"
+    ],
+    "prerequisite_logic": "MGMT 2320",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 6420 . Students cannot receive credit for both MGMT 4420 and MGMT 6420 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83743"
+  },
+  {
+    "course_id": "MGMT 4450",
+    "prefix": "MGMT",
+    "number": "4450",
+    "title": "Internet Marketing",
+    "description": "Technology is a vital link in how modern corporations identify, acquire, transact with, and keep their customers. This course provides an introduction to both the technology infrastructure most relevant to the customer relationship as well marketing issues that result from the application of computers and communication networks. Topics include issues related to social media, search, online advertising, blogging, customer relationship management, online market segmentation, and marketing of IT products. A student cannot receive credit for both the graduate and undergraduate versions of this course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MGMT 2430",
+    "prerequisites": [
+      "MGMT 2430"
+    ],
+    "prerequisite_logic": "MGMT 2430",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 6720 . Students cannot receive credit for both MGMT 4450 and MGMT 6720 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83419"
+  },
+  {
+    "course_id": "MGMT 4460",
+    "prefix": "MGMT",
+    "number": "4460",
+    "title": "Consumer Behavior and Product Design",
+    "description": "This course introduces the motivations and related factors that shape consumers’ purchasing decisions. Also considered is the consumer perceptual process and how it affects purchasing behavior and consumer reaction to product designs. The relationship between perception and product design is extended to topics such as design for understanding, universal product design, aesthetics, and industrial design",
+    "credit_hours": "4",
+    "prerequisites_raw": "MGMT 2430",
+    "prerequisites": [
+      "MGMT 2430"
+    ],
+    "prerequisite_logic": "MGMT 2430",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: MGMT 6800 . Students cannot receive credit for both MGMT 4460 and MGMT 6800 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83109"
+  },
+  {
+    "course_id": "MGMT 4470",
+    "prefix": "MGMT",
+    "number": "4470",
+    "title": "Marketing Research",
+    "description": "A course on identifying and solving marketing problems through the systematic gathering and analysis of market information. Course focuses on careful definition of marketing problems, specification of information needs, sampling theory, research design, statistical methods, and marketing management implications. A major project involving marketing research for an off-campus “client” is a key part of the final grade.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MGMT 2430",
+    "prerequisites": [
+      "MGMT 2430"
+    ],
+    "prerequisite_logic": "MGMT 2430",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: MGMT 6550 . Students cannot receive credit for both MGMT 4470 and MGMT 6550 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83110"
+  },
+  {
+    "course_id": "MGMT 4490",
+    "prefix": "MGMT",
+    "number": "4490",
+    "title": "Advertising Strategy and Promotions",
+    "description": "Development of branding strategies to accomplish marketing objectives. The development of media plans and schedules to deliver advertising promotions element in the marketing mix. A student cannot receive credit for both the graduate and undergraduate versions of this course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 6540 . Students cannot receive credit for both MGMT 4490 and MGMT 6540 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83111"
+  },
+  {
+    "course_id": "MGMT 4510",
+    "prefix": "MGMT",
+    "number": "4510",
+    "title": "Invention, Innovation, and Entrepreneurship",
+    "description": "This course focuses on three key goals: providing increased insight into the cognitive foundations of entrepreneurship, offering practice in applying creative thinking to the task of formulating ideas for new products or services, and presenting basic information about the organizational process of commercializing such innovations. These goals will be achieved through a combination of assigned readings, in-class exercises, and individual and team projects. In addition, the course will include contributions from guest speakers who will share with the class their own experiences and expertise.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: MGMT 6640 . Students cannot receive credit for both MGMT 4510 and MGMT 6640",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83112"
+  },
+  {
+    "course_id": "MGMT 4520",
+    "prefix": "MGMT",
+    "number": "4520",
+    "title": "Introduction to Technological Entrepreneurship",
+    "description": "An introductory course for initiating a new business venture and developing it into a self-sustaining and profitable enterprise. Provides understanding of the process whereby a person decides to become an entrepreneur, screens opportunities, selects an appropriate product/market target, and obtains the necessary resources. Also, provides the theoretical and practical knowledge for the preparation of formal business plans for the development of new products, processes, and services and for the financing of new enterprises. A student cannot receive credit for both the graduate and undergraduate versions of this course.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 6620 . Students cannot receive credit for both MGMT 4520 and MGMT 6620",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83113"
+  },
+  {
+    "course_id": "MGMT 4530",
+    "prefix": "MGMT",
+    "number": "4530",
+    "title": "Starting Up a New Venture",
+    "description": "An understanding of the critical issues related to starting up a new business is gained through team-based experiential learning. Small teams of students develop a comprehensive business plan that can be used to raise money for a new or relatively new venture. The business plans are eligible for submission to the Rensselaer Business Plan Competition. The experiential learning process is enhanced through team meetings with faculty and/or course advisers and through oral presentations to the entire class.",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 6630 . Students cannot receive credit for both MGMT 4530 and MGMT 6630 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83114"
+  },
+  {
+    "course_id": "MGMT 4540",
+    "prefix": "MGMT",
+    "number": "4540",
+    "title": "Entrepreneurial Finance",
+    "description": "This course covers the theory and practice of venture capital financing of entrepreneurial firms. Topics to be discussed include the structure and governance of venture capital funds, venture capital financial contracting, valuation of entrepreneurial firms, staging, syndication, capital structure, and exits (IPOs, acquisitions, secondary sales, buybacks, and liquidations). International differences in venture capital markets will also be studied. A student cannot receive credit for both the graduate and undergraduate versions of this course",
+    "credit_hours": "4",
+    "prerequisites_raw": "or Corequisite: MGMT 2300 and MGMT 2320 .",
+    "prerequisites": [
+      "MGMT 2300",
+      "MGMT 2320"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MGMT 2300",
+        "MGMT 2320"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: MGMT 6260 . Students cannot receive credit for both MGMT 4540 and MGMT 6260 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83115"
+  },
+  {
+    "course_id": "MGMT 4550",
+    "prefix": "MGMT",
+    "number": "4550",
+    "title": "Engineering, Science, & Management Seminar",
+    "description": "This seminar sequence is designed for engineering and science undergraduates interested in pursuing the accelerated MBA program. This seminar is a dynamic and interactive course designed to provide students with an introductory understanding of the contemporary business landscape. Topics will vary, but may include strategy, operations and supply chain, entrepreneurship, marketing, financial management, and ethical considerations in business. Through a combination of guest speaker presentations, activities, and discussions, students will explore the multifaceted aspects of business management.",
+    "credit_hours": "0",
+    "prerequisites_raw": "or Corequisite: None.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84196"
+  },
+  {
+    "course_id": "MGMT 4600",
+    "prefix": "MGMT",
+    "number": "4600",
+    "title": "Data Analytics",
+    "description": "The world at-large is confronted with increasingly larger and complex sets of structured/unstructured information; from cyber and human sources. Traditional enterprises are moving toward analytics-driven approaches for core business functions. Data and information analytics extends analysis (descriptive models of data) by using data mining and machine learning methods, with optimization and validation, to recommend action or guide and communicate decision-making. Thus, analytics is an entire methodology rather than individual analyses or analysis steps.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Cross Listed: ITWS 4600 / CSCI 4600 / BCBP 4600 / ITWS 6600 ; Students can only obtain credit for one of these Co-Listed: MGMT 6600",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83998"
+  },
+  {
+    "course_id": "MGMT 4700",
+    "prefix": "MGMT",
+    "number": "4700",
+    "title": "Corporate Entrepreneurship",
+    "description": "In order to survive, corporations need to renew themselves. This requires instilling an entrepreneurial mindset which is often a challenge for large established corporations. Corporations caught up in the web of commoditization, stagnation, down-sizing, cost-cutting, re-engineering and the fast pace of globalization and technical change have come to realize that boosting their entrepreneurial capabilities, can improve their competitive positions through creating new markets and even transforming their industries. Yet overall, these efforts have produced uneven success. Although entrepreneurs in organizations can benefit from the knowledge resources, experience, and financial assets and networks of the large firm, they are constrained by the firm’s inertial structure and entrenched management practices, as well as by the influence of current customers. This course helps students understand these challenges and how to cope with them through developing appropriate corporate competencies, structures, systems, and talent management practices.",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 6700",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83575"
+  },
+  {
+    "course_id": "MGMT 4800",
+    "prefix": "MGMT",
+    "number": "4800",
+    "title": "Business Undergraduate Internship",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84152"
+  },
+  {
+    "course_id": "MGMT 4850",
+    "prefix": "MGMT",
+    "number": "4850",
+    "title": "Organizational Behavior in High Performance Organizations",
+    "description": "This course provides an overview of basic processes in human behavior that influence the effectiveness of individuals, groups and organizations. Its focus is on understanding what happens during interpersonal interactions in work situations, and what can be done to make employees more effective. Topics covered include organizational socialization, motivation, decision-making, team dynamics, virtual teams, influence, and conflict management. Numerous exercises and case analyses are used in class to help provide students with insights into these processes.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MGMT 1100 or permission of the instructor.",
+    "prerequisites": [
+      "MGMT 1100"
+    ],
+    "prerequisite_logic": "MGMT 1100",
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83116"
+  },
+  {
+    "course_id": "MGMT 4860",
+    "prefix": "MGMT",
+    "number": "4860",
+    "title": "Human Resources in High Performance Organizations",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83117"
+  },
+  {
+    "course_id": "MGMT 4870",
+    "prefix": "MGMT",
+    "number": "4870",
+    "title": "Strategy and Policy",
+    "description": "This is a course that integrates the functional fields of management. The first part of the course focuses on the tools and discipline commonly used in strategy formulation. The second part focuses on the implementation of strategy in a variety of contexts.",
+    "credit_hours": "4",
+    "prerequisites_raw": "MGMT 2300 , MGMT 2320 , MGMT 2430 , and MGMT 4110",
+    "prerequisites": [
+      "MGMT 2300",
+      "MGMT 2320",
+      "MGMT 2430",
+      "MGMT 4110"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MGMT 2300",
+        "MGMT 2320",
+        "MGMT 2430",
+        "MGMT 4110"
+      ]
+    },
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83118"
+  },
+  {
+    "course_id": "MGMT 4940",
+    "prefix": "MGMT",
+    "number": "4940",
+    "title": "Management Independent Study",
+    "description": "Independent study of selected readings in the field of management, supervised by a faculty member.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83119"
+  },
+  {
+    "course_id": "MGMT 4960",
+    "prefix": "MGMT",
+    "number": "4960",
+    "title": "Topics in Management",
+    "description": "",
+    "credit_hours": "4",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83120"
+  },
+  {
+    "course_id": "MGMT 6010",
+    "prefix": "MGMT",
+    "number": "6010",
+    "title": "Heroes, Leaders, and Innovators",
+    "description": "This course provides an introduction to the “heart and soul” of managerial leadership, teamwork, and innovation by focusing on the behavior and characteristics of those exceptional individuals whose impact extends far beyond their own persona—inside and outside of business. Leaders/innovators are those whose vision, creativity, and charisma allow them to transform their organizations and to change the lives of large numbers of people. Using a combination of case studies and simulations, the course offers a week-long immersion experience into the mindset, actions, and concerns of true business innovators.",
+    "credit_hours": "0",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83121"
+  },
+  {
+    "course_id": "MGMT 6020",
+    "prefix": "MGMT",
+    "number": "6020",
+    "title": "Financial Management I",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83122"
+  },
+  {
+    "course_id": "MGMT 6030",
+    "prefix": "MGMT",
+    "number": "6030",
+    "title": "Financial Management II",
+    "description": "This course, built on Economic and Financial Analysis I, provides a conceptual framework whereby accounting, corporate finance, and investment decisions can be viewed and understood in a unified context of risk and return as it is applicable to all types of businesses and organizations. The course prepares students for future specialized courses in advanced accounting, corporate finance, financial institutions and markets, investment theory, and entrepreneurial finance. The contemporary issues covered in this course include risk and diversification; asset pricing models; capital structure and financing alternatives; dividend and stock repurchases; corporate governance; mergers, acquisitions, and takeovers; financial distress and reorganization; and different international financial topics.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6020",
+    "prerequisites": [
+      "MGMT 6020"
+    ],
+    "prerequisite_logic": "MGMT 6020",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83123"
+  },
+  {
+    "course_id": "MGMT 6040",
+    "prefix": "MGMT",
+    "number": "6040",
+    "title": "Talent Management",
+    "description": "This course is designed to develop skills in understanding human behavior in organizations and how to effectively manage the talent that resides within employees. Students will learn about essential aspects of managing and developing talent, including individual differences, employee hiring, motivation, team dynamics, leadership, and influencing others. Through a discussion of concepts in human behavior students will learn useful analytical frameworks for understanding the complexities of managing talent in order to best achieve organizational success.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83124"
+  },
+  {
+    "course_id": "MGMT 6060",
+    "prefix": "MGMT",
+    "number": "6060",
+    "title": "Technology Strategy in the Age of Artificial Intelligence",
+    "description": "This course investigates the strategic implications of technological evolution highlighting how industry structure, the dynamics of competition, patterns of innovation, operational decisions, and financial investment are all influenced by technological breakthroughs. Students explore the interplay between emerging technology development and commercialization. The challenges associated with intellectual property protection and utilization, as well as the organizational and ethical dimensions of new technology adoption, are covered. The class culminates with an overview of the implications of emerging technologies such as AI for strategic decision making.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83125"
+  },
+  {
+    "course_id": "MGMT 6070",
+    "prefix": "MGMT",
+    "number": "6070",
+    "title": "Personal Finance",
+    "description": "The course takes a comprehensive look at financial planning at the individual level. As such, it provides guidelines and principles for credit management, debt management, investment management, risk management. Taxes, insurance, and retirement strategies also receive prominent attention. Financial planning will be couched in terms of the current state of markets and economies and potential changes in them. The course will be useful across the spectrum of the tactical to the strategic; across that of the short-term to the long-term; that of accumulation of wealth to ultimate disposition of assets and wealth; that of investment to lifestyle; and that of good deals to scams.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83581"
+  },
+  {
+    "course_id": "MGMT 6080",
+    "prefix": "MGMT",
+    "number": "6080",
+    "title": "Networks and Value Creation",
+    "description": "This course considers the evolving new models of value creation and business growth being introduced across different industries and examines such critical issues as product and process technology strategy, operational innovation, IT strategies and infrastructures, networks and organization, and finance. Utilizing a series of case studies from across a range of industry networks, students will have a chance to learn how companies can participate in such networks and what unique business resources and capabilities they can employ to enhance their probability of commercial success.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: MGMT 4080 . Students cannot receive credit for both MGMT 4080 and MGMT 6080.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83672"
+  },
+  {
+    "course_id": "MGMT 6090",
+    "prefix": "MGMT",
+    "number": "6090",
+    "title": "Enterprise IT Integration",
+    "description": "This course explores a multitude of approaches to IT integration among the various departments of a corporation as well as between the corporation and entities in its external environment. It explores multiple integration methods at the data level, the process level, and the application level. Once the student acquires a strong understanding of these basic methods then the course continues with advanced methods of IT integration. Such methods include Service Oriented Architectures (SOA), Fast Business to Business methods, Middleware methods, Cloud Computing, Supply Chain, and Portal based integration. The course is case study taught using the latest case studies from various consulting companies as they have actually implemented solutions for their corporate customers. A student cannot receive credit for both the graduate and undergraduate versions of this course.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: MGMT 4130 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83689"
+  },
+  {
+    "course_id": "MGMT 6100",
+    "prefix": "MGMT",
+    "number": "6100",
+    "title": "Foundations of Data Science",
+    "description": "Every dataset tells a unique story, and in this course, students learn to elicit these stories from data. The course develops students’ ability to ask critical questions about their data in order to better understand it. Students will run tests to identify data problems and will learn how to take corrective actions. In addition, the course covers important parametric and non-parametric tests, and discusses their benefits and limitations in a big data world.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83126"
+  },
+  {
+    "course_id": "MGMT 6140",
+    "prefix": "MGMT",
+    "number": "6140",
+    "title": "Managing Digitization and Transformation",
+    "description": "Understanding technology-enabled changes in contemporary business environments, and how insightful executives leverage IT, is key to creating value and winning competitive advantage. This course develops an understanding of cutting-edge technological trends and their potential business impact. The course also explores the business drivers of technology-related decisions in firms and stimulates thought on new applications of technology for commerce, including new products, processes, and business models. Topics covered include: how different business models necessitate different kinds of IT investments; how IT coupled with big data analytics impacts different industries; whether and how IT hastens and aids the growth of disruptive innovations; and how organizations should adapt to the digital economy.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83128"
+  },
+  {
+    "course_id": "MGMT 6160",
+    "prefix": "MGMT",
+    "number": "6160",
+    "title": "Applied Analytics and Predictive Modeling",
+    "description": "Business analytics enables organizations to leverage large volumes of data in order to make more informed decisions. It encompasses a range of approaches to integrating, organizing, and applying data in various settings. This course develops an understanding of concepts in business analytics and data manipulation. In particular, through hands-on experience with a range of techniques students will learn to work with large data sets, analyze trends and segments, and develop models for prediction and forecasting. This course is part of the Master’s program in Business Analytics and builds on foundations learned in the fall semester.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: MGMT 6100",
+    "prerequisites": [
+      "MGMT 6100"
+    ],
+    "prerequisite_logic": "MGMT 6100",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 4160 . Students cannot receive credit for both MGMT 4160 and MGMT 6160.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83691"
+  },
+  {
+    "course_id": "MGMT 6170",
+    "prefix": "MGMT",
+    "number": "6170",
+    "title": "Advanced Systems Analysis and Design",
+    "description": "This is an advanced course in systems analysis and design that presents conceptual material about both traditional approaches to systems development such as process oriented and data-oriented methodologies and evolving approaches such as object-oriented development methods. Key stages of the systems development life cycle including planning, analysis, and design are the focus of this course. Models and procedures for understanding and modeling an organization’s existing and planned information systems are presented. Computer-aided software engineering tools are used to provide hands-on experience in designing information systems. A case-based approach is used to provide students an opportunity to apply the analytical and design techniques covered in the course. In addition, students are expected to do a real-life systems development project. The course also focuses on the issues and challenges in managing systems development.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6140",
+    "prerequisites": [
+      "MGMT 6140"
+    ],
+    "prerequisite_logic": "MGMT 6140",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83129"
+  },
+  {
+    "course_id": "MGMT 6180",
+    "prefix": "MGMT",
+    "number": "6180",
+    "title": "Marketing Analytics",
+    "description": "The objective of this course is to apply a systematic and analytical approach to marketing decision-making and to build skills and confidence in undertaking such analyses on your own. We will study tools for generating marketing insights from empirical data in such areas as segmentation, targeting, positioning, customer choice, new product design, and forecasting. This will be a hands-on course in which you apply the tools studied to actual business cases. We will cover analytical techniques typically bundled under “marketing analytics” such as regression, cluster analysis, discriminant analysis, logit model, conjoint analysis, bass model, etc. We will NOT be approaching these topics theoretically, that is, via equations or proofs. Instead, we’ll learn how and when to apply each model and what they tell marketers.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6100",
+    "prerequisites": [
+      "MGMT 6100"
+    ],
+    "prerequisite_logic": "MGMT 6100",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 4180 . Students cannot receive credit for both MGMT 4180 and MGMT 6180",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84001"
+  },
+  {
+    "course_id": "MGMT 6190",
+    "prefix": "MGMT",
+    "number": "6190",
+    "title": "Introduction to Accounting and Financial Management",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83424"
+  },
+  {
+    "course_id": "MGMT 6210",
+    "prefix": "MGMT",
+    "number": "6210",
+    "title": "Managerial Accounting",
+    "description": "This course focuses on the principles of managerial accounting, in three major areas: 1) how managerial behavior influences costs; 2) how managers use accounting information to make strategic decisions; and 3) how to evaluate and control managerial actions. A student cannot receive credit for both the graduate and undergraduate versions of this course.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6190 or MGMT 7740",
+    "prerequisites": [
+      "MGMT 6190",
+      "MGMT 7740"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MGMT 6190",
+        "MGMT 7740"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR Co-Listed: MGMT 4250 . Students cannot receive credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83584"
+  },
+  {
+    "course_id": "MGMT 6230",
+    "prefix": "MGMT",
+    "number": "6230",
+    "title": "Global Sourcing and Procurement",
+    "description": "Sourcing is an important function that has a significant impact on the profitability of firms. This course examines sourcing from a strategic and operational perspective and presents best practices and frameworks for effective sourcing in large and small firms. Topics covered include factors influencing sourcing strategies of firms and the importance of sourcing in supply chain management, procurement strategies for commodities, differentiated products and services, electronic procurement and cost containment strategies, supplier evaluation and selection, negotiation and contracting, and global sourcing strategies.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6100",
+    "prerequisites": [
+      "MGMT 6100"
+    ],
+    "prerequisite_logic": "MGMT 6100",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83694"
+  },
+  {
+    "course_id": "MGMT 6240",
+    "prefix": "MGMT",
+    "number": "6240",
+    "title": "Financial Trading and Investing",
+    "description": "This course introduces interactive trading in financial instruments. Students learn the principles of asset price discovery through real-time trading in a variety of markets, including equities, bonds, options, derivatives. Topics addressed include asset valuation, portfolio management and risk management in the context of real-time trading of financial instruments. The course uses the facilities of the Lally School’s Virtual Trading Room. Students will work in teams of two in many trading assignments.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: MGMT 6020 or permission of instructor.",
+    "prerequisites": [
+      "MGMT 6020"
+    ],
+    "prerequisite_logic": "MGMT 6020",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: MGMT 4310 . Students cannot receive credit for both MGMT 4310 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83130"
+  },
+  {
+    "course_id": "MGMT 6250",
+    "prefix": "MGMT",
+    "number": "6250",
+    "title": "Fixed Income Securities",
+    "description": "This course develops the concepts and tools that will provide students with an understanding of the forces driving the valuation, risk and return of fixed income securities. These include instruments such as futures, options, callable bonds, credit default swaps, and mortgage-backed securities. The size of these markets makes their pricing, hedging, and risk management invaluable to traders, risk managers, regulators or anyone interested in the functioning of the modern financial system.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6370 or permission of instructor.",
+    "prerequisites": [
+      "MGMT 6370"
+    ],
+    "prerequisite_logic": "MGMT 6370",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83741"
+  },
+  {
+    "course_id": "MGMT 6260",
+    "prefix": "MGMT",
+    "number": "6260",
+    "title": "Entrepreneurial Finance",
+    "description": "The overall objective of this course is to understand how entrepreneurs and investors create value, noting that their interests do not always coincide. This involves learning about topics which trace out the “venture capital cycle”; opportunity recognition; valuation and evaluation; negotiation; structuring financing contract; managing investment; exit strategy. This course is structured into three modules: valuation, private equity market, and harvesting entrepreneurial value. A student cannot receive credit for both the graduate and undergraduate versions of this course.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: MGMT 6190 or MGMT 6020 , or approval of the instructor",
+    "prerequisites": [
+      "MGMT 6190",
+      "MGMT 6020"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MGMT 6190",
+        "MGMT 6020"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: MGMT 4540 . Students cannot receive credit for both MGMT 4540 and MGMT 6260.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83131"
+  },
+  {
+    "course_id": "MGMT 6270",
+    "prefix": "MGMT",
+    "number": "6270",
+    "title": "Microeconomic Theory for Management",
+    "description": "This doctoral-level course introduces microeconomics to first-semester doctoral students in management. Rather than provide formal training for professional research economists, this course seeks to provide a theoretical introduction to microeconomic methods for academics and researchers in business, management, and finance. Topics covered in the course include consumer theory; theory of production, markets, and equilibrium; decision-making under uncertainty; theory of information; agency theory; and game theory.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Enrollment in the doctoral program in management or economics at Rensselaer (or permission from the course instructor), calculus, and matrix mathematics.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83486"
+  },
+  {
+    "course_id": "MGMT 6280",
+    "prefix": "MGMT",
+    "number": "6280",
+    "title": "Seminar in Economic Theory",
+    "description": "This course covers the tools and concepts used in microeconomic analysis and will study the behavior of the basic building blocks of a market – consumers and firms and different market structures and their welfare properties. These models help with understanding the functioning of a capitalist market system and provide a useful framework to analyze various policy interventions. This course also provides a foundation for studying public finance, game theory, labor economics, etc.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83132"
+  },
+  {
+    "course_id": "MGMT 6290",
+    "prefix": "MGMT",
+    "number": "6290",
+    "title": "Macroeconomics and International Environments of Business",
+    "description": "This course identifies major forces acting on the enterprise from the macroeconomic and international environment. Key factors include national income and output, interest rates, economic growth and business cycles, international trade and balance of payment, exchange rates, monetary and fiscal policy. Factors are analyzed in terms of their impact on the economic and technological decisions of the enterprise.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83133"
+  },
+  {
+    "course_id": "MGMT 6320",
+    "prefix": "MGMT",
+    "number": "6320",
+    "title": "Investment Analysis I",
+    "description": "Introduction to investment instruments and modern methods of pricing them. Basic components of viable investment programs are outlined. Topics include expected utility theory and risk aversion, modern portfolio theory, equilibrium in capital markets (CAPM, APT), index models, futures and options, theory of active portfolio management.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6020",
+    "prerequisites": [
+      "MGMT 6020"
+    ],
+    "prerequisite_logic": "MGMT 6020",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83134"
+  },
+  {
+    "course_id": "MGMT 6330",
+    "prefix": "MGMT",
+    "number": "6330",
+    "title": "Operations and Supply Chain Management",
+    "description": "This course surveys the terminology, concepts, problems, and tools that support decision-making related to the effective design, operation, and control of operating systems that produce both tangible and intangible outputs. This course is designed to address key operations issues in both service and manufacturing firms. Operations can also be an effective competitive weapon and provide opportunities to win in markets worldwide. This course is designed to create an applied learning environment to introduce students to this topic. Students will learn analysis techniques, evaluate and analyze data using a variety of tools.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83135"
+  },
+  {
+    "course_id": "MGMT 6340",
+    "prefix": "MGMT",
+    "number": "6340",
+    "title": "Financial Markets and Institutions",
+    "description": "Focus on financial markets, new instruments and techniques for financing, risk management and its application to financial institutions. Overview of U.S. financial system, the Federal Reserve system, and monetary policy. Emphasis on impact of technology on securities markets and banks. Discussion of current issues in securities markets and banking, such as securitization, financial derivatives, junk bonds, bank failures, mergers and acquisitions, and international banking.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6020 or permission of the instructor.",
+    "prerequisites": [
+      "MGMT 6020"
+    ],
+    "prerequisite_logic": "MGMT 6020",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83136"
+  },
+  {
+    "course_id": "MGMT 6350",
+    "prefix": "MGMT",
+    "number": "6350",
+    "title": "Supply Chain Analytics",
+    "description": "This is a hands on course where students learn a mix of theoretical and practical tools and use them to solve a variety of supply chain problems, both analytically and numerically. Time series, Markov chain, optimal control, linear programming, statistical analysis, and other mathematical tools are used to examine data to understand supply, demand, and inventory levels and develop insights for managerial recommendations.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: MGMT 6100 and either MGMT 6460",
+    "prerequisites": [
+      "MGMT 6100",
+      "MGMT 6460"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MGMT 6100",
+        "MGMT 6460"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 4175 . Students cannot receive credit for both MGMT 4175 and MGMT 6350.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83695"
+  },
+  {
+    "course_id": "MGMT 6360",
+    "prefix": "MGMT",
+    "number": "6360",
+    "title": "International Finance",
+    "description": "Course analyzes trends and themes in international financial management, especially how financial management and corporate strategies are carried out in international environments. Topics include foreign exchange markets and risk management, analysis of operating and transaction exposure, international financial markets and banking, international financing and investment. Working capital management and capital budgeting of multinational corporations. Case studies are used. A student cannot receive credit for both the graduate and undergraduate versions of this course.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: MGMT 6020 or permission of the instructor.",
+    "prerequisites": [
+      "MGMT 6020"
+    ],
+    "prerequisite_logic": "MGMT 6020",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 4360",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83137"
+  },
+  {
+    "course_id": "MGMT 6370",
+    "prefix": "MGMT",
+    "number": "6370",
+    "title": "Options, Futures, and Derivatives Markets",
+    "description": "The purpose of this course is to provide an introduction to second generation financial instruments including forward and futures contracts, options, futures options, and swaps on a variety of underlying instruments including fixed income securities. The fixed income markets will be integrated with the discussion of IRDs (interest rate derivatives).",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6020 or permission of the instructor.",
+    "prerequisites": [
+      "MGMT 6020"
+    ],
+    "prerequisite_logic": "MGMT 6020",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: MGMT 4380",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83138"
+  },
+  {
+    "course_id": "MGMT 6380",
+    "prefix": "MGMT",
+    "number": "6380",
+    "title": "Advanced Corporate Finance",
+    "description": "The overall objective of this course is to study advanced corporate finance issues and test empirically the stock market reaction to financing decisions and the issuance of securities. Corporate finance topics include shareholder value and economic value-added concepts, as well as corporate governance issues. Financing decisions include venture capital and initial public offerings, seasoned equity offerings, stock splits, corporate bonds and bank loans, stock listings on foreign exchanges. Other topics are mergers and acquisitions, pension fund management, financial analysis, and planning. Real stock prices and case studies are used to apply the theoretical concepts.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: MGMT 6020 or permission of the instructor.",
+    "prerequisites": [
+      "MGMT 6020"
+    ],
+    "prerequisite_logic": "MGMT 6020",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: MGMT 4340 . Students cannot receive credit for both MGMT 4340 and MGMT 6380.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83139"
+  },
+  {
+    "course_id": "MGMT 6390",
+    "prefix": "MGMT",
+    "number": "6390",
+    "title": "International Operations",
+    "description": "This course provides a foundation in the facts and ideas underlying the globalization of production and delivery of goods and services. Topics include: designing global supply chains, managing risks of cross border business relationships, international logistics, establishing world class manufacturing service and R&D in developing countries, integrating superior operating practices and technologies from across the world in diverse national environments, and political and societal issues associated with global operations.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Prior knowledge of MGMT 4100 or equivalent.",
+    "prerequisites": [
+      "MGMT 4100"
+    ],
+    "prerequisite_logic": "MGMT 4100",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83140"
+  },
+  {
+    "course_id": "MGMT 6400",
+    "prefix": "MGMT",
+    "number": "6400",
+    "title": "Financial Econometrics Modeling",
+    "description": "This course uses empirical methodologies, both cross-sectional and time series, to examine various issues in finance. Students will gain practical experience in analyzing, various asset pricing models, efficiency of financial markets, various volatility models, and forecasting evaluations. Computers are used extensively both in and out of class.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: MGMT 6100 and MGMT 6020",
+    "prerequisites": [
+      "MGMT 6100",
+      "MGMT 6020"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MGMT 6100",
+        "MGMT 6020"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83141"
+  },
+  {
+    "course_id": "MGMT 6410",
+    "prefix": "MGMT",
+    "number": "6410",
+    "title": "Quantitative Asset Management",
+    "description": "The course begins by providing students with a theoretical and practical background in the field of investments. This includes comparison of asset classes characteristics and returns as well as discussion of relevant models, financial institutions, and behavioral issues facing investors. These principles are then quantitatively applied in areas including portfolio construction, index-linked strategies, smart beta/factor portfolios, portfolio risk management, and dynamic portfolio management",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6020 or permission of the instructor.",
+    "prerequisites": [
+      "MGMT 6020"
+    ],
+    "prerequisite_logic": "MGMT 6020",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83142"
+  },
+  {
+    "course_id": "MGMT 6420",
+    "prefix": "MGMT",
+    "number": "6420",
+    "title": "Student Managed Investment Fund",
+    "description": "The Student Managed Fund course will actively invest real capital using financial market principles. The goal of the fund is to produce excess returns consistent with the performance of long/short hedge funds through use of fundamental, technical, and quantitative strategies driven by economic analysis. The goal of the course is to directly apply the analytical financial skills developed within other Lally courses and provide students with both instructor and peer real-time feedback for their work.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: MGMT 6020 or MGMT 6520 or permission of instructor. Course restricted to students with graduate status only.",
+    "prerequisites": [
+      "MGMT 6020",
+      "MGMT 6520"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MGMT 6020",
+        "MGMT 6520"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 4420 . Students cannot receive credit for both MGMT 4420 and MGMT 6420.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83742"
+  },
+  {
+    "course_id": "MGMT 6430",
+    "prefix": "MGMT",
+    "number": "6430",
+    "title": "Financial Statement Analysis",
+    "description": "This course is designed to strengthen students’ ability to correctly analyze, interpret, and evaluate financial statements and their accompanying disclosures. The course is aimed at anyone whose career might involve working with accounting data, and should be especially useful for those interested in consulting and financial analysis. Discussed throughout the semester will be how to use financial accounting information for evaluating past performance and predicting future performance of a company or division. Also discussed will be the key disclosure rules in the United States, the communication methods available to managers, managers’ incentives and ability to exert discretion over reported earnings, and the interplay between a company’s corporate strategy and its financial reporting policies and practices. The course revolves around a number of topics of recent interest to the business community including accounting and financial analysis, performance forecasting, the quality of earnings, mergers and acquisitions, purchased R&D, post-employment benefits, executive compensation, and intangible assets. This course assumes that students have a basic knowledge of accounting, finance, economics, and business strategy. The focus is on integrating key concepts from each of these areas and applying them to financial decision-making. Half of the course time will be devoted to case analysis. Students are responsible for reading each case thoroughly and familiarizing themselves with the relevant accounting issues before the class.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6190 or MGMT 7740 or permission of the instructor.",
+    "prerequisites": [
+      "MGMT 6190",
+      "MGMT 7740"
+    ],
+    "prerequisite_logic": {
+      "type": "OR",
+      "items": [
+        "MGMT 6190",
+        "MGMT 7740"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 4260 . Students cannot receive credit for both MGMT 4260 and MGMT 6430.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83144"
+  },
+  {
+    "course_id": "MGMT 6445",
+    "prefix": "MGMT",
+    "number": "6445",
+    "title": "Business Capstone",
+    "description": "This course provides students with an opportunity to work on real business problems with a company. Students work in small consultant teams with a client and advisor(s) to develop solutions that will be put to use by the client to achieve significant business benefits. Student teams develop their analysis and recommendations and complete the project with the delivery of a final report and presentation to the client organizations. The course encompasses domain knowledge as well as knowledge of business strategy and communications skills.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84065"
+  },
+  {
+    "course_id": "MGMT 6450",
+    "prefix": "MGMT",
+    "number": "6450",
+    "title": "Manufacturing Systems Management",
+    "description": "An overview of how product and service requirements are translated into manufacturing facilities, procedures, and organizations. The control systems considered include demand forecasting, inventory planning, production scheduling, quality control, MRP, and project control. In addition, a management perspective is used to examine decisions having a long–term manufacturing impact: capacity planning, location, and distribution, manufacturing processes, factory layout, and factory focus. The course concludes with an introduction to manufacturing policy. A student cannot receive credit for both the graduate and undergraduate versions of this course.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83145"
+  },
+  {
+    "course_id": "MGMT 6460",
+    "prefix": "MGMT",
+    "number": "6460",
+    "title": "Modeling and Optimization",
+    "description": "This graduate level course is designed to provide the student with an understanding of the applications of quantitative models, methods, algorithms, and computational techniques across business functions. You will investigate how to apply optimization methods using a hands-on implementation approach.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83680"
+  },
+  {
+    "course_id": "MGMT 6470",
+    "prefix": "MGMT",
+    "number": "6470",
+    "title": "Management of Quality, Processes, and Reliability",
+    "description": "This course provides in-depth coverage of the quality management field by covering many of the qualitative, management aspects of quality, as well as some of the traditional quantitative measurement and control techniques. The emphasis is on the application of the quality principles to develop an understanding of concepts in quality and apply these concepts in problem solving situations. Six-Sigma methodology is highlighted. Some coverage of international considerations, via ISO-9000, and reliability topics is given. The aim will be to show students how companies have found solutions to problems and improved their processes, products, and services using quality management concepts.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83146"
+  },
+  {
+    "course_id": "MGMT 6480",
+    "prefix": "MGMT",
+    "number": "6480",
+    "title": "Service Operations Management",
+    "description": "This course discusses the role of services in an economy, managing services for competitive advantage, structuring the service enterprise, managing service operations, service productivity, quality, and growth.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83147"
+  },
+  {
+    "course_id": "MGMT 6490",
+    "prefix": "MGMT",
+    "number": "6490",
+    "title": "Competitive Advantage and Operations Strategy",
+    "description": "This course includes topics such as manufacturing as a competitive weapon; management of quality; manufacturing technology implementation; strategic impact of advanced manufacturing technologies; and manufacturing’s role in new product development.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83148"
+  },
+  {
+    "course_id": "MGMT 6510",
+    "prefix": "MGMT",
+    "number": "6510",
+    "title": "Financial Computation and Simulation",
+    "description": "The primary objective of this course is to provide the first or second semester financial engineering student with basic quantitative and analytical tools necessary for sound financial decision making, particularly in quantitative finance and risk analytics contexts. The course emphasizes financial computation techniques, whereby students learn standard methodologies to obtain numerical solutions to financial problems. Topics include solving linear and nonlinear systems of equations, optimization, lattices, Monte Carlo simulation, and finite difference methods as applied to common financial problems.R is the primary computing language used in this course.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6520 or permission of instructor.",
+    "prerequisites": [
+      "MGMT 6520"
+    ],
+    "prerequisite_logic": "MGMT 6520",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83423"
+  },
+  {
+    "course_id": "MGMT 6511",
+    "prefix": "MGMT",
+    "number": "6511",
+    "title": "Practicum for Life Science Entrepreneurship",
+    "description": "This is a graduate level class for those in the Life Sciences Entrepreneurship MBA program, and it serves as a practical, project-based, and culminating experience where students work on real-life projects associated with the life sciences industry. Students will work directly in a consultant-type or developmental role for a life sciences company where they will tackle issues facing the client company, either working individually or preferably in small teams.",
+    "credit_hours": "3",
+    "prerequisites_raw": "Culminating experience for Life Sciences MBA students",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=84064"
+  },
+  {
+    "course_id": "MGMT 6520",
+    "prefix": "MGMT",
+    "number": "6520",
+    "title": "Financial Modeling and Optimization",
+    "description": "This course introduces quantitative analysis for financial markets and instruments. The course covers applications of mathematical tools and optimization modeling to portfolio selection and fund management, risk analysis, hedging and valuation of financial assets, and financial planning under uncertainty. The course introduces applications of calculus, differential equations, and introduces stochastic processes within a financial markets context to address arbitrage pricing and equilibrium asset pricing models.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6020 or permission of instructor.",
+    "prerequisites": [
+      "MGMT 6020"
+    ],
+    "prerequisite_logic": "MGMT 6020",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83422"
+  },
+  {
+    "course_id": "MGMT 6530",
+    "prefix": "MGMT",
+    "number": "6530",
+    "title": "Making Business Happen",
+    "description": "Analyze the process of identifying prospective markets and customers, developing channels, defining the value proposition, selling products and services, and managing a sales force. Learn about tools ranging from customized consultative sales to commodity brokering, customer relationship management systems to trade press articles. Develop the skills to effectively listen, recognize opportunity, verbally persuade, handle objections, and prospect. Develop an understanding of customer needs, approach strategies, and effective presentations.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83149"
+  },
+  {
+    "course_id": "MGMT 6540",
+    "prefix": "MGMT",
+    "number": "6540",
+    "title": "Marketing Communication and Branding Strategies",
+    "description": "Advanced study of the promotion management process including market situation analysis, media selection, spending plans, copy strategy, and advertising research methods. The focus is on integrating promotion strategies with buyer needs in terms of unifying brand strategies. Other brand elements include product conceptualization, distribution strategies, and new communication technologies.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 4490 . Students cannot receive credit for both MGMT 4490 and MGMT 6540.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83150"
+  },
+  {
+    "course_id": "MGMT 6550",
+    "prefix": "MGMT",
+    "number": "6550",
+    "title": "Marketing Research",
+    "description": "Marketing strategy decisions are developed in the framework of many case studies. Marketing research techniques, including questionnaire development and data analysis, are introduced and utilized in a team project.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: MGMT 6100 or permission of instructor.",
+    "prerequisites": [
+      "MGMT 6100"
+    ],
+    "prerequisite_logic": "MGMT 6100",
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: MGMT 4470 - Students cannot receive credit for both MGMT 4470 and MGMT 6550.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83151"
+  },
+  {
+    "course_id": "MGMT 6560",
+    "prefix": "MGMT",
+    "number": "6560",
+    "title": "Introduction to Machine Learning Applications",
+    "description": "“The widespread proliferation of IT-influenced economic activity leaves behind a rich trail of micro-level data, enabling organizations to use analytics and experimentation in both strategy and operations. This course provides a hands-on introduction to the concepts, methods, and processes for machine learning from data, the foundation of artificial intelligence. Students will learn how to manipulate data and apply machine learning models to business context.” They will also learn how to obtain data and draw business inferences from data by asking the right questions and using the appropriate tools.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY Co-Listed: MGMT 4190 - Students cannot receive credit for both MGMT 4190 and MGMT 6560.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83739"
+  },
+  {
+    "course_id": "MGMT 6565",
+    "prefix": "MGMT",
+    "number": "6565",
+    "title": "Advanced AI/ML for Finance",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90382"
+  },
+  {
+    "course_id": "MGMT 6570",
+    "prefix": "MGMT",
+    "number": "6570",
+    "title": "Advanced Data Resource Management",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83678"
+  },
+  {
+    "course_id": "MGMT 6580",
+    "prefix": "MGMT",
+    "number": "6580",
+    "title": "Marketing High Technology Products",
+    "description": "This course is designed to help students develop an understanding of the strategies and practices involved in marketing technologically oriented products and services. Students will learn where these strategies differ from marketing of non-technical products/services, and appreciate how and why they vary.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83152"
+  },
+  {
+    "course_id": "MGMT 6590",
+    "prefix": "MGMT",
+    "number": "6590",
+    "title": "Commercializing Advanced Technologies",
+    "description": "This 3-credit course views potential breakthrough innovation from the perspective of the project manager, either in the firm or as a start up organization. The course offers methods and frameworks for commercializing nascent technologies that offer potentially breakthrough value to the market and, therefore, enormous reward for the firm. Additionally, legal and ethical consequences are considered.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83153"
+  },
+  {
+    "course_id": "MGMT 6600",
+    "prefix": "MGMT",
+    "number": "6600",
+    "title": "Data Analytics",
+    "description": "The world at-large is confronted with increasingly larger and complex sets of structured/unstructured information; from cyber and human sources. Traditional enterprises are moving toward analytics-driven approaches for core business functions. Data and information analytics extends analysis (descriptive models of data) by using data mining and machine learning methods, with optimization and validation, to recommend action or guide and communicate decision-making. Thus, analytics is an entire methodology rather than individual analyses or analysis steps.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "Fall term annually. When Offered: OFFERED YEARLY Cross Listed: ITWS 4600 / CSCI 4600 / BCBP 4600 / ITWS 6600 . Students can only obtain credit for one of these courses. Co-Listed: MGMT 4600",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83154"
+  },
+  {
+    "course_id": "MGMT 6610",
+    "prefix": "MGMT",
+    "number": "6610",
+    "title": "Global Strategic Management of Technological Innovation",
+    "description": "The course helps develop an understanding of and the method for managing technology as a strategic resource of the firm. In doing so, an understanding of the process, roles, and rewards of technological innovation are developed. Integrating the strategic relationship of technology with strategic planning, marketing, finance, engineering, and manufacturing are covered. Governmental, societal, and international issues are briefly covered. The course uses a variety of cases, readings, reports, and lectures.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83155"
+  },
+  {
+    "course_id": "MGMT 6620",
+    "prefix": "MGMT",
+    "number": "6620",
+    "title": "Principles of Technological Entrepreneurship",
+    "description": "An introductory graduate course in initiating new technology-based business ventures and developing them into self-sustaining and profitable enterprises. Examines the process whereby a person decides to become an entrepreneur, screens opportunities, selects an appropriate product/market target, and obtains the necessary resources. Provides the theoretical and practical knowledge for the preparation of formal business plans.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 4520 . Students cannot receive credit for both MGMT 4520 and MGMT 6620.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83156"
+  },
+  {
+    "course_id": "MGMT 6630",
+    "prefix": "MGMT",
+    "number": "6630",
+    "title": "Starting Up A New Venture",
+    "description": "An understanding of the critical issues related to starting up a new business is gained through team-based experiential learning. Small teams of students develop a comprehensive business plan that can be used to raise money for a new or relatively new venture. The experiential learning process is enhanced through team meetings with faculty and/or course advisers and through oral presentations to the entire class. A student cannot receive credit for both the graduate and undergraduate versions of this course.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 4530 . Students cannot receive credit for both MGMT 4530 and MGMT 6630.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83157"
+  },
+  {
+    "course_id": "MGMT 6640",
+    "prefix": "MGMT",
+    "number": "6640",
+    "title": "Invention, Innovation, and Entrepreneurship",
+    "description": "Creativity is the starting point for technological entrepreneurship. Through interaction with faculty and guest speakers, students increase their understanding of the creative process and some of the tools that can be implemented to stimulate and/or manage individual and collective creativity. In addition, through application of these techniques in course activities, students explore and attempt to enhance their own creativity.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: MGMT 4510 . Students cannot receive credit for both MGMT 4510 and MGMT 6640.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83158"
+  },
+  {
+    "course_id": "MGMT 6650",
+    "prefix": "MGMT",
+    "number": "6650",
+    "title": "Technology and Competitive Advantage",
+    "description": "A capstone sequence in policy and strategy aimed at developing students’ understanding of the relationship between business strategy and technology. The process of converting technological opportunity into competitive advantage is viewed from the perspective of both large, established companies and new ventures.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Course is taken towards the end of the program.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83159"
+  },
+  {
+    "course_id": "MGMT 6660",
+    "prefix": "MGMT",
+    "number": "6660",
+    "title": "Strategy, Technology, and Entrepreneurship",
+    "description": "This is part two of the two-course sequence that begins with MGMT 6650 . This course is about strategy implementation and fundamental concepts in implementing strategy both at the corporate level and the business unit level.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6650 or permission of instructor.",
+    "prerequisites": [
+      "MGMT 6650"
+    ],
+    "prerequisite_logic": "MGMT 6650",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83160"
+  },
+  {
+    "course_id": "MGMT 6670",
+    "prefix": "MGMT",
+    "number": "6670",
+    "title": "Practicum in Technological Entrepreneurship",
+    "description": "Provides students with opportunities to learn by text, discussion, and practical fieldwork, how successful new technological ventures are created, developed, and financed. Students work alone or in small teams with guidance from experienced entrepreneurs. Students wishing to take this course are required do so in their first year of study.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6620",
+    "prerequisites": [
+      "MGMT 6620"
+    ],
+    "prerequisite_logic": "MGMT 6620",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83161"
+  },
+  {
+    "course_id": "MGMT 6680",
+    "prefix": "MGMT",
+    "number": "6680",
+    "title": "Strategy, Technology, and Global Competitive Advantage",
+    "description": "This course emphasizes the linkage between technology, strategy, and achieving global competitive advantage. This course develops the concept and practical tools of strategy, strategic planning, and implementation both at the business unit and at corporate levels. The strategies of technology intensive international companies such as Intel, Microsoft, Netscape, Apple, Rhone-Poulenc, Toshiba, Xerox, MCI, ABB, and MapInfo are investigated and compared. The study of the evolution of General Electric’s strategies from 1970 to 2000 completes the course. Students work in teams to develop a five-year strategic plan for a company or business unit of their choice, with a minimum of three strategic alternatives, and recommend the chosen alternative.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83162"
+  },
+  {
+    "course_id": "MGMT 6690",
+    "prefix": "MGMT",
+    "number": "6690",
+    "title": "Negotiations",
+    "description": "This course is designed to help develop essential expertise in managing negotiations that occur in a broad array of settings. Students will learn to recognize types of negotiation, and gain proficiency in helping to shape beneficial outcomes. Students will develop negotiation skills experientially using a variety of exercises and case studies while implementing useful analytical frameworks.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 4090",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83485"
+  },
+  {
+    "course_id": "MGMT 6700",
+    "prefix": "MGMT",
+    "number": "6700",
+    "title": "Corporate Entrepreneurship",
+    "description": "Organizations that increase their capacity for entrepreneurship build a foundation for long term competitiveness. This course examines how organizations can build management systems to enable entrepreneurial activities while simultaneously addressing current operational concerns. This tension differentiates the corporate entrepreneurial challenge from the start-up venture. The course focuses on both the organizational and project levels, studying how organizations can build an entrepreneurial capacity, and how project champions can ensure their projects are effectively evaluated, supported, and managed.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 4700 .",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83163"
+  },
+  {
+    "course_id": "MGMT 6720",
+    "prefix": "MGMT",
+    "number": "6720",
+    "title": "Internet Marketing",
+    "description": "Technology is a vital link in how modern corporations identify, acquire, transact with, and keep their customers. This course provides an introduction to both the technology infrastructure most relevant to the customer relationship as well as marketing issues that result from the application of computers and communication networks. Topics include issues related to social media, search, online advertising, blogging, customer relationship management, online market segmentation, and marketing of IT products. A student cannot receive credit for both the graduate and undergraduate versions of this course.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: None",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 4450 . Students cannot receive credit for both MGMT 4450 and MGMT 6720.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83420"
+  },
+  {
+    "course_id": "MGMT 6730",
+    "prefix": "MGMT",
+    "number": "6730",
+    "title": "Technological Change and International Competitiveness",
+    "description": "Analysis of the differences among technical systems and interactions with industrial growth is undertaken with regard to nation states, industrial sectors, and companies. To develop tools of analysis regarding technological change, industrial policy, and corporate performance. The impact of technological change on industrial growth and competitiveness is viewed from three perspectives: the general manager, the technical professional, and the public official.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83164"
+  },
+  {
+    "course_id": "MGMT 6750",
+    "prefix": "MGMT",
+    "number": "6750",
+    "title": "Legal Aspects of E-Business and Information Technology",
+    "description": "Legal, regulatory, and public policy issues related to e-commerce/e-business, the Internet, and information technology are explored through an analytic, critical thinking approach. Topics include: e-contracts, digital signatures, B2B and B2C agreements; ownership, protection, and exploitation of intellectual capital including patents, trademarks, copyrights and trade secrets; regulatory issues; ISP and Web site liability including defamation; copyright infringement, securities regulation, and criminal acts; policy issues including privacy, security and encryption, and obscene materials. Global e-commerce will be explored.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83165"
+  },
+  {
+    "course_id": "MGMT 6770",
+    "prefix": "MGMT",
+    "number": "6770",
+    "title": "Commercialization of Biomedical Innovation: Entrepreneurship and Business Fundamentals",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90378"
+  },
+  {
+    "course_id": "MGMT 6775",
+    "prefix": "MGMT",
+    "number": "6775",
+    "title": "Protecting and Commercializing Your Innovation",
+    "description": "This lecture course, developed jointly between Icahn School of Medicine at Mount Sinai (ISMMS) and Rensselaer Polytechnic Institute (RPI), explores the relationship between academic research, intellectual property, and commercialization. Participants will learn about the nuances of intellectual property, with a focus on biomedical applications, and how the products of academic research and related innovations can be protected and commercialized. The course will cover experimental design, patent strategy, interaction with regulatory agencies, and the transactions related to the performance of research and commercializing an invention. Lectures will be given at both RPI and ISMMS by instructors from patent law firms, successful biotech entrepreneurs, and Mount Sinai Innovation Partners.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90379"
+  },
+  {
+    "course_id": "MGMT 6800",
+    "prefix": "MGMT",
+    "number": "6800",
+    "title": "Consumer Behavior and Product Design",
+    "description": "This course introduces the motivations and related factors that shape consumers’ purchasing decisions. Also considered is the consumer perceptual process and how it affects purchasing behavior and consumer reaction to product designs. The relationship between perception and product design is extended to topics such as design for understanding, universal product design, aesthetics, and industrial design.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY Co-Listed: MGMT 4460 . Students cannot receive credit for both MGMT 4460 and MGMT 6800.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83690"
+  },
+  {
+    "course_id": "MGMT 6810",
+    "prefix": "MGMT",
+    "number": "6810",
+    "title": "Management of Technical Projects",
+    "description": "The purpose of this course is to enable the technically oriented manager to select projects of value to the organization, develop a project plan including staffing, perform a risk analysis on the project, and successfully execute the project. Students, working alone or in teams, practice the project management process by planning a current project in the area of new product development, process reengineering, information systems, or any other project with business implementation.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83166"
+  },
+  {
+    "course_id": "MGMT 6840",
+    "prefix": "MGMT",
+    "number": "6840",
+    "title": "Practicum in Management",
+    "description": "This is an experiential, project-based course where students work on projects for an actual business. Students work in a consulting role for a local company. Practicum in Management is designed and developed for students from all educational backgrounds including analytics, who want to learn the fundamentals of business as they apply to satisfying a “customer’s need” in various real-world applications. Students will work on a team or individually on projects and communicate to the class frequently to facilitate student learning from one another. We begin with some basic tenets of business and an overview of how to develop and oversee a project plan. The course will give you first-hand experience understanding the needs of a consulting client, articulating a plan and executing the plan to fill their needs.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6580 and MGMT 7030 ; and faculty adviser approval.",
+    "prerequisites": [
+      "MGMT 6580",
+      "MGMT 7030"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MGMT 6580",
+        "MGMT 7030"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83167"
+  },
+  {
+    "course_id": "MGMT 6940",
+    "prefix": "MGMT",
+    "number": "6940",
+    "title": "Independent Study in Management",
+    "description": "Individual and collaborative projects and assignments adapted to the needs of individual students at the graduate level.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83173"
+  },
+  {
+    "course_id": "MGMT 6970",
+    "prefix": "MGMT",
+    "number": "6970",
+    "title": "Professional Project",
+    "description": "Active participation in a semester-long project, under the supervision of a faculty adviser. A Professional Project often serves as a culminating experience for a Professional Master’s program but, with departmental or school approval, can be used to fulfill other program requirements. With approval, students may register for more than one Professional Project. Professional Projects must result in documentation established by each department or school, but are not submitted to the Office of Graduate Education and are not archived in the library. Grades of A,B,C, or F are assigned by the faculty adviser at the end of the semester. If not completed on time, a formal Incomplete grade may be assigned by the faculty adviser, listing the work remaining to be completed and the time limit for completing this work.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83174"
+  },
+  {
+    "course_id": "MGMT 6980",
+    "prefix": "MGMT",
+    "number": "6980",
+    "title": "Masters Project",
+    "description": "",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=90389"
+  },
+  {
+    "course_id": "MGMT 7030",
+    "prefix": "MGMT",
+    "number": "7030",
+    "title": "Business and Corporate Strategy",
+    "description": "This course covers the fundamentals of business and corporate strategy, integrating these with the challenges of managing firms in competitive environments. The course includes the following areas of emphasis: concepts of strategy, industry environment, resources and capabilities of the firm, the principles of competitive advantage, and strategy formulation and implementation in different contexts. The course uses business cases and a project to enrich the theoretical concepts.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6040 and MGMT 7730 or permission of the instructor",
+    "prerequisites": [
+      "MGMT 6040",
+      "MGMT 7730"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MGMT 6040",
+        "MGMT 7730"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83175"
+  },
+  {
+    "course_id": "MGMT 7050",
+    "prefix": "MGMT",
+    "number": "7050",
+    "title": "Design, Manufacturing, and Marketing I",
+    "description": "This course immerses students in the practices and activities that lead to the creation of innovative new products and services. Through a team-based learning experience, students generate an idea for a new product or service and follow the development process from conception through planning for commercialization. Through lectures, cases, and practical exercises, students learn how to overcome hurdles inherent in new product and service development. Students apply this knowledge in all phases of product development, including concept testing, product design, production planning, and market strategy. The project undertaken in this course provides student teams with an opportunity to create a new venture that may then be carried forward utilizing Rensselaer’s technological resources such as the Incubator Program and Rensselaer’s Technology Park.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83176"
+  },
+  {
+    "course_id": "MGMT 7060",
+    "prefix": "MGMT",
+    "number": "7060",
+    "title": "Design, Manufacturing, and Marketing II",
+    "description": "This course immerses students in the practices and activities that lead to the creation of innovative new products and services. Through a team-based learning experience, students generate an idea for a new product or service and follow the development process from conception through planning for commercialization. Through lectures, cases, and practical exercises, students learn how to overcome hurdles inherent in new product and service development. Students apply this knowledge in all phases of product development, including concept testing, product design, production planning, and market strategy. The project undertaken in this course provides student teams with an opportunity to create a new venture that may then be carried forward utilizing Rensselaer’s technological resources such as the Incubator Program and Rensselaer’s Technology Park.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 7050 and MGMT 7740",
+    "prerequisites": [
+      "MGMT 7050",
+      "MGMT 7740"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MGMT 7050",
+        "MGMT 7740"
+      ]
+    },
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83177"
+  },
+  {
+    "course_id": "MGMT 7070",
+    "prefix": "MGMT",
+    "number": "7070",
+    "title": "Managing on the Edge: Corporate Innovation for the Coming Years",
+    "description": "This course investigates the challenges of managing and leading organizations in situations characterized by their non-linear, unpredictable nature. Students will be challenged to develop innovative responses and solutions, drawing upon the full array of knowledge, skills, and insights they have gained from their two years of MBA study. Along with learning to deal with risk and uncertainty, the soon-to-be MBA graduates will be prepared for addressing the increasing degrees of fluidity and turbulence found in today’s business, economic, and competitive environments.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6040 ; MGMT 7730 MGMT 6100 Corequisite: MGMT 6140 , MGMT 6020 , MGMT 7060 , MGMT 6060 ; or permission of the instructor.",
+    "prerequisites": [
+      "MGMT 6040",
+      "MGMT 7730",
+      "MGMT 6100",
+      "MGMT 6140",
+      "MGMT 6020",
+      "MGMT 7060",
+      "MGMT 6060"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        {
+          "type": "AND",
+          "items": [
+            "MGMT 6040",
+            "MGMT 7730",
+            "MGMT 6100"
+          ]
+        },
+        {
+          "type": "AND",
+          "items": [
+            "MGMT 6140",
+            "MGMT 6020",
+            "MGMT 7060",
+            "MGMT 6060"
+          ]
+        }
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83178"
+  },
+  {
+    "course_id": "MGMT 7120",
+    "prefix": "MGMT",
+    "number": "7120",
+    "title": "International Marketing",
+    "description": "Theoretical and practical overview of International Marketing; discussion and analysis of International Marketing issues, problems, and solutions using text, case studies, and examples. This course is designed for professionals involved in corporate strategic planning, export sales, marketing, and international management.",
+    "credit_hours": "",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83179"
+  },
+  {
+    "course_id": "MGMT 7210",
+    "prefix": "MGMT",
+    "number": "7210",
+    "title": "Acquisition and Venture Analysis",
+    "description": "Recent years have seen an accelerated commitment to growth and asset reallocation through acquisitions and corporate restructurings. Indeed the accounting profession is taking a fresh look at how these deals are accounted for in the firms’ financial statements. The rate of deals is exponential and covers the full spectrum from established industries to high technology, computer, biotechnology, and Internet firms. Topics covered in this course are reasons for acquisitions, valuing, and structuring a transaction. Determining the currency to be used, achieving strategic and organizational alignment, takeover defenses, and post-deal integration. Students study a recent transaction of their own choosing and prepare an oral and written report focusing on those aspects that made the deal successful.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6020 or permission of instructor.",
+    "prerequisites": [
+      "MGMT 6020"
+    ],
+    "prerequisite_logic": "MGMT 6020",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83180"
+  },
+  {
+    "course_id": "MGMT 7230",
+    "prefix": "MGMT",
+    "number": "7230",
+    "title": "Professional Development Workshop I",
+    "description": "This course is the first in a three part series of Professional Development Workshops that teach practical skills in laboratory settings. Over the first three semesters, the MBA cohort student will be exposed to professional skills training, distinguished speakers, and leadership development. This first part will concentrate on building writing and presentation skills, and practicing those skills in the conceptual environment of Leadership, Followership, and Membership.",
+    "credit_hours": "0",
+    "prerequisites_raw": "or Corequisite: MBA Cohort.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83181"
+  },
+  {
+    "course_id": "MGMT 7240",
+    "prefix": "MGMT",
+    "number": "7240",
+    "title": "Professional Development Workshop II",
+    "description": "This course is the second in a three-part series of Professional Development Workshops that teach practical skills in laboratory settings, in the context of Leadership, Followership, and Membership. Over the first three semesters, the MBA cohort student will be exposed to professional skills training, distinguished speakers, and critical leadership development. This second workshop will concentrate on building leadership skills through exercises, corporate site visits, and audiences with distinguished speakers.",
+    "credit_hours": "0",
+    "prerequisites_raw": "or Corequisite: MBA Cohort.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83182"
+  },
+  {
+    "course_id": "MGMT 7430",
+    "prefix": "MGMT",
+    "number": "7430",
+    "title": "Investments II",
+    "description": "Many of the tried and true investment strategies have failed of late to protect the wealth and capital of individuals and organizations. This course provides substantial background into how investment decisions are made in personal, business, and government settings, under the requirement that risk management and wealth preservation are governing factors. Short and long term investment strategies and instruments are examined, focusing on retirement and workplace benefits.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6410",
+    "prerequisites": [
+      "MGMT 6410"
+    ],
+    "prerequisite_logic": "MGMT 6410",
+    "when_offered": "SPRING TERM ANNUALLY Co-Listed: MGMT 4330 ; students cannot receive credit for both courses.",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83585"
+  },
+  {
+    "course_id": "MGMT 7500",
+    "prefix": "MGMT",
+    "number": "7500",
+    "title": "Managing Supply Networks",
+    "description": "An overview of the key concepts related to the flow of information, goods, and services, from product or service design, through production to end-use customer. Focuses on the planning, data, analysis, evaluation, and decision-making processes used to manage supply networks in order to gain competitive advantage and improve customer satisfaction. Compares and contrasts supply strategies and methods based on batch-and-queue and Lean principles and practices. Emphasis is on business-to-business relationships, the application of practices that eliminate waste, and inter-organizational capability building.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6040 and MGMT 6100 ; although not required, MGMT 6450 is highly recommeneded.",
+    "prerequisites": [
+      "MGMT 6040",
+      "MGMT 6100",
+      "MGMT 6450"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MGMT 6040",
+        "MGMT 6100",
+        "MGMT 6450"
+      ]
+    },
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83184"
+  },
+  {
+    "course_id": "MGMT 7700",
+    "prefix": "MGMT",
+    "number": "7700",
+    "title": "International Negotiations",
+    "description": "Examines international negotiation techniques, practice, and styles. Students are given an in-depth profile questionnaire to assess individual strengths and weaknesses in international negotiations. Profiles of international negotiations are examined. Negotiations and group presentations are video taped and analyzed.",
+    "credit_hours": "",
+    "prerequisites_raw": "MGMT 6390",
+    "prerequisites": [
+      "MGMT 6390"
+    ],
+    "prerequisite_logic": "MGMT 6390",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83185"
+  },
+  {
+    "course_id": "MGMT 7710",
+    "prefix": "MGMT",
+    "number": "7710",
+    "title": "Cultural Environment of International Business",
+    "description": "The emerging role of the international manager, cultural impact of international management, managing culture shock, organizational responsibilities, and cultural differences. Foreign deployment, cultural specifics for managerial effectiveness, cultural themes and patterns, American macro- and micro-cultures, working with the global market environment.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6390",
+    "prerequisites": [
+      "MGMT 6390"
+    ],
+    "prerequisite_logic": "MGMT 6390",
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83186"
+  },
+  {
+    "course_id": "MGMT 7730",
+    "prefix": "MGMT",
+    "number": "7730",
+    "title": "Economics and Institutions",
+    "description": "Main course objective is to introduce students to basic economics principles and establish economics as a managerial decision-making framework. The course will draw on economic analysis of such concepts as cost, demand, profit, competition, pricing strategy, and market protection and tie them to operational business decisions.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83187"
+  },
+  {
+    "course_id": "MGMT 7740",
+    "prefix": "MGMT",
+    "number": "7740",
+    "title": "Accounting for Reporting and Control",
+    "description": "This course introduces theories and practices of financial as well as managerial accounting. The financial accounting sessions provide an overview of external financial statements. The managerial accounting sessions focus on how accounting information is used in the internal managerial decision making process within a firm as well as cover cost accounting, budgeting, and performance evaluation tools.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83188"
+  },
+  {
+    "course_id": "MGMT 7750",
+    "prefix": "MGMT",
+    "number": "7750",
+    "title": "Global Business and Social Responsibility",
+    "description": "The course examines different responses of American, European, and Asian firms to a global economy, within an historic and evolving context. Models of economic, social, political, technological, and national development will be introduced. Various conflicting demands of national governments, interest groups, corporations, unions, NGOs and consumers are often expressed in terms of corporate, ethical, and social responsibility. Cases will be analyzed in terms of models of global business practices and conflicting claims will be critically evaluated.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83189"
+  },
+  {
+    "course_id": "MGMT 7760",
+    "prefix": "MGMT",
+    "number": "7760",
+    "title": "Risk Analytics and Management",
+    "description": "Overview of risk management, concepts and measurement of risk; types of risks (market, credit, liquidity, operational, business, strategic). Clustering, classification and optimization tools applied to risk management. Frameworks and instruments available for risk management. Specific issues related with managing specific risk types — credit, liquidity and operational risk, with emphasis on current challenges. Securitization, asset-liability management, and role of insurance for risk management.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 6520 or permission of instructor.",
+    "prerequisites": [
+      "MGMT 6520"
+    ],
+    "prerequisite_logic": "MGMT 6520",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83190"
+  },
+  {
+    "course_id": "MGMT 7770",
+    "prefix": "MGMT",
+    "number": "7770",
+    "title": "Professional Development Workshop I-M.S.",
+    "description": "The PDW sequence is designed to develop the professional skills of students in the M.S. programs that are needed to be a successful contributor in a business setting. PDW I follows a framework of Leadership, Followership, and Membership in a professional community. Students will gain practical experience through exposure to experts in specific skill areas, role play and practice sessions, and exercise completions. The fall semester concentrates on individual skills development in presentation, communication, and networking. Additionally, membership in one’s professional community will be emphasized through engagement in two activities specific to the student’s M.S. program. Building on the skills and abilities obtained earlier in your career, this PDW is geared toward a higher level of professionalism inherent in a successful business environment.",
+    "credit_hours": "0",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83687"
+  },
+  {
+    "course_id": "MGMT 7780",
+    "prefix": "MGMT",
+    "number": "7780",
+    "title": "Professional Development Workshop II-M.S.",
+    "description": "The PDW sequence is designed to develop the professional skills of students in the M.S. Programs that are needed to be a successful contributor in a business setting. The PDW II will continue to follow a framework of Leadership, Followership, and Membership in a professional community. Students will gain practical experience through exposure to experts in specific skill areas, role play and practice sessions, and exercise completions. The second semester emphasizes developing influence skills, understanding and shaping group dynamics, and navigating organizational politics. Additionally, membership in one’s professional community will be emphasized through engagement in four hours of activities specific to the student’s M.S. program.",
+    "credit_hours": "0",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83688"
+  },
+  {
+    "course_id": "MGMT 7800",
+    "prefix": "MGMT",
+    "number": "7800",
+    "title": "Research Methods in Management",
+    "description": "The objectives of this beginning doctoral course are to introduce students to social science theory development, expose students to a broad array of research techniques, and help students design research programs and write about them. The underpinnings of scientific theory are reviewed along with a range of quantitative and qualitative research methods. Drawing on their own interests, students demonstrate the application of two different research methodologies.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83170"
+  },
+  {
+    "course_id": "MGMT 7810",
+    "prefix": "MGMT",
+    "number": "7810",
+    "title": "Doctoral Research Methods II",
+    "description": "This course develops empirical tools and their applications to key areas of business analysis, including finance, human resource analysis, marketing, organizational behavior, and production appropriate theories. Empirical techniques emphasized include advanced regression and structural equations methods. Specialized statistical tools will be used.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 7800",
+    "prerequisites": [
+      "MGMT 7800"
+    ],
+    "prerequisite_logic": "MGMT 7800",
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83171"
+  },
+  {
+    "course_id": "MGMT 7820",
+    "prefix": "MGMT",
+    "number": "7820",
+    "title": "Foundations of Management Research",
+    "description": "This seminar introduces Ph.D. students to the world of research in the scholarly domains associated with Business. Philosophy of research, theory, and empirical foundations used in the research process are discussed. Students are exposed to classic scholarly papers that have influenced the field across multiple business disciplines, as well as research programs of various Lally faculty. The course also introduces students to the norms of behavior and expectations of an academic career.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83692"
+  },
+  {
+    "course_id": "MGMT 7830",
+    "prefix": "MGMT",
+    "number": "7830",
+    "title": "Doctoral Level Data Analysis",
+    "description": "The objective of this class is to develop skills necessary to understand and assess applications that use panel data techniques. Standard linear regression models are used as a benchmark. Basic knowledge of time series analysis is introduced, followed by panel data settings involving ‘fixed’ and ‘random’ effects. Recently developed GMM and instrumental variables methods are introduced and nonlinear panel data with binary outcomes is covered. Students will work through practical examples using Stata and Matlab.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 7810 ; or permission.",
+    "prerequisites": [
+      "MGMT 7810"
+    ],
+    "prerequisite_logic": "MGMT 7810",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83576"
+  },
+  {
+    "course_id": "MGMT 7840",
+    "prefix": "MGMT",
+    "number": "7840",
+    "title": "Empirical Issues in Management Research",
+    "description": "The course focuses on the empirical issues of academic research in different business disciplines. It broadly encompasses a number of key research topics emphasizing the theoretical underpinnings and the empirical frontiers. The course will concentrate on the use of statistical approaches relevant for engaging in empirical research. Overall, the course attempts to develop skills such as synthesizing research, developing research designs, building theories, and using appropriate empirical methodology and techniques.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 7810 and MGMT 7820 ; or permission of the instructor.",
+    "prerequisites": [
+      "MGMT 7810",
+      "MGMT 7820"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MGMT 7810",
+        "MGMT 7820"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83168"
+  },
+  {
+    "course_id": "MGMT 7850",
+    "prefix": "MGMT",
+    "number": "7850",
+    "title": "Management Research Workshop",
+    "description": "The course focuses primarily on empirical issues in academic research. Students will learn to use theoretical and empirical skills acquired in previous courses and seminars in developing research in general, and academic papers in particular, in their respective fields.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 7840",
+    "prerequisites": [
+      "MGMT 7840"
+    ],
+    "prerequisite_logic": "MGMT 7840",
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83169"
+  },
+  {
+    "course_id": "MGMT 7860",
+    "prefix": "MGMT",
+    "number": "7860",
+    "title": "Organizational Behavior Theory and Research Seminar",
+    "description": "This course is designed to introduce students to theories and principles in organizational behavior research. Students will investigate important theoretical perspectives, concepts, and research methods in behavioral research, with an emphasis on developing an understanding of how research in the field is conducted and how further contributions to this field might be made. Through in-depth discussions of selected research articles, students will gain some proficiency in framing meaningful research questions and deriving testable hypotheses.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Good standing as a Ph.D. student.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83487"
+  },
+  {
+    "course_id": "MGMT 7870",
+    "prefix": "MGMT",
+    "number": "7870",
+    "title": "Strategic Management Theory Seminar",
+    "description": "This is a reading course designed to introduce first-year Ph.D. students in management to the theory families and empirical research in the field of Strategic Management. Strategic Management theories draw from parent disciplines of economics, psychology, sociology, anthropology, evolutionary biology, and political science. This puts the field at the nexus of all management studies.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Doctoral student standing, Doctoral Research Methods sequence, or permission of doctoral program director.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83172"
+  },
+  {
+    "course_id": "MGMT 7880",
+    "prefix": "MGMT",
+    "number": "7880",
+    "title": "Financial Theory",
+    "description": "This is an introductory course of theoretical research in corporate finance. The course will examine the fundamentals of corporate finance theory (e.g., capital structure choice, dividend policy, etc.), as well as various tool areas (e. g, moral hazard and agency problems, and adverse selection and signaling). Knowledge of corporate finance at the MBA level, or its equivalent, is required.",
+    "credit_hours": "3",
+    "prerequisites_raw": "or Corequisite: Doctoral student standing or permission of the instructor.",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "AVAILABILITY OF INSTRUCTOR",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83143"
+  },
+  {
+    "course_id": "MGMT 7890",
+    "prefix": "MGMT",
+    "number": "7890",
+    "title": "Research Seminar in Management Information Systems",
+    "description": "This doctoral seminar examines the major streams of theory and research in information management and information systems. The course will explore the major issues, theories, and research methods in information systems, research through classic readings, information management, and reference disciplines. Key areas in information systems research will be covered, such as strategic and economic perspectives of information management, adoption and diffusion theory, information technology and organizational design, and how research methods are employed in information systems research. Students will gain an understanding of what theory is and how to develop and evaluate theory in the area of information management and information systems.",
+    "credit_hours": "3",
+    "prerequisites_raw": "MGMT 7800 and MGMT 7820",
+    "prerequisites": [
+      "MGMT 7800",
+      "MGMT 7820"
+    ],
+    "prerequisite_logic": {
+      "type": "AND",
+      "items": [
+        "MGMT 7800",
+        "MGMT 7820"
+      ]
+    },
+    "when_offered": "FALL TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83127"
+  },
+  {
+    "course_id": "MGMT 7900",
+    "prefix": "MGMT",
+    "number": "7900",
+    "title": "Seminar in Capital Markets",
+    "description": "This course focuses on empirical financial accounting research related to capital market issues. The course involves the discussion of research papers that will help Ph.D. students to understand the evolution, theoretical foundations, and research methods of the capital markets literature.",
+    "credit_hours": "3",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "SPRING TERM ANNUALLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83740"
+  },
+  {
+    "course_id": "MGMT 9990",
+    "prefix": "MGMT",
+    "number": "9990",
+    "title": "Dissertation",
+    "description": "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+    "credit_hours": "1-16",
+    "prerequisites_raw": "",
+    "prerequisites": [],
+    "prerequisite_logic": null,
+    "when_offered": "OFFERED YEARLY",
+    "catalog_url": "https://catalog.rpi.edu/preview_course_nopop.php?catoid=33&coid=83191"
+  }
+]
